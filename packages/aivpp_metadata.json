@@ -1,11 +1,11 @@
 {
   "name": "aivpp",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "AIVPP MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aivpp-0.1.13.tar.gz",
-  "download_time": "2025-09-17T09:19:50.965296",
+  "download_filename": "aivpp-0.1.14.tar.gz",
+  "download_time": "2025-09-17T13:43:37.738986",
   "package_url": "https://pypi.org/project/aivpp/"
 }

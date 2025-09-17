@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-industry-parent",
+  "version": "16.0.1.0.0.4",
+  "summary": "This module add a parent relation to the partner industry",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_industry_parent-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-17T13:43:55.188523",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-industry-parent/"
+}

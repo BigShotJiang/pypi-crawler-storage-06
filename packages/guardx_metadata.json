@@ -1,0 +1,11 @@
+{
+  "name": "guardx",
+  "version": "0.2.0",
+  "summary": "A Python library for code analysis and sandboxing",
+  "author": "IBM Research",
+  "license": null,
+  "home_page": null,
+  "download_filename": "guardx-0.2.0.tar.gz",
+  "download_time": "2025-09-17T13:43:38.290039",
+  "package_url": "https://pypi.org/project/guardx/"
+}

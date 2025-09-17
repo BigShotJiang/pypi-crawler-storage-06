@@ -1,0 +1,11 @@
+{
+  "name": "stripepy-hic",
+  "version": "1.2.0",
+  "summary": "StripePy recognizes architectural stripes in 3C and Hi-C contact maps using geometric reasoning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stripepy_hic-1.2.0.tar.gz",
+  "download_time": "2025-09-17T13:44:00.606119",
+  "package_url": "https://pypi.org/project/stripepy-hic/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "structurefinder",
-  "version": "83",
+  "version": "84",
   "summary": "Search X-ray structures on your hard drive",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structurefinder-83-py3-none-any.whl",
-  "download_time": "2025-09-17T13:16:25.634048",
+  "download_filename": "structurefinder-84-py3-none-any.whl",
+  "download_time": "2025-09-17T13:44:20.905101",
   "package_url": "https://pypi.org/project/structurefinder/"
 }

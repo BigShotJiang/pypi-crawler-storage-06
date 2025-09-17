@@ -1,0 +1,11 @@
+{
+  "name": "hexlogic",
+  "version": "1.0",
+  "summary": "HexLogic aims to be a Python package, without dependencies outside of the built-in library, providing fully-documented functions to deal with the relations between objects on a hexagon tiled grid. Including conversion from „hexagonal“ to „pixel“ coordinates and pathfinding with varying movement cost. As well as various operations like line-drawing.",
+  "author": "Maximilian Hauser",
+  "license": null,
+  "home_page": "https://github.com/MaximilianHauser/HexLogic",
+  "download_filename": "hexlogic-1.0.tar.gz",
+  "download_time": "2025-09-17T13:43:52.375140",
+  "package_url": "https://pypi.org/project/hexlogic/"
+}
