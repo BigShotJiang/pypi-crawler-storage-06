@@ -1,0 +1,11 @@
+{
+  "name": "ecowitt2aprs",
+  "version": "0.1.10",
+  "summary": "Transform Ecowitt API JSON to APRS Complete Weather Report format",
+  "author": "Chris Jewell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecowitt2aprs-0.1.10.tar.gz",
+  "download_time": "2025-09-17T17:38:48.389525",
+  "package_url": "https://pypi.org/project/ecowitt2aprs/"
+}

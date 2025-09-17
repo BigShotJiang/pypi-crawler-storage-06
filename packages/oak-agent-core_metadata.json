@@ -1,11 +1,11 @@
 {
   "name": "oak-agent-core",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "A shared Python library for an agentic tool with a modular architecture, including a RAG service and financial data models.",
   "author": "Pumulo Sikaneta",
   "license": "MIT",
   "home_page": "https://github.com/pumulo/oak-agent-core",
-  "download_filename": "oak_agent_core-0.1.14.tar.gz",
-  "download_time": "2025-09-17T16:24:02.375751",
+  "download_filename": "oak_agent_core-0.1.15.tar.gz",
+  "download_time": "2025-09-17T17:38:38.639745",
   "package_url": "https://pypi.org/project/oak-agent-core/"
 }

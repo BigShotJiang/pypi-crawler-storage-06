@@ -1,11 +1,11 @@
 {
   "name": "ff-storage",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Fenixflow storage package for database and file operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ff_storage-0.2.2.tar.gz",
-  "download_time": "2025-09-17T16:56:32.852005",
+  "download_filename": "ff_storage-0.2.3.tar.gz",
+  "download_time": "2025-09-17T17:38:54.517900",
   "package_url": "https://pypi.org/project/ff-storage/"
 }

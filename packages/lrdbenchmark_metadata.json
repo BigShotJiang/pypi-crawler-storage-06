@@ -1,11 +1,11 @@
 {
   "name": "lrdbenchmark",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "Comprehensive Long-Range Dependence Benchmarking Framework with Classical, ML, and Neural Network Estimators",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lrdbenchmark-2.1.6.tar.gz",
-  "download_time": "2025-09-17T07:17:54.131437",
+  "download_filename": "lrdbenchmark-2.1.7.tar.gz",
+  "download_time": "2025-09-17T17:38:34.831658",
   "package_url": "https://pypi.org/project/lrdbenchmark/"
 }
