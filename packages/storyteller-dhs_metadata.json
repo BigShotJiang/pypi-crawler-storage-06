@@ -1,0 +1,11 @@
+{
+  "name": "storyteller-dhs",
+  "version": "0.1.3",
+  "summary": "Storyteller-DHS: Explore and analyze DHS (Demographic and Health Surveys) datasets with an intuitive interface and CLI tools.",
+  "author": "kofiyatech",
+  "license": null,
+  "home_page": "https://github.com/kofiyatech/storyteller-DHS-database-viewer",
+  "download_filename": "storyteller_dhs-0.1.3.tar.gz",
+  "download_time": "2025-09-17T21:16:29.814195",
+  "package_url": "https://pypi.org/project/storyteller-dhs/"
+}

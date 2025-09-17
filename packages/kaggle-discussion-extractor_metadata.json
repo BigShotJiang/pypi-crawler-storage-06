@@ -1,0 +1,11 @@
+{
+  "name": "kaggle-discussion-extractor",
+  "version": "1.0.10",
+  "summary": "Professional tool for extracting Kaggle competition discussions and writeups with leaderboard integration",
+  "author": "Kaggle Discussion Extractor Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/Letemoin/kaggle-discussion-extractor",
+  "download_filename": "kaggle_discussion_extractor-1.0.10.tar.gz",
+  "download_time": "2025-09-17T21:16:41.214151",
+  "package_url": "https://pypi.org/project/kaggle-discussion-extractor/"
+}

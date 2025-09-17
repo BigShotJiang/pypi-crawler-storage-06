@@ -1,11 +1,11 @@
 {
   "name": "gommit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Generate Git commit messages using an OpenAI-compatible API",
   "author": "Mostafa Motahari",
   "license": null,
   "home_page": "https://github.com/MostafaMotahari/gommit",
-  "download_filename": "gommit-0.2.0.tar.gz",
-  "download_time": "2025-09-17T20:51:32.656980",
+  "download_filename": "gommit-0.3.0.tar.gz",
+  "download_time": "2025-09-17T21:16:35.684893",
   "package_url": "https://pypi.org/project/gommit/"
 }
