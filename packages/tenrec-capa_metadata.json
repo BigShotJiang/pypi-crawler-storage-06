@@ -1,0 +1,11 @@
+{
+  "name": "tenrec-capa",
+  "version": "0.1.0",
+  "summary": "A tenrec plugin to integrate with flare-capa.",
+  "author": "Axel Mierczuk",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tenrec_capa-0.1.0.tar.gz",
+  "download_time": "2025-09-17T01:50:30.935833",
+  "package_url": "https://pypi.org/project/tenrec-capa/"
+}

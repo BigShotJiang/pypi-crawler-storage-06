@@ -1,0 +1,11 @@
+{
+  "name": "lbt-ladybug",
+  "version": "0.27.154",
+  "summary": "Collection of several Ladybug core Python libraries",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/lbt-ladybug",
+  "download_filename": "lbt_ladybug-0.27.154.tar.gz",
+  "download_time": "2025-09-17T01:49:55.102376",
+  "package_url": "https://pypi.org/project/lbt-ladybug/"
+}

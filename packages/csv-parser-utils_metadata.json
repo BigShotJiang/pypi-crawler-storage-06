@@ -1,0 +1,11 @@
+{
+  "name": "csv-parser-utils",
+  "version": "0.0.1",
+  "summary": "Um pacote para manipular dados de arquivos CSV, usando pandas.",
+  "author": "Thiago Gallo",
+  "license": null,
+  "home_page": "https://github.com/gallothiago/csv-parser-utils",
+  "download_filename": "csv_parser_utils-0.0.1.tar.gz",
+  "download_time": "2025-09-17T01:50:01.646909",
+  "package_url": "https://pypi.org/project/csv-parser-utils/"
+}

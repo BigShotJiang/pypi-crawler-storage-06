@@ -1,0 +1,11 @@
+{
+  "name": "cell-load",
+  "version": "0.8.2",
+  "summary": "Dataloaders for training models on huge single-cell datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cell_load-0.8.2.tar.gz",
+  "download_time": "2025-09-17T01:50:20.871572",
+  "package_url": "https://pypi.org/project/cell-load/"
+}

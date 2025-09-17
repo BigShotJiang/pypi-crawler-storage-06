@@ -1,0 +1,11 @@
+{
+  "name": "dandi",
+  "version": "0.71.4",
+  "summary": "Command line client for interaction with DANDI instances",
+  "author": "DANDI developers",
+  "license": "Apache 2.0",
+  "home_page": "http://dandiarchive.org",
+  "download_filename": "dandi-0.71.4.tar.gz",
+  "download_time": "2025-09-17T01:50:05.145624",
+  "package_url": "https://pypi.org/project/dandi/"
+}
