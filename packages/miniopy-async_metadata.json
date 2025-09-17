@@ -1,0 +1,11 @@
+{
+  "name": "miniopy-async",
+  "version": "1.23.4",
+  "summary": "Asynchronous MinIO Client SDK for Python",
+  "author": "L-ING",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/hlf20010508/miniopy-async",
+  "download_filename": "miniopy_async-1.23.4.tar.gz",
+  "download_time": "2025-09-17T12:38:52.552212",
+  "package_url": "https://pypi.org/project/miniopy-async/"
+}

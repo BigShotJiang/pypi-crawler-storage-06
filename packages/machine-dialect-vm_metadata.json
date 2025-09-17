@@ -1,0 +1,11 @@
+{
+  "name": "machine-dialect-vm",
+  "version": "0.1.0a1",
+  "summary": "High-performance Rust VM for Machine Dialect™",
+  "author": "Kenny Lajara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "machine_dialect_vm-0.1.0a1-cp39-abi3-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-09-17T12:39:22.977337",
+  "package_url": "https://pypi.org/project/machine-dialect-vm/"
+}

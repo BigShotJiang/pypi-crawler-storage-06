@@ -1,0 +1,11 @@
+{
+  "name": "pyspedfiscal2",
+  "version": "0.2.10",
+  "summary": "Serializa um arquivo do tipo SPED Fiscal",
+  "author": "['Rodolfo Scarp', 'Renan Marini']",
+  "license": "MIT License",
+  "home_page": "https://github.com/Renanmarini/pyspedfiscal2",
+  "download_filename": "pyspedfiscal2-0.2.10.tar.gz",
+  "download_time": "2025-09-17T12:39:11.949737",
+  "package_url": "https://pypi.org/project/pyspedfiscal2/"
+}
