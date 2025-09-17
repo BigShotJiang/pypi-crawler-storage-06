@@ -1,11 +1,11 @@
 {
   "name": "lightdash-mcp-server",
-  "version": "1.0.22",
+  "version": "1.0.25",
   "summary": "MCP server bridge for Lightdash analytics platform",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lightdash_mcp_server-1.0.22.tar.gz",
-  "download_time": "2025-09-17T14:18:15.367927",
+  "download_filename": "lightdash_mcp_server-1.0.25.tar.gz",
+  "download_time": "2025-09-17T14:41:57.162685",
   "package_url": "https://pypi.org/project/lightdash-mcp-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nemo-evaluator-launcher",
-  "version": "0.1.0rc5",
+  "version": "0.1.0rc6",
   "summary": "NeMo Evaluator Launcher - Public API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nemo_evaluator_launcher-0.1.0rc5.tar.gz",
-  "download_time": "2025-09-17T13:44:15.786118",
+  "download_filename": "nemo_evaluator_launcher-0.1.0rc6.tar.gz",
+  "download_time": "2025-09-17T14:42:03.010565",
   "package_url": "https://pypi.org/project/nemo-evaluator-launcher/"
 }

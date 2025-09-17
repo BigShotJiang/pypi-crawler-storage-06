@@ -1,0 +1,11 @@
+{
+  "name": "safe-mol",
+  "version": "0.1.14",
+  "summary": "Implementation of the 'Gotta be SAFE: a new framework for molecular design' paper",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "safe_mol-0.1.14.tar.gz",
+  "download_time": "2025-09-17T14:42:01.171617",
+  "package_url": "https://pypi.org/project/safe-mol/"
+}

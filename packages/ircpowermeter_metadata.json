@@ -1,0 +1,11 @@
+{
+  "name": "ircpowermeter",
+  "version": "0.2.0",
+  "summary": "ImmersionRC RF Power Meter v2 (USB CDC) interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ircpowermeter-0.2.0.tar.gz",
+  "download_time": "2025-09-17T14:42:40.805061",
+  "package_url": "https://pypi.org/project/ircpowermeter/"
+}

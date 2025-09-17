@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-switchboard-somconnexio",
+  "version": "16.0.1.1.0",
+  "summary": "Switchboard technology management for Som Connexió.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_switchboard_somconnexio-16.0.1.1.0.tar.gz",
+  "download_time": "2025-09-17T14:42:21.950975",
+  "package_url": "https://pypi.org/project/odoo-addon-switchboard-somconnexio/"
+}

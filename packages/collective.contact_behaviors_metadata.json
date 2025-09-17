@@ -1,0 +1,11 @@
+{
+  "name": "collective.contact_behaviors",
+  "version": "1.0.0b5",
+  "summary": "A collection of contact information behaviors and vocabularies for Dexterity content types.",
+  "author": null,
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": null,
+  "download_filename": "collective_contact_behaviors-1.0.0b5.tar.gz",
+  "download_time": "2025-09-17T14:42:08.514372",
+  "package_url": "https://pypi.org/project/collective.contact_behaviors/"
+}

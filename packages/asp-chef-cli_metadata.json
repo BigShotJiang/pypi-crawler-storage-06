@@ -1,0 +1,11 @@
+{
+  "name": "asp-chef-cli",
+  "version": "0.4.16",
+  "summary": "A simple CLI to run ASP Chef recipes",
+  "author": "Mario Alviano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asp_chef_cli-0.4.16.tar.gz",
+  "download_time": "2025-09-17T14:42:12.439173",
+  "package_url": "https://pypi.org/project/asp-chef-cli/"
+}

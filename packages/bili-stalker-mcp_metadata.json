@@ -1,0 +1,11 @@
+{
+  "name": "bili-stalker-mcp",
+  "version": "2.2",
+  "summary": "MCP Server for getting Bilibili user video updates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bili_stalker_mcp-2.2.tar.gz",
+  "download_time": "2025-09-17T14:41:58.331663",
+  "package_url": "https://pypi.org/project/bili-stalker-mcp/"
+}

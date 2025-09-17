@@ -1,0 +1,11 @@
+{
+  "name": "tscat-gui",
+  "version": "0.6.0",
+  "summary": "Time-series catalogue - graphical user interface.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tscat_gui-0.6.0.tar.gz",
+  "download_time": "2025-09-17T14:42:36.433020",
+  "package_url": "https://pypi.org/project/tscat-gui/"
+}
