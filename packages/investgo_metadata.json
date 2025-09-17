@@ -1,0 +1,11 @@
+{
+  "name": "investgo",
+  "version": "1.0.6",
+  "summary": "A Python library for fetching financial data from Investing.com",
+  "author": "gohibiki",
+  "license": "MIT",
+  "home_page": "https://github.com/gohibiki/investgo",
+  "download_filename": "investgo-1.0.6.tar.gz",
+  "download_time": "2025-09-17T13:16:34.201091",
+  "package_url": "https://pypi.org/project/investgo/"
+}

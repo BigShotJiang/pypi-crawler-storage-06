@@ -1,11 +1,11 @@
 {
   "name": "tamil-utils",
-  "version": "0.2.1",
-  "summary": "Tiny Tamil text utilities: normalize, tokenize, stopword removal, graphemes",
+  "version": "0.3.0",
+  "summary": "Tiny Tamil text utilities: normalize, tokenize, stopwords, graphemes, n-grams, syllables, Tamil collation; dataset preprocessor; optional spaCy tokenizer hook.",
   "author": "Arulnidhi Karunanidhi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tamil_utils-0.2.1.tar.gz",
-  "download_time": "2025-09-17T08:25:10.791678",
+  "download_filename": "tamil_utils-0.3.0.tar.gz",
+  "download_time": "2025-09-17T13:16:43.573674",
   "package_url": "https://pypi.org/project/tamil-utils/"
 }

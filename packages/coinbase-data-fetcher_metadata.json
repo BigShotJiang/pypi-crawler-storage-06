@@ -1,0 +1,11 @@
+{
+  "name": "coinbase-data-fetcher",
+  "version": "0.3.0",
+  "summary": "A Python library for fetching cryptocurrency data from Coinbase",
+  "author": "TradeOptimizer Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coinbase_data_fetcher-0.3.0.tar.gz",
+  "download_time": "2025-09-17T13:16:48.780408",
+  "package_url": "https://pypi.org/project/coinbase-data-fetcher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "golden-seq-retriever",
+  "version": "3.4.4.post1",
+  "summary": "Python bindings for the golden tool",
+  "author": "Nicolas Joly, Veronique Legrand",
+  "license": null,
+  "home_page": "https://github.com/VeroniqueLegrand/golden",
+  "download_filename": "golden_seq_retriever-3.4.4.post1-cp312-cp312-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-17T13:16:17.595398",
+  "package_url": "https://pypi.org/project/golden-seq-retriever/"
+}

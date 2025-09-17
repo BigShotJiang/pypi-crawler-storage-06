@@ -1,0 +1,11 @@
+{
+  "name": "insightconnect-integrations-validators",
+  "version": "2.47.28",
+  "summary": "Validator tooling for InsightConnect integrations",
+  "author": "Rapid7 Integrations Alliance",
+  "license": "MIT",
+  "home_page": "https://github.com/rapid7/icon-integrations-validators",
+  "download_filename": "insightconnect_integrations_validators-2.47.28.tar.gz",
+  "download_time": "2025-09-17T13:16:27.336688",
+  "package_url": "https://pypi.org/project/insightconnect-integrations-validators/"
+}

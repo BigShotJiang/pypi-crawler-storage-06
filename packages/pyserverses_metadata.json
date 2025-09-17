@@ -1,0 +1,11 @@
+{
+  "name": "pyserverses",
+  "version": "0.1.0",
+  "summary": "Простая библиотека для создания серверов и клиентов",
+  "author": "kote",
+  "license": null,
+  "home_page": "https://github.com/koteey/pyserverses",
+  "download_filename": "pyserverses-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-17T13:16:24.971076",
+  "package_url": "https://pypi.org/project/pyserverses/"
+}
