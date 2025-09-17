@@ -1,11 +1,11 @@
 {
   "name": "opensi",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "summary": null,
-  "author": "Tran Tuan Kiet, Nguyen Thang Loi, Duong Tan Loc, Vo Nguyen Le Duy, PSI Contributors",
+  "author": "Tran Tuan Kiet, Nguyen Thang Loi, Duong Tan Loc, Vo Nguyen Le Duy, OpenSI Contributors",
   "license": null,
-  "home_page": "https://github.com/PythonSI/PSI",
-  "download_filename": "opensi-0.0.0.tar.gz",
-  "download_time": "2025-09-17T14:41:52.369121",
+  "home_page": "https://github.com/OpenSI/OpenSI",
+  "download_filename": "opensi-0.0.1.tar.gz",
+  "download_time": "2025-09-17T14:52:40.783463",
   "package_url": "https://pypi.org/project/opensi/"
 }

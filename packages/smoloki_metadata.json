@@ -1,0 +1,11 @@
+{
+  "name": "smoloki",
+  "version": "0.1.1",
+  "summary": "Tiny library to push logs to `Grafana Loki` in `logfmt` format.",
+  "author": "Michael Krukov",
+  "license": null,
+  "home_page": "https://github.com/michaelkryukov/smoloki",
+  "download_filename": "smoloki-0.1.1.tar.gz",
+  "download_time": "2025-09-17T14:52:34.224288",
+  "package_url": "https://pypi.org/project/smoloki/"
+}

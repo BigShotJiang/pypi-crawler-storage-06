@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T14:42:44.026961
-- **Total Packages**: 93
-- **Total Size**: 34.38 MB
+- **Download Time**: 2025-09-17T14:53:07.496236
+- **Total Packages**: 88
+- **Total Size**: 19.05 MB
 
 ## Packages List
+- primestg
+- pylerolero
+- pdf-suite
+- yeref
+- pyonir
+- kafka-mocha
+- curl-session
+- pebbling
+- authentik-client
+- imumocap
+- v440
+- snn-reservoir-py
+- spellbot
+- akari-bot-webui
+- finessensual
+- speciesnet
+- odoo-addon-stock-available-to-promise-release
+- nkululeko
+- qatarcars
+- gerrit-clone
+- neops_remote_lab
+- nemo-evaluator-launcher
+- codemie-tools
+- django-searchkit
+- balinese-nlp
+- terralab-cli
+- cybrid-api-organization-python
+- ctxkit
+- smoloki
+- cybrid-api-bank-python
+- genomehubs
+- cybrid-api-id-python
+- atriumsports-sdk
+- jarvis-ai-assistant
+- panther_analysis_tool
+- globus-compute-endpoint
+- globus-compute-sdk
+- django-bulk-triggers
+- psiutils
 - opensi
+- withworld
+- minjiang-client
+- invocation-tree
 - alibabacloud-csas20230120
 - labview-fpga-hdl-tools
 - arcae
@@ -18,16 +60,11 @@
 - primfunctions
 - bili-stalker-mcp
 - pytidycensus
-- curl-session
 - sayer
-- authentik-client
 - safe-mol
-- yeref
 - django-cfg
-- nemo-evaluator-launcher
 - fraiseql
 - odoo-addon-l10n-br-sale
-- neops_remote_lab
 - isahitlab
 - django-security
 - odoo14-addon-web-field-required-invisible-manager
@@ -57,45 +94,3 @@
 - xnum
 - abs-auth-rbac-core
 - llm-optimized-inference
-- qiskit-ibm-catalog
-- odoo-addon-switchboard-somconnexio
-- idc-index-data
-- gllm-agents-binary
-- odoo-addon-somconnexio
-- inference-sdk
-- inference-gpu
-- inference-cpu
-- inference-core
-- inference-cli
-- inference
-- odoo-addon-otrs-somconnexio
-- youtubevideosorter
-- odoo-addon-multimedia-somconnexio
-- tobiko-cloud-api-client
-- odoo-addon-crm-lead-api-somconnexio
-- tobiko-cloud-pydantic
-- tobiko-cloud-helpers
-- odoo-addon-contract-api-somconnexio
-- odoo-addon-base-rest-somconnexio
-- XuPy
-- unicodec
-- kson-lang
-- mix-python-sdk
-- django-ansible-base
-- plua
-- flyfield
-- kfst
-- tscat-gui
-- trellis-3d-python
-- alita-sdk
-- kfst-rs
-- tamil-utils
-- friTap
-- odoo-addon-auditlog
-- geomfum
-- ircpowermeter
-- tt-perf-report
-- idvpackage
-- xodex
-- yaxai
-- withworld
