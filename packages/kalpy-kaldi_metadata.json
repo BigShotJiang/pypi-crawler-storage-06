@@ -1,11 +1,11 @@
 {
   "name": "kalpy-kaldi",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Pybind11 bindings for Kaldi for use with the Montreal Forced Aligner",
   "author": "Michael McAuliffe",
   "license": null,
   "home_page": null,
-  "download_filename": "kalpy_kaldi-0.8.0.tar.gz",
-  "download_time": "2025-09-17T19:26:57.189700",
+  "download_filename": "kalpy_kaldi-0.8.1.tar.gz",
+  "download_time": "2025-09-17T19:51:12.653886",
   "package_url": "https://pypi.org/project/kalpy-kaldi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-searchable-dropdown",
+  "version": "1.0.2",
+  "summary": "Biblioteca Django para criar dropdowns pesquisáveis e customizáveis",
+  "author": "Marcio Bernardes",
+  "license": "MIT",
+  "home_page": "https://github.com/novaalvorada/django_searchable_dropdown",
+  "download_filename": "django_searchable_dropdown-1.0.2.tar.gz",
+  "download_time": "2025-09-17T19:51:12.125586",
+  "package_url": "https://pypi.org/project/django-searchable-dropdown/"
+}

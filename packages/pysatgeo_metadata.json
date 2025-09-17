@@ -1,0 +1,11 @@
+{
+  "name": "pysatgeo",
+  "version": "0.4.0",
+  "summary": "Python package for satellite processing functions for raster and also vector",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pysatgeo-0.4.0.tar.gz",
+  "download_time": "2025-09-17T19:51:14.215390",
+  "package_url": "https://pypi.org/project/pysatgeo/"
+}

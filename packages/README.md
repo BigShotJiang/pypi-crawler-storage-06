@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T19:39:56.519227
-- **Total Packages**: 70
-- **Total Size**: 10.66 MB
+- **Download Time**: 2025-09-17T19:51:40.986215
+- **Total Packages**: 79
+- **Total Size**: 22.29 MB
 
 ## Packages List
+- pulumi-awsx
+- authentik-client
+- santander-python-sdk
+- physioprep
+- degiro-connector
+- dshellInterpreter
+- idds-workflow
+- idds-website
+- idds-monitor
+- idds-server
+- idds-doma
+- idds-common
+- idds-client
+- idds-atlas
+- strands-agents-tools
+- nwb2bids
+- polars-astro
+- boto3-stubs
+- boto3-stubs-lite
+- attp_core
+- lbt-dragonfly
+- materials-science
+- ket-lang
+- d-back
+- bloqade-shuttle
+- victron-mqtt
+- pyrochain
+- django-searchable-dropdown
+- kalpy-kaldi
+- django-whatsapp-api-wrapper
+- SetupVariableTracker
+- pysatgeo
+- chisel
+- dragonfly-radiance
+- conductor-py
+- sinapsis-rfdetr
+- sinapsis-object-detection
+- streamlit-pianoroll
+- dragonfly-energy
+- taku-cli
+- bzfs
+- types-boto3
+- types-boto3-lite
+- mypy-boto3-ec2
+- mypy-boto3-pcs
+- mypy-boto3-network-firewall
+- types-boto3-ec2
+- types-boto3-pcs
+- types-boto3-network-firewall
+- pulumi
+- training-hub
+- xlfilldown
 - novadata-utils
 - metaflow
 - metaflow-stubs
@@ -16,7 +68,6 @@
 - FreeDynamics-simaf
 - awscli
 - lasso.issues
-- authentik-client
 - crackers
 - gitlab-pipeline-analyzer
 - prefect-kubernetes
@@ -34,45 +85,3 @@
 - cogwit_sdk
 - zerobuffer-ipc
 - girder-import-tracker
-- django-cfg
-- taku-cli
-- authzed
-- pythonfrost
-- dragonfly-core
-- assisted-service-client
-- mmar-mapi
-- normet
-- railtracks-cli
-- railtracks
-- auth0-python
-- lumibot
-- gh-map-pipelines
-- libPy2023
-- sqlmesh
-- gammarers.aws-daily-cost-usage-report-stack
-- ray-elasticsearch
-- cybrid-api-organization-python
-- s3-log-extraction
-- cybrid-api-id-python
-- cybrid-api-bank-python
-- labdata
-- tdp2xlsx
-- ciocore
-- git-lock-sign-jlx
-- polars-astro
-- pulumi-gcp
-- box-ai-agents-toolkit
-- gammarers.aws-rds-database-auto-running-protection-stack
-- kalpy-kaldi
-- mpi4jax
-- gammarers.aws-budgets-notification
-- besbox
-- gammarers.aws-daily-cloud-watch-logs-archive-stack
-- pycarlo
-- zengl
-- cryovit
-- llama-parse
-- llama-cloud-services
-- PySCHARE
-- leafmap
-- abogen
