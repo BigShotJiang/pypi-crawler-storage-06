@@ -1,11 +1,11 @@
 {
   "name": "dir-assistant",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Chat with your current directory's files using a local or API LLM.",
   "author": "Chase Adams",
   "license": "MIT",
   "home_page": "https://github.com/curvedinf/dir-assistant",
-  "download_filename": "dir_assistant-1.8.0.tar.gz",
-  "download_time": "2025-09-17T15:50:38.668452",
+  "download_filename": "dir_assistant-1.8.1.tar.gz",
+  "download_time": "2025-09-17T21:51:17.318890",
   "package_url": "https://pypi.org/project/dir-assistant/"
 }

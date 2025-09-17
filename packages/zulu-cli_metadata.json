@@ -1,0 +1,11 @@
+{
+  "name": "zulu-cli",
+  "version": "0.2.7",
+  "summary": "A CLI tool to help tech team to improve tasks",
+  "author": "Zulu Labs",
+  "license": null,
+  "home_page": "https://github.com/zuluapp/zulu-cli",
+  "download_filename": "zulu_cli-0.2.7.tar.gz",
+  "download_time": "2025-09-17T21:51:28.229618",
+  "package_url": "https://pypi.org/project/zulu-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tikos-utils-os",
+  "version": "0.1.1",
+  "summary": "A PyCUDA package for memory-efficient, element-wise tensor operations with unequal dimensions (multiplication, division) on the GPU using batch processing.",
+  "author": "Tikos Technologies Ltd",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/tikostech/tikos-utils-os",
+  "download_filename": "tikos_utils_os-0.1.1.tar.gz",
+  "download_time": "2025-09-17T21:51:26.145404",
+  "package_url": "https://pypi.org/project/tikos-utils-os/"
+}
