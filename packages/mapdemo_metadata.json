@@ -1,0 +1,11 @@
+{
+  "name": "mapdemo",
+  "version": "0.0.5",
+  "summary": "A python package used for web map application",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "mapdemo-0.0.5.tar.gz",
+  "download_time": "2025-09-17T11:40:19.603027",
+  "package_url": "https://pypi.org/project/mapdemo/"
+}

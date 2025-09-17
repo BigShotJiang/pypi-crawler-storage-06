@@ -1,0 +1,11 @@
+{
+  "name": "unicodec",
+  "version": "0.1.2",
+  "summary": "Library for decoding bytes content into unicode",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unicodec-0.1.2.tar.gz",
+  "download_time": "2025-09-17T11:40:12.056471",
+  "package_url": "https://pypi.org/project/unicodec/"
+}

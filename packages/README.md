@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T11:28:35.374854
-- **Total Packages**: 92
-- **Total Size**: 15.93 MB
+- **Download Time**: 2025-09-17T11:40:56.374999
+- **Total Packages**: 94
+- **Total Size**: 29.5 MB
 
 ## Packages List
+- demo-package-greeting
+- uharfbuzz
+- cmem-plugin-llm
+- ormantism
+- hv-anndata
+- authentik-client
+- dtpyfw
+- draive
+- runwayml
+- gitfind
+- distinanet
+- sbctl
+- simple-telegram-mcp
+- unicodec
+- webknossos
+- cluster_tools
+- nonebot-plugin-comment-analysis
+- tterp-cores
+- fonttools
+- seerep-grpc
+- coordinate-parser
+- edu-eldoc-registry
+- pumpe
+- mineru-vl-utils
+- cognee
+- nuki-web-api
+- mapdemo
+- wildkcat
+- torchx-nightly
+- datalineagepy
 - eodag-labextension
 - aheadworks-deploy-manager
 - aer-gel-annotate
@@ -16,7 +46,6 @@
 - uvulog
 - ethoPyRT
 - devflux-stock-mcp
-- authentik-client
 - yfinance
 - EqUMP
 - hyperspace-py
@@ -24,7 +53,6 @@
 - chain-semantic-splitter
 - rasa-pro
 - django-cfg
-- distinanet
 - locust
 - kedro-telemetry
 - evalsense
@@ -45,7 +73,6 @@
 - quantag
 - uplang
 - attp_core
-- rational-linkages
 - symetrie-hexapod
 - plato-spw
 - plato-hdf5
@@ -73,28 +100,3 @@
 - infrahub-sync
 - oarepo-model
 - ViennaLS
-- haiway
-- psiutils
-- conv-allocator
-- convbump
-- overlays
-- dls-dodal
-- imx500-converter
-- giga-spatial
-- legit-api-client
-- cursofiap-package-charleskulkauski
-- MProcs
-- singbox2proxy
-- mitogen
-- tuneapi
-- tgz-message-sdk
-- hicue
-- dapr
-- dapr-ext-workflow
-- dapr-ext-grpc
-- flask-dapr
-- dapr-ext-fastapi
-- pysaten
-- postgresql-charms-single-kernel
-- statcheck
-- rbacx

@@ -1,0 +1,11 @@
+{
+  "name": "seerep-grpc",
+  "version": "0.3.6",
+  "summary": "Package for the SEEREP gRPC API",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "seerep_grpc-0.3.6-py3-none-any.whl",
+  "download_time": "2025-09-17T11:40:15.892089",
+  "package_url": "https://pypi.org/project/seerep-grpc/"
+}

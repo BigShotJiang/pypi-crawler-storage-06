@@ -1,11 +1,11 @@
 {
   "name": "gitfind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package to find and analyze GitHub repository statistics",
-  "author": "Naman katare",
+  "author": "Naman Katare",
   "license": "MIT",
   "home_page": "https://github.com/27Naman2004/gitfind",
-  "download_filename": "gitfind-0.1.0.tar.gz",
-  "download_time": "2025-09-17T10:19:05.461463",
+  "download_filename": "gitfind-0.1.1.tar.gz",
+  "download_time": "2025-09-17T11:40:09.935349",
   "package_url": "https://pypi.org/project/gitfind/"
 }
