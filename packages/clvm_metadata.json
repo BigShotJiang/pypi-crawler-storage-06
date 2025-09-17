@@ -1,0 +1,11 @@
+{
+  "name": "clvm",
+  "version": "0.9.15",
+  "summary": "[Contract Language | Chialisp] Virtual Machine",
+  "author": "Chia Network, Inc.",
+  "license": "https://opensource.org/licenses/Apache-2.0",
+  "home_page": "https://github.com/Chia-Network/clvm",
+  "download_filename": "clvm-0.9.15.tar.gz",
+  "download_time": "2025-09-17T19:14:52.666152",
+  "package_url": "https://pypi.org/project/clvm/"
+}

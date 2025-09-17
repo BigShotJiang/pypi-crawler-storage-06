@@ -1,0 +1,11 @@
+{
+  "name": "lfdfiles",
+  "version": "2025.9.17",
+  "summary": "Laboratory for Fluorescence Dynamics (LFD) file formats",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "lfdfiles-2025.9.17.tar.gz",
+  "download_time": "2025-09-17T19:15:30.622746",
+  "package_url": "https://pypi.org/project/lfdfiles/"
+}

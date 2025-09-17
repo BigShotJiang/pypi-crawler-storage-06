@@ -1,0 +1,11 @@
+{
+  "name": "openmlcrawler",
+  "version": "1.0.0",
+  "summary": "A unified framework for crawling and preparing ML-ready datasets",
+  "author": "Krishna Bajpai, Vedanshi Gupta",
+  "license": "MIT",
+  "home_page": "https://github.com/krish567366/openmlcrawler",
+  "download_filename": "openmlcrawler-1.0.0.tar.gz",
+  "download_time": "2025-09-17T19:14:59.755027",
+  "package_url": "https://pypi.org/project/openmlcrawler/"
+}

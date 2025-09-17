@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-custom-checkbox-rpathak",
+  "version": "0.1.0",
+  "summary": "A custom checkbox component for Streamlit",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/rpathak/streamlit-custom-checkbox-rpathak",
+  "download_filename": "streamlit-custom-checkbox-rpathak-0.1.0.tar.gz",
+  "download_time": "2025-09-17T19:15:27.981412",
+  "package_url": "https://pypi.org/project/streamlit-custom-checkbox-rpathak/"
+}

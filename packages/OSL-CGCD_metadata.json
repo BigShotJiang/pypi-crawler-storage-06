@@ -1,11 +1,11 @@
 {
   "name": "OSL-CGCD",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "programa para la deconvolución de curvas OSL utilizando el método CGCD",
   "author": "EDWIN JOEL PILCO QUISPE",
   "license": null,
   "home_page": "https://pypi.org/project/OSL_CGCD/",
-  "download_filename": "osl_cgcd-0.1.4.tar.gz",
-  "download_time": "2025-09-17T04:22:16.308243",
+  "download_filename": "osl_cgcd-0.1.5.tar.gz",
+  "download_time": "2025-09-17T19:15:09.108582",
   "package_url": "https://pypi.org/project/OSL-CGCD/"
 }

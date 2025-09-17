@@ -1,0 +1,11 @@
+{
+  "name": "contxt-sdk",
+  "version": "6.8.6",
+  "summary": "Contxt SDK from ndustrial",
+  "author": "ndustrial",
+  "license": "ISC",
+  "home_page": "https://github.com/ndustrialio/contxt-sdk-python",
+  "download_filename": "contxt_sdk-6.8.6.tar.gz",
+  "download_time": "2025-09-17T19:15:11.730710",
+  "package_url": "https://pypi.org/project/contxt-sdk/"
+}

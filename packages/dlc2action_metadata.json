@@ -1,0 +1,11 @@
+{
+  "name": "dlc2action",
+  "version": "1.0",
+  "summary": "DLC2Action is a deep learning based action segmentation toolbox. It is designed to work directly on top of markerless pose estimation softwares such as DeepLabCut. It allows to train and evaluate various state-of-the-art action segmentation models on your own data.",
+  "author": "A. Mathis Lab",
+  "license": null,
+  "home_page": "https://github.com/amathislab/DLC2Action",
+  "download_filename": "dlc2action-1.0.tar.gz",
+  "download_time": "2025-09-17T19:14:50.340280",
+  "package_url": "https://pypi.org/project/dlc2action/"
+}

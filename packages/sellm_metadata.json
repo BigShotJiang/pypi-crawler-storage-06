@@ -1,0 +1,11 @@
+{
+  "name": "sellm",
+  "version": "1.0.1",
+  "summary": "LLM-powered ProServe manifest generator",
+  "author": "Tom Sapletta",
+  "license": null,
+  "home_page": "https://github.com/tom-sapletta-com/sellm",
+  "download_filename": "sellm-1.0.1.tar.gz",
+  "download_time": "2025-09-17T19:15:04.501761",
+  "package_url": "https://pypi.org/project/sellm/"
+}
