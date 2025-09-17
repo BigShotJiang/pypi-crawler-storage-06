@@ -1,0 +1,11 @@
+{
+  "name": "imglp",
+  "version": "0.1.3",
+  "summary": "A library that provides tools for image processing.",
+  "author": "LancelotPincet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imglp-0.1.3.tar.gz",
+  "download_time": "2025-09-17T10:42:18.084014",
+  "package_url": "https://pypi.org/project/imglp/"
+}

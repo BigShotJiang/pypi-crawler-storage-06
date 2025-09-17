@@ -1,0 +1,11 @@
+{
+  "name": "corelp",
+  "version": "1.0.11",
+  "summary": "A library that gathers core functions for python programming.",
+  "author": "LancelotPincet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "corelp-1.0.11.tar.gz",
+  "download_time": "2025-09-17T10:42:21.938114",
+  "package_url": "https://pypi.org/project/corelp/"
+}

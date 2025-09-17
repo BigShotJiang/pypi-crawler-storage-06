@@ -1,11 +1,11 @@
 {
   "name": "nuro",
-  "version": "0.1.14",
+  "version": "0.1.17",
   "summary": "nuro is a lightweight runner for fetching and executing PowerShell scripts from remote repositories.",
   "author": "nuro",
   "license": null,
   "home_page": null,
-  "download_filename": "nuro-0.1.14.tar.gz",
-  "download_time": "2025-09-17T10:19:06.759832",
+  "download_filename": "nuro-0.1.17.tar.gz",
+  "download_time": "2025-09-17T10:42:02.651291",
   "package_url": "https://pypi.org/project/nuro/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "logger-color",
+  "version": "0.2.0",
+  "summary": "Color the log message headers and add more logging levels for diagnostics.",
+  "author": "Vladimirs Prusakovs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vladimirs-git/logger-color",
+  "download_filename": "logger_color-0.2.0.tar.gz",
+  "download_time": "2025-09-17T10:42:19.180272",
+  "package_url": "https://pypi.org/project/logger-color/"
+}

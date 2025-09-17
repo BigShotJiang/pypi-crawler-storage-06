@@ -1,0 +1,11 @@
+{
+  "name": "simple-telegram-mcp",
+  "version": "0.1.8",
+  "summary": "The simplest MCP server for interacting with Telegram",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_telegram_mcp-0.1.8.tar.gz",
+  "download_time": "2025-09-17T10:42:04.494339",
+  "package_url": "https://pypi.org/project/simple-telegram-mcp/"
+}

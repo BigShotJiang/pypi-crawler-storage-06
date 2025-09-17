@@ -1,0 +1,11 @@
+{
+  "name": "ptiistild",
+  "version": "1.0.9",
+  "summary": "IIS Tilde Enumeration Tool",
+  "author": "Penterep",
+  "license": "GPLv3+",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptiistild-1.0.9.tar.gz",
+  "download_time": "2025-09-17T10:42:34.929572",
+  "package_url": "https://pypi.org/project/ptiistild/"
+}
