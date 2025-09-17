@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_sinopac",
+  "version": "4.0.0",
+  "summary": "Sinopac Securities - Shioaji api gateway for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_sinopac-4.0.0.tar.gz",
+  "download_time": "2025-09-17T03:28:27.611589",
+  "package_url": "https://pypi.org/project/vnpy_sinopac/"
+}

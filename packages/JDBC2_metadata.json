@@ -1,0 +1,11 @@
+{
+  "name": "JDBC2",
+  "version": "0.1.2",
+  "summary": "Minimal Python DB-API 2.0 over JDBC via JPype, with a lightweight SQLAlchemy dialect",
+  "author": "Euan D. Macinnes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jdbc2-0.1.2.tar.gz",
+  "download_time": "2025-09-17T03:28:12.200643",
+  "package_url": "https://pypi.org/project/JDBC2/"
+}

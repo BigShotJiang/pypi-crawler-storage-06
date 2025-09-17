@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-zhipu",
+  "version": "1.2.9",
+  "summary": "LiveKit Agent Plugins for Zhipu",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_zhipu-1.2.9.tar.gz",
+  "download_time": "2025-09-17T03:28:35.757786",
+  "package_url": "https://pypi.org/project/livekit-plugins-zhipu/"
+}

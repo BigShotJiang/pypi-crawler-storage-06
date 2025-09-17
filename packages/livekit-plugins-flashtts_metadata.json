@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-flashtts",
+  "version": "1.2.9",
+  "summary": "LiveKit Agent Plugins for FlashTTS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_flashtts-1.2.9.tar.gz",
+  "download_time": "2025-09-17T03:28:39.541203",
+  "package_url": "https://pypi.org/project/livekit-plugins-flashtts/"
+}

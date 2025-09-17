@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-minimax",
+  "version": "1.2.9",
+  "summary": "LiveKit Agent Plugins for Minimax(海螺AI)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_minimax-1.2.9.tar.gz",
+  "download_time": "2025-09-17T03:28:38.989079",
+  "package_url": "https://pypi.org/project/livekit-plugins-minimax/"
+}

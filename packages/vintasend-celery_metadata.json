@@ -1,0 +1,11 @@
+{
+  "name": "vintasend-celery",
+  "version": "1.0.1",
+  "summary": "Celery adapter for VintaSend",
+  "author": "Hugo bessa",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vintasend_celery-1.0.1.tar.gz",
+  "download_time": "2025-09-17T03:28:12.768725",
+  "package_url": "https://pypi.org/project/vintasend-celery/"
+}
