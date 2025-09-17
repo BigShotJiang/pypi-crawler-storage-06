@@ -1,11 +1,11 @@
 {
   "name": "mipi_datamanager",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": null,
   "author": "murphy-sean1",
   "license": null,
   "home_page": null,
-  "download_filename": "mipi_datamanager-1.4.2.tar.gz",
-  "download_time": "2025-09-17T15:20:02.635491",
+  "download_filename": "mipi_datamanager-1.4.3.tar.gz",
+  "download_time": "2025-09-17T15:40:52.782320",
   "package_url": "https://pypi.org/project/mipi_datamanager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bio-aid",
+  "version": "0.3.2",
+  "summary": "Genetic Analysis Tools",
+  "author": "tvarovski (Jerzy Twarowski)",
+  "license": null,
+  "home_page": "https://github.com/tvarovski/bio-aid",
+  "download_filename": "bio_aid-0.3.2.tar.gz",
+  "download_time": "2025-09-17T15:40:37.903312",
+  "package_url": "https://pypi.org/project/bio-aid/"
+}

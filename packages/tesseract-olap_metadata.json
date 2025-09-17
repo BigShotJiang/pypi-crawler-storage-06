@@ -1,0 +1,11 @@
+{
+  "name": "tesseract-olap",
+  "version": "0.22.3",
+  "summary": "A semantic layer for your data.",
+  "author": "Francisco Abarzua",
+  "license": "Proprietary",
+  "home_page": "https://github.com/Datawheel/tesseract-olap",
+  "download_filename": "tesseract_olap-0.22.3.tar.gz",
+  "download_time": "2025-09-17T15:40:10.860023",
+  "package_url": "https://pypi.org/project/tesseract-olap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ctreepo",
+  "version": "0.3.31",
+  "summary": "CTreePO - configuration tree patch overview - Parsing, filtering and diff calculation for network device configurations",
+  "author": "Alexander Ignatov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctreepo-0.3.31.tar.gz",
+  "download_time": "2025-09-17T15:40:36.327384",
+  "package_url": "https://pypi.org/project/ctreepo/"
+}

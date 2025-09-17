@@ -1,0 +1,11 @@
+{
+  "name": "chimera-gw",
+  "version": "2.0.0",
+  "summary": "Combined Hierarchical Inference Model for Electromagnetic and gRavitational-wave Analysis",
+  "author": "Nicola Borghi",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/CosmoStatGW/CHIMERA",
+  "download_filename": "chimera_gw-2.0.0.tar.gz",
+  "download_time": "2025-09-17T15:40:20.121713",
+  "package_url": "https://pypi.org/project/chimera-gw/"
+}
