@@ -1,0 +1,11 @@
+{
+  "name": "stripe",
+  "version": "12.5.1",
+  "summary": "Python bindings for the Stripe API",
+  "author": "Stripe",
+  "license": "MIT",
+  "home_page": "https://github.com/stripe/stripe-python",
+  "download_filename": "stripe-12.5.1.tar.gz",
+  "download_time": "2025-09-17T18:48:26.252866",
+  "package_url": "https://pypi.org/project/stripe/"
+}

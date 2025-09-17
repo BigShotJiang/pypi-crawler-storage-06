@@ -1,0 +1,11 @@
+{
+  "name": "hmd-cli-transform-deploy",
+  "version": "0.1.80",
+  "summary": "Command for deploying transforms",
+  "author": "Kate Walls",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "hmd_cli_transform_deploy-0.1.80-py3-none-any.whl",
+  "download_time": "2025-09-17T18:48:13.341643",
+  "package_url": "https://pypi.org/project/hmd-cli-transform-deploy/"
+}

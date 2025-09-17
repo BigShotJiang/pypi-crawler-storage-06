@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mock-resources",
+  "version": "2.12.4",
+  "summary": "A pytest plugin for easily instantiating reproducible mock resources.",
+  "author": "Omar Khan",
+  "license": "MIT",
+  "home_page": "https://github.com/schireson/pytest-mock-resources",
+  "download_filename": "pytest_mock_resources-2.12.4.tar.gz",
+  "download_time": "2025-09-17T18:48:27.819184",
+  "package_url": "https://pypi.org/project/pytest-mock-resources/"
+}

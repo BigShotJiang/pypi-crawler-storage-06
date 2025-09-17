@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-qward",
+  "version": "0.15.1",
+  "summary": "A framework for analyzing and validating quantum code execution quality on quantum processing units (QPUs)",
+  "author": "Thecap",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/xthecapx/qiskit-qward",
+  "download_filename": "qiskit_qward-0.15.1.tar.gz",
+  "download_time": "2025-09-17T18:48:21.304209",
+  "package_url": "https://pypi.org/project/qiskit-qward/"
+}
