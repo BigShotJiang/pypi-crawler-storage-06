@@ -1,0 +1,11 @@
+{
+  "name": "nlpfileio",
+  "version": "0.1.1",
+  "summary": "An open-source Python library for CLI and NLP tasks",
+  "author": "Fatemeh Ahmadzadeh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlpfileio-0.1.1.tar.gz",
+  "download_time": "2025-09-17T08:25:09.236452",
+  "package_url": "https://pypi.org/project/nlpfileio/"
+}

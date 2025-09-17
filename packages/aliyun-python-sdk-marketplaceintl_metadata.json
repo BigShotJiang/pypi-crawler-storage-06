@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-marketplaceintl",
+  "version": "1.0.0",
+  "summary": "The marketplaceintl module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-marketplaceintl-1.0.0.tar.gz",
+  "download_time": "2025-09-17T08:25:02.956425",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-marketplaceintl/"
+}

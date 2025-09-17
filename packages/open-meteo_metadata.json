@@ -1,0 +1,11 @@
+{
+  "name": "open-meteo",
+  "version": "0.4.0",
+  "summary": "Asynchronous client for the Open-Meteo API.",
+  "author": "Franck Nijhof",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_meteo-0.4.0.tar.gz",
+  "download_time": "2025-09-17T08:25:05.560118",
+  "package_url": "https://pypi.org/project/open-meteo/"
+}

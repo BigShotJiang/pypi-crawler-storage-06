@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-mistralai",
+  "version": "0.47.2",
+  "summary": "OpenTelemetry Mistral AI instrumentation",
+  "author": "Gal Kleinman",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_mistralai-0.47.2.tar.gz",
+  "download_time": "2025-09-17T08:25:31.235126",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-mistralai/"
+}

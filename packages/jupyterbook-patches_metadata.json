@@ -1,0 +1,11 @@
+{
+  "name": "jupyterbook-patches",
+  "version": "1.8.1",
+  "summary": "A collection of useful Jupyter Book patches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyterbook_patches-1.8.1.tar.gz",
+  "download_time": "2025-09-17T08:25:22.375144",
+  "package_url": "https://pypi.org/project/jupyterbook-patches/"
+}

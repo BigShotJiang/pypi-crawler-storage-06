@@ -1,0 +1,11 @@
+{
+  "name": "minrpc",
+  "version": "0.2.0",
+  "summary": "Minimalistic RPC utility (DO NOT USE!)",
+  "author": "Thomas Gläßle",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/hibtc/minrpc",
+  "download_filename": "minrpc-0.2.0.tar.gz",
+  "download_time": "2025-09-17T08:25:23.938988",
+  "package_url": "https://pypi.org/project/minrpc/"
+}
