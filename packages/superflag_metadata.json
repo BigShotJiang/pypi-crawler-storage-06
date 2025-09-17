@@ -1,11 +1,11 @@
 {
   "name": "superflag",
-  "version": "3.0.2",
+  "version": "3.0.21",
   "summary": "MCP-based contextual flag system for AI assistants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superflag-3.0.2.tar.gz",
-  "download_time": "2025-09-17T03:28:17.217888",
+  "download_filename": "superflag-3.0.21.tar.gz",
+  "download_time": "2025-09-17T03:47:22.070636",
   "package_url": "https://pypi.org/project/superflag/"
 }

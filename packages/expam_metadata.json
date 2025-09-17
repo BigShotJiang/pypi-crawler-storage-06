@@ -1,0 +1,11 @@
+{
+  "name": "expam",
+  "version": "1.4.0.7",
+  "summary": "Metagenomic profiling using a reference phylogeny",
+  "author": "Sean Solari",
+  "license": null,
+  "home_page": "https://github.com/seansolari/expam",
+  "download_filename": "expam-1.4.0.7.tar.gz",
+  "download_time": "2025-09-17T03:47:00.740145",
+  "package_url": "https://pypi.org/project/expam/"
+}

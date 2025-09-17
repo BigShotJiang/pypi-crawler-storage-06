@@ -1,11 +1,11 @@
 {
   "name": "colocal",
-  "version": "2025.9.17.132",
+  "version": "2025.9.17.339",
   "summary": "Harmonises Jupyter and Colab notebook environments for consistent paths, imports, and working directories",
   "author": "project-ida",
   "license": "MIT",
   "home_page": "https://github.com/project-ida/colocal",
-  "download_filename": "colocal-2025.9.17.132.tar.gz",
-  "download_time": "2025-09-17T01:50:16.591825",
+  "download_filename": "colocal-2025.9.17.339.tar.gz",
+  "download_time": "2025-09-17T03:46:58.272711",
   "package_url": "https://pypi.org/project/colocal/"
 }

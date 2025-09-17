@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-oca-rma",
+  "version": "16.0.20250916.0",
+  "summary": "Meta package for oca-rma Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_oca_rma-16.0.20250916.0-py3-none-any.whl",
+  "download_time": "2025-09-17T03:46:56.967314",
+  "package_url": "https://pypi.org/project/odoo-addons-oca-rma/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-connector-typesense",
+  "version": "16.0.1.0.0.5",
+  "summary": "Connector For Typesense Search Engine",
+  "author": "Derico, Kencove, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/search-engine",
+  "download_filename": "odoo_addon_connector_typesense-16.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-17T03:46:49.638850",
+  "package_url": "https://pypi.org/project/odoo-addon-connector-typesense/"
+}

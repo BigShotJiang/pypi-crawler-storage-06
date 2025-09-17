@@ -1,0 +1,11 @@
+{
+  "name": "lark-helper",
+  "version": "0.1.0.dev17",
+  "summary": "A Python library for interacting with Lark APIs, providing both synchronous and asynchronous interfaces",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lark_helper-0.1.0.dev17.tar.gz",
+  "download_time": "2025-09-17T03:47:12.410305",
+  "package_url": "https://pypi.org/project/lark-helper/"
+}
