@@ -1,11 +1,11 @@
 {
   "name": "tensorchat-streaming",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Framework-agnostic Python client for Tensorchat.io streaming API",
   "author": "Tensorchat.io",
   "license": null,
   "home_page": "https://github.com/datacorridor/tensorchat-streaming",
-  "download_filename": "tensorchat_streaming-1.0.2.tar.gz",
-  "download_time": "2025-09-17T17:38:35.918930",
+  "download_filename": "tensorchat_streaming-1.0.4.tar.gz",
+  "download_time": "2025-09-17T17:51:19.153633",
   "package_url": "https://pypi.org/project/tensorchat-streaming/"
 }

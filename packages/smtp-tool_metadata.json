@@ -1,0 +1,11 @@
+{
+  "name": "smtp-tool",
+  "version": "0.2.0",
+  "summary": "Simple SMTP email sending utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smtp_tool-0.2.0.tar.gz",
+  "download_time": "2025-09-17T17:51:30.172559",
+  "package_url": "https://pypi.org/project/smtp-tool/"
+}

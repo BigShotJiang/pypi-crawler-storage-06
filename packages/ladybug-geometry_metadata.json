@@ -1,0 +1,11 @@
+{
+  "name": "ladybug-geometry",
+  "version": "1.34.12",
+  "summary": "Library housing basic geometry objects and computation methods needed for the Ladybug Tools core libraries.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/ladybug-geometry",
+  "download_filename": "ladybug_geometry-1.34.12.tar.gz",
+  "download_time": "2025-09-17T17:51:24.164060",
+  "package_url": "https://pypi.org/project/ladybug-geometry/"
+}
