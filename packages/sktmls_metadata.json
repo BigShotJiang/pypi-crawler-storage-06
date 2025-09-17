@@ -1,11 +1,11 @@
 {
   "name": "sktmls",
-  "version": "2025.9.16",
+  "version": "2025.9.16.2",
   "summary": "MLS SDK",
   "author": "SKTMLS",
   "license": null,
   "home_page": "https://github.com/sktaiflow/mls-sdk",
-  "download_filename": "sktmls-2025.9.16.tar.gz",
-  "download_time": "2025-09-17T01:50:25.640318",
+  "download_filename": "sktmls-2025.9.16.2.tar.gz",
+  "download_time": "2025-09-17T07:18:28.882358",
   "package_url": "https://pypi.org/project/sktmls/"
 }

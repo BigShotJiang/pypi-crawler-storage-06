@@ -1,0 +1,11 @@
+{
+  "name": "penelope-crypto-tools",
+  "version": "0.1.0",
+  "summary": "Package of tools used by Penelope services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "penelope_crypto_tools-0.1.0.tar.gz",
+  "download_time": "2025-09-17T07:18:13.794340",
+  "package_url": "https://pypi.org/project/penelope-crypto-tools/"
+}

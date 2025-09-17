@@ -1,0 +1,11 @@
+{
+  "name": "oasis-sdk",
+  "version": "0.1.2",
+  "summary": "Oasis LLM Proxy Client",
+  "author": "신강식 / AI솔루션팀",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oasis_sdk-0.1.2.tar.gz",
+  "download_time": "2025-09-17T07:18:11.207044",
+  "package_url": "https://pypi.org/project/oasis-sdk/"
+}

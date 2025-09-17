@@ -1,11 +1,11 @@
 {
   "name": "datalineagepy",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "Enterprise-grade Python data lineage tracking library with automatic pandas integration, perfect memory optimization, and comprehensive visualization capabilities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datalineagepy-3.0.1.tar.gz",
-  "download_time": "2025-09-17T05:18:02.604873",
+  "download_filename": "datalineagepy-3.0.2.tar.gz",
+  "download_time": "2025-09-17T07:18:25.759324",
   "package_url": "https://pypi.org/project/datalineagepy/"
 }

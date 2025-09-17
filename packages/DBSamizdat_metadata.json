@@ -1,0 +1,11 @@
+{
+  "name": "DBSamizdat",
+  "version": "0.11.0",
+  "summary": "dbsamizdat — the blissfully naive PostgreSQL database object manager",
+  "author": "nullenenenen",
+  "license": "GPL-3.0+",
+  "home_page": "https://sr.ht/~nullenenenen/DBSamizdat/",
+  "download_filename": "dbsamizdat-0.11.0.tar.gz",
+  "download_time": "2025-09-17T07:18:08.086643",
+  "package_url": "https://pypi.org/project/DBSamizdat/"
+}

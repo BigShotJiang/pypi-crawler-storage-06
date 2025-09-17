@@ -1,0 +1,11 @@
+{
+  "name": "gerermesaffaires-events",
+  "version": "1.0.1",
+  "summary": "Pythonic adapter for GererMesAffaires events",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gerermesaffaires_events-1.0.1.tar.gz",
+  "download_time": "2025-09-17T07:18:30.481935",
+  "package_url": "https://pypi.org/project/gerermesaffaires-events/"
+}

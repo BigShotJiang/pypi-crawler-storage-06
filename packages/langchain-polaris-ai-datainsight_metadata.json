@@ -1,11 +1,11 @@
 {
   "name": "langchain-polaris-ai-datainsight",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "An integration package connecting PODataInsight and LangChain",
   "author": "Polaris Office",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_polaris_ai_datainsight-0.0.4.tar.gz",
-  "download_time": "2025-09-17T04:53:04.522743",
+  "download_filename": "langchain_polaris_ai_datainsight-0.0.7.tar.gz",
+  "download_time": "2025-09-17T07:17:55.698891",
   "package_url": "https://pypi.org/project/langchain-polaris-ai-datainsight/"
 }

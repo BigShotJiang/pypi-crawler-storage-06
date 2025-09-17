@@ -1,0 +1,11 @@
+{
+  "name": "ini-parser",
+  "version": "2.0.0",
+  "summary": "An ini parser/serializer in Python",
+  "author": "Avrumy Lunger",
+  "license": "MIT",
+  "home_page": "https://github.com/vrumger/ini-parser",
+  "download_filename": "ini_parser-2.0.0.tar.gz",
+  "download_time": "2025-09-17T07:17:52.022415",
+  "package_url": "https://pypi.org/project/ini-parser/"
+}

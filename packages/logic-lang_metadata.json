@@ -1,0 +1,11 @@
+{
+  "name": "logic-lang",
+  "version": "0.2.5",
+  "summary": "A domain-specific language for defining soft logic constraints in medical/general domains",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logic_lang-0.2.5.tar.gz",
+  "download_time": "2025-09-17T07:18:14.312959",
+  "package_url": "https://pypi.org/project/logic-lang/"
+}

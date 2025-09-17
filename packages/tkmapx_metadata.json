@@ -1,11 +1,11 @@
 {
   "name": "tkmapx",
-  "version": "1.0.2",
-  "summary": "A Tkinter-based Python package for creating and visualizing simple maps with nodes and paths.",
+  "version": "1.0.4",
+  "summary": "A Tkinter-based Python package for creating and visualizing simple maps with nodes and paths. (1.0.3 has other bug fixes, download this version.)",
   "author": "Nebula Company",
   "license": null,
   "home_page": "https://github.com/Krishna-Developer5000/tkmap",
-  "download_filename": "tkmapx-1.0.2.tar.gz",
-  "download_time": "2025-09-17T06:50:18.432756",
+  "download_filename": "tkmapx-1.0.4.tar.gz",
+  "download_time": "2025-09-17T07:18:03.840187",
   "package_url": "https://pypi.org/project/tkmapx/"
 }

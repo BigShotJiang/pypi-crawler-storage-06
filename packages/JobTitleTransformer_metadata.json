@@ -1,0 +1,11 @@
+{
+  "name": "JobTitleTransformer",
+  "version": "0.1.16",
+  "summary": "A healthcare-focused job title transformation pipeline.",
+  "author": "Prasanna UTHAMARAJ",
+  "license": "MIT",
+  "home_page": "https://github.com/PrasannaDataBus/JobTitleTransformer",
+  "download_filename": "JobTitleTransformer-0.1.16.tar.gz",
+  "download_time": "2025-09-17T07:17:52.554935",
+  "package_url": "https://pypi.org/project/JobTitleTransformer/"
+}
