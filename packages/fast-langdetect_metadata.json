@@ -1,0 +1,11 @@
+{
+  "name": "fast-langdetect",
+  "version": "1.0.0",
+  "summary": "Quickly detect text language and segment language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_langdetect-1.0.0.tar.gz",
+  "download_time": "2025-09-17T06:50:22.547652",
+  "package_url": "https://pypi.org/project/fast-langdetect/"
+}

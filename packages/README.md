@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T06:29:27.842772
-- **Total Packages**: 91
-- **Total Size**: 85.52 MB
+- **Download Time**: 2025-09-17T06:50:50.708875
+- **Total Packages**: 86
+- **Total Size**: 28.47 MB
 
 ## Packages List
+- gdcmd
+- typstpy
+- neurons.me
+- jupyter-openwebui
+- nuro
+- apikeyrotator
+- exceptionlib
+- devstack-cli
+- authentik-client
+- dialectical-framework
+- enterprise-models
+- scanc
+- cobalt-sdk
+- mcp-openstack-ops
+- geneinfo
+- TSMasterAPI
+- DataRestriction
+- youtube-colab-proxy
+- camel-ai
+- tencent-wedata-feature-engineering
+- common-packages
+- dde-agent-lib
+- david-aws-util
+- django-ows-lib
+- es-viewer
+- tkmapx
+- fastcodedog
+- fast-backend-builder
+- dcore
+- qwen3-asr-toolkit
+- colab-grading-client
+- pyCGNS
+- lazysdk
+- fast-langdetect
+- PalindromeCheckerLib
+- risk-custom-secrets-provider
+- craterpy
+- rain-ai
+- xmltodict
+- openfund-core
+- cheb3
+- aerospot-autoreport
+- pyhw
+- siemens-plc
+- otobo
+- git-withme
 - hestia-earth-models
 - rgb-framework
 - fractal-server
@@ -18,10 +64,8 @@
 - luminare
 - radicalpy
 - drsai-ui
-- nuro
 - secops-soar-mcp
 - tamil-utils
-- es-viewer
 - easy_whitelist
 - MeUtils
 - pytest-argus-reporter
@@ -38,7 +82,6 @@
 - better-jupyter-mcp-server
 - cdk8s-awscdk-resolver
 - wingman-run
-- lazysdk
 - iflow-mcp_fastmcp-data-analysis-server
 - pyspecan
 - easysam
@@ -49,51 +92,3 @@
 - passagemath-sws2rst
 - passagemath-standard
 - passagemath-setup
-- passagemath-repl
-- passagemath-pari-seadata-small
-- passagemath-pari-seadata-big
-- passagemath-pari-seadata
-- passagemath-pari-nftables
-- passagemath-pari-nflistdata
-- passagemath-pari-galpol
-- passagemath-pari-galdata
-- passagemath-pari-elldata
-- mlflow-tracing
-- tkmapx
-- gdsfactory
-- authentik-client
-- anki-release
-- aqt
-- anki
-- mlflow-skinny
-- sbt-zapp
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- jupyterlab-cell-diff
-- feldera
-- apengs-dash-components
-- territories-dashboard-lib
-- test-rest-api
-- pyg-nightly
-- pyagenity
-- qpay-client
-- alibabacloud-cas20200630
-- systems-manager
-- find-asteroids
-- mscp
-- jaf-py
-- atlan-application-sdk
-- bauplan
-- coop
-- apis-core-rdf
-- clappia-api-tools
-- datajunction
-- openmetadata-managed-apis
-- phi-finder
-- datajunction-server
-- mochi-coco
-- ncbi-cdonel
-- passagemath-topcom
-- oca-port
-- passagemath-tdlib

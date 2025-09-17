@@ -1,0 +1,11 @@
+{
+  "name": "PalindromeCheckerLib",
+  "version": "0.1.0",
+  "summary": "Check if text is a palindrome",
+  "author": "Ali Alsheikh",
+  "license": "```text\r\n        MIT License\r\n        \r\n        Copyright (c) 2025 Ali Alsheikh.\r\n        حقوق النشر (c) 2025 Ali Alsheikh.\r\n        ",
+  "home_page": null,
+  "download_filename": "palindromecheckerlib-0.1.0.tar.gz",
+  "download_time": "2025-09-17T06:50:23.058289",
+  "package_url": "https://pypi.org/project/PalindromeCheckerLib/"
+}
