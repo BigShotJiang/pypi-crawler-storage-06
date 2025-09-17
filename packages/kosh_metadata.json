@@ -1,0 +1,11 @@
+{
+  "name": "kosh",
+  "version": "3.3.0",
+  "summary": "Manages Data Store with External Bulk Data",
+  "author": "Charles Doutriaux, Renee Olson",
+  "license": "MIT",
+  "home_page": "https://github.com/LLNL/Kosh",
+  "download_filename": "kosh-3.3.0.tar.gz",
+  "download_time": "2025-09-17T16:45:47.877679",
+  "package_url": "https://pypi.org/project/kosh/"
+}

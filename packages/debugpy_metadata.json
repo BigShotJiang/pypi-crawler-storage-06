@@ -1,0 +1,11 @@
+{
+  "name": "debugpy",
+  "version": "1.8.17",
+  "summary": "An implementation of the Debug Adapter Protocol for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://aka.ms/debugpy",
+  "download_filename": "debugpy-1.8.17.tar.gz",
+  "download_time": "2025-09-17T16:45:44.154364",
+  "package_url": "https://pypi.org/project/debugpy/"
+}

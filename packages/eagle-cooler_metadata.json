@@ -1,0 +1,11 @@
+{
+  "name": "eagle-cooler",
+  "version": "0.1.1",
+  "summary": "Python library for bridging Eagle js environment",
+  "author": "ZackaryW",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eagle_cooler-0.1.1.tar.gz",
+  "download_time": "2025-09-17T16:45:38.476271",
+  "package_url": "https://pypi.org/project/eagle-cooler/"
+}

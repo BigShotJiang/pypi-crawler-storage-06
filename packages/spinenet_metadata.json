@@ -1,0 +1,11 @@
+{
+  "name": "spinenet",
+  "version": "2.0.3",
+  "summary": "Automated software for analysing clinical spinal MRI scans.",
+  "author": "Rhydian Windsor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spinenet-2.0.3.tar.gz",
+  "download_time": "2025-09-17T16:45:39.332248",
+  "package_url": "https://pypi.org/project/spinenet/"
+}

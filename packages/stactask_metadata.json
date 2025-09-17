@@ -1,0 +1,11 @@
+{
+  "name": "stactask",
+  "version": "0.7.0",
+  "summary": "Class interface for running custom algorithms and workflows on STAC Items",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stactask-0.7.0.tar.gz",
+  "download_time": "2025-09-17T16:45:57.874839",
+  "package_url": "https://pypi.org/project/stactask/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "easyclone",
+  "version": "1.0.0",
+  "summary": "Very convenient Rclone bulk backup wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyclone-1.0.0.tar.gz",
+  "download_time": "2025-09-17T16:45:40.930159",
+  "package_url": "https://pypi.org/project/easyclone/"
+}

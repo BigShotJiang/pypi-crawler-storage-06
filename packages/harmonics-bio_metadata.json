@@ -1,11 +1,11 @@
 {
   "name": "harmonics-bio",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Hierarchical distribution matching enables comprehensive characterization of common and condition-specific cell niches in spatial omics data",
   "author": "Yuyao Liu",
   "license": null,
   "home_page": "https://github.com/YangLabHKUST/Harmonics",
-  "download_filename": "harmonics-bio-0.0.1.tar.gz",
-  "download_time": "2025-09-17T16:24:20.675641",
+  "download_filename": "harmonics-bio-0.0.3.tar.gz",
+  "download_time": "2025-09-17T16:45:47.350624",
   "package_url": "https://pypi.org/project/harmonics-bio/"
 }
