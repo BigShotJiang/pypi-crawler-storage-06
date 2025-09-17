@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T19:15:36.482320
-- **Total Packages**: 87
-- **Total Size**: 39.11 MB
+- **Download Time**: 2025-09-17T19:27:37.759603
+- **Total Packages**: 89
+- **Total Size**: 43.78 MB
 
 ## Packages List
+- gh-map-pipelines
+- libPy2023
+- sqlmesh
+- gammarers.aws-daily-cost-usage-report-stack
+- ray-elasticsearch
+- cybrid-api-organization-python
+- s3-log-extraction
+- cybrid-api-id-python
+- rag-techlib
+- authentik-client
+- cybrid-api-bank-python
+- labdata
+- tdp2xlsx
+- ciocore
+- git-lock-sign-jlx
+- polars-astro
+- pulumi-gcp
+- box-ai-agents-toolkit
+- gammarers.aws-rds-database-auto-running-protection-stack
+- kalpy-kaldi
+- mpi4jax
+- gammarers.aws-budgets-notification
+- besbox
+- gammarers.aws-daily-cloud-watch-logs-archive-stack
+- pycarlo
+- pythonfrost
+- zengl
+- cryovit
+- llama-parse
+- llama-cloud-services
+- PySCHARE
+- leafmap
+- abogen
+- crossmark-jotform-api
+- ragas-examples
+- wodcraft
+- ragas
+- ascend-sdk
+- PyOPIA
 - strands-agents
 - Cambiato
 - pyharp
@@ -28,13 +67,11 @@
 - unique_stock_ticker
 - dsbin
 - fluidattacks-core
-- authentik-client
 - deployml-core
 - pypomes-db
 - tinfoil
 - polars-genson
 - mas-cli
-- pythonfrost
 - openmlcrawler
 - aiosend
 - unique_follow_up_questions
@@ -44,7 +81,6 @@
 - mm-test-adapters
 - sellm
 - KUtil-jakubaugustyn
-- tronkeeppy
 - smdata
 - duckflow
 - ethyca-fides
@@ -59,37 +95,3 @@
 - wdb-utils
 - pulumi-provider-boilerplate
 - datacontract-helper
-- starflow-py
-- scythe-ttp
-- arize-phoenix-evals
-- safelz4
-- pulse-framework
-- cvtkit
-- v440
-- modal
-- lasso.releasers
-- py-eol
-- AH-Translit-Bench
-- flyteplugins-spark
-- flyteplugins-ray
-- flyteplugins-openai
-- flyteplugins-dask
-- flyte
-- stellarmesh
-- yaspin
-- q2report
-- ptinsearcher
-- streamlit-custom-checkbox-rpathak
-- pulumi-xyz
-- dibisoplot
-- tuxparse
-- lfdfiles
-- atprun
-- gtars
-- masha
-- qumulo-api
-- EasyLoggerAJM
-- scrapery
-- zerobuffer-ipc
-- solveig
-- primitive

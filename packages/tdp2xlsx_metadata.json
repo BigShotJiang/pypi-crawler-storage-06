@@ -1,0 +1,11 @@
+{
+  "name": "tdp2xlsx",
+  "version": "0.1.0",
+  "summary": "A template Python module",
+  "author": "Ciencia de Datos • GECI",
+  "license": null,
+  "home_page": "https://github.com/IslasGECI/tdp2xlsx",
+  "download_filename": "tdp2xlsx-0.1.0.tar.gz",
+  "download_time": "2025-09-17T19:26:50.660604",
+  "package_url": "https://pypi.org/project/tdp2xlsx/"
+}

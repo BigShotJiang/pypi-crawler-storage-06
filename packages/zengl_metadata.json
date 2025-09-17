@@ -1,0 +1,11 @@
+{
+  "name": "zengl",
+  "version": "2.7.2",
+  "summary": "OpenGL Pipelines for Python",
+  "author": "Szabolcs Dombi",
+  "license": "MIT",
+  "home_page": "https://github.com/szabolcsdombi/zengl/",
+  "download_filename": "zengl-2.7.2.tar.gz",
+  "download_time": "2025-09-17T19:27:01.757535",
+  "package_url": "https://pypi.org/project/zengl/"
+}
