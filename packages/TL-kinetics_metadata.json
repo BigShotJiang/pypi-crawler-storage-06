@@ -1,0 +1,11 @@
+{
+  "name": "TL-kinetics",
+  "version": "0.0.1",
+  "summary": "Python tools for simulation of Thermoluminescence (TL) glow curves",
+  "author": "Jorge Eduardo Tenopala Peralta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tl_kinetics-0.0.1.tar.gz",
+  "download_time": "2025-09-17T05:50:33.975955",
+  "package_url": "https://pypi.org/project/TL-kinetics/"
+}
