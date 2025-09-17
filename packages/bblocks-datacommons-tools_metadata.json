@@ -1,0 +1,11 @@
+{
+  "name": "bblocks-datacommons-tools",
+  "version": "0.0.9",
+  "summary": "Tools to work with Data Commons. Part of the bblocks projects.",
+  "author": "ONE Campaign",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bblocks_datacommons_tools-0.0.9.tar.gz",
+  "download_time": "2025-09-17T09:20:16.227010",
+  "package_url": "https://pypi.org/project/bblocks-datacommons-tools/"
+}

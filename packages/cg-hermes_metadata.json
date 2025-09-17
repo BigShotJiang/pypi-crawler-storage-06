@@ -1,0 +1,11 @@
+{
+  "name": "cg-hermes",
+  "version": "6.1.0",
+  "summary": "Convert information between pipelines and CG",
+  "author": "Måns Magnusson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cg_hermes-6.1.0.tar.gz",
+  "download_time": "2025-09-17T09:20:33.366614",
+  "package_url": "https://pypi.org/project/cg-hermes/"
+}

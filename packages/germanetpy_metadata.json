@@ -1,0 +1,11 @@
+{
+  "name": "germanetpy",
+  "version": "0.2.4",
+  "summary": "Python API for GermaNet",
+  "author": "Ben Campbell",
+  "license": null,
+  "home_page": "https://github.com/Germanet-sfs/germanetpy.git",
+  "download_filename": "germanetpy-0.2.4.tar.gz",
+  "download_time": "2025-09-17T09:20:07.925822",
+  "package_url": "https://pypi.org/project/germanetpy/"
+}

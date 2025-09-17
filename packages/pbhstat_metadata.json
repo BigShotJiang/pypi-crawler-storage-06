@@ -1,0 +1,11 @@
+{
+  "name": "pbhstat",
+  "version": "0.0.5",
+  "summary": "A Python code for calculating the primordial black hole mass function and abundance.",
+  "author": "Philippa Cole and Jacopo Fumagalli",
+  "license": "MIT",
+  "home_page": "https://github.com/pipcole/pbhstat",
+  "download_filename": "pbhstat-0.0.5.tar.gz",
+  "download_time": "2025-09-17T09:19:48.398374",
+  "package_url": "https://pypi.org/project/pbhstat/"
+}

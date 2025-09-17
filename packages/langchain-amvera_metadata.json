@@ -1,0 +1,11 @@
+{
+  "name": "langchain-amvera",
+  "version": "0.3.0",
+  "summary": "LangChain интеграция для Amvera LLM API с поддержкой LLaMA и GPT моделей",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_amvera-0.3.0.tar.gz",
+  "download_time": "2025-09-17T09:20:03.818147",
+  "package_url": "https://pypi.org/project/langchain-amvera/"
+}
