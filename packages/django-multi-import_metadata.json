@@ -1,0 +1,11 @@
+{
+  "name": "django-multi-import",
+  "version": "2.0.8",
+  "summary": "Import/export multi Django resources together atomically.",
+  "author": "Security Compass",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_multi_import-2.0.8.tar.gz",
+  "download_time": "2025-09-17T18:27:51.152375",
+  "package_url": "https://pypi.org/project/django-multi-import/"
+}

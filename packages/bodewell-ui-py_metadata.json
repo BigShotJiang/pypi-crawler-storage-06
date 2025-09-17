@@ -1,0 +1,11 @@
+{
+  "name": "bodewell-ui-py",
+  "version": "0.1.0",
+  "summary": "A themed component library for building Bodewell apps with Python and Dash.",
+  "author": "Bodewell",
+  "license": null,
+  "home_page": "https://github.com/bodewell-io/bodewell-ui-py",
+  "download_filename": "bodewell_ui_py-0.1.0.tar.gz",
+  "download_time": "2025-09-17T18:27:45.882261",
+  "package_url": "https://pypi.org/project/bodewell-ui-py/"
+}

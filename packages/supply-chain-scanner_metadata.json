@@ -1,0 +1,11 @@
+{
+  "name": "supply-chain-scanner",
+  "version": "1.0.0",
+  "summary": "A comprehensive security tool to detect compromised NPM packages in Git repositories",
+  "author": "Security Community",
+  "license": "MIT",
+  "home_page": "https://github.com/security-community/supply-chain-scanner",
+  "download_filename": "supply_chain_scanner-1.0.0.tar.gz",
+  "download_time": "2025-09-17T18:28:05.030386",
+  "package_url": "https://pypi.org/project/supply-chain-scanner/"
+}

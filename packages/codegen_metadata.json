@@ -1,0 +1,11 @@
+{
+  "name": "codegen",
+  "version": "0.56.22",
+  "summary": "Scriptable interface to a powerful, multi-lingual language server built on top of Tree-sitter",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "codegen-0.56.22-py3-none-any.whl",
+  "download_time": "2025-09-17T18:27:29.628377",
+  "package_url": "https://pypi.org/project/codegen/"
+}

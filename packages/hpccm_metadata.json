@@ -1,0 +1,11 @@
+{
+  "name": "hpccm",
+  "version": "25.9.0",
+  "summary": "HPC Container Maker",
+  "author": "Scott McMillan",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/NVIDIA/hpc-container-maker",
+  "download_filename": "hpccm-25.9.0.tar.gz",
+  "download_time": "2025-09-17T18:27:36.991570",
+  "package_url": "https://pypi.org/project/hpccm/"
+}

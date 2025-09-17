@@ -1,0 +1,11 @@
+{
+  "name": "biobridge",
+  "version": "0.2.3",
+  "summary": "A library for simulating all biology related things, analyzing them and visualizing them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biobridge-0.2.3.tar.gz",
+  "download_time": "2025-09-17T18:27:57.697054",
+  "package_url": "https://pypi.org/project/biobridge/"
+}
