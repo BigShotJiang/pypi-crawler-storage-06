@@ -1,11 +1,11 @@
 {
   "name": "pycfm",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycfm-0.2.0.tar.gz",
-  "download_time": "2025-09-17T21:37:59.377894",
+  "download_filename": "pycfm-0.3.0.tar.gz",
+  "download_time": "2025-09-17T22:16:48.902168",
   "package_url": "https://pypi.org/project/pycfm/"
 }

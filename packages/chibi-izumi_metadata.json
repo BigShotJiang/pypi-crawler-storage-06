@@ -1,0 +1,11 @@
+{
+  "name": "chibi-izumi",
+  "version": "0.1.0",
+  "summary": "Simplified implementation of Staged Dependency Injection from Scala's distage library of Izumi Project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chibi_izumi-0.1.0.tar.gz",
+  "download_time": "2025-09-17T22:16:52.015621",
+  "package_url": "https://pypi.org/project/chibi-izumi/"
+}
