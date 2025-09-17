@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-contract-forecast-brand",
+  "version": "18.0.1.0.0.7",
+  "summary": "This addon add brand field for contract forecast",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/brand",
+  "download_filename": "odoo_addon_contract_forecast_brand-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2025-09-17T02:55:22.278875",
+  "package_url": "https://pypi.org/project/odoo-addon-contract-forecast-brand/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adv-optm",
+  "version": "0.1.7",
+  "summary": "A family of highly efficient, lightweight yet powerful optimizers.",
+  "author": "Koratahiu",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Koratahiu/Advanced_Optimizers",
+  "download_filename": "adv_optm-0.1.7.tar.gz",
+  "download_time": "2025-09-17T02:55:40.923237",
+  "package_url": "https://pypi.org/project/adv-optm/"
+}

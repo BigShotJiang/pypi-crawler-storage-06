@@ -1,0 +1,11 @@
+{
+  "name": "pyxtal",
+  "version": "1.1.1",
+  "summary": "Python code for generation of crystal structures based on symmetry constraints.",
+  "author": "Scott Fredericks, Kevin Parrish, Qiang Zhu",
+  "license": "MIT",
+  "home_page": "https://github.com/MaterSim/PyXtal",
+  "download_filename": "pyxtal-1.1.1.tar.gz",
+  "download_time": "2025-09-17T02:54:59.355907",
+  "package_url": "https://pypi.org/project/pyxtal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "veilcord-tls",
+  "version": "0.0.7.6",
+  "summary": "VeilCord // @imvast",
+  "author": "@imvast",
+  "license": "MIT",
+  "home_page": "http://pypi.python.org/pypi/veilcord",
+  "download_filename": "veilcord_tls-0.0.7.6.tar.gz",
+  "download_time": "2025-09-17T02:55:07.829318",
+  "package_url": "https://pypi.org/project/veilcord-tls/"
+}

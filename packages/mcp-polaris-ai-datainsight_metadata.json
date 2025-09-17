@@ -1,0 +1,11 @@
+{
+  "name": "mcp-polaris-ai-datainsight",
+  "version": "0.0.11",
+  "summary": "This tool supports the extraction of text, images, and other elements from various document formats.",
+  "author": "Polaris Office",
+  "license": null,
+  "home_page": "https://datainsight.polarisoffice.com/",
+  "download_filename": "mcp_polaris_ai_datainsight-0.0.11.tar.gz",
+  "download_time": "2025-09-17T02:55:26.222789",
+  "package_url": "https://pypi.org/project/mcp-polaris-ai-datainsight/"
+}
