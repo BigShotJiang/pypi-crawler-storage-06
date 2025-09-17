@@ -1,0 +1,11 @@
+{
+  "name": "datarecipe",
+  "version": "2.1.1",
+  "summary": "A recipe for every data baker",
+  "author": "Hanfan Chen",
+  "license": null,
+  "home_page": "https://github.com/Adward-Chen/databaker/tree/main",
+  "download_filename": "datarecipe-2.1.1.tar.gz",
+  "download_time": "2025-09-17T09:40:17.790931",
+  "package_url": "https://pypi.org/project/datarecipe/"
+}

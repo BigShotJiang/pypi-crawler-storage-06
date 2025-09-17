@@ -1,11 +1,11 @@
 {
   "name": "obvyr-agent",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Command-line wrapper to run Obvyr agents locally or in CI.",
   "author": "Wyrd Technology Ltd",
   "license": "Proprietary",
   "home_page": "https://wyrd-technology.com",
-  "download_filename": "obvyr_agent-0.2.2.tar.gz",
-  "download_time": "2025-09-17T03:28:19.970607",
+  "download_filename": "obvyr_agent-0.3.0.tar.gz",
+  "download_time": "2025-09-17T09:40:14.023902",
   "package_url": "https://pypi.org/project/obvyr-agent/"
 }

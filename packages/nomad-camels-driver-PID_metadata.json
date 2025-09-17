@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-PID",
+  "version": "0.3.1",
+  "summary": "This package provides everything to run a PID Controller with.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_pid-0.3.1.tar.gz",
+  "download_time": "2025-09-17T09:40:18.982988",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-PID/"
+}

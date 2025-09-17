@@ -1,0 +1,11 @@
+{
+  "name": "skos-api",
+  "version": "1.1.0",
+  "summary": "skos_api",
+  "author": "luke9012",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skos_api-1.1.0.tar.gz",
+  "download_time": "2025-09-17T09:40:12.198430",
+  "package_url": "https://pypi.org/project/skos-api/"
+}

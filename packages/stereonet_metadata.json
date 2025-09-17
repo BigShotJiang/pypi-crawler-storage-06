@@ -1,0 +1,11 @@
+{
+  "name": "stereonet",
+  "version": "0.2.1",
+  "summary": "StereonetForge: dependency-light stereonet plotter for planes (Dip/DipDir) with 1..N groups",
+  "author": "Dr. Aram Fathian",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stereonet-0.2.1.tar.gz",
+  "download_time": "2025-09-17T09:40:36.534142",
+  "package_url": "https://pypi.org/project/stereonet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "afp-sdk",
+  "version": "0.4.0",
+  "summary": "Autonomous Futures Protocol Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afp_sdk-0.4.0.tar.gz",
+  "download_time": "2025-09-17T09:40:34.789425",
+  "package_url": "https://pypi.org/project/afp-sdk/"
+}
