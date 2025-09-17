@@ -1,11 +1,11 @@
 {
   "name": "gpubackendtools",
-  "version": "0.0.11",
-  "summary": "GPU/CPU Galactic Binary Waveforms",
+  "version": "0.0.12",
+  "summary": "GPU Backend Tools",
   "author": "Michael Katz",
   "license": null,
   "home_page": null,
-  "download_filename": "gpubackendtools-0.0.11.tar.gz",
-  "download_time": "2025-09-17T21:37:54.370135",
+  "download_filename": "gpubackendtools-0.0.12.tar.gz",
+  "download_time": "2025-09-17T23:51:35.781732",
   "package_url": "https://pypi.org/project/gpubackendtools/"
 }

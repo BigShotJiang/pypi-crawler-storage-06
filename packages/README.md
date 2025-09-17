@@ -1,25 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T23:38:08.279817
-- **Total Packages**: 76
-- **Total Size**: 36.03 MB
+- **Download Time**: 2025-09-17T23:52:14.228462
+- **Total Packages**: 75
+- **Total Size**: 9.96 MB
 
 ## Packages List
+- lisaanalysistools-cuda12x
+- lisaanalysistools-cuda11x
+- authentik-client
+- lisaanalysistools-cpu
+- FreeDynamics-simaf
+- repogif
+- getout-of-text-3
+- gridworks-admin
+- gpubackendtools
+- deepflex-dict
+- ohmqtt
+- easyscript
+- gridworks-scada-protocol
+- mellea
+- busy
+- ninja-kafka-sdk
+- NikGapps
+- shillelagh-gristapi
+- collinear
+- langflow-nightly
+- curl-session
+- jupytertteditor
+- merlin
+- spikesafe-python
+- yostlabs
+- syllable-sdk
+- AlifTools
 - fedfred
 - satori-ci
 - ros-mcp
-- authentik-client
 - model-metrics
 - deployv
-- FreeDynamics-simaf
 - nv-ingest
 - nv-ingest-client
 - nv-ingest-api
 - yt-dlp
 - retinal-thin-vessels
 - ensembledata
-- curl-session
 - nextstrain-augur
 - wizlib
 - droidrun
@@ -57,28 +81,3 @@
 - arcade-ai
 - kalpy-kaldi
 - MAVez
-- cytetype
-- griptape-nodes
-- language-modeling-transformers
-- continual-foragax
-- gradio-taggrouphelper
-- cvtkit
-- lium-sdk
-- pulumi-azuread
-- qai-hub-models
-- aiogram-input
-- VegasAfterglow
-- chrono-library-messenger
-- ppp-connectors
-- commoneval
-- dycw-utilities
-- data-contract-validator
-- oldaplib
-- vantage-cli
-- wristband-fastapi-auth
-- yaml-to-backend
-- moose-lib
-- nobiaspy
-- postprocessing-seismo-lib
-- increase
-- DocPrint

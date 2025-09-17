@@ -1,0 +1,11 @@
+{
+  "name": "NikGapps",
+  "version": "3.82",
+  "summary": "A short description of your project",
+  "author": "Nikhil Menghani",
+  "license": null,
+  "home_page": "https://github.com/nikgapps/project",
+  "download_filename": "nikgapps-3.82.tar.gz",
+  "download_time": "2025-09-17T23:51:40.228334",
+  "package_url": "https://pypi.org/project/NikGapps/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepflex-dict",
+  "version": "1.0.0",
+  "summary": "A dictionary with flexible options",
+  "author": "Ehsan Karbasian",
+  "license": null,
+  "home_page": "https://github.com/ehsankarbasian/MyPythonUtils/tree/main/utils/flexible_dict",
+  "download_filename": "deepflex_dict-1.0.0.tar.gz",
+  "download_time": "2025-09-17T23:51:36.339604",
+  "package_url": "https://pypi.org/project/deepflex-dict/"
+}

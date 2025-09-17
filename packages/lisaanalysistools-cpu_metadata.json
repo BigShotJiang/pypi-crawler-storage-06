@@ -1,11 +1,11 @@
 {
   "name": "lisaanalysistools-cpu",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "summary": "A package for LISA Data Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lisaanalysistools_cpu-1.1.0-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-09-17T03:28:10.530781",
+  "download_filename": "lisaanalysistools_cpu-1.1.4-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-17T23:51:33.120645",
   "package_url": "https://pypi.org/project/lisaanalysistools-cpu/"
 }
