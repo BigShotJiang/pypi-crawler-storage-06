@@ -1,11 +1,11 @@
 {
   "name": "taku-cli",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Simple script manager for creating, running, and syncing bash scripts",
   "author": "Tobi-De",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "taku_cli-0.2.3.tar.gz",
-  "download_time": "2025-09-17T19:51:18.415961",
+  "download_filename": "taku_cli-0.2.4.tar.gz",
+  "download_time": "2025-09-17T20:20:43.989110",
   "package_url": "https://pypi.org/project/taku-cli/"
 }

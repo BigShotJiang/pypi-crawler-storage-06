@@ -1,0 +1,11 @@
+{
+  "name": "seed-farmer",
+  "version": "7.0.10",
+  "summary": "The AWS Professional Services CLI tool SeedFarmer for GitOps support",
+  "author": "AWS Professional Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "seed_farmer-7.0.10-py3-none-any.whl",
+  "download_time": "2025-09-17T20:20:30.345316",
+  "package_url": "https://pypi.org/project/seed-farmer/"
+}

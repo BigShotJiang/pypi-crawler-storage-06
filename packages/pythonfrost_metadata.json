@@ -1,11 +1,11 @@
 {
   "name": "pythonfrost",
-  "version": "0.1.1.1",
+  "version": "0.1.1.2",
   "summary": "A lightweight Python microframework for building fast and simple web apps.",
   "author": "Zhiar Piroti",
   "license": null,
   "home_page": "https://github.com/ZhiarPiroti/Frost-A-Lightweight-Easy-to-Use-Python-Microframework",
-  "download_filename": "pythonfrost-0.1.1.1.tar.gz",
-  "download_time": "2025-09-17T19:39:35.709547",
+  "download_filename": "pythonfrost-0.1.1.2.tar.gz",
+  "download_time": "2025-09-17T20:20:36.039408",
   "package_url": "https://pypi.org/project/pythonfrost/"
 }

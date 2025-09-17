@@ -1,0 +1,11 @@
+{
+  "name": "ezprocess",
+  "version": "0.1.0",
+  "summary": "Preprocess, tile, analyze and geospatial datasets for ML/DL training and evaluation.",
+  "author": "Jeffrey Blay, Gazali Agboola",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezprocess-0.1.0.tar.gz",
+  "download_time": "2025-09-17T20:20:23.398772",
+  "package_url": "https://pypi.org/project/ezprocess/"
+}

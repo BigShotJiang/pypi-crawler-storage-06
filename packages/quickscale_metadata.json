@@ -1,0 +1,11 @@
+{
+  "name": "quickscale",
+  "version": "0.41.0",
+  "summary": "A SaaS starter kit for Python-first developers using Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quickscale-0.41.0.tar.gz",
+  "download_time": "2025-09-17T20:20:19.112368",
+  "package_url": "https://pypi.org/project/quickscale/"
+}

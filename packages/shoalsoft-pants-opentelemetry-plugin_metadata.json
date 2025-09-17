@@ -1,0 +1,11 @@
+{
+  "name": "shoalsoft-pants-opentelemetry-plugin",
+  "version": "0.5.0",
+  "summary": "Pantsbuild OpenTelemetry Plugin from Shoal Software LLC",
+  "author": "Tom Dyas",
+  "license": null,
+  "home_page": "https://github.com/shoalsoft/shoalsoft-pants-opentelemetry-plugin",
+  "download_filename": "shoalsoft_pants_opentelemetry_plugin-0.5.0.tar.gz",
+  "download_time": "2025-09-17T20:20:33.777632",
+  "package_url": "https://pypi.org/project/shoalsoft-pants-opentelemetry-plugin/"
+}

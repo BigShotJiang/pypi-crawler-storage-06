@@ -1,0 +1,11 @@
+{
+  "name": "xphasesync",
+  "version": "0.1.0",
+  "summary": "\"Phase synchronization analysis of two time series using Numpy and Xarray.\"",
+  "author": "Sen Zhao",
+  "license": "MIT",
+  "home_page": "https://github.com/senclimate/xphasesync",
+  "download_filename": "xphasesync-0.1.0.tar.gz",
+  "download_time": "2025-09-17T20:20:42.321622",
+  "package_url": "https://pypi.org/project/xphasesync/"
+}
