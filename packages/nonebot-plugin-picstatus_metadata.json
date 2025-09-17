@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-picstatus",
+  "version": "2.2.1.post1",
+  "summary": "A NoneBot2 plugin generates a picture which shows the status of current device",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_picstatus-2.2.1.post1.tar.gz",
+  "download_time": "2025-09-17T04:22:31.381949",
+  "package_url": "https://pypi.org/project/nonebot-plugin-picstatus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ariel-data-preprocessing",
+  "version": "1.2",
+  "summary": "Signal correction module for Ariel Data Challenge 2025.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ariel_data_preprocessing-1.2-py3-none-any.whl",
+  "download_time": "2025-09-17T04:22:31.893707",
+  "package_url": "https://pypi.org/project/ariel-data-preprocessing/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "telnetlib3",
+  "version": "2.0.5",
+  "summary": "Python 3 asyncio Telnet server and client Protocol library",
+  "author": "Jeff Quast",
+  "license": "ISC",
+  "home_page": "http://telnetlib3.rtfd.org/",
+  "download_filename": "telnetlib3-2.0.5.tar.gz",
+  "download_time": "2025-09-17T04:22:16.820795",
+  "package_url": "https://pypi.org/project/telnetlib3/"
+}

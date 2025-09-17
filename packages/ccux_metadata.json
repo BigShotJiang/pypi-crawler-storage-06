@@ -1,0 +1,11 @@
+{
+  "name": "ccux",
+  "version": "4.1.1",
+  "summary": "A sophisticated Python CLI tool that automatically generates conversion-optimized frontend landing pages using professional UX design thinking methodology",
+  "author": "CCUX Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccux-4.1.1.tar.gz",
+  "download_time": "2025-09-17T04:22:43.665311",
+  "package_url": "https://pypi.org/project/ccux/"
+}
