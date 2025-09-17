@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-connector-helper",
+  "version": "1.0.0",
+  "summary": "Internal Snowflake connector with PKCS#8 authentication for SignifyHealth Team",
+  "author": "Team of Noah A - SignifyHealth",
+  "license": "INTERNAL USE LICENSE\n        \n        Copyright (c) 2025 Team of Noah A - SignifyHealth\n        \n        INTERNAL USE ONLY - RESTRICTED ACCESS\n        \n        This software is proprietary and confidential. It is licensed exclusively for use by the \n        Team of Noah A from SignifyHealth and affiliated personnel.\n        \n        PERMITTED USES:\n        - Internal data analysis and research projects within SignifyHealth\n        - Snowflake data warehouse connections for authorized team members\n        - Development and testing within the Team of Noah A environment\n        \n        RESTRICTIONS:\n        - No external distribution or sharing outside the Team of Noah A from SignifyHealth\n        - No commercial use outside of authorized internal SignifyHealth operations\n        - No modification or derivative works without team lead approval\n        - No reverse engineering or attempts to extract source code logic\n        \n        DISCLAIMER:\n        This software is provided \"AS IS\" without warranty of any kind, express or implied. \n        The Team of Noah A from SignifyHealth shall not be liable for any damages arising from \n        the use of this software.\n        \n        For questions regarding this license or software usage, contact the Team of Noah A lead.\n        \n        Unauthorized use is strictly prohibited.",
+  "home_page": null,
+  "download_filename": "snowflake_connector_helper-1.0.0.tar.gz",
+  "download_time": "2025-09-17T21:38:19.032337",
+  "package_url": "https://pypi.org/project/snowflake-connector-helper/"
+}

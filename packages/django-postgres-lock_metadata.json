@@ -1,0 +1,11 @@
+{
+  "name": "django-postgres-lock",
+  "version": "0.2",
+  "summary": "Django Postgres Lock",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_postgres_lock-0.2.tar.gz",
+  "download_time": "2025-09-17T21:38:02.123962",
+  "package_url": "https://pypi.org/project/django-postgres-lock/"
+}

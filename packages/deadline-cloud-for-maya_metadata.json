@@ -1,0 +1,11 @@
+{
+  "name": "deadline-cloud-for-maya",
+  "version": "0.15.10",
+  "summary": "AWS Deadline Cloud for Maya",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deadline_cloud_for_maya-0.15.10.tar.gz",
+  "download_time": "2025-09-17T21:38:16.899224",
+  "package_url": "https://pypi.org/project/deadline-cloud-for-maya/"
+}

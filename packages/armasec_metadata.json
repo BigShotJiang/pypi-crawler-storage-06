@@ -1,0 +1,11 @@
+{
+  "name": "armasec",
+  "version": "3.0.2",
+  "summary": "Injectable FastAPI auth via OIDC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "armasec-3.0.2.tar.gz",
+  "download_time": "2025-09-17T21:38:08.146135",
+  "package_url": "https://pypi.org/project/armasec/"
+}

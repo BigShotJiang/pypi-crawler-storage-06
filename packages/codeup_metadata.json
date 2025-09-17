@@ -1,11 +1,11 @@
 {
   "name": "codeup",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Intelligent git workflow automation tool with AI-powered commit messages",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/zackees/codeup",
-  "download_filename": "codeup-1.0.5-py3-none-any.whl",
-  "download_time": "2025-09-17T05:18:10.110749",
+  "download_filename": "codeup-1.0.6-py3-none-any.whl",
+  "download_time": "2025-09-17T21:38:23.246436",
   "package_url": "https://pypi.org/project/codeup/"
 }
