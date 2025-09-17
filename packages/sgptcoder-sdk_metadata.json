@@ -1,0 +1,11 @@
+{
+  "name": "sgptcoder-sdk",
+  "version": "0.2.0",
+  "summary": "The official Python library for the sgptcoder API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sgptcoder_sdk-0.2.0.tar.gz",
+  "download_time": "2025-09-17T15:20:00.426818",
+  "package_url": "https://pypi.org/project/sgptcoder-sdk/"
+}

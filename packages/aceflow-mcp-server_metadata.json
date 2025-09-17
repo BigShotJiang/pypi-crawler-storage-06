@@ -1,0 +1,11 @@
+{
+  "name": "aceflow-mcp-server",
+  "version": "2.1.5",
+  "summary": "AceFlow MCP Server - AI-协作增强版，支持双向AI-MCP数据交换的智能开发工作流服务器，支持HTTP和stdio传输模式",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aceflow_mcp_server-2.1.5.tar.gz",
+  "download_time": "2025-09-17T15:20:28.527741",
+  "package_url": "https://pypi.org/project/aceflow-mcp-server/"
+}

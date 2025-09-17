@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-rsi",
+  "version": "1.0.0",
+  "summary": "Plugin mtcli do indicador RSI",
+  "author": "Valmir França da Silva",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/vfranca/mtcli-rsi",
+  "download_filename": "mtcli_rsi-1.0.0.tar.gz",
+  "download_time": "2025-09-17T15:20:43.252322",
+  "package_url": "https://pypi.org/project/mtcli-rsi/"
+}

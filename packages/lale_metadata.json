@@ -1,0 +1,11 @@
+{
+  "name": "lale",
+  "version": "0.9.1",
+  "summary": "Library for Semi-Automated Data Science",
+  "author": "Guillaume Baudart, Martin Hirzel, Kiran Kate, Parikshit Ram, Avraham Shinnar",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/IBM/lale",
+  "download_filename": "lale-0.9.1.tar.gz",
+  "download_time": "2025-09-17T15:20:30.588328",
+  "package_url": "https://pypi.org/project/lale/"
+}

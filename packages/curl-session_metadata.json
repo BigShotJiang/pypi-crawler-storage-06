@@ -1,11 +1,11 @@
 {
   "name": "curl-session",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Initialize from a curl command string and get equivalent requests.Session and httpx.Client objects",
   "author": "Leon",
   "license": null,
   "home_page": null,
-  "download_filename": "curl_session-0.1.8.tar.gz",
-  "download_time": "2025-09-17T14:52:21.758280",
+  "download_filename": "curl_session-0.1.9.tar.gz",
+  "download_time": "2025-09-17T15:20:51.075724",
   "package_url": "https://pypi.org/project/curl-session/"
 }

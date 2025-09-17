@@ -1,11 +1,11 @@
 {
   "name": "a2py",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Multi-modal AI assistant for translation, explanation, coding, writing, and shell automation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "a2py-0.2.2.tar.gz",
-  "download_time": "2025-09-17T10:52:42.591563",
+  "download_filename": "a2py-0.2.3.tar.gz",
+  "download_time": "2025-09-17T15:20:48.996112",
   "package_url": "https://pypi.org/project/a2py/"
 }
