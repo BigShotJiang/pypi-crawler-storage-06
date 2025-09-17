@@ -1,0 +1,11 @@
+{
+  "name": "wmlog",
+  "version": "1.0.0",
+  "summary": "Websocket MQTT Logging - Centralized logging system for distributed applications",
+  "author": "Tom Sapletta",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/wml-org/wml",
+  "download_filename": "wmlog-1.0.0.tar.gz",
+  "download_time": "2025-09-17T07:38:15.999708",
+  "package_url": "https://pypi.org/project/wmlog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "curvefitgui",
+  "version": "1.1.12",
+  "summary": "GUI for the scipy.optimize.curve_fit() function",
+  "author": "moosepy",
+  "license": "MIT",
+  "home_page": "https://github.com/moosepy/curvefitgui",
+  "download_filename": "curvefitgui-1.1.12.tar.gz",
+  "download_time": "2025-09-17T07:37:54.621989",
+  "package_url": "https://pypi.org/project/curvefitgui/"
+}

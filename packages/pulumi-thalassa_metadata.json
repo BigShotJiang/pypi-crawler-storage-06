@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-thalassa",
+  "version": "0.2.22",
+  "summary": "A Pulumi package for creating and managing Thalassa Cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_thalassa-0.2.22.tar.gz",
+  "download_time": "2025-09-17T07:37:51.377069",
+  "package_url": "https://pypi.org/project/pulumi-thalassa/"
+}

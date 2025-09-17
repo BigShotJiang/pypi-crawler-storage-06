@@ -1,11 +1,11 @@
 {
   "name": "clipfx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Serve a file or stdin via Cloudflare Tunnel",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/clipfx",
-  "download_filename": "clipfx-0.1.0.tar.gz",
-  "download_time": "2025-09-17T07:17:56.216926",
+  "download_filename": "clipfx-0.1.1.tar.gz",
+  "download_time": "2025-09-17T07:38:10.601214",
   "package_url": "https://pypi.org/project/clipfx/"
 }

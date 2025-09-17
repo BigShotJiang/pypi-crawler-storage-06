@@ -1,11 +1,11 @@
 {
   "name": "hestia-earth-converters",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "HESTIA's set of file converters",
   "author": "@ToffeeLabs",
   "license": "MIT",
   "home_page": "https://gitlab.com/hestia-earth/hestia-convert-base",
-  "download_filename": "hestia-earth-converters-0.0.4.tar.gz",
-  "download_time": "2025-09-17T07:18:17.415627",
+  "download_filename": "hestia_earth_converters-0.0.6.tar.gz",
+  "download_time": "2025-09-17T07:38:14.383780",
   "package_url": "https://pypi.org/project/hestia-earth-converters/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rwkv-ops",
+  "version": "0.2.1",
+  "summary": null,
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/pass-lin/rwkv_ops",
+  "download_filename": "rwkv_ops-0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-17T07:37:48.602662",
+  "package_url": "https://pypi.org/project/rwkv-ops/"
+}
