@@ -1,0 +1,11 @@
+{
+  "name": "TubeZ",
+  "version": "1.0.9",
+  "summary": "A self-hosted web dashboard to search, play, and download video or audio from hundreds of sites using yt-dlp.",
+  "author": "JuniorSir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tubez-1.0.9.tar.gz",
+  "download_time": "2025-09-17T11:15:36.459225",
+  "package_url": "https://pypi.org/project/TubeZ/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pysaten",
-  "version": "2.0.2.post1",
+  "version": "2.0.2.post2",
   "summary": "Detect silence segment from speech signal.",
   "author": "Fumiyoshi MATANO",
   "license": null,
   "home_page": null,
-  "download_filename": "pysaten-2.0.2.post1.tar.gz",
-  "download_time": "2025-09-17T10:42:16.350159",
+  "download_filename": "pysaten-2.0.2.post2.tar.gz",
+  "download_time": "2025-09-17T11:15:54.025240",
   "package_url": "https://pypi.org/project/pysaten/"
 }

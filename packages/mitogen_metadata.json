@@ -1,0 +1,11 @@
+{
+  "name": "mitogen",
+  "version": "0.3.28",
+  "summary": "Library for writing distributed self-replicating programs.",
+  "author": "David Wilson",
+  "license": "New BSD",
+  "home_page": "https://github.com/mitogen-hq/mitogen/",
+  "download_filename": "mitogen-0.3.28.tar.gz",
+  "download_time": "2025-09-17T11:15:49.407674",
+  "package_url": "https://pypi.org/project/mitogen/"
+}

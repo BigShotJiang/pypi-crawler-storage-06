@@ -1,0 +1,11 @@
+{
+  "name": "dapr-ext-grpc",
+  "version": "1.16.0",
+  "summary": "The official release of Dapr Python SDK gRPC Extension.",
+  "author": "Dapr Authors",
+  "license": "Apache",
+  "home_page": "https://dapr.io/",
+  "download_filename": "dapr-ext-grpc-1.16.0.tar.gz",
+  "download_time": "2025-09-17T11:15:52.489817",
+  "package_url": "https://pypi.org/project/dapr-ext-grpc/"
+}

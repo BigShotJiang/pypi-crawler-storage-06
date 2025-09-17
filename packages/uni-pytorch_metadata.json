@@ -1,0 +1,11 @@
+{
+  "name": "uni-pytorch",
+  "version": "3.17.1",
+  "summary": "PyTorch to uni-model converter",
+  "author": "ssi-dnn-dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uni_pytorch-3.17.1-py3-none-any.whl",
+  "download_time": "2025-09-17T11:15:39.576658",
+  "package_url": "https://pypi.org/project/uni-pytorch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "postgresql-charms-single-kernel",
+  "version": "16.0.1",
+  "summary": "Shared and reusable code for PostgreSQL-related charms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "postgresql_charms_single_kernel-16.0.1.tar.gz",
+  "download_time": "2025-09-17T11:15:54.536673",
+  "package_url": "https://pypi.org/project/postgresql-charms-single-kernel/"
+}

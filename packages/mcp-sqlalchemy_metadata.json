@@ -1,0 +1,11 @@
+{
+  "name": "mcp-sqlalchemy",
+  "version": "0.2.1",
+  "summary": "MCP server for SQLAlchemy database interactions - supports SQLite, PostgreSQL, and MySQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_sqlalchemy-0.2.1.tar.gz",
+  "download_time": "2025-09-17T11:15:35.946751",
+  "package_url": "https://pypi.org/project/mcp-sqlalchemy/"
+}
