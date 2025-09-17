@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T19:27:37.759603
-- **Total Packages**: 89
-- **Total Size**: 43.78 MB
+- **Download Time**: 2025-09-17T19:39:56.519227
+- **Total Packages**: 70
+- **Total Size**: 10.66 MB
 
 ## Packages List
+- novadata-utils
+- metaflow
+- metaflow-stubs
+- quantconnect-stubs
+- rag-techlib
+- boto3
+- async-universalis
+- FreeDynamics-simaf
+- awscli
+- lasso.issues
+- authentik-client
+- crackers
+- gitlab-pipeline-analyzer
+- prefect-kubernetes
+- assemblyline-core
+- assemblyline
+- assemblyline-v4-service
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- pycfm
+- girder-worker
+- girder-plugin-worker
+- girder-slicer-cli-web
+- sacad
+- cogwit_sdk
+- zerobuffer-ipc
+- girder-import-tracker
+- django-cfg
+- taku-cli
+- authzed
+- pythonfrost
+- dragonfly-core
+- assisted-service-client
+- mmar-mapi
+- normet
+- railtracks-cli
+- railtracks
+- auth0-python
+- lumibot
 - gh-map-pipelines
 - libPy2023
 - sqlmesh
@@ -14,8 +54,6 @@
 - cybrid-api-organization-python
 - s3-log-extraction
 - cybrid-api-id-python
-- rag-techlib
-- authentik-client
 - cybrid-api-bank-python
 - labdata
 - tdp2xlsx
@@ -31,7 +69,6 @@
 - besbox
 - gammarers.aws-daily-cloud-watch-logs-archive-stack
 - pycarlo
-- pythonfrost
 - zengl
 - cryovit
 - llama-parse
@@ -39,59 +76,3 @@
 - PySCHARE
 - leafmap
 - abogen
-- crossmark-jotform-api
-- ragas-examples
-- wodcraft
-- ragas
-- ascend-sdk
-- PyOPIA
-- strands-agents
-- Cambiato
-- pyharp
-- duplocloud-client
-- fastapi-cli-slim
-- fastapi-cli
-- perplexityai
-- webuntis-fetcher
-- onshape-robotics-toolkit
-- breez-sdk-spark
-- django-typed2django
-- excalidraw-mcp
-- payabli
-- dlc2action
-- dotc
-- feature-selector-banking
-- pynbntnmodem
-- clvm
-- TheSilent
-- unique_stock_ticker
-- dsbin
-- fluidattacks-core
-- deployml-core
-- pypomes-db
-- tinfoil
-- polars-genson
-- mas-cli
-- openmlcrawler
-- aiosend
-- unique_follow_up_questions
-- simple-repository-browser
-- Django
-- fundamentum-edge-proto
-- mm-test-adapters
-- sellm
-- KUtil-jakubaugustyn
-- smdata
-- duckflow
-- ethyca-fides
-- lasso.requirements
-- OSL-CGCD
-- agentle
-- polykit
-- unique_orchestrator
-- contxt-sdk
-- krsite-dl
-- ScriptCollection
-- wdb-utils
-- pulumi-provider-boilerplate
-- datacontract-helper

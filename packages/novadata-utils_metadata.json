@@ -1,0 +1,11 @@
+{
+  "name": "novadata-utils",
+  "version": "0.4.2",
+  "summary": "novadata utils",
+  "author": "Flávio Silva",
+  "license": "MIT License",
+  "home_page": "https://github.com/TimeNovaData/novadata_utils/",
+  "download_filename": "novadata_utils-0.4.2.tar.gz",
+  "download_time": "2025-09-17T19:39:17.006958",
+  "package_url": "https://pypi.org/project/novadata-utils/"
+}

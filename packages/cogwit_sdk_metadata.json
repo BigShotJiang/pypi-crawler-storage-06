@@ -1,0 +1,11 @@
+{
+  "name": "cogwit_sdk",
+  "version": "0.1.1",
+  "summary": "SDK for communicating with the Cogwit API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cogwit_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-17T19:39:32.154880",
+  "package_url": "https://pypi.org/project/cogwit_sdk/"
+}
