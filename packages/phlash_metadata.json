@@ -1,0 +1,11 @@
+{
+  "name": "phlash",
+  "version": "1.0.6",
+  "summary": "Bayesian inference of population size history from recombining sequence data.",
+  "author": "Jonathan Terhorst",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlash-1.0.6.tar.gz",
+  "download_time": "2025-09-17T13:54:35.804804",
+  "package_url": "https://pypi.org/project/phlash/"
+}

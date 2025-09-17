@@ -1,0 +1,11 @@
+{
+  "name": "pyseto",
+  "version": "1.8.5",
+  "summary": "A Python implementation of PASETO/PASERK.",
+  "author": "Ajitomi Daisuke",
+  "license": "MIT",
+  "home_page": "https://github.com/dajiaji/pyseto",
+  "download_filename": "pyseto-1.8.5.tar.gz",
+  "download_time": "2025-09-17T13:54:21.155783",
+  "package_url": "https://pypi.org/project/pyseto/"
+}

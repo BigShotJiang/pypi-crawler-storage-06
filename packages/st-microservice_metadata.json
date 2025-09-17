@@ -1,0 +1,11 @@
+{
+  "name": "st-microservice",
+  "version": "2.5.4",
+  "summary": "Tools to build Microservice Backends",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "st_microservice-2.5.4.tar.gz",
+  "download_time": "2025-09-17T13:54:15.418296",
+  "package_url": "https://pypi.org/project/st-microservice/"
+}

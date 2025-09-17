@@ -1,11 +1,11 @@
 {
   "name": "OBPAnalyser",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A package for analysation of open beam files (OBP and OBF).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "obpanalyser-0.0.4.tar.gz",
-  "download_time": "2025-09-17T08:46:58.999129",
+  "download_filename": "obpanalyser-0.0.6.tar.gz",
+  "download_time": "2025-09-17T13:54:09.129090",
   "package_url": "https://pypi.org/project/OBPAnalyser/"
 }
