@@ -1,11 +1,11 @@
 {
   "name": "one4all-iop-models",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": null,
   "author": "Ignacio Jimenez",
   "license": null,
   "home_page": null,
-  "download_filename": "one4all_iop_models-0.1.20.tar.gz",
-  "download_time": "2025-09-17T08:46:43.633573",
+  "download_filename": "one4all_iop_models-0.1.21.tar.gz",
+  "download_time": "2025-09-17T10:19:50.639501",
   "package_url": "https://pypi.org/project/one4all-iop-models/"
 }

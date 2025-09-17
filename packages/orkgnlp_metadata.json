@@ -1,0 +1,11 @@
+{
+  "name": "orkgnlp",
+  "version": "1.0.0",
+  "summary": "Python package wrapping the ORKG NLP Services.",
+  "author": "Omar Arab Oghli",
+  "license": "MIT",
+  "home_page": "http://orkg.org/about",
+  "download_filename": "orkgnlp-1.0.0.tar.gz",
+  "download_time": "2025-09-17T10:19:16.428066",
+  "package_url": "https://pypi.org/project/orkgnlp/"
+}

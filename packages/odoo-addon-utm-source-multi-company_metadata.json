@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-utm-source-multi-company",
+  "version": "18.0.1.0.0.2",
+  "summary": "This module add multi-company management to utm source",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/multi-company",
+  "download_filename": "odoo_addon_utm_source_multi_company-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-17T10:19:24.842809",
+  "package_url": "https://pypi.org/project/odoo-addon-utm-source-multi-company/"
+}

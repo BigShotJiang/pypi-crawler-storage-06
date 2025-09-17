@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-keithley-197a",
+  "version": "0.1.0",
+  "summary": "Instrument driver for keithley_197a for NOMAD CAMELS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_keithley_197a-0.1.0.tar.gz",
+  "download_time": "2025-09-17T10:19:53.722729",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-keithley-197a/"
+}

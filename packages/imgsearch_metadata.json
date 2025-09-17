@@ -1,0 +1,11 @@
+{
+  "name": "imgsearch",
+  "version": "0.2.1",
+  "summary": "ImgSearch is a lightweight image search engine that supports searching images by image.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgsearch-0.2.1.tar.gz",
+  "download_time": "2025-09-17T10:19:44.348162",
+  "package_url": "https://pypi.org/project/imgsearch/"
+}

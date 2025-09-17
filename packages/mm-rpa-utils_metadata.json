@@ -1,11 +1,11 @@
 {
   "name": "mm-rpa-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Un módulo con funciones básicas",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mm_rpa_utils-0.0.4.tar.gz",
-  "download_time": "2025-09-17T09:20:13.128387",
+  "download_filename": "mm_rpa_utils-0.0.5.tar.gz",
+  "download_time": "2025-09-17T10:19:25.497866",
   "package_url": "https://pypi.org/project/mm-rpa-utils/"
 }
