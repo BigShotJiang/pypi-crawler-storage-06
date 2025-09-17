@@ -1,0 +1,11 @@
+{
+  "name": "sniptext",
+  "version": "1.0.0",
+  "summary": "A screenshot tool that automatically copies extracted text to clipboard",
+  "author": "Aaditya Kanjolia",
+  "license": "MIT",
+  "home_page": "https://github.com/aadityakanjolia4",
+  "download_filename": "sniptext-1.0.0.tar.gz",
+  "download_time": "2025-09-17T20:40:12.925387",
+  "package_url": "https://pypi.org/project/sniptext/"
+}

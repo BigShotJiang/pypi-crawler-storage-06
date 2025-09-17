@@ -1,0 +1,11 @@
+{
+  "name": "sentry-forked-django-stubs",
+  "version": "5.2.5.post3",
+  "summary": "Mypy stubs for Django",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentry_forked_django_stubs-5.2.5.post3.tar.gz",
+  "download_time": "2025-09-17T20:40:19.922807",
+  "package_url": "https://pypi.org/project/sentry-forked-django-stubs/"
+}

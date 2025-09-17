@@ -1,0 +1,11 @@
+{
+  "name": "fmts",
+  "version": "0.4.0",
+  "summary": "str transformation utils",
+  "author": "jesse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmts-0.4.0.tar.gz",
+  "download_time": "2025-09-17T20:40:18.248874",
+  "package_url": "https://pypi.org/project/fmts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lager",
+  "version": "0.20.0",
+  "summary": "EZ-PZ logging based on loguru",
+  "author": "jesse rubin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lager-0.20.0.tar.gz",
+  "download_time": "2025-09-17T20:40:16.138899",
+  "package_url": "https://pypi.org/project/lager/"
+}

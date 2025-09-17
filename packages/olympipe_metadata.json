@@ -1,11 +1,11 @@
 {
   "name": "olympipe",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "A powerful parallel pipelining tool",
   "author": "Gabriel Kasser",
   "license": "MIT",
   "home_page": "https://gitlab.com/gabraken/olympipe",
-  "download_filename": "olympipe-1.5.0.tar.gz",
-  "download_time": "2025-09-17T15:40:06.258740",
+  "download_filename": "olympipe-1.5.1.tar.gz",
+  "download_time": "2025-09-17T20:40:22.702314",
   "package_url": "https://pypi.org/project/olympipe/"
 }

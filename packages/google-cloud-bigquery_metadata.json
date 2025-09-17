@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-bigquery",
+  "version": "3.38.0",
+  "summary": "Google BigQuery API client library",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "google_cloud_bigquery-3.38.0.tar.gz",
+  "download_time": "2025-09-17T20:40:10.605632",
+  "package_url": "https://pypi.org/project/google-cloud-bigquery/"
+}

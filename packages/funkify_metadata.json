@@ -1,0 +1,11 @@
+{
+  "name": "funkify",
+  "version": "0.7.0",
+  "summary": "Funkify modules so that they are callable",
+  "author": "jesse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "funkify-0.7.0.tar.gz",
+  "download_time": "2025-09-17T20:40:17.738304",
+  "package_url": "https://pypi.org/project/funkify/"
+}

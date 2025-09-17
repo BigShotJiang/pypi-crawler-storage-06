@@ -1,0 +1,11 @@
+{
+  "name": "isaac-xml-validator",
+  "version": "1.16.0",
+  "summary": "A script to validate XML files for the game 'The Binding of Isaac: Repentance'",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isaac_xml_validator-1.16.0.tar.gz",
+  "download_time": "2025-09-17T20:40:04.758910",
+  "package_url": "https://pypi.org/project/isaac-xml-validator/"
+}

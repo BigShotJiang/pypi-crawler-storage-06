@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-nbgallery",
+  "version": "3.0.1",
+  "summary": "Jupyter extensions to add nbgallery integration",
+  "author": "Ryan Festag",
+  "license": "MIT",
+  "home_page": "https://github.com/nbgallery/nbgallery-extensions",
+  "download_filename": "jupyter_nbgallery-3.0.1.tar.gz",
+  "download_time": "2025-09-17T20:40:27.935192",
+  "package_url": "https://pypi.org/project/jupyter-nbgallery/"
+}
