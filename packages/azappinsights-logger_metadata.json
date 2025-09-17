@@ -1,0 +1,11 @@
+{
+  "name": "azappinsights-logger",
+  "version": "0.0.7",
+  "summary": "A simple logging utility for sending logs to azure application insights using AzureLogHandler",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azappinsights_logger-0.0.7.tar.gz",
+  "download_time": "2025-09-17T17:17:08.216556",
+  "package_url": "https://pypi.org/project/azappinsights-logger/"
+}

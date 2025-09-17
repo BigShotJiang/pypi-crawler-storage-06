@@ -1,0 +1,11 @@
+{
+  "name": "dist-classicrl",
+  "version": "0.1.5",
+  "summary": "A high-performance Python package for distributed classical reinforcement learning algorithms with support for single-threaded, parallel, and MPI-distributed Q-Learning training.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dist_classicrl-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-17T17:17:07.692659",
+  "package_url": "https://pypi.org/project/dist-classicrl/"
+}

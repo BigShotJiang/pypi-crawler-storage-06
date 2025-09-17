@@ -1,0 +1,11 @@
+{
+  "name": "aws-message-client",
+  "version": "1.6.1",
+  "summary": "An application on which to build AWS SQS endpoints and SQS gatherers",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/aws-message-client",
+  "download_filename": "aws_message_client-1.6.1.tar.gz",
+  "download_time": "2025-09-17T17:16:59.578715",
+  "package_url": "https://pypi.org/project/aws-message-client/"
+}

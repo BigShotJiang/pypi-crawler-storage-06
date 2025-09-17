@@ -1,0 +1,11 @@
+{
+  "name": "codal-tsetmc",
+  "version": "3.1.0",
+  "summary": "Data Downloader for Codal and Tehran stock market",
+  "author": "Mohsen Ebrahimi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codal_tsetmc-3.1.0.tar.gz",
+  "download_time": "2025-09-17T17:16:59.054230",
+  "package_url": "https://pypi.org/project/codal-tsetmc/"
+}

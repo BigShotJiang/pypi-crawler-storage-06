@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T16:56:53.861492
-- **Total Packages**: 78
-- **Total Size**: 5.75 MB
+- **Download Time**: 2025-09-17T17:17:41.122397
+- **Total Packages**: 89
+- **Total Size**: 37.18 MB
 
 ## Packages List
+- pipeline-eds
+- retuve
+- FreeDynamics-simaf
+- out-workspace
+- policyengine-us
+- ai-code-commenter-vraj0703
+- instructlab-training
+- mimic-iv-analysis
+- metaprinter
+- pyThermoDB
+- codal-tsetmc
+- aws-message-client
+- pyanilist
+- mcp-openstack-ops
+- tensorchat-streaming
+- mindforge-ml
+- authentik-client
+- great-expectations-cloud
+- s-MProcs
+- espresso-mcp
+- avulto
+- MProcs
+- sqlglot
+- seabirdscientific
+- sinapsis-data-tools
+- sinapsis-data-readers
+- dist-classicrl
+- azappinsights-logger
+- trickler
+- djangocms-alias
+- mocap-converter
+- data-science-document-ai
+- anomalo
+- rasterutils
+- longdllm
+- hmfast
+- autonomize-core
+- freyja
+- ket-lang
+- phoenix-bot-api
+- SuperQwen
+- GameSentenceMiner
+- dkist-processing-common
+- aignostics
+- fetchpoint
+- trove-setup
+- django-learngual
+- nothing-less
 - PolarFlow
 - libdyson-rest
 - arq-base-python
@@ -14,7 +62,6 @@
 - doque
 - rubigram-python
 - sprocket-systems.coda.sdk
-- mimic-iv-analysis
 - lonelyguy
 - iS3-sdk
 - plaidcloud-utilities
@@ -28,7 +75,6 @@
 - aviary.lfrqa
 - aviary.hotpotqa
 - aviary.gsm8k
-- authentik-client
 - ll4mp-proyect
 - ezmsg
 - futurehouse-client
@@ -40,7 +86,6 @@
 - segmentation-model-zoo
 - dash-ag-grid
 - yeref
-- nothing-less
 - bolib3
 - django-pbsmmapi
 - estout
@@ -50,37 +95,3 @@
 - ff-storage
 - ff-logger
 - apitests
-- hypothesis-torch
-- trismik
-- cattle_grid
-- pyspedfiscal1
-- meshtrade
-- sqliteai-vector
-- nonebot-plugin-dst-qq
-- oakfs
-- datatailr
-- nsidc-metgenc
-- gammarers.aws-ec2-instance-running-schedule-stack
-- ibauth
-- mcp-server-selenium
-- pythway
-- gateau
-- openai-cost-calculator
-- mas
-- ccdexplorer-fundamentals
-- dbviz
-- footsbviz
-- zampie_utils
-- pyvelop
-- revng
-- gradient
-- ndx-ophys-devices
-- synth-mapping-helper
-- rickdex
-- eagle-cooler
-- spinenet
-- looker-sdk
-- easyclone
-- kfactory
-- gammarers.aws-sns-slack-message-lambda-subscription
-- barecat

@@ -1,0 +1,11 @@
+{
+  "name": "mocap-converter",
+  "version": "0.0.1a0",
+  "summary": "Motion capture conversion utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mocap_converter-0.0.1a0.tar.gz",
+  "download_time": "2025-09-17T17:17:09.790417",
+  "package_url": "https://pypi.org/project/mocap-converter/"
+}

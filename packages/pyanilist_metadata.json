@@ -1,0 +1,11 @@
+{
+  "name": "pyanilist",
+  "version": "0.8.2",
+  "summary": "A Python wrapper for the AniList API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyanilist-0.8.2.tar.gz",
+  "download_time": "2025-09-17T17:17:00.108544",
+  "package_url": "https://pypi.org/project/pyanilist/"
+}

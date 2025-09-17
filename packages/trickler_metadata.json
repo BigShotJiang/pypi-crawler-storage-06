@@ -1,0 +1,11 @@
+{
+  "name": "trickler",
+  "version": "0.1.2",
+  "summary": "Stream simple data to the Trickler mobile app for real-time visualization on the go",
+  "author": "Trickler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trickler-0.1.2.tar.gz",
+  "download_time": "2025-09-17T17:17:08.739886",
+  "package_url": "https://pypi.org/project/trickler/"
+}
