@@ -1,12 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T09:40:59.912462
-- **Total Packages**: 90
-- **Total Size**: 21.46 MB
+- **Download Time**: 2025-09-17T09:51:36.543579
+- **Total Packages**: 88
+- **Total Size**: 3.2 MB
 
 ## Packages List
+- aiqtoolkit-test
+- eyedentify3d
+- aiqtoolkit-weave
 - ml-exchange
+- taxonomy-connector
+- aiqtoolkit-crewai
+- rasa-pro
+- y360-orglib
+- digitalhub-runtime-kfp
+- kanuni-layer-sdk
+- digitalhub-runtime-hera
+- django-bulk-drf
+- safe-eth-py
+- authentik-client
+- pyckster
+- hhi
+- ai-import-plugin
+- semeio
+- fantasia
+- colliderml
+- neopdf-hep
+- atla-insights
+- mcp-openstack-ops
+- ecl-logging-utility
+- ds-caselaw-utils
+- mkdocstrings-matlab
 - sphinx-interrogatedb
 - tablemaster
 - red-tidegear
@@ -20,7 +45,6 @@
 - Vease-Viewer
 - obvyr-agent
 - bentoml
-- digitalhub-runtime-hera
 - neopdf-cli
 - codemie-plugins
 - fandango-fuzzer
@@ -37,7 +61,6 @@
 - OpenGeodeWeb-Viewer
 - allwise-mcp-fetch
 - esp-matter-mfg-tool
-- authentik-client
 - uncertainty-engine
 - marilib-pkg
 - langevaluate
@@ -52,12 +75,10 @@
 - seliseblocks-genesis
 - daytona_api_client
 - daytona_api_client_async
-- django-bulk-drf
 - afp-sdk
 - tbp-nightly
 - stereonet
 - pbhstat
-- digitalhub-runtime-kfp
 - DirCat
 - dataio-artpark
 - agentscope-runtime
@@ -73,26 +94,3 @@
 - napalm-eltex2448
 - greencell-client
 - vortezwohl
-- cognite-neat
-- seam
-- mcp-openstack-ops
-- fast-backend-builder
-- ai-import-plugin
-- edx-enterprise
-- chunking-strategy
-- autocleaneeg-view
-- stereonetforge-plot
-- edx-enterprise-data
-- garf-core
-- langchain-amvera
-- aird
-- textual-file-viewer
-- mytestpackage435
-- pyDbs
-- fastapi-rtk
-- mal-gui
-- mayutils
-- germanetpy
-- llama-index-workflows
-- vantage-cli
-- legit-api-client

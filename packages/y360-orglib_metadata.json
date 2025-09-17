@@ -1,0 +1,11 @@
+{
+  "name": "y360-orglib",
+  "version": "0.0.13",
+  "summary": "Unofficial Collection library for Y360 API",
+  "author": "Anton Bugrin",
+  "license": null,
+  "home_page": "https://github.com/abugrin/y360_orglib",
+  "download_filename": "y360_orglib-0.0.13.tar.gz",
+  "download_time": "2025-09-17T09:50:51.633203",
+  "package_url": "https://pypi.org/project/y360-orglib/"
+}

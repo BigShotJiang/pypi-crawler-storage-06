@@ -1,0 +1,11 @@
+{
+  "name": "taxonomy-connector",
+  "version": "2.3.12",
+  "summary": "Taxonomy connector",
+  "author": "edX",
+  "license": "MIT",
+  "home_page": "https://github.com/openedx/taxonomy-connector",
+  "download_filename": "taxonomy_connector-2.3.12.tar.gz",
+  "download_time": "2025-09-17T09:50:49.922650",
+  "package_url": "https://pypi.org/project/taxonomy-connector/"
+}

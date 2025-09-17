@@ -1,11 +1,11 @@
 {
   "name": "sphinx-interrogatedb",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Sphinx extension to enhance autodoc for interrogated modules",
   "author": "rdb",
   "license": "Modified BSD License",
   "home_page": "https://github.com/panda3d/sphinx-interrogatedb",
-  "download_filename": "sphinx_interrogatedb-2.0.0.tar.gz",
-  "download_time": "2025-09-17T09:40:07.396058",
+  "download_filename": "sphinx_interrogatedb-2.0.1.tar.gz",
+  "download_time": "2025-09-17T09:51:02.910679",
   "package_url": "https://pypi.org/project/sphinx-interrogatedb/"
 }
