@@ -1,11 +1,11 @@
 {
   "name": "mdsa-tools",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "The Weir Labs H-bond Systems Analyses modules!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mdsa_tools-1.1.1.tar.gz",
-  "download_time": "2025-09-17T17:39:02.712894",
+  "download_filename": "mdsa_tools-1.1.2.tar.gz",
+  "download_time": "2025-09-17T22:37:47.399801",
   "package_url": "https://pypi.org/project/mdsa-tools/"
 }
