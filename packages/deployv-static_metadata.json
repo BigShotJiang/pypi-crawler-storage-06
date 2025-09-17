@@ -1,0 +1,11 @@
+{
+  "name": "deployv-static",
+  "version": "0.0.64",
+  "summary": "DeployV static files: Dockerfiles, json, configs, templates",
+  "author": "Vauxoo",
+  "license": "BSD",
+  "home_page": "https://github.com/Vauxoo/deployv-static",
+  "download_filename": "deployv_static-0.0.64.tar.gz",
+  "download_time": "2025-09-17T23:37:37.284022",
+  "package_url": "https://pypi.org/project/deployv-static/"
+}

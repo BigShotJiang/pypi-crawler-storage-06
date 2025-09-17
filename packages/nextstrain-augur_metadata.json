@@ -1,0 +1,11 @@
+{
+  "name": "nextstrain-augur",
+  "version": "31.5.0",
+  "summary": "A bioinformatics toolkit for phylogenetic analysis",
+  "author": "Nextstrain developers",
+  "license": null,
+  "home_page": "https://github.com/nextstrain/augur",
+  "download_filename": "nextstrain_augur-31.5.0.tar.gz",
+  "download_time": "2025-09-17T23:37:34.558905",
+  "package_url": "https://pypi.org/project/nextstrain-augur/"
+}

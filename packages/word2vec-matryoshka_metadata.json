@@ -1,0 +1,11 @@
+{
+  "name": "word2vec-matryoshka",
+  "version": "0.1.5",
+  "summary": "Word2Vec with Matryoshka Representation Learning (Rust+PyO3), gensim-style API, numpy interop.",
+  "author": "Kelvin Liang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "word2vec_matryoshka-0.1.5.tar.gz",
+  "download_time": "2025-09-17T23:37:44.141259",
+  "package_url": "https://pypi.org/project/word2vec-matryoshka/"
+}

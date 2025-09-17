@@ -1,0 +1,11 @@
+{
+  "name": "gradio-taggrouphelper",
+  "version": "0.0.4",
+  "summary": "A fast text generator based on tagged words",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gradio_taggrouphelper-0.0.4.tar.gz",
+  "download_time": "2025-09-17T23:37:56.869402",
+  "package_url": "https://pypi.org/project/gradio-taggrouphelper/"
+}

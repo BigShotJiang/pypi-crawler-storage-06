@@ -1,11 +1,11 @@
 {
   "name": "speexaec",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python bindings for SpeexDSP audio processing library",
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "speexaec-0.1.0.tar.gz",
-  "download_time": "2025-09-17T17:39:22.738423",
+  "author": "J.David Luque",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/leitat-raise/package-speexaec",
+  "download_filename": "speexaec-0.1.2.tar.gz",
+  "download_time": "2025-09-17T23:37:52.082627",
   "package_url": "https://pypi.org/project/speexaec/"
 }

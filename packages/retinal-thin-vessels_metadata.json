@@ -1,0 +1,11 @@
+{
+  "name": "retinal-thin-vessels",
+  "version": "2.2",
+  "summary": "A Python package for analyzing thin retinal vessels and creating vessels-thickness based weight maps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retinal_thin_vessels-2.2.tar.gz",
+  "download_time": "2025-09-17T23:37:32.970586",
+  "package_url": "https://pypi.org/project/retinal-thin-vessels/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ludo-king-engine",
+  "version": "0.1.2",
+  "summary": "A pure Python implementation of the Ludo game, built for reinforcement learning and strategy testing. The engine defines deterministic rules, cleanly separates game mechanics from strategies, and requires no external libraries.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ludo_king_engine-0.1.2.tar.gz",
+  "download_time": "2025-09-17T23:37:46.790149",
+  "package_url": "https://pypi.org/project/ludo-king-engine/"
+}

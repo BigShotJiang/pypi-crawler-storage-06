@@ -1,0 +1,11 @@
+{
+  "name": "deployv",
+  "version": "0.9.220",
+  "summary": "Base for all clases and scripts in VauxooTools",
+  "author": "Tulio Ruiz",
+  "license": "BSD",
+  "home_page": "https://git.vauxoo.com/deployv/deployv",
+  "download_filename": "deployv-0.9.220.tar.gz",
+  "download_time": "2025-09-17T23:37:29.661920",
+  "package_url": "https://pypi.org/project/deployv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fedfred",
+  "version": "2.1.4",
+  "summary": "A feature-rich python package for interacting with the Federal Reserve Bank of St. Louis Economic Database: FRED",
+  "author": "Nikhil Sunder",
+  "license": "MIT",
+  "home_page": "https://github.com/nikhilxsunder/fedfred",
+  "download_filename": "fedfred-2.1.4.tar.gz",
+  "download_time": "2025-09-17T23:37:26.385706",
+  "package_url": "https://pypi.org/project/fedfred/"
+}
