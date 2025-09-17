@@ -1,0 +1,11 @@
+{
+  "name": "botmail",
+  "version": "0.2.7",
+  "summary": "Class to handle smpt and imap server for RPA apps",
+  "author": "Ben-Hur P. B. Santos",
+  "license": null,
+  "home_page": "https://github.com/botlorien/botmail",
+  "download_filename": "botmail-0.2.7.tar.gz",
+  "download_time": "2025-09-17T15:50:55.056622",
+  "package_url": "https://pypi.org/project/botmail/"
+}

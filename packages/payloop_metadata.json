@@ -1,11 +1,11 @@
 {
   "name": "payloop",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Payloop Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "payloop-0.4.4.tar.gz",
-  "download_time": "2025-09-17T14:18:47.481971",
+  "download_filename": "payloop-0.4.5.tar.gz",
+  "download_time": "2025-09-17T15:50:48.163107",
   "package_url": "https://pypi.org/project/payloop/"
 }

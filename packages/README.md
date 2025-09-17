@@ -1,15 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T15:40:56.899462
-- **Total Packages**: 92
-- **Total Size**: 33.95 MB
+- **Download Time**: 2025-09-17T15:51:22.370124
+- **Total Packages**: 81
+- **Total Size**: 6.43 MB
 
 ## Packages List
+- s-MProcs
+- acryl-executor
+- authentik-client
+- agrigee-lite
+- dotc
+- dir-assistant
+- athena-intelligence
+- ro-fsm
+- airbyte-source-google-ads
+- string-palavras
+- can-i-charge
+- kubernetes-mcp-server
+- mplchart
+- vt-config
+- oak-agent-core
+- pulumi-policy
+- sinapsis-data-tools
+- sinapsis-data-readers
+- sinapsis-data-analysis
+- iso-financial-mcp
+- gamspy
+- kitconcept.core
+- django-cfg
+- payloop
+- igdtools
+- alizahsaqiblib
+- elfen
+- kywy
+- shotgun-sh
+- cob-ai
+- pynvl-lib
+- simple-calculator-baraah-mujahid
+- kaqing
+- PySCHARE
+- botmail
+- orbax-export
+- huff
+- fastapi-basekit
+- orkera
 - hat-drivers
 - crackerjack
 - pyselectinf
-- authentik-client
 - haiku.rag
 - olympipe
 - yirgacheffe
@@ -22,9 +60,7 @@
 - tesseract-olap
 - asim
 - odoo-addon-l10n-br-account
-- gamspy
 - datajunction-server
-- dotc
 - modal
 - unique_deep_research
 - unique_toolkit
@@ -50,51 +86,4 @@
 - neptune-query
 - python-v2ray
 - dll-scanner
-- alizahsaqiblib
 - rda-python-dsarch
-- pyNFFT3
-- pangea-sdk
-- Brimview-widgets
-- iperform
-- quantconnect-stubs
-- notion-gametracker
-- vibesurf
-- cz-benchmarks
-- ctreepo
-- chisel
-- mpt-extension-sdk
-- bio-aid
-- pulumi
-- hive-nectar
-- stormvogel
-- ttnn-visualizer
-- unsloth-zoo
-- OASYS1-XOPPY
-- samgis_web
-- omnidimension
-- libPy2023
-- django-cfg
-- supabase-functions
-- supabase-auth
-- supabase
-- sibi-dst
-- testshed
-- data-repo-client
-- nonebot-plugin-npu
-- anthropic
-- ClearData
-- storage3
-- realtime
-- postgrest
-- tcp-modbus-aio
-- sgptcoder-sdk
-- cdapython
-- tms-integration
-- crawlee
-- mipi_datamanager
-- udl-sdk
-- scipion-app
-- mrio-toolbox
-- weave
-- cvat-sdk
-- cvat-cli
