@@ -1,11 +1,11 @@
 {
   "name": "HyperArgs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "HyperArgs is a typed configuration library for Python. Define settings as type-annotated classes; HyperArgs parses command-line flags, configuration files, and environment variables into a single, type-checked object, with an optional browser-based editor.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperargs-0.0.2.tar.gz",
-  "download_time": "2025-09-17T04:53:05.612919",
+  "download_filename": "hyperargs-0.0.3.tar.gz",
+  "download_time": "2025-09-17T05:40:49.322670",
   "package_url": "https://pypi.org/project/HyperArgs/"
 }

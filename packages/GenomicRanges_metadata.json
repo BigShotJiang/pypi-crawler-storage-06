@@ -1,0 +1,11 @@
+{
+  "name": "GenomicRanges",
+  "version": "0.7.3",
+  "summary": "Container class to represent and operate over genomic regions and annotations.",
+  "author": "Jayaram Kancherla",
+  "license": "MIT",
+  "home_page": "https://github.com/BiocPy/GenomicRanges",
+  "download_filename": "genomicranges-0.7.3.tar.gz",
+  "download_time": "2025-09-17T05:41:06.311847",
+  "package_url": "https://pypi.org/project/GenomicRanges/"
+}
