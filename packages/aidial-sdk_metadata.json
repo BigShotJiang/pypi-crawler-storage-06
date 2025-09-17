@@ -1,11 +1,11 @@
 {
   "name": "aidial-sdk",
-  "version": "0.25.0",
+  "version": "0.25.1",
   "summary": "Framework to create applications and model adapters for AI DIAL",
   "author": "EPAM RAIL",
   "license": "Apache-2.0",
   "home_page": "https://epam-rail.com",
-  "download_filename": "aidial_sdk-0.25.0.tar.gz",
-  "download_time": "2025-09-17T09:20:19.982183",
+  "download_filename": "aidial_sdk-0.25.1.tar.gz",
+  "download_time": "2025-09-17T16:24:21.190085",
   "package_url": "https://pypi.org/project/aidial-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "imgDedup",
+  "version": "1.0.0",
+  "summary": "图像去重工具包.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgdedup-1.0.0.tar.gz",
+  "download_time": "2025-09-17T16:24:45.535259",
+  "package_url": "https://pypi.org/project/imgDedup/"
+}

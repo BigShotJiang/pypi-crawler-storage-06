@@ -1,0 +1,11 @@
+{
+  "name": "excalidraw-mcp",
+  "version": "0.32.2",
+  "summary": "MCP server for Excalidraw diagram management with canvas sync",
+  "author": null,
+  "license": "BSD-3-CLAUSE",
+  "home_page": null,
+  "download_filename": "excalidraw_mcp-0.32.2.tar.gz",
+  "download_time": "2025-09-17T16:24:39.333872",
+  "package_url": "https://pypi.org/project/excalidraw-mcp/"
+}

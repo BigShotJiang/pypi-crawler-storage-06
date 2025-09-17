@@ -1,0 +1,11 @@
+{
+  "name": "libcoffee",
+  "version": "0.4.3",
+  "summary": "A library for compound filtering via fragment-based efficient evaluation",
+  "author": "Keisuke Yanagisawa",
+  "license": "MIT",
+  "home_page": "https://github.com/akiyamalab/libcoffee",
+  "download_filename": "libcoffee-0.4.3.tar.gz",
+  "download_time": "2025-09-17T16:24:19.642152",
+  "package_url": "https://pypi.org/project/libcoffee/"
+}

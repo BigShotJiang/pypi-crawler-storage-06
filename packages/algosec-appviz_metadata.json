@@ -1,0 +1,11 @@
+{
+  "name": "algosec-appviz",
+  "version": "0.0.10",
+  "summary": "AlgoSec AppViz Library",
+  "author": "Bogdan Radu",
+  "license": "LICENSE",
+  "home_page": "https://github.com/bogdan-iot/algosec-appviz",
+  "download_filename": "algosec_appviz-0.0.10.tar.gz",
+  "download_time": "2025-09-17T16:24:32.109656",
+  "package_url": "https://pypi.org/project/algosec-appviz/"
+}

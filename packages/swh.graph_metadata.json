@@ -1,0 +1,11 @@
+{
+  "name": "swh.graph",
+  "version": "8.0.6",
+  "summary": "Software Heritage graph service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_graph-8.0.6.tar.gz",
+  "download_time": "2025-09-17T16:24:43.469228",
+  "package_url": "https://pypi.org/project/swh.graph/"
+}

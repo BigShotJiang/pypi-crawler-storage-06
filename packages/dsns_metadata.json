@@ -1,0 +1,11 @@
+{
+  "name": "dsns",
+  "version": "1.0.0",
+  "summary": "An event-based network simulator optimized for federated and deep-space satellite networks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsns-1.0.0.tar.gz",
+  "download_time": "2025-09-17T16:24:42.442366",
+  "package_url": "https://pypi.org/project/dsns/"
+}

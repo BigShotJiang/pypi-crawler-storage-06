@@ -1,0 +1,11 @@
+{
+  "name": "oss-metrics-kit",
+  "version": "0.1.1",
+  "summary": "Unified toolkit to fetch, normalize, score, and export OSS contribution metrics.",
+  "author": "refactoring-my-path",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oss_metrics_kit-0.1.1.tar.gz",
+  "download_time": "2025-09-17T16:24:32.636780",
+  "package_url": "https://pypi.org/project/oss-metrics-kit/"
+}
