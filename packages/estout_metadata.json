@@ -1,0 +1,11 @@
+{
+  "name": "estout",
+  "version": "0.0.5",
+  "summary": "Collect regression results and export them to LaTex and pdf",
+  "author": "Mihai Ion",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/ionmihai/estout",
+  "download_filename": "estout-0.0.5.tar.gz",
+  "download_time": "2025-09-17T16:56:30.715471",
+  "package_url": "https://pypi.org/project/estout/"
+}

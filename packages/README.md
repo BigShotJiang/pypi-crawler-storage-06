@@ -1,23 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T16:46:04.998075
-- **Total Packages**: 85
-- **Total Size**: 21.88 MB
+- **Download Time**: 2025-09-17T16:56:53.861492
+- **Total Packages**: 78
+- **Total Size**: 5.75 MB
 
 ## Packages List
-- hypothesis-torch
-- trismik
-- cattle_grid
+- PolarFlow
+- libdyson-rest
+- arq-base-python
+- gable
+- perceptic-core-client
+- doque
+- rubigram-python
+- sprocket-systems.coda.sdk
+- mimic-iv-analysis
+- lonelyguy
+- iS3-sdk
+- plaidcloud-utilities
+- kartverkets-api
+- PySujanam
+- open-edison
+- aviary.notebook
+- llama-index-llms-baseten
 - fhaviary
 - aviary.litqa
 - aviary.lfrqa
 - aviary.hotpotqa
 - aviary.gsm8k
+- authentik-client
+- ll4mp-proyect
+- ezmsg
+- futurehouse-client
+- harmonics-bio
+- misfits
+- fMOST-Seg
+- panda-client
+- panda-client-light
+- segmentation-model-zoo
+- dash-ag-grid
+- yeref
+- nothing-less
+- bolib3
+- django-pbsmmapi
+- estout
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- ff-storage
+- ff-logger
+- apitests
+- hypothesis-torch
+- trismik
+- cattle_grid
 - pyspedfiscal1
 - meshtrade
 - sqliteai-vector
-- bolib3
 - nonebot-plugin-dst-qq
 - oakfs
 - datatailr
@@ -29,15 +67,11 @@
 - gateau
 - openai-cost-calculator
 - mas
-- yeref
-- authentik-client
 - ccdexplorer-fundamentals
 - dbviz
-- lonelyguy
 - footsbviz
 - zampie_utils
 - pyvelop
-- dash-ag-grid
 - revng
 - gradient
 - ndx-ophys-devices
@@ -50,44 +84,3 @@
 - kfactory
 - gammarers.aws-sns-slack-message-lambda-subscription
 - barecat
-- mcp-docker-server
-- cgohlke
-- debugpy
-- deepbridge
-- refurb
-- koba
-- letschatty
-- machine-dialect
-- harmonics-bio
-- kosh
-- evalsense
-- vellum-ai
-- dbt-common
-- assemblyline-core
-- mmar-utils
-- PySCHARE
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- handit-ai
-- iagro-sdk
-- code-puppy
-- tinyloop
-- typeagent-py
-- great-expectations-cloud
-- stactask
-- kubernetes-watch
-- breathe-design
-- oak-agent-core
-- perceptron
-- music-melodicdevice
-- oslex2
-- ro-fsm
-- alita-sdk
-- testit-importer-allure
-- mkdocs-to-kirby
-- uipath
-- prettysimplelogging
-- gdsfill

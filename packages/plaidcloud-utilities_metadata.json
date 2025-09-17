@@ -1,0 +1,11 @@
+{
+  "name": "plaidcloud-utilities",
+  "version": "1.8.9",
+  "summary": "PlaidCloud Common Utilities for PlaidLink, PlaidXL and Custom Transforms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plaidcloud_utilities-1.8.9.tar.gz",
+  "download_time": "2025-09-17T16:56:17.029541",
+  "package_url": "https://pypi.org/project/plaidcloud-utilities/"
+}

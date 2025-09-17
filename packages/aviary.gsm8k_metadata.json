@@ -1,11 +1,11 @@
 {
   "name": "aviary.gsm8k",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "summary": "GSM8k environment implemented with aviary",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aviary_gsm8k-0.24.0-py3-none-any.whl",
-  "download_time": "2025-09-17T16:45:19.996085",
+  "download_filename": "aviary_gsm8k-0.24.1-py3-none-any.whl",
+  "download_time": "2025-09-17T16:56:22.183145",
   "package_url": "https://pypi.org/project/aviary.gsm8k/"
 }
