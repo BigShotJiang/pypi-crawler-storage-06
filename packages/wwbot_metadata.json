@@ -1,0 +1,11 @@
+{
+  "name": "wwbot",
+  "version": "0.0.17",
+  "summary": "A library for dealing with messages in WeWork",
+  "author": "tbbatbb",
+  "license": null,
+  "home_page": "https://github.com/tbbatbb/WeWorkBot",
+  "download_filename": "wwbot-0.0.17.tar.gz",
+  "download_time": "2025-09-17T07:51:21.030397",
+  "package_url": "https://pypi.org/project/wwbot/"
+}

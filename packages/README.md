@@ -1,13 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T07:38:29.997138
-- **Total Packages**: 80
-- **Total Size**: 22.98 MB
+- **Download Time**: 2025-09-17T07:52:02.221860
+- **Total Packages**: 79
+- **Total Size**: 5.55 MB
 
 ## Packages List
-- Geode-Numerics
+- cw-rpa
+- zebubot
+- common-packages
+- eyes17lib
+- tft-cli
+- annet
+- lingxingapi
+- sarm-sdk
+- mcpadapt
+- openplx-bundles
+- wwbot
+- langswarm
+- qweb
 - JobTitleTransformer
+- my-fastapi-scaffold
+- pywxwork
+- cozeloop
+- Geode-Numerics
 - ncatbot
 - moku
 - authentik-client
@@ -27,7 +43,6 @@
 - revengai
 - curvefitgui
 - codemie-mcp-assistants
-- common-packages
 - skillcorner-on-demand
 - TyphonBreaker
 - kbcstorage
@@ -49,9 +64,7 @@
 - auto-vtna
 - experiment-generator
 - casbin-async-sqlalchemy-adapter
-- my-fastapi-scaffold
 - pyagenity-api
-- zebubot
 - clipfx
 - plua
 - svfmt-pkg
@@ -72,17 +85,3 @@
 - onnxscript
 - pixverse-ai-v2
 - tritonparse
-- aas-http-client
-- odoo-addon-mis-builder
-- odoo-addon-mis-builder-budget
-- recis-gpu
-- hcai-discover
-- anki-release
-- awsquery
-- aqt
-- anki
-- tkmapx
-- commondao
-- pitchoune
-- streamlit-nightly
-- superlinked-server

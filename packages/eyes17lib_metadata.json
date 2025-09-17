@@ -1,0 +1,11 @@
+{
+  "name": "eyes17lib",
+  "version": "1.2.4",
+  "summary": "Python package for SEELab3/ExpEYES17 library",
+  "author": "Jithin B.P",
+  "license": null,
+  "home_page": "https://github.com/csparkresearch/expeyes17",
+  "download_filename": "eyes17lib-1.2.4.tar.gz",
+  "download_time": "2025-09-17T07:51:16.363405",
+  "package_url": "https://pypi.org/project/eyes17lib/"
+}

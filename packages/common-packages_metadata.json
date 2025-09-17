@@ -1,11 +1,11 @@
 {
   "name": "common-packages",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "封装了一些常用功能,GitHub: https://github.com/jiangwenfan/common_packages/tree/main",
   "author": "evans.jiang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "common_packages-0.2.9.tar.gz",
-  "download_time": "2025-09-17T07:37:55.749464",
+  "download_filename": "common_packages-0.2.10.tar.gz",
+  "download_time": "2025-09-17T07:51:15.785916",
   "package_url": "https://pypi.org/project/common-packages/"
 }
