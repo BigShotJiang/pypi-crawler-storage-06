@@ -1,0 +1,11 @@
+{
+  "name": "libwebm-py",
+  "version": "2025.1.0.dev0",
+  "summary": "Python bindings for libwebm (via nanobind)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libwebm_py-2025.1.0.dev0-cp311-cp311-macosx_14_0_arm64.whl",
+  "download_time": "2025-09-17T04:42:10.604915",
+  "package_url": "https://pypi.org/project/libwebm-py/"
+}

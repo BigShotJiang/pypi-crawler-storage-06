@@ -1,0 +1,11 @@
+{
+  "name": "intelligent-automl",
+  "version": "1.1.1",
+  "summary": "Intelligent AutoML Framework with comprehensive multi-metric evaluation and AI-driven optimization",
+  "author": "Ahmed Mansour",
+  "license": "MIT",
+  "home_page": "https://github.com/AhmedMansour1070/intelligent-automl",
+  "download_filename": "intelligent_automl-1.1.1.tar.gz",
+  "download_time": "2025-09-17T04:42:16.436943",
+  "package_url": "https://pypi.org/project/intelligent-automl/"
+}

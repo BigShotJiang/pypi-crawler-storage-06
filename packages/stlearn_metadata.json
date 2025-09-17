@@ -1,0 +1,11 @@
+{
+  "name": "stlearn",
+  "version": "1.1.5",
+  "summary": "A downstream analysis toolkit for Spatial Transcriptomic data",
+  "author": null,
+  "license": "BSD license",
+  "home_page": null,
+  "download_filename": "stlearn-1.1.5.tar.gz",
+  "download_time": "2025-09-17T04:42:18.549974",
+  "package_url": "https://pypi.org/project/stlearn/"
+}

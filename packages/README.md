@@ -1,18 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T04:22:59.843477
-- **Total Packages**: 86
-- **Total Size**: 63.31 MB
+- **Download Time**: 2025-09-17T04:42:47.663743
+- **Total Packages**: 81
+- **Total Size**: 16.64 MB
 
 ## Packages List
+- nexaai
+- japick
+- HyperArgs
+- cc12703-uiautomator2
+- sift-stack-py
+- authentik-client
+- bluer-algo
+- nuro
+- GPALexp
+- YetAnotherPicSearch
+- lusid-sdk
+- libwebm-py
+- hds
+- jettask
+- codeup
+- manim-voiceover-plus
+- getout-of-text-3
+- youtube-colab-proxy
+- orionis
+- pterradactyl
+- mcd-regression
+- cpdts
+- intelligent-automl
+- ciuv
+- camel-kenlm
+- gpubackendtools-cuda12x
+- stlearn
+- adxp-cli
+- gpubackendtools-cuda11x
+- myntapi
 - gpubackendtools
 - zsl-ma
 - odoo14-addon-ssi-consulting
 - adxp-sdk
 - threepio-test-runner
-- manim-voiceover-plus
-- orionis
 - OSL-CGCD
 - telnetlib3
 - fantastic
@@ -27,7 +55,6 @@
 - qpool
 - superflag
 - formant
-- authentik-client
 - maleo-security
 - InvokeAI
 - media-downloader
@@ -39,7 +66,6 @@
 - scc-firewall-manager-sdk
 - num2word-uz
 - mcp-openstack-ops
-- nuro
 - nonebot-plugin-picstatus
 - ariel-data-preprocessing
 - chromedriver-binary
@@ -55,40 +81,9 @@
 - data-repository
 - python-hwpx
 - splurge-test-namer
-- youtube-colab-proxy
 - hytest
 - voxcity
 - pycompound
 - sora-sdk
 - odoo-addon-shopfloor
 - whl-conf
-- jettask
-- ccux
-- novita-sandbox
-- psychopy-eyetracker-pupil-labs
-- xiaozhi-sdk
-- funboost
-- running-process
-- pydisort
-- odoo-addon-base-changeset
-- odoo-addon-autovacuum-message-attachment
-- odoo-addon-base-name-search-improved
-- xensegripper
-- nrgrank
-- pandashifu
-- keras-nightly
-- perforatedai
-- odoo-addon-connector-search-engine
-- odoo-addon-connector-typesense
-- odoo-addon-sale-order-transmit-method
-- pulumi-dbtcloud
-- odoo-addons-oca-sale-workflow
-- spellbot
-- ibridges
-- GPALexp
-- t6rcon
-- pyspecan
-- odoo-addons-oca-rma
-- odoo-addon-rma
-- colocal
-- mcp-devtools
