@@ -1,0 +1,11 @@
+{
+  "name": "enterprise-models",
+  "version": "0.1.4",
+  "summary": "My Django models package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enterprise_models-0.1.4.tar.gz",
+  "download_time": "2025-09-17T04:53:10.568516",
+  "package_url": "https://pypi.org/project/enterprise-models/"
+}

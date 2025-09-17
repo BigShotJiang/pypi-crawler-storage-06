@@ -1,17 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T04:42:47.663743
-- **Total Packages**: 81
-- **Total Size**: 16.64 MB
+- **Download Time**: 2025-09-17T04:53:48.119571
+- **Total Packages**: 82
+- **Total Size**: 15.44 MB
 
 ## Packages List
+- bosa-connectors-binary
+- camel-tools
+- langchain-polaris-ai-datainsight
+- authentik-client
+- HyperArgs
+- scRegulate
+- getout-of-text-3
+- iamdata
+- sfu-torch-lib
+- zsl-ma
+- ansible-tower-mcp
+- slamd
+- enterprise-models
+- macro-flow
+- gimlet-api
+- mineru-vl-utils
+- datalayer
+- page-eyes
+- passuth
 - nexaai
 - japick
-- HyperArgs
 - cc12703-uiautomator2
 - sift-stack-py
-- authentik-client
 - bluer-algo
 - nuro
 - GPALexp
@@ -22,7 +39,6 @@
 - jettask
 - codeup
 - manim-voiceover-plus
-- getout-of-text-3
 - youtube-colab-proxy
 - orionis
 - pterradactyl
@@ -37,7 +53,6 @@
 - gpubackendtools-cuda11x
 - myntapi
 - gpubackendtools
-- zsl-ma
 - odoo14-addon-ssi-consulting
 - adxp-sdk
 - threepio-test-runner
@@ -73,17 +88,3 @@
 - py-pglite
 - odoo14-addons-oca-vertical-association
 - netra-sdk
-- odoo-addons-oca-timesheet
-- tidyspss
-- odoo-addon-fs-attachment-s3
-- vibesurf
-- odoo-addons-oca-stock-logistics-workflow
-- data-repository
-- python-hwpx
-- splurge-test-namer
-- hytest
-- voxcity
-- pycompound
-- sora-sdk
-- odoo-addon-shopfloor
-- whl-conf
