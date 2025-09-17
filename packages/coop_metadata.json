@@ -1,0 +1,11 @@
+{
+  "name": "coop",
+  "version": "7.0.0",
+  "summary": "Standard base to build Wagtail sites from",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "coop-7.0.0.tar.gz",
+  "download_time": "2025-09-17T06:29:20.532530",
+  "package_url": "https://pypi.org/project/coop/"
+}
