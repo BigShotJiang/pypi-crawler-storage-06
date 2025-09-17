@@ -1,15 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T20:40:51.260494
-- **Total Packages**: 90
-- **Total Size**: 30.08 MB
+- **Download Time**: 2025-09-17T20:52:14.914445
+- **Total Packages**: 95
+- **Total Size**: 14.6 MB
 
 ## Packages List
+- sentry-protos
+- crossmark-jotform-api
+- sqlmesh
+- tencentcloud-sdk-python-intl-en
+- nested-multipart-parser
+- crc-bonfire
+- minha-biblioteca-pitagoras
+- istonaoexiste
+- pydynamodb
+- tcloud
+- beaver-db
+- deepagents
+- codext
+- minha-biblioteca-as
+- pepeline
+- gommit
+- codegen
+- infdb
+- shillelagh-gristapi
+- NREL-elm
+- accqsure
+- scriptflow
+- nous
+- smallworld-re
+- sphinx-llms-txt
+- rag-techlib
 - path2dream-agents
 - funkcache
 - gtfs-django
-- gommit
 - statsig-python-core
 - cybrid-api-organization-python
 - cybrid-api-bank-python
@@ -55,7 +80,6 @@
 - gammarers.aws-rds-database-running-schedule-stack
 - union
 - syncloud-lib
-- infdb
 - botocore-stubs
 - jupyter-nbgallery
 - pytidycensus
@@ -77,22 +101,3 @@
 - mlrun-pipelines-kfp-v1-8
 - mlrun-pipelines-kfp-common
 - pulumi
-- bedrock-agentcore-starter-toolkit
-- minha-biblioteca-math
-- gam7
-- attp_core
-- thonny-lmvibe
-- box-ai-agents-toolkit
-- py-1151
-- filebuttons
-- pulumi-azure
-- agenthub-sdk
-- toolr
-- datacontract-helper
-- psutil
-- llm-detector
-- localstack-core
-- odoo-addon-l10n-br-fiscal
-- inference-sdk
-- inference-gpu
-- inference-cpu
