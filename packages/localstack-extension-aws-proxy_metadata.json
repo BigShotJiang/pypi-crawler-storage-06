@@ -1,0 +1,11 @@
+{
+  "name": "localstack-extension-aws-proxy",
+  "version": "0.2.0",
+  "summary": "LocalStack AWS Proxy Extension",
+  "author": "LocalStack Team",
+  "license": null,
+  "home_page": "https://github.com/localstack/localstack-extensions/tree/main/aws-proxy",
+  "download_filename": "localstack_extension_aws_proxy-0.2.0.tar.gz",
+  "download_time": "2025-09-17T10:52:36.761749",
+  "package_url": "https://pypi.org/project/localstack-extension-aws-proxy/"
+}

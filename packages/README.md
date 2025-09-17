@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T10:42:46.940918
-- **Total Packages**: 81
-- **Total Size**: 29.57 MB
+- **Download Time**: 2025-09-17T10:53:12.083036
+- **Total Packages**: 80
+- **Total Size**: 28.57 MB
 
 ## Packages List
+- opik
+- tobiko-cloud-helpers
+- authentik-client
+- tobiko-cloud-api-client
+- linkup-sdk
+- tobiko-cloud-pydantic
+- gstlearn
+- gdsfactoryplus
+- DLMS-SPODES-client
+- neopdf-hep
+- aidev-agent
+- matchbox-db
+- fraiseql
+- myapp-betrand1999
+- neopdf-cli
+- localstack-extension-aws-proxy
+- hicue
+- ppio-sandbox
+- konduktor-nightly
+- django-cms
+- sphinx-js
+- trainy-policy-nightly
+- odoo-addon-donation-base
+- tabpfn
+- garf-core
+- a2py
+- letta-nightly
 - mtcli-volume
 - revng
 - github-actions-wizard
@@ -16,14 +43,12 @@
 - pyray-tompy
 - pytilpack
 - django-profileboard
-- authentik-client
 - definite-sdk
 - uvulog
 - smb2-gym
 - coveo-stew
 - localstack-core
 - singer-encodings
-- hicue
 - ai-edge-torch-nightly
 - lesscode-charts
 - firefw
@@ -32,7 +57,6 @@
 - odoo-addon-account-financial-risk
 - instaui
 - pysaten
-- myapp-betrand1999
 - llm-proxy-ondemand
 - imglp
 - SimbioReader
@@ -62,28 +86,3 @@
 - kuavo-humanoid-sdk
 - linkmotion
 - typeagent-py
-- red-tidegear
-- qd2-node
-- ptiistild
-- nonebot-plugin-comment-analysis
-- hhi
-- kospex
-- MProcs
-- uplang
-- aiida-pythonjob
-- alidaparse
-- AminoExtract
-- linkup-sdk
-- kibernikto
-- chift
-- MaRDMO
-- agentscope
-- nonebot-plugin-picstatus
-- beaver-db
-- lhcb-ftcalib
-- mcp-openstack-ops
-- tf-keras-nightly
-- haiku.rag
-- ethoPyRT
-- assistants-framework
-- odoo-addon-mis-builder
