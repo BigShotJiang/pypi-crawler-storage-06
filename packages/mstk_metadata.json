@@ -1,0 +1,11 @@
+{
+  "name": "mstk",
+  "version": "0.3.29",
+  "summary": "Molecular simulation toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mstk-0.3.29.tar.gz",
+  "download_time": "2025-09-17T23:17:55.131670",
+  "package_url": "https://pypi.org/project/mstk/"
+}
