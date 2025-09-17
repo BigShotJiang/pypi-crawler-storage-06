@@ -1,11 +1,11 @@
 {
   "name": "uvulog",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A simple logger for console and file logging, with colored output and log rotation.",
   "author": "Lupnis J H",
   "license": "MIT",
   "home_page": "https://github.com/lupnis/uvulog",
-  "download_filename": "uvulog-1.0.3.tar.gz",
-  "download_time": "2025-09-17T10:42:08.939482",
+  "download_filename": "uvulog-1.0.4.tar.gz",
+  "download_time": "2025-09-17T11:27:50.571918",
   "package_url": "https://pypi.org/project/uvulog/"
 }

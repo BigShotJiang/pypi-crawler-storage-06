@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-gelato",
+  "version": "0.1.0",
+  "summary": "MCP server for Gelato print-on-demand API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_gelato-0.1.0.tar.gz",
+  "download_time": "2025-09-17T11:27:58.436036",
+  "package_url": "https://pypi.org/project/mcp-server-gelato/"
+}

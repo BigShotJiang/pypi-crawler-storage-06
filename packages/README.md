@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T11:16:11.002431
-- **Total Packages**: 89
-- **Total Size**: 46.99 MB
+- **Download Time**: 2025-09-17T11:28:35.374854
+- **Total Packages**: 92
+- **Total Size**: 15.93 MB
 
 ## Packages List
+- eodag-labextension
+- aheadworks-deploy-manager
+- aer-gel-annotate
+- pyweclapp
+- odoo-addon-stock-picking-batch-planner
+- gov-uk-dashboards
+- pypck
+- uvulog
+- ethoPyRT
+- devflux-stock-mcp
+- authentik-client
+- yfinance
+- EqUMP
+- hyperspace-py
+- search-algorithms-pack
+- chain-semantic-splitter
+- rasa-pro
+- django-cfg
+- distinanet
+- locust
+- kedro-telemetry
+- evalsense
+- mcp-server-gelato
+- django-bulk-triggers
+- segmentation-model-zoo
+- ansys-meshing-prime
+- cybersailor
+- gpt-researcher
+- vesin
+- tb-nightly
+- vesin-torch
+- poemai-utils
 - habana-pyhlml
 - habana-media-loader
 - featomic
@@ -40,9 +72,7 @@
 - uni-pytorch
 - infrahub-sync
 - oarepo-model
-- django-bulk-triggers
 - ViennaLS
-- authentik-client
 - haiway
 - psiutils
 - conv-allocator
@@ -68,30 +98,3 @@
 - postgresql-charms-single-kernel
 - statcheck
 - rbacx
-- msword
-- uiautodev
-- koba
-- instaui-tdesign
-- gravixlayer
-- cycode
-- SciQLopPlots
-- auto-wrench
-- python-ai-ragbot
-- odoo-addon-payment-partner
-- v3io-frames
-- opik
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- linkup-sdk
-- tobiko-cloud-pydantic
-- gstlearn
-- gdsfactoryplus
-- DLMS-SPODES-client
-- neopdf-hep
-- aidev-agent
-- matchbox-db
-- fraiseql
-- myapp-betrand1999
-- neopdf-cli
-- localstack-extension-aws-proxy
-- ppio-sandbox
