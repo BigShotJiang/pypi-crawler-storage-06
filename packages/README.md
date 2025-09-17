@@ -1,17 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-17T11:40:56.374999
-- **Total Packages**: 94
-- **Total Size**: 29.5 MB
+- **Download Time**: 2025-09-17T11:52:14.954212
+- **Total Packages**: 91
+- **Total Size**: 28.74 MB
 
 ## Packages List
+- tarzi
+- rational-linkages
+- authentik-client
+- xfem
+- mwrpy
+- pytest-embedded-nuttx
+- pytest-embedded-wokwi
+- pytest-embedded-arduino
+- aidev-agent
+- pytest-embedded-qemu
+- pytest-embedded-jtag
+- pytest-embedded-idf
+- pytest-embedded-serial-esp
+- vibetools
+- pytest-embedded-serial
+- pytest-embedded
+- mx-bluesky
+- devtron-cli
+- qualifire
+- gimera
+- odoo-addon-l10n-br-nfse
+- mcp-server-selenium
+- napalm-eltex2448
+- semanticanalyser-py
+- iflow-mcp-fastmcp-data-analysis-server
+- sqlglot
+- api-foundry-query-engine
+- changedetection.io
+- air
+- vyomcloudbridge
+- thonny-lmvibe
+- smooth-py
+- tablestore
+- speXtra
+- nemo-evaluator-launcher
+- otrs-somconnexio
+- nonebot-plugin-comment-analysis
+- agrigee-lite
+- tower
+- swarmit
+- harmony-service-lib
+- cloudnet-api-client
+- heros-boss
+- pybhpt
+- cache-dit
 - demo-package-greeting
 - uharfbuzz
 - cmem-plugin-llm
 - ormantism
 - hv-anndata
-- authentik-client
 - dtpyfw
 - draive
 - runwayml
@@ -22,7 +66,6 @@
 - unicodec
 - webknossos
 - cluster_tools
-- nonebot-plugin-comment-analysis
 - tterp-cores
 - fonttools
 - seerep-grpc
@@ -54,49 +97,3 @@
 - rasa-pro
 - django-cfg
 - locust
-- kedro-telemetry
-- evalsense
-- mcp-server-gelato
-- django-bulk-triggers
-- segmentation-model-zoo
-- ansys-meshing-prime
-- cybersailor
-- gpt-researcher
-- vesin
-- tb-nightly
-- vesin-torch
-- poemai-utils
-- habana-pyhlml
-- habana-media-loader
-- featomic
-- pthelma
-- quantag
-- uplang
-- attp_core
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- tsadmetrics
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- cgse-common
-- cgse
-- datacontract-helper
-- cgse-dummy
-- instaui-shiki
-- mcp-sqlalchemy
-- TubeZ
-- aioeasysqlite
-- moyopy
-- neptoon
-- vyomcloudbridge
-- uni-tensorflow
-- uni-pytorch
-- infrahub-sync
-- oarepo-model
-- ViennaLS

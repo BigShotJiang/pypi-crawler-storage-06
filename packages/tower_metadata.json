@@ -1,0 +1,11 @@
+{
+  "name": "tower",
+  "version": "0.3.30",
+  "summary": "Tower CLI and runtime environment for Tower.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tower-0.3.30.tar.gz",
+  "download_time": "2025-09-17T11:51:46.556759",
+  "package_url": "https://pypi.org/project/tower/"
+}

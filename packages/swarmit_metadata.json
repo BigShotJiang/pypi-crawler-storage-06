@@ -1,0 +1,11 @@
+{
+  "name": "swarmit",
+  "version": "0.4.5",
+  "summary": "Run Your Own Robot Swarm Testbed.",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "swarmit-0.4.5.tar.gz",
+  "download_time": "2025-09-17T11:51:47.205507",
+  "package_url": "https://pypi.org/project/swarmit/"
+}
