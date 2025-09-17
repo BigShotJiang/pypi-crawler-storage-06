@@ -1,11 +1,11 @@
 {
   "name": "my-fastapi-scaffold",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "一个功能完备的企业级 FastAPI 脚手架",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "my_fastapi_scaffold-0.3.5.tar.gz",
-  "download_time": "2025-09-17T08:24:56.391529",
+  "download_filename": "my_fastapi_scaffold-0.3.7.tar.gz",
+  "download_time": "2025-09-17T08:46:40.388824",
   "package_url": "https://pypi.org/project/my-fastapi-scaffold/"
 }

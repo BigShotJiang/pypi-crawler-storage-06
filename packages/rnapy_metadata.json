@@ -1,0 +1,11 @@
+{
+  "name": "rnapy",
+  "version": "3.0",
+  "summary": "Unified RNA Analysis Toolkit - ML-powered RNA sequence analysis and structure prediction",
+  "author": "Linorman",
+  "license": null,
+  "home_page": "https://github.com/linorman/rnapy",
+  "download_filename": "rnapy-3.0.tar.gz",
+  "download_time": "2025-09-17T08:46:54.260595",
+  "package_url": "https://pypi.org/project/rnapy/"
+}

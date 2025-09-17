@@ -1,0 +1,11 @@
+{
+  "name": "pytest-smart-debugger-backend",
+  "version": "0.0.3",
+  "summary": "Backend server for Pytest Smart Debugger",
+  "author": "Tymofii Shchetilin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_smart_debugger_backend-0.0.3.tar.gz",
+  "download_time": "2025-09-17T08:46:57.949865",
+  "package_url": "https://pypi.org/project/pytest-smart-debugger-backend/"
+}
