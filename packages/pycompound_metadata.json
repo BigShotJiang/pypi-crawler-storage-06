@@ -1,11 +1,11 @@
 {
   "name": "pycompound",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "summary": "Python package to perform compound identification in mass spectrometry via spectral library matching.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycompound-0.0.10.tar.gz",
-  "download_time": "2025-09-17T04:22:40.821503",
+  "download_filename": "pycompound-0.1.0.tar.gz",
+  "download_time": "2025-09-17T05:18:09.598963",
   "package_url": "https://pypi.org/project/pycompound/"
 }

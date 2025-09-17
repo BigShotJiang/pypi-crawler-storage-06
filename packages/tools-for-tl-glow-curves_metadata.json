@@ -1,0 +1,11 @@
+{
+  "name": "tools-for-tl-glow-curves",
+  "version": "1.0.0",
+  "summary": "Python tools for analyzing Thermoluminescence (TL) glow curves",
+  "author": "Jorge Eduardo Tenopala Peralta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tools_for_tl_glow_curves-1.0.0.tar.gz",
+  "download_time": "2025-09-17T05:18:02.000297",
+  "package_url": "https://pypi.org/project/tools-for-tl-glow-curves/"
+}
