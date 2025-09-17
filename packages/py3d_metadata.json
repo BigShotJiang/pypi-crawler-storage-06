@@ -1,0 +1,11 @@
+{
+  "name": "py3d",
+  "version": "0.1.91",
+  "summary": "py3d is a pure and lightweight python library of 3d data structures and functions, which can deal with points, lines, planes and 3d meshes in batches, and also visualize them. All the actions can be done in a jupyter notebook.",
+  "author": "Tumiz",
+  "license": "GPL-3.0 License",
+  "home_page": "https://tumiz.github.io/py3d/",
+  "download_filename": "py3d-0.1.91.tar.gz",
+  "download_time": "2025-09-17T14:18:44.852382",
+  "package_url": "https://pypi.org/project/py3d/"
+}

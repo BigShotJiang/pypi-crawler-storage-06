@@ -1,0 +1,11 @@
+{
+  "name": "antares-timeseries-generation",
+  "version": "0.1.8",
+  "summary": "Timeseries generation library aiming at creating input data for Antares simulator studies.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "antares_timeseries_generation-0.1.8.tar.gz",
+  "download_time": "2025-09-17T14:18:13.823257",
+  "package_url": "https://pypi.org/project/antares-timeseries-generation/"
+}

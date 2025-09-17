@@ -1,0 +1,11 @@
+{
+  "name": "cwt",
+  "version": "3.2.0",
+  "summary": "A Python implementation of CWT/COSE.",
+  "author": "Ajitomi Daisuke",
+  "license": "MIT",
+  "home_page": "https://github.com/dajiaji/python-cwt",
+  "download_filename": "cwt-3.2.0.tar.gz",
+  "download_time": "2025-09-17T14:18:10.090431",
+  "package_url": "https://pypi.org/project/cwt/"
+}

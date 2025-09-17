@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-widget-url-advanced",
+  "version": "18.0.1.0.0.2",
+  "summary": "This module extends URL widget for displaying anchors with custom labels.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_widget_url_advanced-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-17T14:18:29.048133",
+  "package_url": "https://pypi.org/project/odoo-addon-web-widget-url-advanced/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "thonny-lmvibe",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Little mans vibe coding assistant integrated into Thonny IDE.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thonny_lmvibe-0.9.2.tar.gz",
-  "download_time": "2025-09-17T11:51:41.875289",
+  "download_filename": "thonny_lmvibe-0.9.3.tar.gz",
+  "download_time": "2025-09-17T14:18:21.056148",
   "package_url": "https://pypi.org/project/thonny-lmvibe/"
 }
