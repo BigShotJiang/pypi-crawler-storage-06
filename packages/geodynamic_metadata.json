@@ -1,0 +1,11 @@
+{
+  "name": "geodynamic",
+  "version": "0.0.30",
+  "summary": "Geometric tools for parsing GeoGebra construction, proccess with manim animation and export to SVG",
+  "author": "ivaleo",
+  "license": null,
+  "home_page": "https://gitlab.mathem.ru/",
+  "download_filename": "geodynamic-0.0.30.tar.gz",
+  "download_time": "2025-09-18T10:52:58.045177",
+  "package_url": "https://pypi.org/project/geodynamic/"
+}

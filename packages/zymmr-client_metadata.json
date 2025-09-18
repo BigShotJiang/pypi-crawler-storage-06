@@ -1,0 +1,11 @@
+{
+  "name": "zymmr-client",
+  "version": "0.1.0",
+  "summary": "Python client library for Zymmr Project Management API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zymmr_client-0.1.0.tar.gz",
+  "download_time": "2025-09-18T10:52:45.637583",
+  "package_url": "https://pypi.org/project/zymmr-client/"
+}

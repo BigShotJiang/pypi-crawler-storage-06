@@ -1,0 +1,11 @@
+{
+  "name": "OpenPartsLibrary",
+  "version": "0.1.13",
+  "summary": "Python library for creating a database of hardware components for manufacturing",
+  "author": "Aleksander Sadowski",
+  "license": "MIT",
+  "home_page": "https://github.com/alekssadowski95/OpenPartsLibrary",
+  "download_filename": "openpartslibrary-0.1.13.tar.gz",
+  "download_time": "2025-09-18T10:52:51.330017",
+  "package_url": "https://pypi.org/project/OpenPartsLibrary/"
+}

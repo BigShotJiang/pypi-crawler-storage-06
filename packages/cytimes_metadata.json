@@ -1,0 +1,11 @@
+{
+  "name": "cytimes",
+  "version": "2.0.8",
+  "summary": "Make working with datetimes in Python simpler and more powerful.",
+  "author": "Jiefu Chen",
+  "license": "MIT license, Apache License 2.0, BSD 3-Clause",
+  "home_page": "https://github.com/AresJef/cyTimes",
+  "download_filename": "cytimes-2.0.8.tar.gz",
+  "download_time": "2025-09-18T10:52:44.605775",
+  "package_url": "https://pypi.org/project/cytimes/"
+}

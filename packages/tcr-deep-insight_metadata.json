@@ -1,0 +1,11 @@
+{
+  "name": "tcr-deep-insight",
+  "version": "1.0.2.1",
+  "summary": "tcr_deep_insight",
+  "author": "Ziwei Xue",
+  "license": null,
+  "home_page": "https://github.com/WanluLiuLab/TCR-DeepInsight",
+  "download_filename": "tcr_deep_insight-1.0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-18T10:52:36.268640",
+  "package_url": "https://pypi.org/project/tcr-deep-insight/"
+}
