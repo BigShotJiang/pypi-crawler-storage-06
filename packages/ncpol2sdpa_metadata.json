@@ -1,0 +1,11 @@
+{
+  "name": "ncpol2sdpa",
+  "version": "1.14.0",
+  "summary": "Solve global polynomial optimization problems of either commutative variables or noncommutative operators through a semidefinite programming (SDP) relaxation",
+  "author": "Peter Wittek",
+  "license": "LICENSE",
+  "home_page": "https://github.com/peterjbrown519/ncpol2sdpa",
+  "download_filename": "ncpol2sdpa-1.14.0.tar.gz",
+  "download_time": "2025-09-18T12:39:11.695958",
+  "package_url": "https://pypi.org/project/ncpol2sdpa/"
+}

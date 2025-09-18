@@ -1,0 +1,11 @@
+{
+  "name": "json-line-logger",
+  "version": "0.0.10",
+  "summary": "Configs for python's logging library to have a JSONL-log",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/json_line_logger",
+  "download_filename": "json_line_logger-0.0.10.tar.gz",
+  "download_time": "2025-09-18T12:38:56.292175",
+  "package_url": "https://pypi.org/project/json-line-logger/"
+}

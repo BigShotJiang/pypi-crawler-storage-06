@@ -1,0 +1,11 @@
+{
+  "name": "zodchy-outbox",
+  "version": "0.2.2",
+  "summary": "Outbox pattern for zodchy architecture",
+  "author": "Smairon",
+  "license": null,
+  "home_page": "https://github.com/smairon/zodchy-outbox",
+  "download_filename": "zodchy_outbox-0.2.2.tar.gz",
+  "download_time": "2025-09-18T12:38:57.316656",
+  "package_url": "https://pypi.org/project/zodchy-outbox/"
+}

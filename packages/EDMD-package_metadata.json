@@ -1,0 +1,11 @@
+{
+  "name": "EDMD-package",
+  "version": "2.0.6",
+  "summary": "This module can be used to analyse the Phi and Psi dihedral (or torsion) angle distribution in a protein structural ensemble (e.g., from Chemical-Shift-Rosetta), define potential energy functions (PEFs), and replace the original dihedral energy terms in GROMACS for molecular dynamics (MD) simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edmd_package-2.0.6.tar.gz",
+  "download_time": "2025-09-18T12:39:13.227271",
+  "package_url": "https://pypi.org/project/EDMD-package/"
+}

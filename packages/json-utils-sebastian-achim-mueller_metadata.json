@@ -1,0 +1,11 @@
+{
+  "name": "json-utils-sebastian-achim-mueller",
+  "version": "0.0.6",
+  "summary": "JSON-lines and recursive reading of json-files in a path.",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/json_utils",
+  "download_filename": "json_utils_sebastian_achim_mueller-0.0.6.tar.gz",
+  "download_time": "2025-09-18T12:39:00.416976",
+  "package_url": "https://pypi.org/project/json-utils-sebastian-achim-mueller/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "json-numpy-sebastian-achim-mueller",
+  "version": "0.1.9",
+  "summary": "Dumps and loads numpy-arrays into or from json",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/json_numpy",
+  "download_filename": "json_numpy_sebastian_achim_mueller-0.1.9.tar.gz",
+  "download_time": "2025-09-18T12:39:02.462694",
+  "package_url": "https://pypi.org/project/json-numpy-sebastian-achim-mueller/"
+}
