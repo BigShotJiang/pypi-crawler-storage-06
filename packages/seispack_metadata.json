@@ -1,0 +1,11 @@
+{
+  "name": "seispack",
+  "version": "0.3.2",
+  "summary": "Python Tools for asteroseismic data analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seispack-0.3.2.tar.gz",
+  "download_time": "2025-09-18T14:19:45.490860",
+  "package_url": "https://pypi.org/project/seispack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fotmob-wrapper",
+  "version": "0.0.4",
+  "summary": "Python API wrapper for FotMob undocumented API",
+  "author": "tommhe14",
+  "license": "MIT",
+  "home_page": "https://github.com/tommhe14/fotmob-wrapper",
+  "download_filename": "fotmob_wrapper-0.0.4.tar.gz",
+  "download_time": "2025-09-18T14:19:26.432803",
+  "package_url": "https://pypi.org/project/fotmob-wrapper/"
+}

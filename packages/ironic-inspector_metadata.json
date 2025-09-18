@@ -1,0 +1,11 @@
+{
+  "name": "ironic-inspector",
+  "version": "12.5.0",
+  "summary": "Hardware introspection for OpenStack Bare Metal",
+  "author": "OpenStack",
+  "license": "Apache-2",
+  "home_page": "https://docs.openstack.org/ironic-inspector/latest/",
+  "download_filename": "ironic_inspector-12.5.0.tar.gz",
+  "download_time": "2025-09-18T14:19:36.957076",
+  "package_url": "https://pypi.org/project/ironic-inspector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lensecam",
+  "version": "0.3.7",
+  "summary": "LEnsE Camera Package / IDS and Basler API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lensecam-0.3.7.tar.gz",
+  "download_time": "2025-09-18T14:19:35.393345",
+  "package_url": "https://pypi.org/project/lensecam/"
+}

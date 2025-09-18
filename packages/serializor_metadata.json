@@ -1,11 +1,11 @@
 {
   "name": "serializor",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "summary": "Serialization/Deserialization for Python native and NumPy/Pandas objects.",
   "author": "Jiefu Chen",
   "license": "MIT license, Apache License 2.0",
   "home_page": "https://github.com/AresJef/Serializor",
-  "download_filename": "serializor-2.0.4.tar.gz",
-  "download_time": "2025-09-18T11:41:08.308617",
+  "download_filename": "serializor-2.1.0.tar.gz",
+  "download_time": "2025-09-18T14:19:55.565507",
   "package_url": "https://pypi.org/project/serializor/"
 }

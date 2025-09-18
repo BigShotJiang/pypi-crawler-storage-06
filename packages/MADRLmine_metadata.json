@@ -1,0 +1,11 @@
+{
+  "name": "MADRLmine",
+  "version": "0.0.21",
+  "summary": "A small example package",
+  "author": "kw-zheng",
+  "license": null,
+  "home_page": "https://github.com/kw-zheng/MADRLMine_pip",
+  "download_filename": "madrlmine-0.0.21.tar.gz",
+  "download_time": "2025-09-18T14:19:34.860802",
+  "package_url": "https://pypi.org/project/MADRLmine/"
+}

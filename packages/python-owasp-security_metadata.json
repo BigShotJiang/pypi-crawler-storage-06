@@ -1,0 +1,11 @@
+{
+  "name": "python-owasp-security",
+  "version": "0.1.1",
+  "summary": "OWASP Security Middleware and Utilities for Python APIs",
+  "author": "Jhoan Pragma",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/JhoanPragma/python-owasp-security",
+  "download_filename": "python_owasp_security-0.1.1.tar.gz",
+  "download_time": "2025-09-18T14:19:44.955164",
+  "package_url": "https://pypi.org/project/python-owasp-security/"
+}

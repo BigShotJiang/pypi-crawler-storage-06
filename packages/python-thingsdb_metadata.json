@@ -1,0 +1,11 @@
+{
+  "name": "python-thingsdb",
+  "version": "1.2.0",
+  "summary": "ThingsDB Connector",
+  "author": "Jeroen van der Heijden",
+  "license": "MIT",
+  "home_page": "https://github.com/thingsdb/python-thingsdb",
+  "download_filename": "python_thingsdb-1.2.0.tar.gz",
+  "download_time": "2025-09-18T14:19:39.079371",
+  "package_url": "https://pypi.org/project/python-thingsdb/"
+}

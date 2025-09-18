@@ -1,0 +1,11 @@
+{
+  "name": "mfem",
+  "version": "4.8.0",
+  "summary": "MFEM + PyMFEM (finite element method library)",
+  "author": "MFEM development team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mfem-4.8.0.tar.gz",
+  "download_time": "2025-09-18T14:19:28.543312",
+  "package_url": "https://pypi.org/project/mfem/"
+}
