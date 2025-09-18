@@ -1,0 +1,11 @@
+{
+  "name": "backboard-sdk",
+  "version": "1.0.0",
+  "summary": "Backboard API",
+  "author": "OpenAPI Generator community",
+  "license": null,
+  "home_page": "https://github.com/backboard/backboard-python-sdk",
+  "download_filename": "backboard_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-18T17:52:31.727482",
+  "package_url": "https://pypi.org/project/backboard-sdk/"
+}

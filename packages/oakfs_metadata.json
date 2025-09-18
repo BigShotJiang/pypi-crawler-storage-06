@@ -1,11 +1,11 @@
 {
   "name": "oakfs",
-  "version": "0.3.1",
-  "summary": "a humane CLI-based filesystem exploration tool, for humans.",
+  "version": "0.4.0",
+  "summary": "A humane CLI-based filesystem exploration tool, for humans.",
   "author": "Ritchie Mwewa",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "oakfs-0.3.1.tar.gz",
-  "download_time": "2025-09-17T16:45:23.730283",
+  "download_filename": "oakfs-0.4.0.tar.gz",
+  "download_time": "2025-09-18T17:52:01.886143",
   "package_url": "https://pypi.org/project/oakfs/"
 }

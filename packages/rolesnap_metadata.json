@@ -1,0 +1,11 @@
+{
+  "name": "rolesnap",
+  "version": "0.5.0",
+  "summary": "A CLI tool for creating role-based, structured snapshots of your codebase, perfect for generating LLM context and enforcing architectural boundaries.",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "rolesnap-0.5.0.tar.gz",
+  "download_time": "2025-09-18T17:52:31.201887",
+  "package_url": "https://pypi.org/project/rolesnap/"
+}

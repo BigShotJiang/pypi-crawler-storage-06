@@ -1,0 +1,11 @@
+{
+  "name": "ispeak",
+  "version": "0.4.2",
+  "summary": "A keyboard-centric inline speech-to-text CLI tool that works wherever you can type",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ispeak-0.4.2.tar.gz",
+  "download_time": "2025-09-18T17:52:12.274124",
+  "package_url": "https://pypi.org/project/ispeak/"
+}

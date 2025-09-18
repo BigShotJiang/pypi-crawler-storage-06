@@ -1,0 +1,11 @@
+{
+  "name": "cellxgene-schema",
+  "version": "6.2.2",
+  "summary": "Tool for applying and validating cellxgene integration schema to single cell datasets",
+  "author": "Chan Zuckerberg Initiative",
+  "license": "MIT",
+  "home_page": "https://github.com/chanzuckerberg/single-cell-curation",
+  "download_filename": "cellxgene_schema-6.2.2.tar.gz",
+  "download_time": "2025-09-18T17:52:16.059034",
+  "package_url": "https://pypi.org/project/cellxgene-schema/"
+}

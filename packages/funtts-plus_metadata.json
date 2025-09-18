@@ -1,0 +1,11 @@
+{
+  "name": "funtts-plus",
+  "version": "0.1.5",
+  "summary": "统一的文本转语音(TTS)工具库，支持多种开源TTS引擎和字幕格式",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "funtts_plus-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-18T17:52:36.435219",
+  "package_url": "https://pypi.org/project/funtts-plus/"
+}

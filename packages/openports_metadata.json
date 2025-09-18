@@ -1,0 +1,11 @@
+{
+  "name": "openports",
+  "version": "0.0.1",
+  "summary": "🔍⚡ Lightning-fast port scanner and process manager",
+  "author": "Yash Mahamulkar",
+  "license": null,
+  "home_page": "https://github.com/yashmahamulkar/openports",
+  "download_filename": "openports-0.0.1.tar.gz",
+  "download_time": "2025-09-18T17:52:01.358386",
+  "package_url": "https://pypi.org/project/openports/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qmsolver",
+  "version": "0.1.3",
+  "summary": "A quantum mechanics solver library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qmsolver-0.1.3.tar.gz",
+  "download_time": "2025-09-18T17:52:46.087911",
+  "package_url": "https://pypi.org/project/qmsolver/"
+}
