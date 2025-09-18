@@ -1,18 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T22:39:56.421550
-- **Total Packages**: 86
-- **Total Size**: 27.71 MB
+- **Download Time**: 2025-09-18T22:51:53.298619
+- **Total Packages**: 77
+- **Total Size**: 26.77 MB
 
 ## Packages List
+- v440
+- mearul1
+- bq-to-dbt-contract
+- waldur-site-agent-slurm
+- waldur-site-agent-mup
+- waldur-site-agent-moab
+- ord-rxn-converter
+- waldur-site-agent-cscs-hpc-storage
+- waldur-site-agent-cscs-dwdi
+- waldur-site-agent-basic-username-management
+- waldur-site-agent
+- aenet-gpr
+- pulumi-gcp
+- mitogen
+- leggen
+- wikitcms
+- CordForge
+- pdfalyzer
+- gh-analysis
+- django-client-logger
+- safari-sdk
+- moose-lib
+- fused
+- publish-mcp-server
+- ai-dynamo
+- Django-Persistent-Message
+- FreeDynamics-simaf
+- mk-ssl
+- unpage
+- synthetic-data-mcp
 - fraim
 - rds-proxy-password-rotation
 - jupyterlab-nvidia-nsight
 - nvidia-tao
 - m1-cis
 - tyro
-- FreeDynamics-simaf
 - authentik-client
 - scenario-characterization
 - pyagentic-core
@@ -21,10 +50,8 @@
 - multi-storage-client
 - severus-vault
 - orionis
-- bq-to-dbt-contract
 - uh-soundscapes
 - nvidia-tao-core
-- v440
 - rootloader
 - aiperf
 - pyqrackising
@@ -32,15 +59,12 @@
 - we-love-alfred
 - mohflow
 - medimgkit
-- leggen
 - conductor-py
 - quack-kernels
 - proto-agent
 - cvtkit
-- CordForge
 - kain
 - cjm-fasthtml-daisyui
-- mk-ssl
 - finbrain-python
 - rand-engine
 - kaqing
@@ -58,37 +82,4 @@
 - metricflow
 - qiskit
 - claude-slash-commands-mcp
-- aenet-gpr
 - tcg-research-desk
-- tobiko-cloud-pydantic
-- tobiko-cloud-api-client
-- bomiot
-- tobiko-cloud-helpers
-- assistants-framework
-- cheap-pie
-- django-spire
-- api-jongler
-- omserv
-- ommlds
-- omlish
-- omlish-cext
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- splusdata
-- opensesame-plugin-radboudbox
-- mearul
-- adss
-- caribou-cli
-- netra-zen
-- nbconvert-theme-acmart
-- qtype
-- regula-documentreader-webclient
-- tractosaurus-client
-- methodnetworkscan
-- incorporeal-cms
-- kadb
-- langsmith
-- fastlisaresponse-cuda11x

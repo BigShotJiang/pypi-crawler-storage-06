@@ -1,11 +1,11 @@
 {
   "name": "synthetic-data-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Domain-specific synthetic data generation MCP server for healthcare and finance compliance",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synthetic_data_mcp-0.1.0.tar.gz",
-  "download_time": "2025-09-18T22:20:36.683971",
+  "download_filename": "synthetic_data_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-18T22:51:28.027553",
   "package_url": "https://pypi.org/project/synthetic-data-mcp/"
 }

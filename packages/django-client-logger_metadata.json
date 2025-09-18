@@ -1,0 +1,11 @@
+{
+  "name": "django-client-logger",
+  "version": "3.1.1",
+  "summary": "Client logging application for django",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/django_client_logger",
+  "download_filename": "django_client_logger-3.1.1.tar.gz",
+  "download_time": "2025-09-18T22:51:21.178018",
+  "package_url": "https://pypi.org/project/django-client-logger/"
+}
