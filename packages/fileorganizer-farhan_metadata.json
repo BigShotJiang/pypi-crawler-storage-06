@@ -1,0 +1,11 @@
+{
+  "name": "fileorganizer-farhan",
+  "version": "0.1.0",
+  "summary": "A tool to organize messy files into categorized folders",
+  "author": "Farhan Ahmad",
+  "license": null,
+  "home_page": "https://github.com/FarhanAhmad/fileorganizer",
+  "download_filename": "fileorganizer_farhan-0.1.0.tar.gz",
+  "download_time": "2025-09-18T06:50:24.117967",
+  "package_url": "https://pypi.org/project/fileorganizer-farhan/"
+}

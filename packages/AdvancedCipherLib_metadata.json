@@ -1,0 +1,11 @@
+{
+  "name": "AdvancedCipherLib",
+  "version": "1.0.0",
+  "summary": "Advanced encryption and decryption library with multiple cipher algorithms",
+  "author": "Naser Hnysh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "advancedcipherlib-1.0.0.tar.gz",
+  "download_time": "2025-09-18T06:50:38.842909",
+  "package_url": "https://pypi.org/project/AdvancedCipherLib/"
+}

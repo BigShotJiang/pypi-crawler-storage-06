@@ -1,11 +1,11 @@
 {
   "name": "fake-bpy-module-latest",
-  "version": "20250917",
+  "version": "20250918",
   "summary": "Collection of the fake Blender Python API module for the code completion.",
   "author": "nutti",
   "license": null,
   "home_page": null,
-  "download_filename": "fake_bpy_module_latest-20250917.tar.gz",
-  "download_time": "2025-09-17T06:28:47.257770",
+  "download_filename": "fake_bpy_module_latest-20250918.tar.gz",
+  "download_time": "2025-09-18T06:50:38.295822",
   "package_url": "https://pypi.org/project/fake-bpy-module-latest/"
 }

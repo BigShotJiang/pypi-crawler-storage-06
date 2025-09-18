@@ -1,11 +1,11 @@
 {
   "name": "robhan-cdk-lib.utils",
-  "version": "0.0.46",
+  "version": "0.0.47",
   "summary": "@robhan-cdk-lib/utils",
   "author": "Robert Hanuschke<robhan-cdk-lib@hanuschke.eu>",
   "license": "MIT",
   "home_page": "https://github.com/robert-hanuschke/cdk-utils",
-  "download_filename": "robhan_cdk_lib_utils-0.0.46.tar.gz",
-  "download_time": "2025-09-17T03:28:29.274985",
+  "download_filename": "robhan_cdk_lib_utils-0.0.47.tar.gz",
+  "download_time": "2025-09-18T06:50:31.018533",
   "package_url": "https://pypi.org/project/robhan-cdk-lib.utils/"
 }

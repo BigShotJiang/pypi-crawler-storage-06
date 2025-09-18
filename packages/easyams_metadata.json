@@ -1,0 +1,11 @@
+{
+  "name": "easyams",
+  "version": "0.1.6",
+  "summary": "Easy Agisoft MetaShape (EasyAMS) Plugin with extended functions for smart agriculture.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easyams-0.1.6.tar.gz",
+  "download_time": "2025-09-18T06:49:58.981490",
+  "package_url": "https://pypi.org/project/easyams/"
+}

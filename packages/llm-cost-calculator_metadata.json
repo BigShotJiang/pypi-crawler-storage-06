@@ -1,0 +1,11 @@
+{
+  "name": "llm-cost-calculator",
+  "version": "3.0.0",
+  "summary": "Cost tracking for OpenAI, Gemini, and Claude APIs with session management",
+  "author": "kartikeyy",
+  "license": null,
+  "home_page": "https://github.com/yourusername/llm-cost-calculator",
+  "download_filename": "llm_cost_calculator-3.0.0.tar.gz",
+  "download_time": "2025-09-18T06:50:17.706672",
+  "package_url": "https://pypi.org/project/llm-cost-calculator/"
+}

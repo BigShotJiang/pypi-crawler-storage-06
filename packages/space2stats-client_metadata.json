@@ -1,0 +1,11 @@
+{
+  "name": "space2stats-client",
+  "version": "1.4.1",
+  "summary": "A Python client for accessing sub-national variation data through the Space2Stats API",
+  "author": null,
+  "license": "World Bank Master Community License Agreement",
+  "home_page": null,
+  "download_filename": "space2stats_client-1.4.1.tar.gz",
+  "download_time": "2025-09-18T06:50:18.759388",
+  "package_url": "https://pypi.org/project/space2stats-client/"
+}

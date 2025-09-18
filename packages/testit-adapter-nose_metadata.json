@@ -1,11 +1,11 @@
 {
   "name": "testit-adapter-nose",
-  "version": "3.9.1",
+  "version": "3.9.1.post540",
   "summary": "Nose adapter for Test IT",
   "author": "Integration team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/testit-tms/adapters-python/",
-  "download_filename": "testit_adapter_nose-3.9.1.tar.gz",
-  "download_time": "2025-09-17T15:20:34.373777",
+  "download_filename": "testit_adapter_nose-3.9.1.post540.tar.gz",
+  "download_time": "2025-09-18T06:50:32.601790",
   "package_url": "https://pypi.org/project/testit-adapter-nose/"
 }

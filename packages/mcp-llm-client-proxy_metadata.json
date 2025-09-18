@@ -1,0 +1,11 @@
+{
+  "name": "mcp-llm-client-proxy",
+  "version": "0.2.0",
+  "summary": "A Multi-Client Proxy (MCP) for various LLMs with failover and flexible response formats.",
+  "author": "Prashant Halaki",
+  "license": null,
+  "home_page": "https://github.com/PrashantHalaki/mcp_llm_client",
+  "download_filename": "mcp_llm_client_proxy-0.2.0.tar.gz",
+  "download_time": "2025-09-18T06:50:08.170536",
+  "package_url": "https://pypi.org/project/mcp-llm-client-proxy/"
+}
