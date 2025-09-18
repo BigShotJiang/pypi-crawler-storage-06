@@ -1,0 +1,11 @@
+{
+  "name": "netra-zen",
+  "version": "1.0.0",
+  "summary": "Multi-instance Claude orchestrator for parallel task execution",
+  "author": "Systems",
+  "license": "MIT",
+  "home_page": "https://github.com/netra-systems/zen",
+  "download_filename": "netra_zen-1.0.0.tar.gz",
+  "download_time": "2025-09-18T21:38:16.126064",
+  "package_url": "https://pypi.org/project/netra-zen/"
+}

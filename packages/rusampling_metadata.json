@@ -1,11 +1,11 @@
 {
   "name": "rusampling",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A Python package for Ratio-of-Uniforms sampling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rusampling-0.0.4.tar.gz",
-  "download_time": "2025-09-18T21:17:59.523443",
+  "download_filename": "rusampling-0.0.5.tar.gz",
+  "download_time": "2025-09-18T21:38:51.176461",
   "package_url": "https://pypi.org/project/rusampling/"
 }

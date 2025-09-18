@@ -1,11 +1,11 @@
 {
   "name": "ctxkit",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "ctxkit is a command-line tool for creating AI prompts to modify code.",
   "author": "Craig A. Hobbs",
   "license": "MIT",
   "home_page": "https://github.com/craigahobbs/ctxkit",
-  "download_filename": "ctxkit-1.4.2.tar.gz",
-  "download_time": "2025-09-18T06:50:19.290781",
+  "download_filename": "ctxkit-1.5.0.tar.gz",
+  "download_time": "2025-09-18T21:38:34.246083",
   "package_url": "https://pypi.org/project/ctxkit/"
 }

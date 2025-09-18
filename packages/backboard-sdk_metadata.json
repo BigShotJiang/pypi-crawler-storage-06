@@ -1,11 +1,11 @@
 {
   "name": "backboard-sdk",
-  "version": "1.0.4",
-  "summary": "Backboard API",
-  "author": "OpenAPI Generator community",
-  "license": null,
-  "home_page": "https://backboard.io",
-  "download_filename": "backboard_sdk-1.0.4.tar.gz",
-  "download_time": "2025-09-18T20:21:40.725960",
+  "version": "1.0.1",
+  "summary": "Python SDK for the Backboard API - Build conversational AI applications with persistent memory and intelligent document processing",
+  "author": "Backboard",
+  "license": "MIT",
+  "home_page": "https://github.com/backboard/backboard-python-sdk",
+  "download_filename": "backboard_sdk-1.0.1.tar.gz",
+  "download_time": "2025-09-18T21:38:34.765615",
   "package_url": "https://pypi.org/project/backboard-sdk/"
 }

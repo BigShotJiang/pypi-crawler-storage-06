@@ -1,0 +1,11 @@
+{
+  "name": "pingsubnet",
+  "version": "0.1.0",
+  "summary": "A Python script that pings all potential IPv4 addresses in a subnet and reports response times.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pingsubnet-0.1.0.tar.gz",
+  "download_time": "2025-09-18T21:38:35.294157",
+  "package_url": "https://pypi.org/project/pingsubnet/"
+}
