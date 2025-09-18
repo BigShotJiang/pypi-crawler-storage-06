@@ -1,0 +1,11 @@
+{
+  "name": "zc.sourcefactory",
+  "version": "3.0",
+  "summary": "An easy way to create custom Zope sources.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zc.sourcefactory",
+  "download_filename": "zc_sourcefactory-3.0.tar.gz",
+  "download_time": "2025-09-18T07:52:11.105822",
+  "package_url": "https://pypi.org/project/zc.sourcefactory/"
+}

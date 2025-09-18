@@ -1,0 +1,11 @@
+{
+  "name": "zc.table",
+  "version": "2.0",
+  "summary": "Zope table implementation",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zc.table/",
+  "download_filename": "zc_table-2.0.tar.gz",
+  "download_time": "2025-09-18T07:52:07.493643",
+  "package_url": "https://pypi.org/project/zc.table/"
+}

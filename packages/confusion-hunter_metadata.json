@@ -1,0 +1,11 @@
+{
+  "name": "confusion-hunter",
+  "version": "0.1.0",
+  "summary": "Lightweight scanner for spotting unclaimed dependencies before attackers do - protects against supply-chain attacks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "confusion_hunter-0.1.0.tar.gz",
+  "download_time": "2025-09-18T07:52:02.622332",
+  "package_url": "https://pypi.org/project/confusion-hunter/"
+}
