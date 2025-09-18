@@ -1,0 +1,11 @@
+{
+  "name": "bbrl-utils",
+  "version": "1.1.0",
+  "summary": "Utilities for notebooks built around BBRL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bbrl_utils-1.1.0.tar.gz",
+  "download_time": "2025-09-18T09:40:39.681303",
+  "package_url": "https://pypi.org/project/bbrl-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "physicar",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Physicar Python SDK",
   "author": "AI Castle",
   "license": "Apache-2.0",
   "home_page": "https://github.com/physicar/physicar-python",
-  "download_filename": "physicar-0.1.6.tar.gz",
-  "download_time": "2025-09-18T09:20:48.242675",
+  "download_filename": "physicar-0.1.7.tar.gz",
+  "download_time": "2025-09-18T09:40:59.749485",
   "package_url": "https://pypi.org/project/physicar/"
 }

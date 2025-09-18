@@ -1,0 +1,11 @@
+{
+  "name": "django-subforms",
+  "version": "0.4.1",
+  "summary": "Wrap django forms as fields and fields as dynamic arrays.",
+  "author": "Matti Lamppu",
+  "license": "MIT",
+  "home_page": "https://mrthearman.github.io/django-subforms",
+  "download_filename": "django_subforms-0.4.1.tar.gz",
+  "download_time": "2025-09-18T09:41:03.973205",
+  "package_url": "https://pypi.org/project/django-subforms/"
+}

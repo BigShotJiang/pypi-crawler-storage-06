@@ -1,0 +1,11 @@
+{
+  "name": "structured-logger-railway",
+  "version": "1.0.0",
+  "summary": "A flexible structured JSON logger for Python applications",
+  "author": "Nikita Yastreb",
+  "license": "MIT",
+  "home_page": "https://github.com/zee229/structured-logger",
+  "download_filename": "structured_logger_railway-1.0.0.tar.gz",
+  "download_time": "2025-09-18T09:40:40.192483",
+  "package_url": "https://pypi.org/project/structured-logger-railway/"
+}

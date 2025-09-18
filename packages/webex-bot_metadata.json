@@ -1,11 +1,11 @@
 {
   "name": "webex-bot",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Python package for a Webex Bot based on websockets.",
   "author": "Finbarr Brady",
   "license": "MIT license",
   "home_page": "https://github.com/fbradyirl/webex_bot",
-  "download_filename": "webex_bot-1.0.7.tar.gz",
-  "download_time": "2025-09-17T13:43:44.508233",
+  "download_filename": "webex_bot-1.0.8.tar.gz",
+  "download_time": "2025-09-18T09:40:36.578088",
   "package_url": "https://pypi.org/project/webex-bot/"
 }
