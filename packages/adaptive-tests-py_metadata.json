@@ -1,11 +1,11 @@
 {
   "name": "adaptive-tests-py",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Adaptive test discovery for Python projects",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "adaptive_tests_py-0.1.0.tar.gz",
-  "download_time": "2025-09-18T16:45:36.094477",
+  "download_filename": "adaptive_tests_py-0.1.1.tar.gz",
+  "download_time": "2025-09-18T23:52:28.884622",
   "package_url": "https://pypi.org/project/adaptive-tests-py/"
 }

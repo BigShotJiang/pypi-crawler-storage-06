@@ -1,11 +1,11 @@
 {
   "name": "provide-foundation",
-  "version": "0.1.0b3",
+  "version": "0.0.0.dev4",
   "summary": "Foundation Telemetry: An opinionated, developer-friendly telemetry wrapper for Python.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "provide_foundation-0.1.0b3.tar.gz",
-  "download_time": "2025-09-18T23:17:48.678407",
+  "download_filename": "provide_foundation-0.0.0.dev4.tar.gz",
+  "download_time": "2025-09-18T23:52:14.723774",
   "package_url": "https://pypi.org/project/provide-foundation/"
 }

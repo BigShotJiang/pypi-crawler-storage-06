@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-gh-actions-expressions",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Github Actions expressions grammar for tree-sitter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_gh_actions_expressions-0.3.0.tar.gz",
-  "download_time": "2025-09-18T23:38:21.110503",
+  "download_filename": "tree_sitter_gh_actions_expressions-0.3.1.tar.gz",
+  "download_time": "2025-09-18T23:52:25.663110",
   "package_url": "https://pypi.org/project/tree-sitter-gh-actions-expressions/"
 }

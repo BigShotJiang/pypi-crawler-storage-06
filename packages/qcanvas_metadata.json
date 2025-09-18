@@ -1,0 +1,11 @@
+{
+  "name": "qcanvas",
+  "version": "2.0.7",
+  "summary": "View courses from Canvas LMS",
+  "author": "QCanvas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcanvas-2.0.7.tar.gz",
+  "download_time": "2025-09-18T23:52:25.015286",
+  "package_url": "https://pypi.org/project/qcanvas/"
+}
