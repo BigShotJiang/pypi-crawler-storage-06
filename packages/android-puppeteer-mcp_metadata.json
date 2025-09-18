@@ -1,0 +1,11 @@
+{
+  "name": "android-puppeteer-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for Android automation with UI interaction, screenshots, and device control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "android_puppeteer_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-18T02:43:59.389539",
+  "package_url": "https://pypi.org/project/android-puppeteer-mcp/"
+}

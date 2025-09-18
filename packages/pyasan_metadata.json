@@ -1,0 +1,11 @@
+{
+  "name": "pyasan",
+  "version": "0.4.4",
+  "summary": "A Python wrapper and CLI for NASA's REST APIs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyasan-0.4.4.tar.gz",
+  "download_time": "2025-09-18T02:44:01.475351",
+  "package_url": "https://pypi.org/project/pyasan/"
+}
