@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-gladia",
+  "version": "1.2.11",
+  "summary": "Agent Framework plugin for services using Gladia's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_gladia-1.2.11.tar.gz",
+  "download_time": "2025-09-18T19:39:27.963859",
+  "package_url": "https://pypi.org/project/livekit-plugins-gladia/"
+}

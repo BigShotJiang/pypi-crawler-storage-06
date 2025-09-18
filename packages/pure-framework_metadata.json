@@ -1,11 +1,11 @@
 {
   "name": "pure-framework",
-  "version": "0.0.1",
-  "summary": "A small example package",
-  "author": "Hasan Ragab",
+  "version": "0.0.2",
+  "summary": "A lightweight Python backend framework with decorators, DI, middlewares, guards, and auto Swagger docs — all in pure Python.",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/hasanragab/pure-framework",
-  "download_filename": "pure_framework-0.0.1.tar.gz",
-  "download_time": "2025-09-18T19:16:33.829056",
+  "home_page": null,
+  "download_filename": "pure_framework-0.0.2.tar.gz",
+  "download_time": "2025-09-18T19:39:06.219703",
   "package_url": "https://pypi.org/project/pure-framework/"
 }

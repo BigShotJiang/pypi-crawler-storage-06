@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-nltk",
+  "version": "1.2.11",
+  "summary": "Agent Framework plugin for NLTK-based text processing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_nltk-1.2.11.tar.gz",
+  "download_time": "2025-09-18T19:39:22.146876",
+  "package_url": "https://pypi.org/project/livekit-plugins-nltk/"
+}

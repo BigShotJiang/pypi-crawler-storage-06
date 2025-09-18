@@ -1,11 +1,11 @@
 {
   "name": "rag-techlib",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "An extensible, abstract framework for building Retrieval-Augmented Generation (RAG) systems with unlimited technique possibilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rag_techlib-1.5.0.tar.gz",
-  "download_time": "2025-09-17T20:51:37.998318",
+  "download_filename": "rag_techlib-1.6.0.tar.gz",
+  "download_time": "2025-09-18T19:38:47.741153",
   "package_url": "https://pypi.org/project/rag-techlib/"
 }

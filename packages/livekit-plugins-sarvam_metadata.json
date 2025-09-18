@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-sarvam",
+  "version": "1.2.11",
+  "summary": "Agent Framework plugin for services using Sarvam.ai's API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_sarvam-1.2.11.tar.gz",
+  "download_time": "2025-09-18T19:39:19.514886",
+  "package_url": "https://pypi.org/project/livekit-plugins-sarvam/"
+}

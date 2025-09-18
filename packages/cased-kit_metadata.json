@@ -1,0 +1,11 @@
+{
+  "name": "cased-kit",
+  "version": "2.1.0",
+  "summary": "A modular toolkit for LLM-powered codebase understanding.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cased_kit-2.1.0.tar.gz",
+  "download_time": "2025-09-18T19:39:08.358952",
+  "package_url": "https://pypi.org/project/cased-kit/"
+}
