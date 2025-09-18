@@ -1,0 +1,11 @@
+{
+  "name": "pintor-pintor-pca",
+  "version": "1.0.0",
+  "summary": "Biblioteca para aplicar o método de PCA",
+  "author": "Pedro",
+  "license": null,
+  "home_page": "https://github.com/PedroPintor/pintor-pintor-pca.git",
+  "download_filename": "pintor_pintor_pca-1.0.0.tar.gz",
+  "download_time": "2025-09-18T20:21:26.443673",
+  "package_url": "https://pypi.org/project/pintor-pintor-pca/"
+}

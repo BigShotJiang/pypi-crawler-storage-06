@@ -1,0 +1,11 @@
+{
+  "name": "qstat-cache",
+  "version": "3.0.1",
+  "summary": "A caching qstat that reduces load on the PBS server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qstat_cache-3.0.1.tar.gz",
+  "download_time": "2025-09-18T20:21:50.358485",
+  "package_url": "https://pypi.org/project/qstat-cache/"
+}
