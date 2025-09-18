@@ -1,0 +1,11 @@
+{
+  "name": "token-sub-info",
+  "version": "0.1.18",
+  "summary": "A library for extracting information from jwt tokens.",
+  "author": "Ilya Mikhasik",
+  "license": null,
+  "home_page": null,
+  "download_filename": "token_sub_info-0.1.18.tar.gz",
+  "download_time": "2025-09-18T10:42:08.665774",
+  "package_url": "https://pypi.org/project/token-sub-info/"
+}

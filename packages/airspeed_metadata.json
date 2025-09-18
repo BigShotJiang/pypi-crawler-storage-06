@@ -1,0 +1,11 @@
+{
+  "name": "airspeed",
+  "version": "0.6.1",
+  "summary": "Airspeed is a powerful and easy-to-use templating engine for Python that aims for a high level of compatibility with the popular Velocity library for Java.",
+  "author": "Steve Purcell and Chris Tarttelin",
+  "license": "BSD",
+  "home_page": "https://github.com/purcell/airspeed",
+  "download_filename": "airspeed-0.6.1.tar.gz",
+  "download_time": "2025-09-18T10:42:06.541665",
+  "package_url": "https://pypi.org/project/airspeed/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trustflow-verification",
+  "version": "0.3.0.dev20250918",
+  "summary": "An attestation report verification library",
+  "author": "secretflow",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/asterinas/trustflow",
+  "download_filename": "trustflow_verification-0.3.0.dev20250918-cp310-cp310-manylinux2014_x86_64.whl",
+  "download_time": "2025-09-18T10:42:19.147523",
+  "package_url": "https://pypi.org/project/trustflow-verification/"
+}

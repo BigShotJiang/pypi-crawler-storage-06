@@ -1,0 +1,11 @@
+{
+  "name": "eodc-faas-force",
+  "version": "2025.9.1",
+  "summary": "Bindings for the FORCE processor exposed at EODC",
+  "author": "Lukas Weidenholzer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eodc_faas_force-2025.9.1.tar.gz",
+  "download_time": "2025-09-18T10:42:24.949866",
+  "package_url": "https://pypi.org/project/eodc-faas-force/"
+}

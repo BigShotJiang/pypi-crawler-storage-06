@@ -1,0 +1,11 @@
+{
+  "name": "django-cors-headers",
+  "version": "4.9.0",
+  "summary": "django-cors-headers is a Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_cors_headers-4.9.0.tar.gz",
+  "download_time": "2025-09-18T10:41:57.626347",
+  "package_url": "https://pypi.org/project/django-cors-headers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trustflow-csv-generation",
+  "version": "0.3.0.dev20250918",
+  "summary": "An attestation report generation library for csv",
+  "author": "trustflow",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/asterinas/trustflow",
+  "download_filename": "trustflow_csv_generation-0.3.0.dev20250918-cp310-cp310-manylinux2014_x86_64.whl",
+  "download_time": "2025-09-18T10:42:20.779916",
+  "package_url": "https://pypi.org/project/trustflow-csv-generation/"
+}
