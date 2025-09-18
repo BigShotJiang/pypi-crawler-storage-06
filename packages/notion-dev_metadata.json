@@ -1,0 +1,11 @@
+{
+  "name": "notion-dev",
+  "version": "1.1.0",
+  "summary": "Integration tool for Notion, Asana and Git workflows",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/notion-dev",
+  "download_filename": "notion_dev-1.1.0.tar.gz",
+  "download_time": "2025-09-18T16:45:44.016344",
+  "package_url": "https://pypi.org/project/notion-dev/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jetbrains-cadence",
+  "version": "1.0.2",
+  "summary": "JetBrains Cadence CLI",
+  "author": "Mikhail Meringov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jetbrains_cadence-1.0.2.tar.gz",
+  "download_time": "2025-09-18T16:45:51.579653",
+  "package_url": "https://pypi.org/project/jetbrains-cadence/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spherical-histogram",
+  "version": "0.1.6",
+  "summary": "This is spherical_histogram.",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/spherical_histogram",
+  "download_filename": "spherical_histogram-0.1.6.tar.gz",
+  "download_time": "2025-09-18T16:45:53.191337",
+  "package_url": "https://pypi.org/project/spherical-histogram/"
+}

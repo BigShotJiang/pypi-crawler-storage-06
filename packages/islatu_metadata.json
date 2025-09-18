@@ -1,0 +1,11 @@
+{
+  "name": "islatu",
+  "version": "1.1.0",
+  "summary": "A package for the reduction of reflectometry data.",
+  "author": "Philip Mousley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "islatu-1.1.0.tar.gz",
+  "download_time": "2025-09-18T16:45:46.236613",
+  "package_url": "https://pypi.org/project/islatu/"
+}

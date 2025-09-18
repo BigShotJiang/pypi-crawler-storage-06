@@ -1,0 +1,11 @@
+{
+  "name": "ckzg",
+  "version": "2.1.4",
+  "summary": "Python bindings for C-KZG-4844",
+  "author": "Ethereum Foundation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ethereum/c-kzg-4844",
+  "download_filename": "ckzg-2.1.4.tar.gz",
+  "download_time": "2025-09-18T16:45:35.569100",
+  "package_url": "https://pypi.org/project/ckzg/"
+}

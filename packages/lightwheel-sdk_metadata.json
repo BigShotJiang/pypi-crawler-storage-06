@@ -1,11 +1,11 @@
 {
   "name": "lightwheel-sdk",
-  "version": "0.15",
+  "version": "0.16",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightwheel_sdk-0.15-py3-none-any.whl",
-  "download_time": "2025-09-18T13:44:17.955406",
+  "download_filename": "lightwheel_sdk-0.16-py3-none-any.whl",
+  "download_time": "2025-09-18T16:45:43.479632",
   "package_url": "https://pypi.org/project/lightwheel-sdk/"
 }

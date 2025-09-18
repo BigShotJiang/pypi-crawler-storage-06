@@ -1,0 +1,11 @@
+{
+  "name": "blab",
+  "version": "0.2.2",
+  "summary": "Various Jupyter Tools",
+  "author": "djekra",
+  "license": null,
+  "home_page": "https://github.com/djekra/blab",
+  "download_filename": "blab-0.2.2.tar.gz",
+  "download_time": "2025-09-18T16:45:51.057123",
+  "package_url": "https://pypi.org/project/blab/"
+}
