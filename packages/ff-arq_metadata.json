@@ -1,0 +1,11 @@
+{
+  "name": "ff-arq",
+  "version": "0.1.0",
+  "summary": "A simple arq library.",
+  "author": "foris.feng",
+  "license": "MIT",
+  "home_page": "https://github.com/itsanr-oris/ff-arq",
+  "download_filename": "ff_arq-0.1.0.tar.gz",
+  "download_time": "2025-09-18T15:51:26.286664",
+  "package_url": "https://pypi.org/project/ff-arq/"
+}

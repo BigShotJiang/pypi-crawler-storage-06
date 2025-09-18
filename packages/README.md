@@ -1,22 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T15:41:25.341287
-- **Total Packages**: 88
-- **Total Size**: 29.8 MB
+- **Download Time**: 2025-09-18T15:52:01.251253
+- **Total Packages**: 84
+- **Total Size**: 19.13 MB
 
 ## Packages List
+- prefect-dbt
+- terra-scientific-pipelines-service-api-client
+- django-spire
+- templatey
+- authentik-client
+- iagro-sdk
+- encdr
+- AOT-biomaps
+- pulumi-eks
+- askui
+- pretix-uic-barcode
+- cocotbext-apb
+- maleo-infra
+- langchain-mistralai
+- openrouter-provider
+- apache-tvm-ffi
+- sutrakit
+- ztl
+- tess-ida-tools
+- cargo-lambda-cdk
+- ff-arq
+- cytimes
+- algo-playground
+- ojin-client
+- gamspy
+- maleo-schemas
+- constitute-mcp
+- finbourne-horizon-sdk
+- activity-browser
+- glance-tempest-plugin
+- trepan3k
+- langflow-nightly
+- runch
+- ialirt-data-access
+- pytest-resource-path
+- openeo-processes-dask
+- pdz-tool
+- dapr-agents
 - build-diagnostics
 - unique_web_search
 - unique_deep_research
-- gamspy
 - unique_toolkit
 - unique_internal_search
 - openstack-flavor-manager
-- PyConText-module
 - ambipy-utils
 - sentry-protos
-- authentik-client
 - rubigram-python
 - ddapm-test-agent
 - termgraph
@@ -42,7 +77,6 @@
 - review-tally
 - nc-helpers
 - canoa-data-validate
-- constitute-mcp
 - ovault
 - cell-cycle-classification
 - chibi-izumi
@@ -56,41 +90,3 @@
 - RockyRoad
 - afnio
 - iugupy
-- runch
-- pulumi-policy
-- neurograd
-- WUADS
-- silence-lint-error
-- gmdkit
-- cuery
-- napalm-eltex2448
-- matrixutils-example-pkg
-- instavm
-- flarchitect
-- zutil
-- playbook
-- assemblyline-core
-- assemblyline
-- psann
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- afp-sdk
-- openfl-nightly
-- tgedr-dataops2
-- quixstreams
-- rhaid-autofix
-- django-spire
-- localstack-core
-- adam-robotics
-- starrail_damage_cal
-- sapiopycommons
-- isofate
-- agent-framework-lab-lightning
-- boltz-sdk
-- awsquery
-- bigwig-io
-- merlict
-- optlnls
-- delphai-utils

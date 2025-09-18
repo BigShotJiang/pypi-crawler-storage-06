@@ -1,0 +1,11 @@
+{
+  "name": "cargo-lambda-cdk",
+  "version": "0.0.34",
+  "summary": "CDK Construct to build Rust functions with Cargo Lambda",
+  "author": "David Calavera",
+  "license": "MIT",
+  "home_page": "https://github.com/cargo-lambda/cargo-lambda-cdk.git",
+  "download_filename": "cargo_lambda_cdk-0.0.34.tar.gz",
+  "download_time": "2025-09-18T15:51:25.699689",
+  "package_url": "https://pypi.org/project/cargo-lambda-cdk/"
+}

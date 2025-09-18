@@ -1,0 +1,11 @@
+{
+  "name": "pdz-tool",
+  "version": "0.2.4",
+  "summary": "A tool for reading and transforming PDZ 24 and PDZ 25 formats",
+  "author": "Bruno Ducraux",
+  "license": "MIT",
+  "home_page": "https://github.com/bducraux/pdz-tool",
+  "download_filename": "pdz_tool-0.2.4.tar.gz",
+  "download_time": "2025-09-18T15:51:35.606889",
+  "package_url": "https://pypi.org/project/pdz-tool/"
+}
