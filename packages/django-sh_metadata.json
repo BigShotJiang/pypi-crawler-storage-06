@@ -1,0 +1,11 @@
+{
+  "name": "django-sh",
+  "version": "1.0.28",
+  "summary": "Django shell app for browser",
+  "author": "admintotal-dev",
+  "license": null,
+  "home_page": "https://gitlab.com/jahazieldom/django-sh",
+  "download_filename": "django_sh-1.0.28-py3-none-any.whl",
+  "download_time": "2025-09-18T21:51:43.082906",
+  "package_url": "https://pypi.org/project/django-sh/"
+}

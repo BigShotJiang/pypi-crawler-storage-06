@@ -1,0 +1,11 @@
+{
+  "name": "leann-core",
+  "version": "0.3.4",
+  "summary": "Core API and plugin system for LEANN",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leann_core-0.3.4-py3-none-any.whl",
+  "download_time": "2025-09-18T21:51:42.515444",
+  "package_url": "https://pypi.org/project/leann-core/"
+}
