@@ -1,0 +1,11 @@
+{
+  "name": "slimrpc",
+  "version": "0.1.0",
+  "summary": "RPC over SLIM Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slimrpc-0.1.0.tar.gz",
+  "download_time": "2025-09-18T10:20:34.207268",
+  "package_url": "https://pypi.org/project/slimrpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chatnificent",
+  "version": "0.0.9",
+  "summary": "LLM chat app framework - Minimally complete. Maximally hackable",
+  "author": "Elias Dabbas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatnificent-0.0.9.tar.gz",
+  "download_time": "2025-09-18T10:20:16.021093",
+  "package_url": "https://pypi.org/project/chatnificent/"
+}
