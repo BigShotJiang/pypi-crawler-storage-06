@@ -1,0 +1,11 @@
+{
+  "name": "miagents-extras",
+  "version": "0.1.0a1",
+  "summary": "Extra features and tools for the miagents framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "miagents_extras-0.1.0a1.tar.gz",
+  "download_time": "2025-09-18T14:53:32.424430",
+  "package_url": "https://pypi.org/project/miagents-extras/"
+}

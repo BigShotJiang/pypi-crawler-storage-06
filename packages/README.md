@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T14:43:15.212572
-- **Total Packages**: 82
-- **Total Size**: 35.96 MB
+- **Download Time**: 2025-09-18T14:54:04.059357
+- **Total Packages**: 83
+- **Total Size**: 24.47 MB
 
 ## Packages List
+- constitute-mcp
+- tsdate
+- tcg-research-desk
+- PyAFBFdb
+- cnn-framework
+- timbal
+- pycfm
+- emacs-paw
+- review-tally
+- treedata
+- fetchtastic
+- mctextrender
+- cloudnetpy-qc
+- img22info
+- biomappings
+- crate-docs-theme
+- mcp-proxy-adapter
+- msmart-ng
+- kg4cdo
+- pynudger
+- deeporigin
+- oarepo-ui
+- guildbotics
+- miagents-tl-google
+- miagents-extras
+- mcp-veo3-azure-blob
+- langchain-decorators
+- policy-weaver
+- mw-mhd-integration
+- TexTOM
+- oxapy
+- sibr-api
+- web-features
+- splight-lib
+- dagster-ray
+- polyapi-python
+- slg-dev-ops
+- pdf-suite
+- cloudgoat
+- MED3pa
+- ramodels
+- Fount-Core
+- biosero-data-services-sdk
+- llamea-lite
+- llamea
 - FreeDynamics-simaf
 - symbolic
 - electrography
@@ -36,9 +81,7 @@
 - furthrmind
 - fastpluggy-scheduled-query
 - django-resonant-settings
-- constitute-mcp
 - FastPluggy
-- dagster-ray
 - nemo-evaluator
 - grab
 - opik
@@ -46,45 +89,3 @@
 - dara-core
 - create-dara-app
 - dara-components
-- hyperscale-ozone
-- verda
-- pulumi-policy
-- sqlglot
-- kg4cdo
-- PyAFBF
-- django-versioning
-- nemo-evaluator-launcher
-- pyx3270
-- opentrons
-- onepower
-- ert
-- m01.mongo
-- rpcclient
-- openworm-ai
-- avtdl
-- aerosim-lnas
-- django-cfg
-- lbrlabs-pulumi-eks
-- climdata
-- xent
-- AOT-biomaps
-- freshrelease-mcp
-- asyncly
-- odap
-- apm-cli
-- sqlmesh
-- profiles-rudderstack
-- FetchFinancialsExcel
-- nc-helpers
-- splight-lib
-- avaframe
-- cleopy
-- cdk-image-pipeline
-- pyplaid
-- afnio
-- flarchitect
-- propert
-- networking-baremetal
-- multimodalrouter
-- environment-client
-- whatsthedamage

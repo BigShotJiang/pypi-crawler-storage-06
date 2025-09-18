@@ -1,0 +1,11 @@
+{
+  "name": "sibr-api",
+  "version": "0.3.4",
+  "summary": "A base class for building robust, asynchronous API clients.",
+  "author": "sigvardbratlie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sibr_api-0.3.4.tar.gz",
+  "download_time": "2025-09-18T14:53:36.648726",
+  "package_url": "https://pypi.org/project/sibr-api/"
+}

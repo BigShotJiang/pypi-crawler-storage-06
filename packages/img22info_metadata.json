@@ -1,0 +1,11 @@
+{
+  "name": "img22info",
+  "version": "0.2.2",
+  "summary": "Im2  Python SDK (Upgraded): Clean client with auth, error handling, supports file/url/bytes/base64, includes examples and CLI, easy installation.",
+  "author": "Nguyen Truong Dat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "img22info-0.2.2.tar.gz",
+  "download_time": "2025-09-18T14:53:25.094310",
+  "package_url": "https://pypi.org/project/img22info/"
+}

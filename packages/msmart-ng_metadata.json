@@ -1,0 +1,11 @@
+{
+  "name": "msmart-ng",
+  "version": "2025.9.1",
+  "summary": "A Python library for local control of Midea (and associated brands) smart air conditioners.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msmart_ng-2025.9.1-py3-none-any.whl",
+  "download_time": "2025-09-18T14:53:27.245452",
+  "package_url": "https://pypi.org/project/msmart-ng/"
+}

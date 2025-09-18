@@ -1,0 +1,11 @@
+{
+  "name": "llamea",
+  "version": "1.1.6",
+  "summary": "LLaMEA is a Python framework for automatically generating and refining metaheuristic optimization algorithms using large language models, featuring optional in-the-loop hyper-parameter optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llamea-1.1.6.tar.gz",
+  "download_time": "2025-09-18T14:53:43.548985",
+  "package_url": "https://pypi.org/project/llamea/"
+}

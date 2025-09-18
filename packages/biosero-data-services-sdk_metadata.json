@@ -1,11 +1,11 @@
 {
   "name": "biosero-data-services-sdk",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "SDK for interacting with the Biosero Data Services API",
   "author": "Eli Fine",
   "license": null,
   "home_page": null,
-  "download_filename": "biosero_data_services_sdk-0.4.3.tar.gz",
-  "download_time": "2025-09-17T14:18:42.774275",
+  "download_filename": "biosero_data_services_sdk-0.4.4.tar.gz",
+  "download_time": "2025-09-18T14:53:42.457847",
   "package_url": "https://pypi.org/project/biosero-data-services-sdk/"
 }
