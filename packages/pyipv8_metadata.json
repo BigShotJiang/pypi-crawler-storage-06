@@ -1,0 +1,11 @@
+{
+  "name": "pyipv8",
+  "version": "3.1.0",
+  "summary": "The Python implementation of the IPV8 library",
+  "author": "Tribler",
+  "license": null,
+  "home_page": "https://github.com/Tribler/py-ipv8",
+  "download_filename": "pyipv8-3.1.0.tar.gz",
+  "download_time": "2025-09-18T11:15:40.094160",
+  "package_url": "https://pypi.org/project/pyipv8/"
+}

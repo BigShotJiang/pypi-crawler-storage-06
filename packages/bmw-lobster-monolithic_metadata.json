@@ -1,0 +1,11 @@
+{
+  "name": "bmw-lobster-monolithic",
+  "version": "1.0.2",
+  "summary": "Monolithic package for all LOBSTER Tools",
+  "author": "Bayerische Motoren Werke Aktiengesellschaft (BMW AG)",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://github.com/bmw-software-engineering/lobster",
+  "download_filename": "bmw_lobster_monolithic-1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-18T11:15:59.478759",
+  "package_url": "https://pypi.org/project/bmw-lobster-monolithic/"
+}

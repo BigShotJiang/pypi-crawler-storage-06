@@ -1,0 +1,11 @@
+{
+  "name": "ocpiupdate",
+  "version": "0.6.1",
+  "summary": "An updater for OpenCPI Projects",
+  "author": "Dom Walters",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocpiupdate-0.6.1.tar.gz",
+  "download_time": "2025-09-18T11:15:43.848041",
+  "package_url": "https://pypi.org/project/ocpiupdate/"
+}

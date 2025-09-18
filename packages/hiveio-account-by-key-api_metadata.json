@@ -1,0 +1,11 @@
+{
+  "name": "hiveio-account-by-key-api",
+  "version": "0.1.0",
+  "summary": "Prosta biblioteka przykład (Poetry)",
+  "author": "kmochocki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hiveio_account_by_key_api-0.1.0.tar.gz",
+  "download_time": "2025-09-18T11:16:25.942683",
+  "package_url": "https://pypi.org/project/hiveio-account-by-key-api/"
+}

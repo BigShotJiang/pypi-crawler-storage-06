@@ -1,0 +1,11 @@
+{
+  "name": "django-read-only",
+  "version": "1.21.0",
+  "summary": "Disable Django database writes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_read_only-1.21.0.tar.gz",
+  "download_time": "2025-09-18T11:15:37.802766",
+  "package_url": "https://pypi.org/project/django-read-only/"
+}

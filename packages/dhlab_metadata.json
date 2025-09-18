@@ -1,0 +1,11 @@
+{
+  "name": "dhlab",
+  "version": "2.42.0",
+  "summary": "Text and image analysis of the digital collection (books, newspapers, periodicals, and images) at the National Library of Norway",
+  "author": "The Digital Humanities Lab at The National Library of Norway (NB)",
+  "license": "MIT",
+  "home_page": "https://www.nb.no/dh-lab/",
+  "download_filename": "dhlab-2.42.0.tar.gz",
+  "download_time": "2025-09-18T11:15:38.387276",
+  "package_url": "https://pypi.org/project/dhlab/"
+}

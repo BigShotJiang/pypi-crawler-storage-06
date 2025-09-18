@@ -1,0 +1,11 @@
+{
+  "name": "lsdviztools",
+  "version": "0.4.15",
+  "summary": "lsdviztools is a collection of routines for plotting geospatial data, with a focus on data produces by LSDTopoTools or by lsdtopytools.",
+  "author": "Simon Marius Mudd",
+  "license": "MIT",
+  "home_page": "https://github.com/LSDTopotools/lsdviztools",
+  "download_filename": "lsdviztools-0.4.15.tar.gz",
+  "download_time": "2025-09-18T11:16:01.158911",
+  "package_url": "https://pypi.org/project/lsdviztools/"
+}

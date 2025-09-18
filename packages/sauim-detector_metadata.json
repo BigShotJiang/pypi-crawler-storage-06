@@ -1,0 +1,11 @@
+{
+  "name": "sauim-detector",
+  "version": "0.1.1",
+  "summary": "Bioacoustic processing and Pied tamarin (Saguinus bicolor) vocalization detector.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sauim_detector-0.1.1.tar.gz",
+  "download_time": "2025-09-18T11:15:50.270011",
+  "package_url": "https://pypi.org/project/sauim-detector/"
+}

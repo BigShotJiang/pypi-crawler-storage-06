@@ -1,0 +1,11 @@
+{
+  "name": "datacatalogtordf",
+  "version": "4.0.0",
+  "summary": "A library for mapping a data catalog to rdf",
+  "author": "Stig B. Dørmænen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Informasjonsforvaltning/datacatalogtordf",
+  "download_filename": "datacatalogtordf-4.0.0.tar.gz",
+  "download_time": "2025-09-18T11:16:19.865504",
+  "package_url": "https://pypi.org/project/datacatalogtordf/"
+}

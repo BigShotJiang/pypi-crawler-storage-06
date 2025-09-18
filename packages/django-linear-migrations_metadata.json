@@ -1,0 +1,11 @@
+{
+  "name": "django-linear-migrations",
+  "version": "2.19.0",
+  "summary": "Ensure your migrations are linear.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_linear_migrations-2.19.0.tar.gz",
+  "download_time": "2025-09-18T11:15:48.142707",
+  "package_url": "https://pypi.org/project/django-linear-migrations/"
+}

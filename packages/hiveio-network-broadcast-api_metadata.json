@@ -1,0 +1,11 @@
+{
+  "name": "hiveio-network-broadcast-api",
+  "version": "0.1.0",
+  "summary": "Prosta biblioteka przykład (Poetry)",
+  "author": "kmochocki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hiveio_network_broadcast_api-0.1.0.tar.gz",
+  "download_time": "2025-09-18T11:16:25.411868",
+  "package_url": "https://pypi.org/project/hiveio-network-broadcast-api/"
+}

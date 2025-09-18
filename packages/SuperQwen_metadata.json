@@ -1,11 +1,11 @@
 {
   "name": "SuperQwen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "An AI-enhanced development framework for Qwen CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superqwen-1.0.0.tar.gz",
-  "download_time": "2025-09-17T17:17:15.051344",
+  "download_filename": "superqwen-1.0.1.tar.gz",
+  "download_time": "2025-09-18T11:16:12.123228",
   "package_url": "https://pypi.org/project/SuperQwen/"
 }

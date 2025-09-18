@@ -1,0 +1,11 @@
+{
+  "name": "gushwork-logger",
+  "version": "0.1.0",
+  "summary": "A structured logging library with OpenTelemetry support for Gushwork services",
+  "author": "Gushwork",
+  "license": null,
+  "home_page": "https://github.com/gushwork/gushwork-logger",
+  "download_filename": "gushwork_logger-0.1.0.tar.gz",
+  "download_time": "2025-09-18T11:16:02.797637",
+  "package_url": "https://pypi.org/project/gushwork-logger/"
+}
