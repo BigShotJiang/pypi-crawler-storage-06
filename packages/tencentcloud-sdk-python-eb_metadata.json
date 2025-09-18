@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-eb",
+  "version": "3.0.1463",
+  "summary": "Tencent Cloud Eb SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-eb-3.0.1463.tar.gz",
+  "download_time": "2025-09-18T21:18:44.508908",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-eb/"
+}

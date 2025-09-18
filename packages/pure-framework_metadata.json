@@ -1,11 +1,11 @@
 {
   "name": "pure-framework",
-  "version": "0.0.2",
-  "summary": "A lightweight Python backend framework with decorators, DI, middlewares, guards, and auto Swagger docs — all in pure Python.",
+  "version": "0.0.3.5",
+  "summary": "A modern, lightweight Python web framework with type safety, dependency injection, middleware pipelines, and auto-generated API documentation.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pure_framework-0.0.2.tar.gz",
-  "download_time": "2025-09-18T19:39:06.219703",
+  "download_filename": "pure_framework-0.0.3.5.tar.gz",
+  "download_time": "2025-09-18T21:18:45.885445",
   "package_url": "https://pypi.org/project/pure-framework/"
 }

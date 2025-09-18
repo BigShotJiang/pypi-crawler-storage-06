@@ -1,0 +1,11 @@
+{
+  "name": "bioimageio.spec",
+  "version": "0.5.5.4",
+  "summary": "Parser and validator library for bioimage.io specifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioimageio_spec-0.5.5.4.tar.gz",
+  "download_time": "2025-09-18T21:18:17.692521",
+  "package_url": "https://pypi.org/project/bioimageio.spec/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sourcedefender",
+  "version": "15.0.14",
+  "summary": "Advanced encryption protecting your python codebase.",
+  "author": "SOURCEdefender",
+  "license": "Proprietary",
+  "home_page": "https://sourcedefender.co.uk/?src=pypi-url",
+  "download_filename": "sourcedefender-15.0.14.tar.gz",
+  "download_time": "2025-09-18T21:18:29.753554",
+  "package_url": "https://pypi.org/project/sourcedefender/"
+}

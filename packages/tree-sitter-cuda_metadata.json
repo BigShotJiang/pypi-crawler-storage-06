@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-cuda",
+  "version": "0.21.1",
+  "summary": "CUDA grammar for tree-sitter",
+  "author": "Stephan Seitz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_cuda-0.21.1.tar.gz",
+  "download_time": "2025-09-18T21:18:32.137469",
+  "package_url": "https://pypi.org/project/tree-sitter-cuda/"
+}

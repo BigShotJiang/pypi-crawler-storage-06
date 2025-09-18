@@ -1,0 +1,11 @@
+{
+  "name": "ezrules",
+  "version": "0.8.0",
+  "summary": "Open-source transaction monitoring engine for business rules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezrules-0.8.0.tar.gz",
+  "download_time": "2025-09-18T21:18:15.949034",
+  "package_url": "https://pypi.org/project/ezrules/"
+}

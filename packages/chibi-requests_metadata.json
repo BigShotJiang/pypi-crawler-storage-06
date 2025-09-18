@@ -1,0 +1,11 @@
+{
+  "name": "chibi-requests",
+  "version": "1.4.0",
+  "summary": "handle urls in a more easy and human way",
+  "author": "Dem4ply",
+  "license": null,
+  "home_page": "https://github.com/dem4ply/chibi_requests",
+  "download_filename": "chibi_requests-1.4.0.tar.gz",
+  "download_time": "2025-09-18T21:18:06.056105",
+  "package_url": "https://pypi.org/project/chibi-requests/"
+}

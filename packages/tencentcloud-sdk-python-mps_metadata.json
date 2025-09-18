@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-mps",
-  "version": "3.0.1462",
+  "version": "3.0.1463",
   "summary": "Tencent Cloud Mps SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-mps-3.0.1462.tar.gz",
-  "download_time": "2025-09-18T01:22:09.286293",
+  "download_filename": "tencentcloud-sdk-python-mps-3.0.1463.tar.gz",
+  "download_time": "2025-09-18T21:18:40.322563",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-mps/"
 }

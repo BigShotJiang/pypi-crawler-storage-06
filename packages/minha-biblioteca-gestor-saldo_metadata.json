@@ -1,0 +1,11 @@
+{
+  "name": "minha-biblioteca-gestor-saldo",
+  "version": "0.1.0",
+  "summary": "Uma biblioteca com função de gestor de saldo, criada no curso de Python da Nersant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minha_biblioteca_gestor_saldo-0.1.0.tar.gz",
+  "download_time": "2025-09-18T21:18:17.112170",
+  "package_url": "https://pypi.org/project/minha-biblioteca-gestor-saldo/"
+}

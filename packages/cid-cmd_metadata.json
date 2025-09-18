@@ -1,0 +1,11 @@
+{
+  "name": "cid-cmd",
+  "version": "4.3.7",
+  "summary": "Cloud Intelligence Dashboards deployment helper tool",
+  "author": "AWS CUDOS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/aws-samples/aws-cudos-framework-deployment",
+  "download_filename": "cid_cmd-4.3.7.tar.gz",
+  "download_time": "2025-09-18T21:18:28.595703",
+  "package_url": "https://pypi.org/project/cid-cmd/"
+}

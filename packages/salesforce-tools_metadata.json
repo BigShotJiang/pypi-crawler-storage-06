@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-tools",
+  "version": "0.3.7",
+  "summary": "Salesforce API tools",
+  "author": "David Manuel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "salesforce_tools-0.3.7.tar.gz",
+  "download_time": "2025-09-18T21:17:58.312060",
+  "package_url": "https://pypi.org/project/salesforce-tools/"
+}
