@@ -1,0 +1,11 @@
+{
+  "name": "philoch-bib-sdk",
+  "version": "0.1.6",
+  "summary": "Standard development kit for the Philosophie Bibliography project",
+  "author": "Luis Alejandro Bordo García",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "philoch_bib_sdk-0.1.6.tar.gz",
+  "download_time": "2025-09-18T05:51:31.075978",
+  "package_url": "https://pypi.org/project/philoch-bib-sdk/"
+}

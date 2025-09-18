@@ -1,0 +1,11 @@
+{
+  "name": "scm203lab367101691",
+  "version": "0.1.0",
+  "summary": "Find the greatest common divisor and find integers x,y such that ax + by = gcd(a,b).",
+  "author": "Khing",
+  "license": null,
+  "home_page": "https://github.com/yourusername/scm203lab367101691",
+  "download_filename": "scm203lab367101691-0.1.0.tar.gz",
+  "download_time": "2025-09-18T05:51:24.215551",
+  "package_url": "https://pypi.org/project/scm203lab367101691/"
+}

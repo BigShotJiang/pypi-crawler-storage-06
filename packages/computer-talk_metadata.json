@@ -1,11 +1,11 @@
 {
   "name": "computer-talk",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "A Python package for computer communication and interaction",
   "author": "Jordan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "computer_talk-0.1.9.tar.gz",
-  "download_time": "2025-09-18T05:17:43.769862",
+  "download_filename": "computer_talk-0.1.11.tar.gz",
+  "download_time": "2025-09-18T05:51:34.741486",
   "package_url": "https://pypi.org/project/computer-talk/"
 }
