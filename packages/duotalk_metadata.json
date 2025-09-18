@@ -1,0 +1,11 @@
+{
+  "name": "duotalk",
+  "version": "1.0.7",
+  "summary": "Advanced multi-agent voice conversation system with customizable personas and modes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duotalk-1.0.7.tar.gz",
+  "download_time": "2025-09-18T13:43:51.570769",
+  "package_url": "https://pypi.org/project/duotalk/"
+}

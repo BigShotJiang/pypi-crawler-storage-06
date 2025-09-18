@@ -1,0 +1,11 @@
+{
+  "name": "funny-numbers",
+  "version": "0.2.0",
+  "summary": "A collection of factories to reliably produce funny numbers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "funny_numbers-0.2.0.tar.gz",
+  "download_time": "2025-09-18T13:44:14.785116",
+  "package_url": "https://pypi.org/project/funny-numbers/"
+}

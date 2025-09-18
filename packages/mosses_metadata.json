@@ -1,0 +1,11 @@
+{
+  "name": "mosses",
+  "version": "0.2.11",
+  "summary": "Set of functionalities to assess molecular property prediction models.",
+  "author": null,
+  "license": "Apache v2.0",
+  "home_page": null,
+  "download_filename": "mosses-0.2.11.tar.gz",
+  "download_time": "2025-09-18T13:44:04.246785",
+  "package_url": "https://pypi.org/project/mosses/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "glpic",
-  "version": "99.0.202509170922",
+  "version": "99.0.202509181338",
   "summary": "GLPI client",
   "author": null,
   "license": "ASL",
   "home_page": null,
-  "download_filename": "glpic-99.0.202509170922.tar.gz",
-  "download_time": "2025-09-17T09:40:30.630878",
+  "download_filename": "glpic-99.0.202509181338.tar.gz",
+  "download_time": "2025-09-18T13:44:04.767023",
   "package_url": "https://pypi.org/project/glpic/"
 }

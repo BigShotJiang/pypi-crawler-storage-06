@@ -1,0 +1,11 @@
+{
+  "name": "gsheet-pandas",
+  "version": "0.3.0",
+  "summary": "Download and upload pandas dataframes to the Google sheets",
+  "author": "Iakov Kaiumov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gsheet_pandas-0.3.0.tar.gz",
+  "download_time": "2025-09-18T13:43:58.437956",
+  "package_url": "https://pypi.org/project/gsheet-pandas/"
+}

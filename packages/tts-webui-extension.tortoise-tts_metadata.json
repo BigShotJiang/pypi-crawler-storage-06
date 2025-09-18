@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.tortoise-tts",
+  "version": "0.0.5",
+  "summary": "Tortoise TTS is a high-quality text-to-speech model with voice cloning capabilities",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.tortoise_tts",
+  "download_filename": "tts_webui_extension_tortoise_tts-0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-18T13:44:23.189338",
+  "package_url": "https://pypi.org/project/tts-webui-extension.tortoise-tts/"
+}

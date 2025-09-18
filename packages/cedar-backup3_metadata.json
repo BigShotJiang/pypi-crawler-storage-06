@@ -1,0 +1,11 @@
+{
+  "name": "cedar-backup3",
+  "version": "3.10.0",
+  "summary": "Implements local and remote backups to CD/DVD and Amazon S3",
+  "author": "Kenneth J. Pronovici",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cedar_backup3-3.10.0.tar.gz",
+  "download_time": "2025-09-18T13:44:31.012520",
+  "package_url": "https://pypi.org/project/cedar-backup3/"
+}
