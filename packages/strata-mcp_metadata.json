@@ -1,0 +1,11 @@
+{
+  "name": "strata-mcp",
+  "version": "0.9.1",
+  "summary": "A unified router for Model Context Protocol (MCP) servers that supports multiple transport types (SSE, HTTP, stdio) and provides tool routing capabilities.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strata_mcp-0.9.1.tar.gz",
+  "download_time": "2025-09-18T05:40:01.397149",
+  "package_url": "https://pypi.org/project/strata-mcp/"
+}

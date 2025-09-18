@@ -1,0 +1,11 @@
+{
+  "name": "flagged-csv",
+  "version": "0.1.5",
+  "summary": "Convert XLSX files to CSV with visual formatting preserved as inline flags",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flagged_csv-0.1.5.tar.gz",
+  "download_time": "2025-09-18T05:39:54.564700",
+  "package_url": "https://pypi.org/project/flagged-csv/"
+}

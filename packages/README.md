@@ -1,15 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T05:18:13.326468
-- **Total Packages**: 68
-- **Total Size**: 14.67 MB
+- **Download Time**: 2025-09-18T05:40:34.303882
+- **Total Packages**: 75
+- **Total Size**: 31.91 MB
 
 ## Packages List
+- jacksung
+- flagged-csv
+- codoff
+- payi
+- authentik-client
+- automata-diags
+- juno-agent
+- request-mcp
+- bahasamanis
+- tbcp
+- PySujanam
+- spotiphy
+- pyagentic-core
+- strata-mcp
+- lacrei-models
+- py-data-chunker
+- configures
+- flarchitect
+- fivetran-connector-sdk
+- mspec
+- sdtp
+- aiomcp
+- mct-nightly
+- build-diagnostics
+- opendp
+- pulumi-oci
+- dvc-custom-wrapper
+- cntext
+- deltric
+- tracker-utils-tl
+- lumibot
+- pulumi-aws-apigateway
+- Geode-Simplex
+- zipagent
+- alibabacloud-cloudauth-intl20220809
+- amdsmi
+- pulumi-cloudflare
 - llamactl
 - llama-deploy-core
 - llama-deploy-appserver
-- lacrei-models
 - unimport
 - bptf
 - tapestrysdk
@@ -17,18 +53,13 @@
 - agentic-blocks
 - Geode-Numerics
 - maleo-security
-- authentik-client
 - OpenGeode-Geosciences
 - sarmat
 - computer-talk
 - mcpm
-- pyagentic-core
 - bumble
-- jacksung
-- spotiphy
 - aicg-model-generation
 - odoo-addon-sale-dms-field
-- py-data-chunker
 - classroom-pilot
 - pipeline-eds
 - telnetlib3
@@ -40,7 +71,6 @@
 - nuro
 - crawlo
 - gguf-connector
-- pulumi-oci
 - ailia-speech
 - music-melodicdevice
 - ia-agent-dotnet
@@ -51,26 +81,3 @@
 - Rubka
 - bomiot
 - pulumi-aws-native
-- devstack-cli
-- xensesdk-omni-ext
-- okx-build-diagnostics
-- xensesdk-finger-ext
-- tap-ordway
-- QEasyWidgets
-- fieldedge-utilities
-- FreeDynamics-simaf
-- jamaibase
-- automata-diags
-- kymnasium
-- filekits
-- ai-marketplace-monitor
-- xara
-- bhp-pro
-- physicar
-- webeyetrack
-- eschallot
-- identity_clustering
-- nexaai
-- mcpuniverse
-- ubox-py-sdk
-- mysingle

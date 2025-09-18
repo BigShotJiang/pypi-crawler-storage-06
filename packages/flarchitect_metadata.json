@@ -1,11 +1,11 @@
 {
   "name": "flarchitect",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Automatic RESTful API generator with redoc",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flarchitect-1.2.4-py3-none-any.whl",
-  "download_time": "2025-09-18T01:22:13.794662",
+  "download_filename": "flarchitect-1.2.5.tar.gz",
+  "download_time": "2025-09-18T05:40:03.537326",
   "package_url": "https://pypi.org/project/flarchitect/"
 }

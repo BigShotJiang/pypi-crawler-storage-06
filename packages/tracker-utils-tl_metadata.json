@@ -1,11 +1,11 @@
 {
   "name": "tracker-utils-tl",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracker_utils_tl-0.1.4.tar.gz",
-  "download_time": "2025-09-18T03:21:53.529256",
+  "download_filename": "tracker_utils_tl-0.1.5.tar.gz",
+  "download_time": "2025-09-18T05:40:09.984753",
   "package_url": "https://pypi.org/project/tracker-utils-tl/"
 }
