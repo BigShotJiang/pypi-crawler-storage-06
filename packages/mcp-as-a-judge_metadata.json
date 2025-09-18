@@ -1,11 +1,11 @@
 {
   "name": "mcp-as-a-judge",
-  "version": "0.3.12",
+  "version": "0.3.14",
   "summary": "MCP as a Judge: a behavioral MCP that strengthens AI coding assistants via explicit LLM evaluations",
   "author": "Zvi Fried",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_as_a_judge-0.3.12.tar.gz",
-  "download_time": "2025-09-18T21:51:53.640330",
+  "download_filename": "mcp_as_a_judge-0.3.14.tar.gz",
+  "download_time": "2025-09-18T22:20:25.177903",
   "package_url": "https://pypi.org/project/mcp-as-a-judge/"
 }

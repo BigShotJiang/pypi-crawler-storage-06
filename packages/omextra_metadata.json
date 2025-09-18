@@ -1,11 +1,11 @@
 {
   "name": "omextra",
-  "version": "0.0.0.dev444",
+  "version": "0.0.0.dev445",
   "summary": "omextra",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omextra-0.0.0.dev444.tar.gz",
-  "download_time": "2025-09-18T20:52:10.489368",
+  "download_filename": "omextra-0.0.0.dev445.tar.gz",
+  "download_time": "2025-09-18T22:20:08.340166",
   "package_url": "https://pypi.org/project/omextra/"
 }

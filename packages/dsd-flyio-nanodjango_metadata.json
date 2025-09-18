@@ -1,11 +1,11 @@
 {
   "name": "dsd-flyio-nanodjango",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A proof-of-concept django-simple-deploy plugin that deploys nanodjango projects to Fly.io",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dsd_flyio_nanodjango-0.1.0.tar.gz",
-  "download_time": "2025-09-18T21:18:31.492222",
+  "download_filename": "dsd_flyio_nanodjango-0.2.0.tar.gz",
+  "download_time": "2025-09-18T22:20:35.632808",
   "package_url": "https://pypi.org/project/dsd-flyio-nanodjango/"
 }

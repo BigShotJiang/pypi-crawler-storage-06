@@ -1,0 +1,11 @@
+{
+  "name": "sssom",
+  "version": "0.4.17",
+  "summary": "Operations on SSSOM mapping tables",
+  "author": "Chris Mungall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sssom-0.4.17.tar.gz",
+  "download_time": "2025-09-18T22:20:36.153199",
+  "package_url": "https://pypi.org/project/sssom/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "splusdata",
-  "version": "5.35",
+  "version": "5.36",
   "summary": "Download SPLUS catalogs, FITS and more",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "splusdata-5.35.tar.gz",
-  "download_time": "2025-09-18T21:51:53.078934",
+  "download_filename": "splusdata-5.36.tar.gz",
+  "download_time": "2025-09-18T22:20:10.454689",
   "package_url": "https://pypi.org/project/splusdata/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fmeflowclient",
+  "version": "0.1.6",
+  "summary": "A Python client for interacting with FME Flow via its REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmeflowclient-0.1.6.tar.gz",
+  "download_time": "2025-09-18T22:20:33.035195",
+  "package_url": "https://pypi.org/project/fmeflowclient/"
+}
