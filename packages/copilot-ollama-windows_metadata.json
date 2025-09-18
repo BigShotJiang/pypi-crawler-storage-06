@@ -1,0 +1,11 @@
+{
+  "name": "copilot-ollama-windows",
+  "version": "1.0.2",
+  "summary": "Windows support for copilot-ollama",
+  "author": "Jordan Miller, Bas Steins",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copilot_ollama_windows-1.0.2.tar.gz",
+  "download_time": "2025-09-18T01:22:15.970834",
+  "package_url": "https://pypi.org/project/copilot-ollama-windows/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-vtc",
+  "version": "3.0.1462",
+  "summary": "Tencent Cloud Vtc SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-vtc-3.0.1462.tar.gz",
+  "download_time": "2025-09-18T01:22:07.623756",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-vtc/"
+}

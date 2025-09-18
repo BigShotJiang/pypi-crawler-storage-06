@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub-cloud",
-  "version": "0.3.13.3",
+  "version": "0.3.14",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "acryl_datahub_cloud-0.3.13.3.tar.gz",
-  "download_time": "2025-09-17T18:27:49.583895",
+  "download_filename": "acryl_datahub_cloud-0.3.14.tar.gz",
+  "download_time": "2025-09-18T01:22:05.368077",
   "package_url": "https://pypi.org/project/acryl-datahub-cloud/"
 }
