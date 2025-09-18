@@ -1,11 +1,11 @@
 {
   "name": "codecov-cli",
-  "version": "11.2.2",
+  "version": "11.2.3",
   "summary": "Codecov Command Line Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codecov_cli-11.2.2.tar.gz",
-  "download_time": "2025-09-18T21:38:48.577948",
+  "download_filename": "codecov_cli-11.2.3.tar.gz",
+  "download_time": "2025-09-18T23:17:41.669716",
   "package_url": "https://pypi.org/project/codecov-cli/"
 }

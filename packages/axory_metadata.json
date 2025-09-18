@@ -1,0 +1,11 @@
+{
+  "name": "axory",
+  "version": "0.1.4",
+  "summary": "Axory Python SDK for deepfake detection API",
+  "author": "Ayush Sahu",
+  "license": "MIT",
+  "home_page": "https://github.com/ayushmansahu601/detectifai_sdk",
+  "download_filename": "axory-0.1.4.tar.gz",
+  "download_time": "2025-09-18T23:17:58.511299",
+  "package_url": "https://pypi.org/project/axory/"
+}
