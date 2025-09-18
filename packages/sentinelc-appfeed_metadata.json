@@ -1,0 +1,11 @@
+{
+  "name": "sentinelc-appfeed",
+  "version": "6.0.1",
+  "summary": "Tools used to validate, create and publish an app libary feed for the SentinelC platform.",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/sentinelc/app-library-builder",
+  "download_filename": "sentinelc_appfeed-6.0.1.tar.gz",
+  "download_time": "2025-09-18T18:29:11.057011",
+  "package_url": "https://pypi.org/project/sentinelc-appfeed/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aipype-extras",
-  "version": "0.1.0a1",
+  "version": "0.1.0a1.post2",
   "summary": "Extra features and tools for the aipype framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aipype_extras-0.1.0a1.tar.gz",
-  "download_time": "2025-09-18T15:51:44.074726",
+  "download_filename": "aipype_extras-0.1.0a1.post2.tar.gz",
+  "download_time": "2025-09-18T18:28:39.577722",
   "package_url": "https://pypi.org/project/aipype-extras/"
 }

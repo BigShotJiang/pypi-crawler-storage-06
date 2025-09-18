@@ -1,0 +1,11 @@
+{
+  "name": "testsavant-sdk",
+  "version": "0.0.2",
+  "summary": "Test Savant SDK provides tools and utilities for interacting with the Test Savant platform, enabling seamless integration and development of AI applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "testsavant_sdk-0.0.2.tar.gz",
+  "download_time": "2025-09-18T18:28:29.456708",
+  "package_url": "https://pypi.org/project/testsavant-sdk/"
+}
