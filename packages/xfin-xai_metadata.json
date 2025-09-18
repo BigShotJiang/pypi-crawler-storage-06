@@ -1,0 +1,11 @@
+{
+  "name": "xfin-xai",
+  "version": "0.1.2",
+  "summary": "Privacy-Preserving Explainable AI Library for Financial Services and Banking Systems",
+  "author": "Rishabh Bhangale & Dhruv Parmar",
+  "license": "MIT",
+  "home_page": "https://github.com/dhruvparmar10/XFIN",
+  "download_filename": "xfin_xai-0.1.2.tar.gz",
+  "download_time": "2025-09-18T06:28:49.603542",
+  "package_url": "https://pypi.org/project/xfin-xai/"
+}

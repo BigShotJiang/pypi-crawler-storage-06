@@ -1,11 +1,11 @@
 {
   "name": "qwen3-asr-toolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python toolkit for the Qwen3-ASR API—parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support.",
   "author": "He Wang",
   "license": null,
   "home_page": "https://github.com/QwenLM/Qwen3-ASR-Toolkit",
-  "download_filename": "qwen3_asr_toolkit-1.0.1.tar.gz",
-  "download_time": "2025-09-17T07:18:10.160710",
+  "download_filename": "qwen3_asr_toolkit-1.0.2.tar.gz",
+  "download_time": "2025-09-18T06:28:53.809841",
   "package_url": "https://pypi.org/project/qwen3-asr-toolkit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "request-mcp",
-  "version": "0.2",
+  "version": "0.5",
   "summary": "A secure package for request-mcp",
   "author": "CTF Bank",
   "license": "MIT",
   "home_page": "https://github.com/yourname/request-mcp",
-  "download_filename": "request_mcp-0.2.tar.gz",
-  "download_time": "2025-09-18T05:51:29.513893",
+  "download_filename": "request_mcp-0.5.tar.gz",
+  "download_time": "2025-09-18T06:28:45.208072",
   "package_url": "https://pypi.org/project/request-mcp/"
 }

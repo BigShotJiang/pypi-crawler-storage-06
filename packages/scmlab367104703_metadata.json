@@ -1,0 +1,11 @@
+{
+  "name": "scmlab367104703",
+  "version": "0.1.0",
+  "summary": "Basic number theory tools: GCD calculation, solving linear Diophantine equations, and listing primes..",
+  "author": "N. Amarittabut",
+  "license": null,
+  "home_page": "https://github.com/Amarit1008/ammaritproj",
+  "download_filename": "scmlab367104703-0.1.0.tar.gz",
+  "download_time": "2025-09-18T06:28:54.334416",
+  "package_url": "https://pypi.org/project/scmlab367104703/"
+}
