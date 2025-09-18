@@ -1,0 +1,11 @@
+{
+  "name": "sepsolve",
+  "version": "0.1.1",
+  "summary": "Marker gene selection module",
+  "author": "Bartol Borozan",
+  "license": "MIT",
+  "home_page": "https://github.com/bborozan/SepSolve",
+  "download_filename": "sepsolve-0.1.1.tar.gz",
+  "download_time": "2025-09-18T11:28:45.318233",
+  "package_url": "https://pypi.org/project/sepsolve/"
+}

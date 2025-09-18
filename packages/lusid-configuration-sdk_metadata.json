@@ -1,0 +1,11 @@
+{
+  "name": "lusid-configuration-sdk",
+  "version": "2.1.80",
+  "summary": "FINBOURNE ConfigurationService API",
+  "author": "FINBOURNE Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/finbourne/configuration-sdk-python",
+  "download_filename": "lusid_configuration_sdk-2.1.80.tar.gz",
+  "download_time": "2025-09-18T11:28:36.836431",
+  "package_url": "https://pypi.org/project/lusid-configuration-sdk/"
+}

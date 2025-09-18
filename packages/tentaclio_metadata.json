@@ -1,0 +1,11 @@
+{
+  "name": "tentaclio",
+  "version": "1.3.7",
+  "summary": "Unification of data connectors for distributed data tasks",
+  "author": "Octopus Energy",
+  "license": "MIT",
+  "home_page": "https://github.com/octoenergy/tentaclio",
+  "download_filename": "tentaclio-1.3.7.tar.gz",
+  "download_time": "2025-09-18T11:28:42.165325",
+  "package_url": "https://pypi.org/project/tentaclio/"
+}
