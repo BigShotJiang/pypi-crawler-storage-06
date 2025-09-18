@@ -1,11 +1,11 @@
 {
   "name": "nc-helpers",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "helper function for ncubed software",
   "author": null,
   "license": "GPL-3.0 license",
   "home_page": null,
-  "download_filename": "nc_helpers-1.1.1-py3-none-any.whl",
-  "download_time": "2025-09-18T08:25:05.407023",
+  "download_filename": "nc_helpers-1.1.2-py3-none-any.whl",
+  "download_time": "2025-09-18T08:46:53.222618",
   "package_url": "https://pypi.org/project/nc-helpers/"
 }
