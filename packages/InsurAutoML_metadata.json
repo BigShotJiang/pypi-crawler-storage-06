@@ -1,0 +1,11 @@
+{
+  "name": "InsurAutoML",
+  "version": "0.2.7",
+  "summary": "Automated Machine Learning/AutoML pipeline.",
+  "author": "Panyi Dong",
+  "license": "MIT",
+  "home_page": "https://github.com/PanyiDong/InsurAutoML",
+  "download_filename": "InsurAutoML-0.2.7.tar.gz",
+  "download_time": "2025-09-18T15:20:57.217534",
+  "package_url": "https://pypi.org/project/InsurAutoML/"
+}

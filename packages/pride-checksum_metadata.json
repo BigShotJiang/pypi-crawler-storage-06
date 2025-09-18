@@ -1,0 +1,11 @@
+{
+  "name": "pride-checksum",
+  "version": "1.1.0",
+  "summary": "Computes SHA-1 checksum for all the specified files  and writes to checksum.txt file.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pride_checksum-1.1.0.tar.gz",
+  "download_time": "2025-09-18T15:20:28.523107",
+  "package_url": "https://pypi.org/project/pride-checksum/"
+}

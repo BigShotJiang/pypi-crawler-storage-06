@@ -1,0 +1,11 @@
+{
+  "name": "sparse-numeric-table-sebastian-achim-mueller",
+  "version": "1.2.11",
+  "summary": "Read, write, and query sparse tables",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/sparse_numeric_table",
+  "download_filename": "sparse_numeric_table_sebastian_achim_mueller-1.2.11.tar.gz",
+  "download_time": "2025-09-18T15:20:56.194041",
+  "package_url": "https://pypi.org/project/sparse-numeric-table-sebastian-achim-mueller/"
+}

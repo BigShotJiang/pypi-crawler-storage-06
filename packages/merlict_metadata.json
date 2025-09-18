@@ -1,0 +1,11 @@
+{
+  "name": "merlict",
+  "version": "0.2.5.2.2.7",
+  "summary": "Ray tracing in python",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/merlict",
+  "download_filename": "merlict-0.2.5.2.2.7.tar.gz",
+  "download_time": "2025-09-18T15:20:15.033720",
+  "package_url": "https://pypi.org/project/merlict/"
+}

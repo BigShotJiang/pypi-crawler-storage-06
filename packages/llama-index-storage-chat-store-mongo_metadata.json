@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-storage-chat-store-mongo",
+  "version": "0.3.0",
+  "summary": "llama-index storage-chat-store mongo integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_storage_chat_store_mongo-0.3.0.tar.gz",
+  "download_time": "2025-09-18T15:20:45.299383",
+  "package_url": "https://pypi.org/project/llama-index-storage-chat-store-mongo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "optifik",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Compute film thickness from interferometry",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optifik-0.2.1.tar.gz",
-  "download_time": "2025-09-17T07:37:52.965848",
+  "download_filename": "optifik-0.3.0.tar.gz",
+  "download_time": "2025-09-18T15:20:20.778204",
   "package_url": "https://pypi.org/project/optifik/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "optlnls",
+  "version": "0.3.24",
+  "summary": "X-ray optics utilities",
+  "author": "Sergio Lordano, Artur Pinto, Humberto Rigamonti Jr, LNLS OPT team",
+  "license": null,
+  "home_page": "https://github.com/oasys-lnls-kit/optlnls",
+  "download_filename": "optlnls-0.3.24.tar.gz",
+  "download_time": "2025-09-18T15:20:16.064912",
+  "package_url": "https://pypi.org/project/optlnls/"
+}

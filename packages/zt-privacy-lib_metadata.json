@@ -1,11 +1,11 @@
 {
   "name": "zt-privacy-lib",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Python library with FastAPI endpoints, ready for PyPI. Stable API with explicit parameter documentation.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zt_privacy_lib-0.1.5.tar.gz",
-  "download_time": "2025-09-18T14:19:57.709455",
+  "download_filename": "zt_privacy_lib-0.1.6.tar.gz",
+  "download_time": "2025-09-18T15:20:25.428380",
   "package_url": "https://pypi.org/project/zt-privacy-lib/"
 }

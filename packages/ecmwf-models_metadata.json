@@ -1,0 +1,11 @@
+{
+  "name": "ecmwf-models",
+  "version": "0.11.0",
+  "summary": "Downloading, reading and TS conversion of ECMWF reanalysis data",
+  "author": null,
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "ecmwf_models-0.11.0.tar.gz",
+  "download_time": "2025-09-18T15:20:26.466216",
+  "package_url": "https://pypi.org/project/ecmwf-models/"
+}

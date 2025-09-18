@@ -1,0 +1,11 @@
+{
+  "name": "bigwig-io",
+  "version": "0.0.2",
+  "summary": "Read and write bigwig/bigbed files",
+  "author": "Arthur Gouhier",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigwig_io-0.0.2.tar.gz",
+  "download_time": "2025-09-18T15:20:14.503513",
+  "package_url": "https://pypi.org/project/bigwig-io/"
+}

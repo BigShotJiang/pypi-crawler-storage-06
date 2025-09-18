@@ -1,11 +1,11 @@
 {
   "name": "mcp-veo3-azure-blob",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "MCP Veo 3 Video Generator - A Model Context Protocol server for Veo 3 video generation and Azure Blob Upload",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_veo3_azure_blob-1.0.2.tar.gz",
-  "download_time": "2025-09-18T14:53:32.962032",
+  "download_filename": "mcp_veo3_azure_blob-1.0.3.tar.gz",
+  "download_time": "2025-09-18T15:20:32.663497",
   "package_url": "https://pypi.org/project/mcp-veo3-azure-blob/"
 }
