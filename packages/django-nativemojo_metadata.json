@@ -1,11 +1,11 @@
 {
   "name": "django-nativemojo",
-  "version": "0.1.27",
+  "version": "0.1.29",
   "summary": "A REST framework for DJANGO with some extra apps that make it easy to provide a secure robust graph like RESIT API.",
   "author": "MOJO Dev Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_nativemojo-0.1.27.tar.gz",
-  "download_time": "2025-09-18T23:17:45.452100",
+  "download_filename": "django_nativemojo-0.1.29.tar.gz",
+  "download_time": "2025-09-18T23:38:14.162768",
   "package_url": "https://pypi.org/project/django-nativemojo/"
 }

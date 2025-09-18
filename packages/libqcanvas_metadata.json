@@ -1,0 +1,11 @@
+{
+  "name": "libqcanvas",
+  "version": "0.5.6",
+  "summary": "Does most of the heavy lifting for qcanvas",
+  "author": "QCanvas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libqcanvas-0.5.6.tar.gz",
+  "download_time": "2025-09-18T23:38:15.756265",
+  "package_url": "https://pypi.org/project/libqcanvas/"
+}

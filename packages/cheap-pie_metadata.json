@@ -1,11 +1,11 @@
 {
   "name": "cheap-pie",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "A python tool for silicon validation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cheap_pie-1.2.4.tar.gz",
-  "download_time": "2025-09-18T22:20:03.569684",
+  "download_filename": "cheap_pie-1.2.5.tar.gz",
+  "download_time": "2025-09-18T23:38:22.157481",
   "package_url": "https://pypi.org/project/cheap-pie/"
 }

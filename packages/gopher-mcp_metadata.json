@@ -1,0 +1,11 @@
+{
+  "name": "gopher-mcp",
+  "version": "0.2.1",
+  "summary": "A cross-platform Model Context Protocol (MCP) server for browsing Gopher resources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gopher_mcp-0.2.1.tar.gz",
+  "download_time": "2025-09-18T23:38:20.063694",
+  "package_url": "https://pypi.org/project/gopher-mcp/"
+}

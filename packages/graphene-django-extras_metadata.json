@@ -1,0 +1,11 @@
+{
+  "name": "graphene-django-extras",
+  "version": "1.0.1",
+  "summary": "This library adds extra functionalities to graphene-django to facilitate GraphQL use without Relay, allow paginations and filtering integration, and add extra directives.",
+  "author": "Ernesto Perez Amigo",
+  "license": "MIT",
+  "home_page": "https://github.com/eamigo86/graphene-django-extras",
+  "download_filename": "graphene_django_extras-1.0.1.tar.gz",
+  "download_time": "2025-09-18T23:38:09.966025",
+  "package_url": "https://pypi.org/project/graphene-django-extras/"
+}

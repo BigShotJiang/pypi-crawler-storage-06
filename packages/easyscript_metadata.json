@@ -1,11 +1,11 @@
 {
   "name": "easyscript",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "A simple scripting language that blends Python and JavaScript syntax",
-  "author": "EasyScript",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/rhulha/easyscript",
-  "download_filename": "easyscript-0.4.0.tar.gz",
-  "download_time": "2025-09-18T07:38:29.605799",
+  "home_page": null,
+  "download_filename": "easyscript-0.6.0.tar.gz",
+  "download_time": "2025-09-18T23:38:16.282483",
   "package_url": "https://pypi.org/project/easyscript/"
 }
