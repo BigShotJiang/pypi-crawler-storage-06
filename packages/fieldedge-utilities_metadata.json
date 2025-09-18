@@ -1,11 +1,11 @@
 {
   "name": "fieldedge-utilities",
-  "version": "0.33.0",
+  "version": "0.33.2",
   "summary": "Utilities package for the FieldEdge project.",
   "author": "geoffbrucepayne",
   "license": "Apache2.0",
   "home_page": "https://github.com/inmarsat-enterprise/fieldedge-utilities",
-  "download_filename": "fieldedge_utilities-0.33.0.tar.gz",
-  "download_time": "2025-09-17T17:51:26.348070",
+  "download_filename": "fieldedge_utilities-0.33.2.tar.gz",
+  "download_time": "2025-09-18T04:53:28.534907",
   "package_url": "https://pypi.org/project/fieldedge-utilities/"
 }

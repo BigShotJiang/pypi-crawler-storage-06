@@ -1,11 +1,11 @@
 {
   "name": "tap-ordway",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Singer.io tap for extracting data",
   "author": "Stitch",
   "license": null,
   "home_page": "http://singer.io",
-  "download_filename": "tap_ordway-0.4.0.tar.gz",
-  "download_time": "2025-09-17T09:20:10.520637",
+  "download_filename": "tap_ordway-0.4.1.tar.gz",
+  "download_time": "2025-09-18T04:53:27.499033",
   "package_url": "https://pypi.org/project/tap-ordway/"
 }

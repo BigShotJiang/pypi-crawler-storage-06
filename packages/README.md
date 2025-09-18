@@ -1,29 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T04:43:20.046511
-- **Total Packages**: 80
-- **Total Size**: 13.24 MB
+- **Download Time**: 2025-09-18T04:53:55.075271
+- **Total Packages**: 74
+- **Total Size**: 28.08 MB
 
 ## Packages List
+- nuro
+- crawlo
+- gguf-connector
+- computer-talk
+- authentik-client
+- pulumi-oci
+- ailia-speech
+- music-melodicdevice
+- ia-agent-dotnet
+- pyagentic-core
+- rigol-ds1054z
+- lacrei-models
+- llmakits
+- iamdata
+- pdfdancer-client-python
+- Rubka
+- bomiot
+- pulumi-aws-native
+- biobookshelf
+- devstack-cli
+- xensesdk-omni-ext
+- okx-build-diagnostics
+- xensesdk-finger-ext
+- tap-ordway
+- QEasyWidgets
+- fieldedge-utilities
+- FreeDynamics-simaf
+- jamaibase
+- automata-diags
 - kymnasium
 - filekits
-- FreeDynamics-simaf
 - ai-marketplace-monitor
 - xara
-- pyagentic-core
 - bhp-pro
 - physicar
 - webeyetrack
 - eschallot
-- rigol-ds1054z
 - identity_clustering
-- authentik-client
 - nexaai
 - mcpuniverse
 - ubox-py-sdk
 - mysingle
-- lacrei-models
 - snowflake-connector-python-nightly
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -56,33 +80,3 @@
 - sqlmesh
 - swarmsim
 - protools4py
-- datalibro-utils
-- odoo-addon-stock-cycle-count
-- pqsdk
-- fbdfile
-- odoo-addon-sale-stock-available-to-promise-release
-- valar
-- fred-oss
-- keras-nightly
-- devstack-cli
-- easyscript
-- omserv
-- ommlds
-- omlish
-- ominfra
-- omextra
-- omdev
-- omdev-cli
-- omdev-cext
-- odoo-addons-oca-server-tools
-- odoo-addon-auditlog
-- odoo-addon-autovacuum-message-attachment
-- odoo-addon-base-name-search-improved
-- odoo-addon-base-global-discount
-- sgio
-- universal-mcp-agents
-- odoo-addon-sale-global-discount
-- odoo-addon-sale-product-identification
-- odoo-addon-sale-partner-incoterm
-- zcbot-crawl-core
-- nia-mcp-server
