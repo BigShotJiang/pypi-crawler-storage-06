@@ -1,11 +1,11 @@
 {
   "name": "dll-scanner",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python tool to scan directories for DLL files and extract metadata",
   "author": "DLL Scanner Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dll_scanner-0.1.0.tar.gz",
-  "download_time": "2025-09-17T15:40:29.634950",
+  "download_filename": "dll_scanner-0.2.0.tar.gz",
+  "download_time": "2025-09-18T16:24:51.027736",
   "package_url": "https://pypi.org/project/dll-scanner/"
 }

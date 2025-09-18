@@ -1,0 +1,11 @@
+{
+  "name": "shouldpy",
+  "version": "0.1.0",
+  "summary": "AI-driven test assertion decorator for natural language testing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shouldpy-0.1.0.tar.gz",
+  "download_time": "2025-09-18T16:24:49.213993",
+  "package_url": "https://pypi.org/project/shouldpy/"
+}

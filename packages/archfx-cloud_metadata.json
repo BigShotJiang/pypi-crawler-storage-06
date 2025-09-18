@@ -1,0 +1,11 @@
+{
+  "name": "archfx-cloud",
+  "version": "0.17.0",
+  "summary": "Python client for https://archfx.io",
+  "author": "Arch Systems Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/iotile/python_archfx_cloud",
+  "download_filename": "archfx_cloud-0.17.0.tar.gz",
+  "download_time": "2025-09-18T16:25:26.584497",
+  "package_url": "https://pypi.org/project/archfx-cloud/"
+}

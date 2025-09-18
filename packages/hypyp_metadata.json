@@ -1,0 +1,11 @@
+{
+  "name": "hypyp",
+  "version": "0.5.0b12",
+  "summary": "The Hyperscanning Python Pipeline.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ppsp-team/HyPyP",
+  "download_filename": "hypyp-0.5.0b12.tar.gz",
+  "download_time": "2025-09-18T16:25:06.252241",
+  "package_url": "https://pypi.org/project/hypyp/"
+}

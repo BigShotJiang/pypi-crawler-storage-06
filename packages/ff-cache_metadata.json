@@ -1,0 +1,11 @@
+{
+  "name": "ff-cache",
+  "version": "0.2.0",
+  "summary": "A simple cache library.",
+  "author": "foris.feng",
+  "license": "MIT",
+  "home_page": "https://github.com/itsanr-oris/ff-cache",
+  "download_filename": "ff_cache-0.2.0.tar.gz",
+  "download_time": "2025-09-18T16:24:37.168081",
+  "package_url": "https://pypi.org/project/ff-cache/"
+}

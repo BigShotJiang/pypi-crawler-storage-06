@@ -1,11 +1,11 @@
 {
   "name": "constitute-mcp",
-  "version": "0.1.18",
+  "version": "0.1.25",
   "summary": "MCP server for Constitute Project constitution scraping and analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "constitute_mcp-0.1.18.tar.gz",
-  "download_time": "2025-09-18T15:51:29.727411",
+  "download_filename": "constitute_mcp-0.1.25.tar.gz",
+  "download_time": "2025-09-18T16:24:35.417688",
   "package_url": "https://pypi.org/project/constitute-mcp/"
 }

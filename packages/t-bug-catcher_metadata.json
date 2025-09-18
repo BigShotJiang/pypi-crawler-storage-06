@@ -1,0 +1,11 @@
+{
+  "name": "t-bug-catcher",
+  "version": "0.6.12",
+  "summary": "Bug catcher",
+  "author": "Thoughtful",
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_bug_catcher-0.6.12.tar.gz",
+  "download_time": "2025-09-18T16:24:55.974363",
+  "package_url": "https://pypi.org/project/t-bug-catcher/"
+}

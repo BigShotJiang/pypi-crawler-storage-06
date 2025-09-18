@@ -1,0 +1,11 @@
+{
+  "name": "pyERGM",
+  "version": "0.2.6",
+  "summary": "Exponential Random Graph Models in Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/tomtalp/pyERGM",
+  "download_filename": "pyergm-0.2.6.tar.gz",
+  "download_time": "2025-09-18T16:25:03.444583",
+  "package_url": "https://pypi.org/project/pyERGM/"
+}

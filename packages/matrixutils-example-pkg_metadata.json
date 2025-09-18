@@ -1,11 +1,11 @@
 {
   "name": "matrixutils-example-pkg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A tiny example package providing a simple matrix multiplication function.",
   "author": null,
   "license": "\r\n        ---\r\n        \r\n        ### `LICENSE` (MIT skeleton — Sadiq Ali)\r\n        ```text\r\n        MIT License\r\n        \r\n        Copyright (c) 2025 Your Name\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction, including without limitation the rights\r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\n        copies of the Software, and to permit persons to whom the Software is\r\n        furnished to do so, subject to the following conditions:\r\n        [...standard MIT text...]\r\n        ",
   "home_page": null,
-  "download_filename": "matrixutils_example_pkg-0.0.1.tar.gz",
-  "download_time": "2025-09-18T15:41:09.502970",
+  "download_filename": "matrixutils_example_pkg-0.0.2.tar.gz",
+  "download_time": "2025-09-18T16:25:09.661072",
   "package_url": "https://pypi.org/project/matrixutils-example-pkg/"
 }
