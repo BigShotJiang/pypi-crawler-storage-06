@@ -1,0 +1,11 @@
+{
+  "name": "luna",
+  "version": "0.14.0",
+  "summary": "LUNA: drug discovery toolkit",
+  "author": "Alexandre Fassio",
+  "license": "MIT",
+  "home_page": "https://github.com/keiserlab/LUNA",
+  "download_filename": "luna-0.14.0.tar.gz",
+  "download_time": "2025-09-18T04:23:13.522143",
+  "package_url": "https://pypi.org/project/luna/"
+}
