@@ -1,0 +1,11 @@
+{
+  "name": "smartdict",
+  "version": "0.3.2",
+  "summary": "A reference resolver for nested dictionaries that supports default values, partial references, and circular dependency detection.",
+  "author": "Jyonn Liu",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/Jyonn/smartdict",
+  "download_filename": "smartdict-0.3.2.tar.gz",
+  "download_time": "2025-09-18T11:41:06.186408",
+  "package_url": "https://pypi.org/project/smartdict/"
+}
