@@ -1,0 +1,11 @@
+{
+  "name": "uh-soundscapes",
+  "version": "1.1.1",
+  "summary": "Read audio data for an event, process it, and create an exportable product.",
+  "author": "ISLA, UH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uh_soundscapes-1.1.1.tar.gz",
+  "download_time": "2025-09-18T22:39:19.926497",
+  "package_url": "https://pypi.org/project/uh-soundscapes/"
+}

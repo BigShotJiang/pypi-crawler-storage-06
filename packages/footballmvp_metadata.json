@@ -1,11 +1,11 @@
 {
   "name": "footballmvp",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Analytical tool to determine top performing football players (MVP) across leagues and tournaments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "footballmvp-0.3.0.tar.gz",
-  "download_time": "2025-09-18T22:20:38.258681",
+  "download_filename": "footballmvp-0.3.1.tar.gz",
+  "download_time": "2025-09-18T22:39:36.259364",
   "package_url": "https://pypi.org/project/footballmvp/"
 }

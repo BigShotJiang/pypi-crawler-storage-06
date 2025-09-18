@@ -1,11 +1,11 @@
 {
   "name": "repogif",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Generate beautiful animated GIFs that mimic GitHub repo stars/forks with realistic visuals. Perfect for social sharing, repo previews, documentation, or just for fun.",
   "author": "Juan Denis",
   "license": null,
   "home_page": "https://github.com/jhd3197/repogif",
-  "download_filename": "repogif-0.0.3.tar.gz",
-  "download_time": "2025-09-18T22:20:35.113799",
+  "download_filename": "repogif-0.0.4.tar.gz",
+  "download_time": "2025-09-18T22:39:35.212236",
   "package_url": "https://pypi.org/project/repogif/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "proto-agent",
+  "version": "0.7.0",
+  "summary": "A modular AI agent framework that can also be your local CLI agent!",
+  "author": "WeismannS",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "proto_agent-0.7.0.tar.gz",
+  "download_time": "2025-09-18T22:39:26.751005",
+  "package_url": "https://pypi.org/project/proto-agent/"
+}

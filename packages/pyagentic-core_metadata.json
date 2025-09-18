@@ -1,11 +1,11 @@
 {
   "name": "pyagentic-core",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "summary": "Build LLM Agents in a Pythonic way",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyagentic_core-1.6.1.tar.gz",
-  "download_time": "2025-09-18T02:43:26.503532",
+  "download_filename": "pyagentic_core-1.7.0.tar.gz",
+  "download_time": "2025-09-18T22:39:15.957582",
   "package_url": "https://pypi.org/project/pyagentic-core/"
 }

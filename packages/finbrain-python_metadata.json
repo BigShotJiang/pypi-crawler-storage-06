@@ -1,0 +1,11 @@
+{
+  "name": "finbrain-python",
+  "version": "0.1.5",
+  "summary": "Official Python client for the FinBrain API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finbrain_python-0.1.5.tar.gz",
+  "download_time": "2025-09-18T22:39:29.885899",
+  "package_url": "https://pypi.org/project/finbrain-python/"
+}
