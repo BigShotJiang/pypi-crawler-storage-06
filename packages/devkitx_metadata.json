@@ -1,0 +1,11 @@
+{
+  "name": "devkitx",
+  "version": "1.0.1",
+  "summary": "A pragmatic Python toolkit: HTTP, JSON, async bridges, security, CLI.",
+  "author": "LadyCami",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devkitx-1.0.1.tar.gz",
+  "download_time": "2025-09-18T03:21:46.576776",
+  "package_url": "https://pypi.org/project/devkitx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sorted-fractionally-indexed-cowlist-set",
+  "version": "0.1.0a0",
+  "summary": "A Python package for managing a sorted, fractionally-indexed set of COWList containing elements within a given alphabet.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sorted_fractionally_indexed_cowlist_set-0.1.0a0.tar.gz",
+  "download_time": "2025-09-18T03:21:40.774665",
+  "package_url": "https://pypi.org/project/sorted-fractionally-indexed-cowlist-set/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "split-lang",
+  "version": "2.1.1",
+  "summary": "A package for splitting text by languages through concatenating over split substrings based on their language",
+  "author": "DoodleBear",
+  "license": "MIT",
+  "home_page": "https://github.com/DoodleBears/langsplit",
+  "download_filename": "split_lang-2.1.1.tar.gz",
+  "download_time": "2025-09-18T03:21:44.433726",
+  "package_url": "https://pypi.org/project/split-lang/"
+}
