@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-event-sale-free-no-invoiceable",
+  "version": "18.0.1.0.0.2",
+  "summary": "Free tickets no invoiceable",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/event",
+  "download_filename": "odoo_addon_event_sale_free_no_invoiceable-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-18T20:51:56.355876",
+  "package_url": "https://pypi.org/project/odoo-addon-event-sale-free-no-invoiceable/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thrift-pyi",
+  "version": "2.3.0",
+  "summary": "This is simple `.pyi` stubs generator from thrift interfaces",
+  "author": "Aleksei Maslakov",
+  "license": "MIT",
+  "home_page": "https://github.com/unmade/thrift-pyi",
+  "download_filename": "thrift_pyi-2.3.0.tar.gz",
+  "download_time": "2025-09-18T20:52:08.072645",
+  "package_url": "https://pypi.org/project/thrift-pyi/"
+}

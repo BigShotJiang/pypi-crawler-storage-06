@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T20:41:47.903611
-- **Total Packages**: 98
-- **Total Size**: 13.36 MB
+- **Download Time**: 2025-09-18T20:52:46.212070
+- **Total Packages**: 92
+- **Total Size**: 13.64 MB
 
 ## Packages List
+- mcp-proxy-adapter
+- pipeline-eds
+- odoo-addon-helpdesk-mgmt-project
+- odoo-addon-event-sale-free-no-invoiceable
+- authentik-client
+- FreeDynamics-simaf
+- meerschaum
+- langswarm
+- worker-automate-hub
+- tencentcloud-sdk-python-intl-en
+- bode-logger
+- tumeryk-guardrails
+- aioesphomeapi
+- prometheus-client
+- ut-dic
+- arize
+- letta-client
+- odoo-addon-edi-voxel-account-invoice-oca
+- academia-mcp
+- django-simple-deploy
+- nx-neptune
+- omserv
+- thrift-pyi
+- ommlds
+- omlish
+- ominfra
+- omextra
+- omdev
+- omdev-cli
+- omdev-cext
+- bode-testing
+- choreographer
+- ob-project-utils
+- synapse-lang
+- ephem-cli
+- fotmob-wrapper
+- moneyball
+- rusampling
+- kani
+- target-gym
 - sportsball
 - lex-helper
-- pipeline-eds
 - sqlmesh
 - methodnetworkscan
-- authentik-client
 - sportsfeatures
 - tccli-intl-en
 - scc-firewall-manager-sdk
@@ -57,50 +95,6 @@
 - dagster-deltalake-pandas
 - crc-pulpcore-client
 - dagster-papertrail
-- FreeDynamics-simaf
 - dagster-azure
 - dagster-pandera
 - dagster-dlt
-- create-dagster
-- dagster-openai
-- dagster-sigma
-- dagster-msteams
-- dagster-mlflow
-- dagster-celery
-- dagster-slack
-- bode-logger
-- dagster-powerbi
-- securesyntax
-- dagster-duckdb-pandas
-- dagster-mysql
-- dagster-k8s
-- dagster-postgres
-- dagster-duckdb-polars
-- dagster-omni
-- dagster-airlift
-- dagster-dask
-- dagster-dbt
-- dagster-dg-cli
-- dagster-snowflake-polars
-- dagster-shared
-- dagster-ssh
-- dagster-gcp-pyspark
-- dagster-airflow
-- dagster-datahub
-- dagster-tableau
-- dagster-dg-core
-- dagster-deltalake
-- dagster-sling
-- streamlit-split-button
-- dagster-airbyte
-- dagster-celery-docker
-- dagster-snowflake-pandas
-- rmom6-preprocessing
-- cuvette
-- dagster-looker
-- dagster-datadog
-- dagster-census
-- dagster-celery-k8s
-- dagstermill
-- dagster-prometheus
-- dagster-github

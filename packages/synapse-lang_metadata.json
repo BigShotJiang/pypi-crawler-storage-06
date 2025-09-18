@@ -1,0 +1,11 @@
+{
+  "name": "synapse-lang",
+  "version": "2.3.0",
+  "summary": "Enterprise quantum computing platform with cloud-native architecture, distributed execution, and comprehensive quantum algorithms",
+  "author": "Michael Benjamin Crowe",
+  "license": null,
+  "home_page": "https://github.com/MichaelCrowe11/synapse-lang",
+  "download_filename": "synapse-lang-2.3.0.tar.gz",
+  "download_time": "2025-09-18T20:52:14.459066",
+  "package_url": "https://pypi.org/project/synapse-lang/"
+}
