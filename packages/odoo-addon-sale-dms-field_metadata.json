@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-dms-field",
+  "version": "16.0.1.0.0.2",
+  "summary": "Add dms field for sale",
+  "author": "Agent ERP GmbH,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/dms",
+  "download_filename": "odoo_addon_sale_dms_field-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-18T05:17:47.469899",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-dms-field/"
+}

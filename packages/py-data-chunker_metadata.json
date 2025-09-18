@@ -1,0 +1,11 @@
+{
+  "name": "py-data-chunker",
+  "version": "1.0.0",
+  "summary": "高效数据分块处理模块，用于将大型字典列表数据分割成固定大小的块",
+  "author": "anjiu",
+  "license": "MIT",
+  "home_page": "https://gitee.com/ugly-xue/data_chunker",
+  "download_filename": "py_data_chunker-1.0.0.tar.gz",
+  "download_time": "2025-09-18T05:17:47.988822",
+  "package_url": "https://pypi.org/project/py-data-chunker/"
+}

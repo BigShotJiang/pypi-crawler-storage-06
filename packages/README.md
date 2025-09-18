@@ -1,30 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T04:53:55.075271
-- **Total Packages**: 74
-- **Total Size**: 28.08 MB
+- **Download Time**: 2025-09-18T05:18:13.326468
+- **Total Packages**: 68
+- **Total Size**: 14.67 MB
 
 ## Packages List
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- lacrei-models
+- unimport
+- bptf
+- tapestrysdk
+- tombi
+- agentic-blocks
+- Geode-Numerics
+- maleo-security
+- authentik-client
+- OpenGeode-Geosciences
+- sarmat
+- computer-talk
+- mcpm
+- pyagentic-core
+- bumble
+- jacksung
+- spotiphy
+- aicg-model-generation
+- odoo-addon-sale-dms-field
+- py-data-chunker
+- classroom-pilot
+- pipeline-eds
+- telnetlib3
+- SuppsPlit
+- hvrt-partitioner
+- biobookshelf
+- gllm-inference-binary
+- jupyter-openwebui
 - nuro
 - crawlo
 - gguf-connector
-- computer-talk
-- authentik-client
 - pulumi-oci
 - ailia-speech
 - music-melodicdevice
 - ia-agent-dotnet
-- pyagentic-core
 - rigol-ds1054z
-- lacrei-models
 - llmakits
 - iamdata
 - pdfdancer-client-python
 - Rubka
 - bomiot
 - pulumi-aws-native
-- biobookshelf
 - devstack-cli
 - xensesdk-omni-ext
 - okx-build-diagnostics
@@ -48,35 +74,3 @@
 - mcpuniverse
 - ubox-py-sdk
 - mysingle
-- snowflake-connector-python-nightly
-- keras-nlp-nightly
-- keras-hub-nightly
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- pipeline-eds
-- msgflux
-- pulumi-databricks
-- tree-sitter-gh-actions-expressions
-- tap-jotform
-- yaml-to-backend
-- luna
-- protenix
-- mlx-genkit
-- bahasamanis
-- cdktf-cdktf-provider-cloudflare
-- jndataset-down
-- flexibuddiesrl
-- chromedriver-binary
-- obvyr-agent
-- risk-custom-secrets-provider
-- otlmow-model
-- sigint-examples
-- pulumi-datadog
-- odoo-addon-hr-timesheet-day-week
-- odoo-addon-hr-timesheet-sheet
-- odoo-addon-microsoft-drive-account
-- sqlmesh
-- swarmsim
-- protools4py
