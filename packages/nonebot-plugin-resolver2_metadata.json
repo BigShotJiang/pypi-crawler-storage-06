@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-resolver2",
+  "version": "1.13.0",
+  "summary": "NoneBot2 链接分享解析器自动解析, BV号/链接/小程序/卡片 | B站/抖音/快手/微博/小红书/youtube/tiktok/twitter/acfun",
+  "author": "fllesser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_resolver2-1.13.0.tar.gz",
+  "download_time": "2025-09-18T03:48:21.462305",
+  "package_url": "https://pypi.org/project/nonebot-plugin-resolver2/"
+}

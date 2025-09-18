@@ -1,0 +1,11 @@
+{
+  "name": "bk-job-xethhung12",
+  "version": "0.0.1",
+  "summary": "A command-line tool to back up local files to Azure Blob Storage, using credentials securely fetched from HashiCorp Vault.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bk_job_xethhung12-0.0.1.tar.gz",
+  "download_time": "2025-09-18T03:48:19.397688",
+  "package_url": "https://pypi.org/project/bk-job-xethhung12/"
+}

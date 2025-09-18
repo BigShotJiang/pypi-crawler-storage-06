@@ -1,11 +1,11 @@
 {
   "name": "rigol-ds1054z",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Python library for controlling Rigol DS1000Z series oscilloscopes via VISA (Virtual Instrument Software Architecture).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rigol_ds1054z-0.1.2.tar.gz",
-  "download_time": "2025-09-18T03:22:06.333467",
+  "download_filename": "rigol_ds1054z-0.1.3.tar.gz",
+  "download_time": "2025-09-18T03:48:16.244852",
   "package_url": "https://pypi.org/project/rigol-ds1054z/"
 }

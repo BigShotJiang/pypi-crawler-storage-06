@@ -1,0 +1,11 @@
+{
+  "name": "large-file-upload-sdk",
+  "version": "2.0.0",
+  "summary": "Large File Upload SDK - Support chunked upload, resumable transfer, and Token authentication",
+  "author": "SAIS Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/file-upload-server",
+  "download_filename": "large-file-upload-sdk-2.0.0.tar.gz",
+  "download_time": "2025-09-18T03:48:33.525519",
+  "package_url": "https://pypi.org/project/large-file-upload-sdk/"
+}

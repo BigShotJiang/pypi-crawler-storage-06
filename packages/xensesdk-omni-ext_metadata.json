@@ -1,0 +1,11 @@
+{
+  "name": "xensesdk-omni-ext",
+  "version": "1.0.0",
+  "summary": "xense SDK ext",
+  "author": "Hongzhan Yu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xensesdk_omni_ext-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-18T03:48:22.038734",
+  "package_url": "https://pypi.org/project/xensesdk-omni-ext/"
+}

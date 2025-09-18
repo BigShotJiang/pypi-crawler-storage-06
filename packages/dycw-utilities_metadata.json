@@ -1,11 +1,11 @@
 {
   "name": "dycw-utilities",
-  "version": "0.166.36",
+  "version": "0.166.37",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_utilities-0.166.36.tar.gz",
-  "download_time": "2025-09-17T22:50:43.321526",
+  "download_filename": "dycw_utilities-0.166.37.tar.gz",
+  "download_time": "2025-09-18T03:48:01.056391",
   "package_url": "https://pypi.org/project/dycw-utilities/"
 }

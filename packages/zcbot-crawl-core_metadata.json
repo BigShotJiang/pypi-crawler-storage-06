@@ -1,0 +1,11 @@
+{
+  "name": "zcbot-crawl-core",
+  "version": "2.0.42",
+  "summary": "zcbot crawl core for zsodata",
+  "author": "zsodata",
+  "license": "BSD License",
+  "home_page": "http://www.zsodata.com",
+  "download_filename": "zcbot-crawl-core-2.0.42.tar.gz",
+  "download_time": "2025-09-18T03:47:57.146341",
+  "package_url": "https://pypi.org/project/zcbot-crawl-core/"
+}
