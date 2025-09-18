@@ -1,0 +1,11 @@
+{
+  "name": "whatsthedamage",
+  "version": "0.7.0",
+  "summary": "A package to process KHBHU CSV files and a web application written in Flask",
+  "author": "Balázs NÉMETH",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/abalage/whatsthedamage",
+  "download_filename": "whatsthedamage-0.7.0.tar.gz",
+  "download_time": "2025-09-18T14:43:14.711701",
+  "package_url": "https://pypi.org/project/whatsthedamage/"
+}

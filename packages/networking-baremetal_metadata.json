@@ -1,0 +1,11 @@
+{
+  "name": "networking-baremetal",
+  "version": "7.0.0",
+  "summary": "Neutron plugin that provides deep Ironic/Neutron integration.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/networking-baremetal/latest/",
+  "download_filename": "networking_baremetal-7.0.0.tar.gz",
+  "download_time": "2025-09-18T14:43:13.175724",
+  "package_url": "https://pypi.org/project/networking-baremetal/"
+}

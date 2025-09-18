@@ -1,11 +1,11 @@
 {
   "name": "django-versioning",
-  "version": "0.1.5",
-  "summary": "django-versioning tracks Django model changes with version history, diffs, rollbacks, and audit trails—fully integrated with Django admin.",
+  "version": "0.1.7",
+  "summary": "django-versioning adds version history, diffs, rollbacks, and audit trails to Django models—fully integrated with the admin.",
   "author": "Deepak Prajapati",
   "license": "MIT",
   "home_page": "https://github.com/deepak7448/django-versioning",
-  "download_filename": "django_versioning-0.1.5.tar.gz",
-  "download_time": "2025-09-18T11:51:46.448574",
+  "download_filename": "django_versioning-0.1.7.tar.gz",
+  "download_time": "2025-09-18T14:42:54.541282",
   "package_url": "https://pypi.org/project/django-versioning/"
 }

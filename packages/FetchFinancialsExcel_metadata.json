@@ -1,11 +1,11 @@
 {
   "name": "FetchFinancialsExcel",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python package for fetching financial data from Excel files and performing fundamental analysis",
   "author": "Carl Viggo Gravenhorst-Lövenstierne",
   "license": "MIT",
   "home_page": "https://github.com/username/FetchFinancialsExcel",
-  "download_filename": "fetchfinancialsexcel-0.3.0.tar.gz",
-  "download_time": "2025-09-18T13:54:47.508814",
+  "download_filename": "fetchfinancialsexcel-0.3.1.tar.gz",
+  "download_time": "2025-09-18T14:43:07.498508",
   "package_url": "https://pypi.org/project/FetchFinancialsExcel/"
 }
