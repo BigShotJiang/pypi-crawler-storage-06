@@ -1,0 +1,11 @@
+{
+  "name": "process-improve",
+  "version": "0.9.96",
+  "summary": "Designed Experiments; Latent Variables (PCA, PLS, multivariate methods with missing data); Process Monitoring; Batch data analysis.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "process_improve-0.9.96.tar.gz",
+  "download_time": "2025-09-18T19:16:36.228374",
+  "package_url": "https://pypi.org/project/process-improve/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fluidsf",
+  "version": "0.2.1",
+  "summary": "Calculate structure functions from fluid data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluidsf-0.2.1.tar.gz",
+  "download_time": "2025-09-18T19:16:37.277033",
+  "package_url": "https://pypi.org/project/fluidsf/"
+}

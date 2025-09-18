@@ -1,0 +1,11 @@
+{
+  "name": "stampdb",
+  "version": "1.0.0",
+  "summary": "A tiny C++ Time Series Database library designed for compatibility with the PyData Ecosystem.",
+  "author": "Aadya A. Chinubhai",
+  "license": null,
+  "home_page": "https://github.com/aadya940/stampdb",
+  "download_filename": "stampdb-1.0.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2025-09-18T19:16:59.412380",
+  "package_url": "https://pypi.org/project/stampdb/"
+}

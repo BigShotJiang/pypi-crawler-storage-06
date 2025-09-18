@@ -1,11 +1,11 @@
 {
   "name": "rubigram-python",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A fast and flexible rubika automation library",
   "author": "Dashok",
   "license": null,
   "home_page": "https://github.com/yourusername/rubigram",
-  "download_filename": "rubigram_python-1.1.1.tar.gz",
-  "download_time": "2025-09-18T15:40:43.744366",
+  "download_filename": "rubigram_python-1.1.2.tar.gz",
+  "download_time": "2025-09-18T19:16:48.179543",
   "package_url": "https://pypi.org/project/rubigram-python/"
 }

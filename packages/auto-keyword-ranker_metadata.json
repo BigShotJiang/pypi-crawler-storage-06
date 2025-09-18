@@ -1,11 +1,11 @@
 {
   "name": "auto-keyword-ranker",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Lightweight keyword & keyphrase extraction and ranking using TF-IDF with optional embedding re-ranking.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "auto_keyword_ranker-0.1.1.tar.gz",
-  "download_time": "2025-09-18T18:50:21.283824",
+  "download_filename": "auto_keyword_ranker-0.1.4.tar.gz",
+  "download_time": "2025-09-18T19:16:50.370350",
   "package_url": "https://pypi.org/project/auto-keyword-ranker/"
 }

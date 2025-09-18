@@ -1,0 +1,11 @@
+{
+  "name": "langchain-perigon",
+  "version": "0.1.1",
+  "summary": "An integration package connecting Perigon and LangChain",
+  "author": "Islem Maboud",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_perigon-0.1.1.tar.gz",
+  "download_time": "2025-09-18T19:16:47.138689",
+  "package_url": "https://pypi.org/project/langchain-perigon/"
+}
