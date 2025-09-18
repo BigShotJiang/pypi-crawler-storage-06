@@ -1,11 +1,11 @@
 {
   "name": "gapless-crypto-data",
-  "version": "2.6.3",
+  "version": "2.7.0",
   "summary": "Ultra-fast cryptocurrency data collection with intuitive function-based API, zero gaps guarantee, and full 11-column microstructure format. Both simple function-based and advanced class-based APIs available.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gapless_crypto_data-2.6.3.tar.gz",
-  "download_time": "2025-09-18T16:45:29.388227",
+  "download_filename": "gapless_crypto_data-2.7.0.tar.gz",
+  "download_time": "2025-09-18T16:55:44.769147",
   "package_url": "https://pypi.org/project/gapless-crypto-data/"
 }

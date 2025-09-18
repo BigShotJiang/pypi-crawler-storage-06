@@ -1,0 +1,11 @@
+{
+  "name": "genwebpush",
+  "version": "0.1.14",
+  "summary": "A simple web push notification tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genwebpush-0.1.14.tar.gz",
+  "download_time": "2025-09-18T16:55:53.269636",
+  "package_url": "https://pypi.org/project/genwebpush/"
+}

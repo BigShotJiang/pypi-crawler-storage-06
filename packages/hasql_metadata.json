@@ -1,0 +1,11 @@
+{
+  "name": "hasql",
+  "version": "0.8.1",
+  "summary": "hasql is a module for acquiring actual connections with masters and replicas",
+  "author": "Vladislav Bakaev <vlad@bakaev.tech>, Dmitry Orlov <me@mosquito.su>, Pavel Mosein <me@pavkazzz.ru>",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "hasql-0.8.1.tar.gz",
+  "download_time": "2025-09-18T16:55:54.852829",
+  "package_url": "https://pypi.org/project/hasql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exasol-mcp-server-w-text-to-sql",
+  "version": "1.0.0",
+  "summary": "Exasol MCP Server with a experimental text-to-SQL option.",
+  "author": "Mikhail Beck",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exasol_mcp_server_w_text_to_sql-1.0.0.tar.gz",
+  "download_time": "2025-09-18T16:55:50.013477",
+  "package_url": "https://pypi.org/project/exasol-mcp-server-w-text-to-sql/"
+}
