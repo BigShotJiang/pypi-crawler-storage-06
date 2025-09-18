@@ -1,0 +1,11 @@
+{
+  "name": "ily-cli",
+  "version": "0.1.1",
+  "summary": "A CLI tool for couples to send messages to each other.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ily_cli-0.1.1.tar.gz",
+  "download_time": "2025-09-18T17:39:59.739542",
+  "package_url": "https://pypi.org/project/ily-cli/"
+}

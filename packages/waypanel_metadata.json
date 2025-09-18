@@ -1,0 +1,11 @@
+{
+  "name": "waypanel",
+  "version": "0.9.1",
+  "summary": "A Wayfire panel that behaves like a shell",
+  "author": "killown",
+  "license": null,
+  "home_page": "https://github.com/killown/waypanel",
+  "download_filename": "waypanel-0.9.1.tar.gz",
+  "download_time": "2025-09-18T17:40:32.635643",
+  "package_url": "https://pypi.org/project/waypanel/"
+}

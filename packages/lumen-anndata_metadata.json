@@ -1,0 +1,11 @@
+{
+  "name": "lumen-anndata",
+  "version": "0.0.2",
+  "summary": "Lumen for anndata and scanpy",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "lumen_anndata-0.0.2.tar.gz",
+  "download_time": "2025-09-18T17:40:11.599208",
+  "package_url": "https://pypi.org/project/lumen-anndata/"
+}

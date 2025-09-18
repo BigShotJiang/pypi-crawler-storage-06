@@ -1,11 +1,11 @@
 {
   "name": "cutesy",
-  "version": "1.0b2",
+  "version": "1.0b4",
   "summary": "A linter & formatter for consistent HTML code, or else.",
   "author": "Chase Finch",
   "license": null,
   "home_page": "https://github.com/chasefinch/cutesy",
-  "download_filename": "cutesy-1.0b2.tar.gz",
-  "download_time": "2025-09-18T16:45:28.325919",
+  "download_filename": "cutesy-1.0b4.tar.gz",
+  "download_time": "2025-09-18T17:40:03.515897",
   "package_url": "https://pypi.org/project/cutesy/"
 }

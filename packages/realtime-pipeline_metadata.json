@@ -1,0 +1,11 @@
+{
+  "name": "realtime-pipeline",
+  "version": "0.4.0",
+  "summary": "Build up pipelined programs to process the newest data",
+  "author": "timsu92",
+  "license": null,
+  "home_page": null,
+  "download_filename": "realtime_pipeline-0.4.0.tar.gz",
+  "download_time": "2025-09-18T17:39:55.816146",
+  "package_url": "https://pypi.org/project/realtime-pipeline/"
+}
