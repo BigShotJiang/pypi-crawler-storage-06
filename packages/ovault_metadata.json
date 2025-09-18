@@ -1,11 +1,11 @@
 {
   "name": "ovault",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Library for Managing your Obsidian Vault ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ovault-0.0.5-cp37-abi3-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-09-18T13:54:56.340232",
+  "download_filename": "ovault-0.0.6-cp37-abi3-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-09-18T15:40:58.315533",
   "package_url": "https://pypi.org/project/ovault/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PyConText-module",
+  "version": "0.1.1",
+  "summary": "A windows-only python package for displaying text in the console with format and give console cursor control.",
+  "author": "Baibhav Kumar Jha",
+  "license": null,
+  "home_page": "https://github.com/Beta-Verse-Hub/PyConText",
+  "download_filename": "pycontext_module-0.1.1.tar.gz",
+  "download_time": "2025-09-18T15:40:41.601220",
+  "package_url": "https://pypi.org/project/PyConText-module/"
+}

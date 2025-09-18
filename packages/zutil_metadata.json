@@ -1,0 +1,11 @@
+{
+  "name": "zutil",
+  "version": "2025.9.12914",
+  "summary": "\"Python utilities for zCFD users\"",
+  "author": "\"Zenotech\"",
+  "license": "MIT",
+  "home_page": "https://github.com/zCFD/zutil",
+  "download_filename": "zutil-2025.9.12914.tar.gz",
+  "download_time": "2025-09-18T15:41:11.088093",
+  "package_url": "https://pypi.org/project/zutil/"
+}

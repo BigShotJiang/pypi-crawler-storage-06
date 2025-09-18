@@ -1,11 +1,11 @@
 {
   "name": "unique_internal_search",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "summary": null,
   "author": "Martin Fadler",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_internal_search-0.0.7.tar.gz",
-  "download_time": "2025-09-17T15:40:16.192091",
+  "download_filename": "unique_internal_search-1.0.0.tar.gz",
+  "download_time": "2025-09-18T15:40:40.516882",
   "package_url": "https://pypi.org/project/unique_internal_search/"
 }

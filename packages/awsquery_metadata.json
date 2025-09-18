@@ -1,11 +1,11 @@
 {
   "name": "awsquery",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Advanced CLI tool for querying AWS APIs with flexible filtering and automatic parameter resolution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "awsquery-0.2.0.tar.gz",
-  "download_time": "2025-09-17T07:18:01.601792",
+  "download_filename": "awsquery-0.3.0.tar.gz",
+  "download_time": "2025-09-18T15:41:22.784230",
   "package_url": "https://pypi.org/project/awsquery/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iugupy",
+  "version": "0.1.0",
+  "summary": "Python REST APIs for Iugu",
+  "author": "Ramon Soares",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iugupy-0.1.0.tar.gz",
+  "download_time": "2025-09-18T15:41:04.732126",
+  "package_url": "https://pypi.org/project/iugupy/"
+}

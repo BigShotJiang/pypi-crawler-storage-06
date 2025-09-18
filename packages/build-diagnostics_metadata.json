@@ -1,11 +1,11 @@
 {
   "name": "build-diagnostics",
-  "version": "0.0.4",
+  "version": "1.5.0",
   "summary": "A package to retrieve build files for diagnostics and log them in a server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "build_diagnostics-0.0.4.tar.gz",
-  "download_time": "2025-09-18T12:39:04.018277",
+  "download_filename": "build_diagnostics-1.5.0.tar.gz",
+  "download_time": "2025-09-18T15:40:37.874390",
   "package_url": "https://pypi.org/project/build-diagnostics/"
 }
