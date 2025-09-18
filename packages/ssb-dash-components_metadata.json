@@ -1,0 +1,11 @@
+{
+  "name": "ssb-dash-components",
+  "version": "0.11.1",
+  "summary": "Dash Component library for SSB",
+  "author": "Miles Mason Winther",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssb_dash_components-0.11.1.tar.gz",
+  "download_time": "2025-09-18T07:38:31.684186",
+  "package_url": "https://pypi.org/project/ssb-dash-components/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polyprime",
+  "version": "0.1.0",
+  "summary": "A multi-paradigm programming language that compiles to Python, JavaScript, and more",
+  "author": "Michael Benjamin Crowe",
+  "license": null,
+  "home_page": "https://github.com/MichaelCrowe11/polyprime",
+  "download_filename": "polyprime-0.1.0.tar.gz",
+  "download_time": "2025-09-18T07:38:19.221162",
+  "package_url": "https://pypi.org/project/polyprime/"
+}

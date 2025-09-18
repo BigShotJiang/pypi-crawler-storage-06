@@ -1,0 +1,11 @@
+{
+  "name": "zc.lockfile",
+  "version": "4.0",
+  "summary": "Basic inter-process locks",
+  "author": "Zope Foundation",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zc.lockfile",
+  "download_filename": "zc_lockfile-4.0.tar.gz",
+  "download_time": "2025-09-18T07:38:23.371289",
+  "package_url": "https://pypi.org/project/zc.lockfile/"
+}

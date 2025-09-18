@@ -1,11 +1,11 @@
 {
   "name": "mcp-as-a-judge",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "MCP as a Judge: An AI-powered Model Context Protocol server that provides code review, validation, and quality assessment tools for development workflows",
   "author": "Zvi Fried",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_as_a_judge-0.3.0.tar.gz",
-  "download_time": "2025-09-17T23:37:39.437473",
+  "download_filename": "mcp_as_a_judge-0.3.1.tar.gz",
+  "download_time": "2025-09-18T07:38:26.506098",
   "package_url": "https://pypi.org/project/mcp-as-a-judge/"
 }

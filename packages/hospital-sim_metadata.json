@@ -1,0 +1,11 @@
+{
+  "name": "hospital-sim",
+  "version": "0.0.2",
+  "summary": "HospitalSim - Swarms",
+  "author": "Kye Gomez",
+  "license": "MIT",
+  "home_page": "https://github.com/The-Swarm-Corporation/HospitalSim",
+  "download_filename": "hospital_sim-0.0.2.tar.gz",
+  "download_time": "2025-09-18T07:38:25.444773",
+  "package_url": "https://pypi.org/project/hospital-sim/"
+}

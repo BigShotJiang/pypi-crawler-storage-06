@@ -1,11 +1,11 @@
 {
   "name": "process-gpt-llm-factory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "통합 LLM 팩토리 라이브러리 - 다양한 LLM 제공자를 통합된 인터페이스로 사용",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/llm-factory",
-  "download_filename": "process_gpt_llm_factory-1.0.1.tar.gz",
-  "download_time": "2025-09-18T06:50:06.585294",
+  "download_filename": "process_gpt_llm_factory-1.0.2.tar.gz",
+  "download_time": "2025-09-18T07:38:37.449813",
   "package_url": "https://pypi.org/project/process-gpt-llm-factory/"
 }

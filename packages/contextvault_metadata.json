@@ -1,0 +1,11 @@
+{
+  "name": "contextvault",
+  "version": "0.2.1",
+  "summary": "Local-first context archival system with PNG serialization and AI indexing",
+  "author": "Suryanarayana Bollapragada",
+  "license": "MIT",
+  "home_page": "https://github.com/saisurya76/contextvault",
+  "download_filename": "contextvault-0.2.1.tar.gz",
+  "download_time": "2025-09-18T07:38:51.535079",
+  "package_url": "https://pypi.org/project/contextvault/"
+}

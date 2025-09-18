@@ -1,11 +1,11 @@
 {
   "name": "tsadmetrics",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "Librería para evaluación de detección de anomalías en series temporales",
   "author": "Pedro Rafael Velasco Priego",
   "license": null,
   "home_page": "https://github.com/pathsko/TSADmetrics",
-  "download_filename": "tsadmetrics-1.0.4.tar.gz",
-  "download_time": "2025-09-17T11:15:29.730528",
+  "download_filename": "tsadmetrics-1.0.6.tar.gz",
+  "download_time": "2025-09-18T07:38:22.333049",
   "package_url": "https://pypi.org/project/tsadmetrics/"
 }

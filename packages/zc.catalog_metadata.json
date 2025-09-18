@@ -1,0 +1,11 @@
+{
+  "name": "zc.catalog",
+  "version": "5.0",
+  "summary": "Extensions to the Zope 3 Catalog",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/zc.catalog",
+  "download_filename": "zc_catalog-5.0.tar.gz",
+  "download_time": "2025-09-18T07:38:24.407338",
+  "package_url": "https://pypi.org/project/zc.catalog/"
+}

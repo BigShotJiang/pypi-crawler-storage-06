@@ -1,0 +1,11 @@
+{
+  "name": "magicpy",
+  "version": "0.1.6",
+  "summary": "Toolbox to control MagVenture TMS stimulators",
+  "author": "Ole Numssen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "magicpy-0.1.6.tar.gz",
+  "download_time": "2025-09-18T07:38:37.968623",
+  "package_url": "https://pypi.org/project/magicpy/"
+}
