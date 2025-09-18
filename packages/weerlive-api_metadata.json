@@ -1,0 +1,11 @@
+{
+  "name": "weerlive-api",
+  "version": "0.2.2",
+  "summary": "Asynchronous Python client for the Weerlive API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weerlive_api-0.2.2.tar.gz",
+  "download_time": "2025-09-18T09:20:53.999502",
+  "package_url": "https://pypi.org/project/weerlive-api/"
+}

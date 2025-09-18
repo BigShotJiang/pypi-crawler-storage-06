@@ -1,11 +1,11 @@
 {
   "name": "servos",
-  "version": "1.0.0",
-  "summary": "Service Environment Isolation & Orchestration System",
+  "version": "1.0.5",
+  "summary": "Environment Isolation and Orchestration for Microservices",
   "author": "Tom Sapletta",
   "license": "Apache-2.0",
   "home_page": "https://github.com/tom-sapletta-com/servos",
-  "download_filename": "servos-1.0.0.tar.gz",
-  "download_time": "2025-09-17T05:40:59.133182",
+  "download_filename": "servos-1.0.5.tar.gz",
+  "download_time": "2025-09-18T09:20:49.804827",
   "package_url": "https://pypi.org/project/servos/"
 }

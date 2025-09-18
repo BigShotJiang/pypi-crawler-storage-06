@@ -1,0 +1,11 @@
+{
+  "name": "oasis-gui",
+  "version": "0.9.2",
+  "summary": "GUI for the Open Acquisition System for IEPE Sensors (OASIS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oasis_gui-0.9.2.tar.gz",
+  "download_time": "2025-09-18T09:20:27.840697",
+  "package_url": "https://pypi.org/project/oasis-gui/"
+}

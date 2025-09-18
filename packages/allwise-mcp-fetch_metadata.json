@@ -1,11 +1,11 @@
 {
   "name": "allwise-mcp-fetch",
-  "version": "2025.9.17.2022",
+  "version": "2025.9.18.1707",
   "summary": "A Model Context Protocol server providing enhanced web content fetching capabilities for LLMs",
   "author": "Anthropic, PBC.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "allwise_mcp_fetch-2025.9.17.2022.tar.gz",
-  "download_time": "2025-09-17T12:39:00.532106",
+  "download_filename": "allwise_mcp_fetch-2025.9.18.1707.tar.gz",
+  "download_time": "2025-09-18T09:20:58.206579",
   "package_url": "https://pypi.org/project/allwise-mcp-fetch/"
 }
