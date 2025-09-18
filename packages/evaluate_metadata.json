@@ -1,0 +1,11 @@
+{
+  "name": "evaluate",
+  "version": "0.4.6",
+  "summary": "HuggingFace community-driven open-source library of evaluation",
+  "author": "HuggingFace Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/huggingface/evaluate",
+  "download_filename": "evaluate-0.4.6.tar.gz",
+  "download_time": "2025-09-18T13:17:03.887355",
+  "package_url": "https://pypi.org/project/evaluate/"
+}

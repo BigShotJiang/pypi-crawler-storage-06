@@ -1,0 +1,11 @@
+{
+  "name": "svg-cartesian-plot",
+  "version": "0.0.12",
+  "summary": "Make plots in scalable vector graphics",
+  "author": "Sebastian Achim Mueller",
+  "license": null,
+  "home_page": "https://github.com/cherenkov-plenoscope/svg_cartesian_plot",
+  "download_filename": "svg_cartesian_plot-0.0.12.tar.gz",
+  "download_time": "2025-09-18T13:17:16.985893",
+  "package_url": "https://pypi.org/project/svg-cartesian-plot/"
+}

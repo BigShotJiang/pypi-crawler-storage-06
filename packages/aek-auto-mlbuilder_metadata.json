@@ -1,0 +1,11 @@
+{
+  "name": "aek-auto-mlbuilder",
+  "version": "0.16.1",
+  "summary": "Automatic ML model builder in Python",
+  "author": "Alp Emre Karaahmet",
+  "license": "MIT",
+  "home_page": "https://github.com/alpemre8/aek-auto-mlbuilder",
+  "download_filename": "aek_auto_mlbuilder-0.16.1.tar.gz",
+  "download_time": "2025-09-18T13:16:54.307081",
+  "package_url": "https://pypi.org/project/aek-auto-mlbuilder/"
+}

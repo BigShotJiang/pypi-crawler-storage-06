@@ -1,0 +1,11 @@
+{
+  "name": "image2gcode",
+  "version": "2.9.14",
+  "summary": "image2gcode: convert an image to gcode.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "image2gcode-2.9.14.tar.gz",
+  "download_time": "2025-09-18T13:16:37.565495",
+  "package_url": "https://pypi.org/project/image2gcode/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cleopy",
-  "version": "0.60.0",
+  "version": "0.60.1",
   "summary": "Python package for generating input and processing output of CLEO SDM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cleopy-0.60.0.tar.gz",
-  "download_time": "2025-09-18T10:52:54.950015",
+  "download_filename": "cleopy-0.60.1.tar.gz",
+  "download_time": "2025-09-18T13:16:52.218253",
   "package_url": "https://pypi.org/project/cleopy/"
 }

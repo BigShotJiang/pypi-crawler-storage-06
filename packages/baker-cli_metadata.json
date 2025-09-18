@@ -1,0 +1,11 @@
+{
+  "name": "baker-cli",
+  "version": "1.0.5",
+  "summary": "Super simple Docker Build Dependency Pipeline",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "baker_cli-1.0.5.tar.gz",
+  "download_time": "2025-09-18T13:17:09.114318",
+  "package_url": "https://pypi.org/project/baker-cli/"
+}
