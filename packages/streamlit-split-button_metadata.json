@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-split-button",
+  "version": "0.1.0",
+  "summary": "A beautiful split button component for Streamlit that combines a primary action button with a dropdown menu. Perfect for providing users with a main action while offering alternative options in an elegant, space-efficient design.",
+  "author": "Jonathan Alles",
+  "license": "Apache-2.0",
+  "home_page": "https://www.evo-byte.com",
+  "download_filename": "streamlit_split_button-0.1.0.tar.gz",
+  "download_time": "2025-09-18T20:41:41.162258",
+  "package_url": "https://pypi.org/project/streamlit-split-button/"
+}

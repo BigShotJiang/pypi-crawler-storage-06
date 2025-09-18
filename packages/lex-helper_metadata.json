@@ -1,0 +1,11 @@
+{
+  "name": "lex-helper",
+  "version": "0.0.3",
+  "summary": "A helper library for building Amazon Lex chatbots",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lex_helper-0.0.3.tar.gz",
+  "download_time": "2025-09-18T20:40:57.269652",
+  "package_url": "https://pypi.org/project/lex-helper/"
+}
