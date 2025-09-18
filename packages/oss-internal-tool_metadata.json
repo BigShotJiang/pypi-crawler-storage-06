@@ -1,0 +1,11 @@
+{
+  "name": "oss-internal-tool",
+  "version": "1.7.3",
+  "summary": "An internal utility package for Aliyun OSS operations.",
+  "author": "Heyu007",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oss_internal_tool-1.7.3.tar.gz",
+  "download_time": "2025-09-18T08:25:45.059473",
+  "package_url": "https://pypi.org/project/oss-internal-tool/"
+}

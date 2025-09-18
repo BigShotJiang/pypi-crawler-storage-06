@@ -1,0 +1,11 @@
+{
+  "name": "snappi",
+  "version": "1.36.0",
+  "summary": "The Snappi Open Traffic Generator Python Package",
+  "author": "Keysight Technologies",
+  "license": "MIT",
+  "home_page": "https://github.com/open-traffic-generator/snappi",
+  "download_filename": "snappi-1.36.0.tar.gz",
+  "download_time": "2025-09-18T08:25:37.061968",
+  "package_url": "https://pypi.org/project/snappi/"
+}

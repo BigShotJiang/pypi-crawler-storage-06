@@ -1,0 +1,11 @@
+{
+  "name": "heyoka",
+  "version": "7.7.0",
+  "summary": "Python library for ODE integration via Taylor's method and LLVM",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "heyoka-7.7.0.tar.gz",
+  "download_time": "2025-09-18T08:25:19.128041",
+  "package_url": "https://pypi.org/project/heyoka/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xkits-network",
+  "version": "0.1a1",
+  "summary": "Automatically created by xkits-command.",
+  "author": "Mingzhe Zou",
+  "license": "MIT",
+  "home_page": "https://github.com/bondbox/xcommand/",
+  "download_filename": "xkits_network-0.1a1.tar.gz",
+  "download_time": "2025-09-18T08:25:47.145394",
+  "package_url": "https://pypi.org/project/xkits-network/"
+}
