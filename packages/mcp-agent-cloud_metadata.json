@@ -1,0 +1,11 @@
+{
+  "name": "mcp-agent-cloud",
+  "version": "0.1.0a2",
+  "summary": "Deprecated Python library for the MCP Agent Cloud API. Replaced in full by mcp-agent.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_agent_cloud-0.1.0a2.tar.gz",
+  "download_time": "2025-09-18T18:50:16.796675",
+  "package_url": "https://pypi.org/project/mcp-agent-cloud/"
+}

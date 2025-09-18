@@ -1,0 +1,11 @@
+{
+  "name": "playwright-analyzer",
+  "version": "0.1.2",
+  "summary": "AI-powered Playwright test report analyzer using PydanticAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "playwright_analyzer-0.1.2.tar.gz",
+  "download_time": "2025-09-18T18:50:25.671547",
+  "package_url": "https://pypi.org/project/playwright-analyzer/"
+}
