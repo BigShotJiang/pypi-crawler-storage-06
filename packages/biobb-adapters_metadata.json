@@ -1,0 +1,11 @@
+{
+  "name": "biobb-adapters",
+  "version": "5.1.2",
+  "summary": "Biobb_adapters is the Biobb module collection to use the building blocks with several workflow managers.",
+  "author": "Biobb developers",
+  "license": null,
+  "home_page": "https://github.com/bioexcel/biobb_adapters",
+  "download_filename": "biobb_adapters-5.1.2.tar.gz",
+  "download_time": "2025-09-18T09:51:32.326460",
+  "package_url": "https://pypi.org/project/biobb-adapters/"
+}

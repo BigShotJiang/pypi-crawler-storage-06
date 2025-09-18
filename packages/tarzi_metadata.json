@@ -1,11 +1,11 @@
 {
   "name": "tarzi",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Rust-native lite search for AI applications",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tarzi-0.1.5-cp310-cp310-macosx_10_14_x86_64.whl",
-  "download_time": "2025-09-18T09:40:37.624195",
+  "download_filename": "tarzi-0.1.6-cp310-cp310-macosx_10_14_x86_64.whl",
+  "download_time": "2025-09-18T09:51:39.559473",
   "package_url": "https://pypi.org/project/tarzi/"
 }

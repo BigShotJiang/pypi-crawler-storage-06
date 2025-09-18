@@ -1,11 +1,11 @@
 {
   "name": "mp_reader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mp_reader-0.1.1.tar.gz",
-  "download_time": "2025-09-18T09:40:48.682631",
+  "download_filename": "mp_reader-0.1.2.tar.gz",
+  "download_time": "2025-09-18T09:51:19.817731",
   "package_url": "https://pypi.org/project/mp_reader/"
 }

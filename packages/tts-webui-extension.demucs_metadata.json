@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui-extension.demucs",
+  "version": "0.0.4",
+  "summary": "Demucs is a music source separation model that can separate drums, bass, vocals, and other instruments",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts_webui_extension.demucs",
+  "download_filename": "tts_webui_extension_demucs-0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-18T09:51:18.015428",
+  "package_url": "https://pypi.org/project/tts-webui-extension.demucs/"
+}

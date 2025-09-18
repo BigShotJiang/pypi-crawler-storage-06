@@ -1,0 +1,11 @@
+{
+  "name": "buildtools4py",
+  "version": "0.1.3",
+  "summary": "python wrapper for (some) Android build-tools",
+  "author": "Michael Pöhn",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "buildtools4py-0.1.3.tar.gz",
+  "download_time": "2025-09-18T09:51:16.252006",
+  "package_url": "https://pypi.org/project/buildtools4py/"
+}

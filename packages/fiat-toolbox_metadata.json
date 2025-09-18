@@ -1,0 +1,11 @@
+{
+  "name": "fiat-toolbox",
+  "version": "0.1.21",
+  "summary": "A collection of modules for post-processing Delft-FIAT output.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fiat_toolbox-0.1.21.tar.gz",
+  "download_time": "2025-09-18T09:51:22.967574",
+  "package_url": "https://pypi.org/project/fiat-toolbox/"
+}
