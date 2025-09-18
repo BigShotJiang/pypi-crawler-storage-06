@@ -1,0 +1,11 @@
+{
+  "name": "bento-meta",
+  "version": "0.2.17",
+  "summary": "Python drivers for Bento Metamodel Database",
+  "author": "Mark A. Jensen",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "bento_meta-0.2.17.tar.gz",
+  "download_time": "2025-09-18T13:55:06.262740",
+  "package_url": "https://pypi.org/project/bento-meta/"
+}

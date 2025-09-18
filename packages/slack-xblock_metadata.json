@@ -1,0 +1,11 @@
+{
+  "name": "slack-xblock",
+  "version": "0.1.0",
+  "summary": "A simple XBlock to add a Slack channel link to Open edX courses.",
+  "author": "Zawadi .W",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slack_xblock-0.1.0.tar.gz",
+  "download_time": "2025-09-18T13:54:59.125347",
+  "package_url": "https://pypi.org/project/slack-xblock/"
+}

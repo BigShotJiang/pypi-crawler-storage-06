@@ -1,0 +1,11 @@
+{
+  "name": "authbox-django-template",
+  "version": "1.0.0",
+  "summary": "For convert boostrap or tailwind template to django template",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/PROJECT-OUTBOX/authbox_django_template.git",
+  "download_filename": "authbox_django_template-1.0.0.tar.gz",
+  "download_time": "2025-09-18T13:54:52.982918",
+  "package_url": "https://pypi.org/project/authbox-django-template/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tcg-research-desk",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Tools to analyze and build dashboards for trading card game tournaments",
   "author": "ArcKayNine",
   "license": null,
   "home_page": null,
-  "download_filename": "tcg_research_desk-0.1.10.tar.gz",
-  "download_time": "2025-09-18T13:16:45.181027",
+  "download_filename": "tcg_research_desk-0.1.11.tar.gz",
+  "download_time": "2025-09-18T13:55:03.752158",
   "package_url": "https://pypi.org/project/tcg-research-desk/"
 }
