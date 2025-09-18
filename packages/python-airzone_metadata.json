@@ -1,11 +1,11 @@
 {
   "name": "python-airzone",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "'Python library for interfacing with Airzone using the modbus protocol',  # Required",
   "author": "Gabriel Pulido",
   "license": "MIT",
   "home_page": "https://github.com/gpulido/python-airzone",
-  "download_filename": "python_airzone-0.18.0.tar.gz",
-  "download_time": "2025-09-18T19:17:07.894216",
+  "download_filename": "python_airzone-0.19.0.tar.gz",
+  "download_time": "2025-09-18T19:52:09.297975",
   "package_url": "https://pypi.org/project/python-airzone/"
 }

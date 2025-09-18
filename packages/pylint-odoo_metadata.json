@@ -1,0 +1,11 @@
+{
+  "name": "pylint-odoo",
+  "version": "9.3.16",
+  "summary": "Pylint plugin for Odoo",
+  "author": "Odoo Community Association (OCA)",
+  "license": "APGL3",
+  "home_page": "https://github.com/OCA/pylint-odoo",
+  "download_filename": "pylint_odoo-9.3.16.tar.gz",
+  "download_time": "2025-09-18T19:51:53.634734",
+  "package_url": "https://pypi.org/project/pylint-odoo/"
+}
