@@ -1,11 +1,11 @@
 {
   "name": "jimeng-mcp-apicore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "即梦AI MCP服务器 - 基于APICore平台调用doubao-seedream-4.0模型",
   "author": "Ceeon",
   "license": null,
   "home_page": "https://github.com/Ceeon/jimeng-mcp-apicore",
-  "download_filename": "jimeng_mcp_apicore-1.0.1.tar.gz",
-  "download_time": "2025-09-17T21:16:33.562653",
+  "download_filename": "jimeng_mcp_apicore-1.0.2.tar.gz",
+  "download_time": "2025-09-18T17:16:59.636677",
   "package_url": "https://pypi.org/project/jimeng-mcp-apicore/"
 }

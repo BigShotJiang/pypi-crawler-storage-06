@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-querybuilder",
+  "version": "0.1.11",
+  "summary": "Smart filtering, sorting, and searching for FastAPI with SQLAlchemy",
+  "author": "Bhadri01",
+  "license": "MIT",
+  "home_page": "https://github.com/bhadri01/fastapi-querybuilder",
+  "download_filename": "fastapi_querybuilder-0.1.11.tar.gz",
+  "download_time": "2025-09-18T17:16:45.833995",
+  "package_url": "https://pypi.org/project/fastapi-querybuilder/"
+}

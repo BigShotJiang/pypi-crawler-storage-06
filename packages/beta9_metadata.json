@@ -1,11 +1,11 @@
 {
   "name": "beta9",
-  "version": "0.1.235",
+  "version": "0.1.238",
   "summary": null,
   "author": "beam.cloud",
   "license": null,
   "home_page": null,
-  "download_filename": "beta9-0.1.235.tar.gz",
-  "download_time": "2025-09-18T14:42:48.835759",
+  "download_filename": "beta9-0.1.238.tar.gz",
+  "download_time": "2025-09-18T17:16:54.329703",
   "package_url": "https://pypi.org/project/beta9/"
 }
