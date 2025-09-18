@@ -1,0 +1,11 @@
+{
+  "name": "thinagents",
+  "version": "0.0.11",
+  "summary": "A lightweight AI Agent framework",
+  "author": "Prabhu Kiran Konda",
+  "license": "MIT",
+  "home_page": "https://github.com/PrabhuKiran8790/thinagents",
+  "download_filename": "thinagents-0.0.11.tar.gz",
+  "download_time": "2025-09-18T11:51:42.833873",
+  "package_url": "https://pypi.org/project/thinagents/"
+}

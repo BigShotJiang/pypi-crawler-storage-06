@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-18T11:41:41.983900
-- **Total Packages**: 88
-- **Total Size**: 15.38 MB
+- **Download Time**: 2025-09-18T11:52:20.805144
+- **Total Packages**: 76
+- **Total Size**: 10.85 MB
 
 ## Packages List
+- authentik-client
+- n8npy-client
+- codemie-mcp-datasources
+- codemie-mcp-assistants
+- libreria_marco_hola
+- granian
+- ddmail-backup-taker
+- fastapi-rtk
+- tszip
+- codemie-sdk-python
+- shoestring-assembler
+- fractal-server
+- poet-api
+- thinagents
+- worker-automate-hub
+- AOT-biomaps
+- lightdash-mcp-server
+- katonic-sdk
+- django-versioning
+- midna
+- avnet-scotty
+- wesley-key-sdk
+- abstract-hugpy
+- nonebot-bison
+- nonebot-plugin-figurine
+- seliseblocks-genesis
+- prompt4py
+- django-rich
+- pumpkin-solver
+- vasprocar
+- aveytense
+- dycw-utilities
+- synclub-mcp
+- expyro
+- dagster-ray
+- taku-cli
+- claude-agent-toolkit
+- causing
+- ShrutiAI
+- github-ioc-scanner
+- rusty-req
+- dash-spread-grid
 - localstack-core
 - cybrid-api-bank-python
 - mteb
@@ -22,8 +64,6 @@
 - mcp-server-selenium
 - quvis
 - oidfpolicy
-- lightdash-mcp-server
-- github-ioc-scanner
 - hello-pkg-pkb2
 - smartdict
 - cumulusci-plus
@@ -31,66 +71,14 @@
 - emacs-paw
 - serializor
 - torchx-nightly
-- AOT-biomaps
 - leetcode-py-sdk
 - odoo-mcp-beta
 - yeref
 - open-edison
 - cimsparql
-- vasprocar
 - lusid-configuration-sdk
 - shotgun-sh
 - heroicons
-- ShrutiAI
 - django-watchfiles
 - crackerjack
 - MeUtils
-- django-version-checks
-- tentaclio
-- mcp-openstack-ops
-- sbc-model
-- bhp-pro
-- authentik-client
-- deepluq
-- sepsolve
-- PyPNM
-- agentic-blocks
-- gradientcobra
-- pygpt-net
-- modis-crawler-utils
-- keycardai-mcp
-- legit-api-client
-- sqlmesh
-- transformix
-- balinese-nlp
-- music-assistant-models
-- sportsball
-- extracthero
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- tobiko-cloud-pydantic
-- django-mysql
-- actinet
-- pyagenity
-- aer-gel-annotate
-- stigg-sidecar-sdk
-- cocode
-- cwl2nx
-- orq-ai-sdk
-- django-read-only
-- dhlab
-- cognite-sdk
-- django-perf-rec
-- pyipv8
-- solve-ps
-- django-ragamuffin
-- django-permissions-policy
-- rose-nielsen-sdk
-- django-devapp
-- relationalai
-- ocpiupdate
-- init-film
-- tb-nightly
-- mhd-model
-- dycw-utilities
-- django-minify-html

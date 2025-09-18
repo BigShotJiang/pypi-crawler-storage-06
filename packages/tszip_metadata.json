@@ -1,0 +1,11 @@
+{
+  "name": "tszip",
+  "version": "0.2.6",
+  "summary": "Compression utilities for tree sequences",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tszip-0.2.6.tar.gz",
+  "download_time": "2025-09-18T11:51:39.371462",
+  "package_url": "https://pypi.org/project/tszip/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "midna",
+  "version": "1.0.4",
+  "summary": "Smart pip requirements installer - Midna manages your installations",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "midna-1.0.4.tar.gz",
+  "download_time": "2025-09-18T11:51:47.081770",
+  "package_url": "https://pypi.org/project/midna/"
+}
