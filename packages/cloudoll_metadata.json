@@ -1,0 +1,11 @@
+{
+  "name": "cloudoll",
+  "version": "3.0.9",
+  "summary": "Assist in quickly creating distributable microservices based on aiohttp, with a focus on simplicity and ease of use.",
+  "author": "Qiu",
+  "license": null,
+  "home_page": "https://github.com/smallerqiu/cloudoll-py",
+  "download_filename": "cloudoll-3.0.9.tar.gz",
+  "download_time": "2025-09-19T06:51:13.905460",
+  "package_url": "https://pypi.org/project/cloudoll/"
+}

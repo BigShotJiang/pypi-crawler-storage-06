@@ -1,0 +1,11 @@
+{
+  "name": "localcosmos-cordova-builder",
+  "version": "0.9.6",
+  "summary": "Create android and ios app packages for Local Cosmos apps.",
+  "author": "Thomas Uher",
+  "license": "The MIT License",
+  "home_page": "https://github.com/SiSol-Systems/localcosmos-cordova-builder",
+  "download_filename": "localcosmos_cordova_builder-0.9.6.tar.gz",
+  "download_time": "2025-09-19T06:51:03.131233",
+  "package_url": "https://pypi.org/project/localcosmos-cordova-builder/"
+}

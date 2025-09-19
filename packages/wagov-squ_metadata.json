@@ -1,11 +1,11 @@
 {
   "name": "wagov-squ",
-  "version": "1.4.9",
+  "version": "1.5.1",
   "summary": "Python SIEM Query Utils with Ibis support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wagov_squ-1.4.9.tar.gz",
-  "download_time": "2025-09-19T03:53:55.752534",
+  "download_filename": "wagov_squ-1.5.1.tar.gz",
+  "download_time": "2025-09-19T06:51:09.533260",
   "package_url": "https://pypi.org/project/wagov-squ/"
 }

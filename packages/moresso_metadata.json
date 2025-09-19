@@ -1,11 +1,11 @@
 {
   "name": "moresso",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A lightweight and extensible Single Sign-On (SSO) authentication library for Python.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "moresso-1.2.1.tar.gz",
-  "download_time": "2025-09-18T09:20:53.479701",
+  "download_filename": "moresso-1.2.2.tar.gz",
+  "download_time": "2025-09-19T06:51:08.374204",
   "package_url": "https://pypi.org/project/moresso/"
 }
