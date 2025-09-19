@@ -1,0 +1,11 @@
+{
+  "name": "graphene-sqlalchemy-filter",
+  "version": "1.14.0",
+  "summary": "Filters for Graphene SQLAlchemy integration",
+  "author": "Artem Fedotov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphene_sqlalchemy_filter-1.14.0.tar.gz",
+  "download_time": "2025-09-19T20:51:47.122382",
+  "package_url": "https://pypi.org/project/graphene-sqlalchemy-filter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geo-sampling",
+  "version": "0.2.2",
+  "summary": "Scripts for sampling Geo data sets by the specific region name",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_sampling-0.2.2.tar.gz",
+  "download_time": "2025-09-19T20:51:45.056459",
+  "package_url": "https://pypi.org/project/geo-sampling/"
+}

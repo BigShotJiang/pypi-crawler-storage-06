@@ -1,0 +1,11 @@
+{
+  "name": "get-unicode-arguments-to-launch-editor",
+  "version": "0.1.0a0",
+  "summary": "A cross-platform Python utility that gets Unicode arguments to launch an EDITOR, using user input, environment variables, and platform-specific fallbacks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_unicode_arguments_to_launch_editor-0.1.0a0.tar.gz",
+  "download_time": "2025-09-19T20:51:43.000306",
+  "package_url": "https://pypi.org/project/get-unicode-arguments-to-launch-editor/"
+}
