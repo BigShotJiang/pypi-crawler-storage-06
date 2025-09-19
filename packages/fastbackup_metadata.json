@@ -1,0 +1,11 @@
+{
+  "name": "fastbackup",
+  "version": "1.0.3",
+  "summary": "一行导入式Python项目实验备份工具",
+  "author": "ZiwenChen",
+  "license": "MIT",
+  "home_page": "https://github.com/chenziwenhaoshuai/fastbackup",
+  "download_filename": "fastbackup-1.0.3.tar.gz",
+  "download_time": "2025-09-19T07:19:43.765364",
+  "package_url": "https://pypi.org/project/fastbackup/"
+}

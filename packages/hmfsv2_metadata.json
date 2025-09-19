@@ -1,11 +1,11 @@
 {
   "name": "hmfsv2",
-  "version": "1.2.4.7",
+  "version": "1.2.4.8",
   "summary": "Distributed filesystem for Hamuna AI",
   "author": "O.Push",
   "license": "MIT",
   "home_page": "https://www.hamuna.club",
-  "download_filename": "hmfsv2-1.2.4.7.tar.gz",
-  "download_time": "2025-09-19T06:28:57.190721",
+  "download_filename": "hmfsv2-1.2.4.8.tar.gz",
+  "download_time": "2025-09-19T07:19:53.829551",
   "package_url": "https://pypi.org/project/hmfsv2/"
 }

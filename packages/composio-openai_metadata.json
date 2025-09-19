@@ -1,0 +1,11 @@
+{
+  "name": "composio-openai",
+  "version": "0.8.13",
+  "summary": "Use Composio to get an array of tools with your OpenAI Function Call.",
+  "author": "Composio",
+  "license": null,
+  "home_page": "https://github.com/ComposioHQ/composio",
+  "download_filename": "composio_openai-0.8.13.tar.gz",
+  "download_time": "2025-09-19T07:19:42.489148",
+  "package_url": "https://pypi.org/project/composio-openai/"
+}

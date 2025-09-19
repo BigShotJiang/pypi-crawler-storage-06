@@ -1,0 +1,11 @@
+{
+  "name": "web-content-parser",
+  "version": "1.0.0",
+  "summary": "A Python utility for web content processing and data extraction",
+  "author": "Dev Team",
+  "license": "MIT",
+  "home_page": "https://github.com/devteam/web-content-parser",
+  "download_filename": "web_content_parser-1.0.0.tar.gz",
+  "download_time": "2025-09-19T07:20:01.587817",
+  "package_url": "https://pypi.org/project/web-content-parser/"
+}

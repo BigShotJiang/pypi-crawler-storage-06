@@ -1,0 +1,11 @@
+{
+  "name": "py50",
+  "version": "1.0.12",
+  "summary": "Generate Dose-Response Curves",
+  "author": "Tony Eight Lin",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/tlint101/py50.git",
+  "download_filename": "py50-1.0.12.tar.gz",
+  "download_time": "2025-09-19T07:19:36.713800",
+  "package_url": "https://pypi.org/project/py50/"
+}
