@@ -1,0 +1,11 @@
+{
+  "name": "seselab",
+  "version": "0.1.2",
+  "summary": "SeseLab: a software platform for teaching physical attacks",
+  "author": "Pablo Rauzy",
+  "license": "GNU AGPL v3+",
+  "home_page": "https://pablo.rauzy.name/software.html#seselab",
+  "download_filename": "seselab-0.1.2.tar.gz",
+  "download_time": "2025-09-19T14:43:36.605763",
+  "package_url": "https://pypi.org/project/seselab/"
+}

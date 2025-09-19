@@ -1,0 +1,11 @@
+{
+  "name": "tableau-api-client",
+  "version": "1.0.0",
+  "summary": "Python client for Tableau Server REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tableau_api_client-1.0.0.tar.gz",
+  "download_time": "2025-09-19T14:43:28.777915",
+  "package_url": "https://pypi.org/project/tableau-api-client/"
+}

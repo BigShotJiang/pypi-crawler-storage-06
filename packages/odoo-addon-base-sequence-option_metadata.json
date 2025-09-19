@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-base-sequence-option",
+  "version": "18.0.1.0.0.3",
+  "summary": "Alternative sequence options for specific models",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_base_sequence_option-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-19T14:43:34.296297",
+  "package_url": "https://pypi.org/project/odoo-addon-base-sequence-option/"
+}

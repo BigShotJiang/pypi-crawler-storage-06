@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-sequence-option",
+  "version": "17.0.1.0.0.2",
+  "summary": "Manage sequence options for account.move, i.e., invoice, bill, entry",
+  "author": "Ecosoft, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_sequence_option-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-19T14:43:33.203864",
+  "package_url": "https://pypi.org/project/odoo-addon-account-sequence-option/"
+}

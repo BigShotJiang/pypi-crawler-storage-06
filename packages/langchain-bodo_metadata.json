@@ -1,0 +1,11 @@
+{
+  "name": "langchain-bodo",
+  "version": "0.1.0",
+  "summary": "An integration package connecting Bodo and LangChain",
+  "author": "Bodo.ai",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_bodo-0.1.0.tar.gz",
+  "download_time": "2025-09-19T14:43:52.779302",
+  "package_url": "https://pypi.org/project/langchain-bodo/"
+}

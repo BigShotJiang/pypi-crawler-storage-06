@@ -1,0 +1,11 @@
+{
+  "name": "ctf-orchestra",
+  "version": "0.1.0",
+  "summary": "A CLI for streamlining workflows for Capture-The-Flag players, including tools for file management and environment interaction.",
+  "author": "Owen Tam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctf_orchestra-0.1.0.tar.gz",
+  "download_time": "2025-09-19T14:43:16.115145",
+  "package_url": "https://pypi.org/project/ctf-orchestra/"
+}

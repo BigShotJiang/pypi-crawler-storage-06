@@ -1,0 +1,11 @@
+{
+  "name": "typedspark",
+  "version": "1.5.5",
+  "summary": "Column-wise type annotations for pyspark DataFrames",
+  "author": "Nanne Aben",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/kaiko-ai/typedspark",
+  "download_filename": "typedspark-1.5.5.tar.gz",
+  "download_time": "2025-09-19T14:43:15.573003",
+  "package_url": "https://pypi.org/project/typedspark/"
+}

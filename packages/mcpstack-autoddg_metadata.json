@@ -1,0 +1,11 @@
+{
+  "name": "mcpstack-autoddg",
+  "version": "0.0.0",
+  "summary": "MCPStack tool exposing the AutoDDG dataset description workflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpstack_autoddg-0.0.0.tar.gz",
+  "download_time": "2025-09-19T14:43:41.555647",
+  "package_url": "https://pypi.org/project/mcpstack-autoddg/"
+}
