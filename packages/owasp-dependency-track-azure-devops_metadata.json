@@ -1,0 +1,11 @@
+{
+  "name": "owasp-dependency-track-azure-devops",
+  "version": "0.0.1",
+  "summary": "OWASP Dependency Track to Azure DevOps sync",
+  "author": "Mike Reiche",
+  "license": null,
+  "home_page": "https://github.com/mreiche/owasp-dependency-track-azure-devops",
+  "download_filename": "owasp_dependency_track_azure_devops-0.0.1.tar.gz",
+  "download_time": "2025-09-19T09:41:13.460595",
+  "package_url": "https://pypi.org/project/owasp-dependency-track-azure-devops/"
+}

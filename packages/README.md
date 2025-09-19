@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T09:22:11.088496
-- **Total Packages**: 90
-- **Total Size**: 20.97 MB
+- **Download Time**: 2025-09-19T09:41:45.487891
+- **Total Packages**: 80
+- **Total Size**: 32.99 MB
 
 ## Packages List
+- sourcemeta-jsonschema
+- bplot
+- django-daiquiri
+- ansys-fluent-visualization
+- ultrasphere
+- authentik-client
+- rich-reg-replace
+- nhs_aws_helpers
+- wads
+- aiida-chemshell
+- cyclonedx-editor-validator
+- scdef
+- rcplus_alloy_common
+- cpr_sdk
+- orca-studio
+- pydorm
+- warlock-waker
+- owocr
+- tokenizers
+- modal
+- yield-analysis-sdk
+- turboeda
+- finqual
+- linkdapi
+- togetfun
+- owasp-dependency-track-azure-devops
+- voice-agent-core
+- dnadsl
+- nthu-complaints-mcp
+- oxylabs-mcp
+- gs-tool
+- ndp-ep
+- pytomosaic
+- dafni-cli
+- lox-space
+- yuhe
+- dve-lumipy-testing
+- rafay-workflow-sdk
+- mbu-dev-shared-components
+- alita-sdk
+- rolesnap
+- genomehubs
+- gcip
+- acryl-executor
+- terragon-downloader
+- hired
+- tabpfn-common-utils
+- whitebox-plugin-device-insta360
 - gdcmd
 - resolver-athena-client
 - zenx
@@ -34,65 +82,7 @@
 - seam
 - gramps-gedcom7
 - gamspy-examiner
-- nhs_aws_helpers
 - gamspy-miles
 - gamspy-mpsge
 - gamspy-soplex
 - tbp-nightly
-- BoschRpaMagicBox
-- cpp-linter-hooks
-- gamspy-ipopth
-- lark-oapi
-- gamspy-minos
-- gamspy-mosek
-- gamspy-cbc
-- gamspy-highs
-- agent-redis-framework
-- gamspy-examiner2
-- gamspy-baron
-- gamspy-pathnlp
-- gamspy-conopt3
-- django-ace
-- gamspy-copt
-- gamspy-ipopt
-- dataprof
-- authentik-client
-- qoqo-qasm
-- gamspy-dicopt
-- gamspy-knitro
-- gamspy-xpress
-- bioimageio.core
-- gamsapi
-- bplot
-- graphrag-eval
-- shotgun-sh
-- django-french-highschool
-- mcp4hal
-- autogluon
-- autogluon.timeseries
-- odd-kernel
-- autogluon.multimodal
-- autogluon.tabular
-- optimum-rbln
-- autogluon.features
-- autogluon.core
-- hvcc
-- autogluon.common
-- wordviz
-- efootprint
-- docker-model-runner
-- bitswan
-- S2Generator
-- alibabacloud-dms-enterprise20181101
-- datacosmos
-- refspy
-- nasdaq-protocols
-- awsquery
-- langevaluate
-- netknife
-- berryworld
-- django-confetti
-- odoo-addon-login-all-company
-- dystore-data-collection
-- egui-states
-- datagouv-client

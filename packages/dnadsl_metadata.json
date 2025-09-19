@@ -1,0 +1,11 @@
+{
+  "name": "dnadsl",
+  "version": "0.4.0",
+  "summary": "DNA: a domain-specific language (transcription between UTF-8 text and DNA bases) based on YAML.",
+  "author": null,
+  "license": "GNU GPLv3",
+  "home_page": null,
+  "download_filename": "dnadsl-0.4.0.tar.gz",
+  "download_time": "2025-09-19T09:41:14.589631",
+  "package_url": "https://pypi.org/project/dnadsl/"
+}

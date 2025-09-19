@@ -1,11 +1,11 @@
 {
   "name": "hired",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "Streamline the job application process for job seekers",
   "author": "Thor Whalen",
   "license": "mit",
   "home_page": "https://github.com/thorwhalen/hired",
-  "download_filename": "hired-0.0.4.tar.gz",
-  "download_time": "2025-09-19T07:19:37.353279",
+  "download_filename": "hired-0.0.6.tar.gz",
+  "download_time": "2025-09-19T09:41:24.440796",
   "package_url": "https://pypi.org/project/hired/"
 }

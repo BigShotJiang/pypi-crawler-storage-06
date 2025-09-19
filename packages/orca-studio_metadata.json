@@ -1,0 +1,11 @@
+{
+  "name": "orca-studio",
+  "version": "0.2.17",
+  "summary": "A Python toolkit for parsing, analyzing, and visualizing ORCA quantum chemistry calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orca_studio-0.2.17.tar.gz",
+  "download_time": "2025-09-19T09:41:06.347910",
+  "package_url": "https://pypi.org/project/orca-studio/"
+}

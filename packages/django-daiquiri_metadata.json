@@ -1,0 +1,11 @@
+{
+  "name": "django-daiquiri",
+  "version": "1.2.1",
+  "summary": "Daiquiri is a framework for the publication of scientific databases.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "django_daiquiri-1.2.1-py3-none-any.whl",
+  "download_time": "2025-09-19T09:40:59.599851",
+  "package_url": "https://pypi.org/project/django-daiquiri/"
+}

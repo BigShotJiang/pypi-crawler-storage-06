@@ -1,11 +1,11 @@
 {
   "name": "wads",
-  "version": "0.1.38",
+  "version": "0.1.40",
   "summary": "Tools for packaging and publishing to pypi for those who just don not want to deal with it",
   "author": null,
   "license": "Apache Software License",
   "home_page": "https://github.com/i2mint/wads",
-  "download_filename": "wads-0.1.38.tar.gz",
-  "download_time": "2025-09-18T16:45:46.761150",
+  "download_filename": "wads-0.1.40.tar.gz",
+  "download_time": "2025-09-19T09:41:03.051405",
   "package_url": "https://pypi.org/project/wads/"
 }
