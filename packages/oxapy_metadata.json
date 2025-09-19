@@ -1,11 +1,11 @@
 {
   "name": "oxapy",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "OxAPY is http server for python build in rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oxapy-0.6.3.tar.gz",
-  "download_time": "2025-09-18T14:53:36.128631",
+  "download_filename": "oxapy-0.6.4.tar.gz",
+  "download_time": "2025-09-19T20:21:37.025129",
   "package_url": "https://pypi.org/project/oxapy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "frost-sta-client",
+  "version": "1.1.53",
+  "summary": "a client library to facilitate interaction with a FROST SensorThingsAPI Server",
+  "author": "Fraunhofer IOSB",
+  "license": "LGPL3",
+  "home_page": "https://github.com/FraunhoferIOSB/FROST-Python-Client",
+  "download_filename": "frost_sta_client-1.1.53.tar.gz",
+  "download_time": "2025-09-19T20:21:01.918445",
+  "package_url": "https://pypi.org/project/frost-sta-client/"
+}

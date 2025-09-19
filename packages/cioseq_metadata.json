@@ -1,0 +1,11 @@
+{
+  "name": "cioseq",
+  "version": "0.5.2",
+  "summary": "Manage sequences of frame numbers.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/cioseq",
+  "download_filename": "cioseq-0.5.2-py2.py3-none-any.whl",
+  "download_time": "2025-09-19T20:21:32.696258",
+  "package_url": "https://pypi.org/project/cioseq/"
+}

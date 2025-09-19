@@ -1,0 +1,11 @@
+{
+  "name": "otcextensions",
+  "version": "0.32.27",
+  "summary": "Open Telekom Cloud specific extensions for the OpenStack Client CLI and OpenStack SDK",
+  "author": "Artem Goncharov",
+  "license": null,
+  "home_page": "http://python-otcextensions.readthedocs.io/",
+  "download_filename": "otcextensions-0.32.27.tar.gz",
+  "download_time": "2025-09-19T20:21:17.392052",
+  "package_url": "https://pypi.org/project/otcextensions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reservoirpy",
+  "version": "0.4.1",
+  "summary": "A simple and flexible code for Reservoir Computing architectures like Echo State Networks.",
+  "author": "Xavier Hinaut",
+  "license": null,
+  "home_page": "https://github.com/reservoirpy/reservoirpy",
+  "download_filename": "reservoirpy-0.4.1-py3-none-any.whl",
+  "download_time": "2025-09-19T20:20:57.414700",
+  "package_url": "https://pypi.org/project/reservoirpy/"
+}

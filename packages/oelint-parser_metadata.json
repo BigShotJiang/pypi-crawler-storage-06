@@ -1,0 +1,11 @@
+{
+  "name": "oelint-parser",
+  "version": "8.4.3",
+  "summary": "Alternative parser for bitbake recipes",
+  "author": "Konrad Weihmann",
+  "license": null,
+  "home_page": "https://github.com/priv-kweihmann/oelint-parser",
+  "download_filename": "oelint_parser-8.4.3.tar.gz",
+  "download_time": "2025-09-19T20:21:43.026584",
+  "package_url": "https://pypi.org/project/oelint-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "omega-controller",
+  "version": "0.0.1",
+  "summary": "Lightweight Python driver for Omega CN-series temperature controllers using Modbus over serial",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omega_controller-0.0.1.tar.gz",
+  "download_time": "2025-09-19T20:20:52.575150",
+  "package_url": "https://pypi.org/project/omega-controller/"
+}

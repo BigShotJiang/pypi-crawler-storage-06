@@ -1,11 +1,11 @@
 {
   "name": "assemblyline",
-  "version": "4.6.0.15",
+  "version": "4.6.0.16",
   "summary": "Assemblyline 4 - Automated malware analysis framework",
   "author": "CCCS Assemblyline development team",
   "license": "MIT",
   "home_page": "https://github.com/CybercentreCanada/assemblyline-base",
-  "download_filename": "assemblyline-4.6.0.15.tar.gz",
-  "download_time": "2025-09-19T15:19:45.196425",
+  "download_filename": "assemblyline-4.6.0.16.tar.gz",
+  "download_time": "2025-09-19T20:21:44.116552",
   "package_url": "https://pypi.org/project/assemblyline/"
 }
