@@ -1,11 +1,11 @@
 {
   "name": "semeio",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Forward models and workflows for Ert.",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "semeio-2.0.1-py3-none-any.whl",
-  "download_time": "2025-09-18T07:38:32.725116",
+  "download_filename": "semeio-2.0.2-py3-none-any.whl",
+  "download_time": "2025-09-19T06:29:26.163663",
   "package_url": "https://pypi.org/project/semeio/"
 }

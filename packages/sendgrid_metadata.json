@@ -1,0 +1,11 @@
+{
+  "name": "sendgrid",
+  "version": "6.12.5",
+  "summary": "Twilio SendGrid library for Python",
+  "author": "Elmer Thomas, Yamil Asusta",
+  "license": "MIT",
+  "home_page": "https://github.com/sendgrid/sendgrid-python/",
+  "download_filename": "sendgrid-6.12.5.tar.gz",
+  "download_time": "2025-09-19T06:28:59.343475",
+  "package_url": "https://pypi.org/project/sendgrid/"
+}

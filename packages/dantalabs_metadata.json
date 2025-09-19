@@ -1,0 +1,11 @@
+{
+  "name": "dantalabs",
+  "version": "0.2.0",
+  "summary": "DantaLabs SDK collection (featuring Maestro)",
+  "author": null,
+  "license": "wip :)",
+  "home_page": null,
+  "download_filename": "dantalabs-0.2.0.tar.gz",
+  "download_time": "2025-09-19T06:29:18.658085",
+  "package_url": "https://pypi.org/project/dantalabs/"
+}

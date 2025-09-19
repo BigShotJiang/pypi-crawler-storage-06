@@ -1,11 +1,11 @@
 {
   "name": "odoo14-addon-ssi-risk-limit",
-  "version": "14.0.2.1.0",
+  "version": "14.0.2.2.0",
   "summary": "Risk Limit",
   "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
   "license": "AGPL-3",
   "home_page": "https://simetri-sinergi.id",
-  "download_filename": "odoo14_addon_ssi_risk_limit-14.0.2.1.0-py3-none-any.whl",
-  "download_time": "2025-09-19T05:51:58.681631",
+  "download_filename": "odoo14_addon_ssi_risk_limit-14.0.2.2.0-py3-none-any.whl",
+  "download_time": "2025-09-19T06:29:04.092551",
   "package_url": "https://pypi.org/project/odoo14-addon-ssi-risk-limit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-oss-v2",
+  "version": "1.2.0",
+  "summary": "Alibaba Cloud OSS (Object Storage Service) SDK V2 for Python",
+  "author": "Alibaba Cloud OSS SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-oss-python-sdk-v2",
+  "download_filename": "alibabacloud-oss-v2-1.2.0.tar.gz",
+  "download_time": "2025-09-19T06:29:07.959644",
+  "package_url": "https://pypi.org/project/alibabacloud-oss-v2/"
+}

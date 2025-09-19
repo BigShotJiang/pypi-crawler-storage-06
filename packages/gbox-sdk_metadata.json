@@ -1,0 +1,11 @@
+{
+  "name": "gbox-sdk",
+  "version": "0.1.0a38",
+  "summary": "The official Python library for the gbox-client API",
+  "author": "Gbox Client",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gbox_sdk-0.1.0a38.tar.gz",
+  "download_time": "2025-09-19T06:29:27.743783",
+  "package_url": "https://pypi.org/project/gbox-sdk/"
+}

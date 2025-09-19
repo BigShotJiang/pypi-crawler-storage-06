@@ -1,11 +1,11 @@
 {
   "name": "marm-mcp-server",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "MARM-Systems is a complete protocol and platform—combining an advanced memory backend, modular semantic search, and agent-to-agent coordination with a scientifically structured, community-vetted methodology for reasoning, session recall, and collaborative AI workflows. More then just a set of tools, it's a complete AI memory ecosystem",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "marm_mcp_server-2.2.2.tar.gz",
-  "download_time": "2025-09-19T04:53:35.910393",
+  "download_filename": "marm_mcp_server-2.2.3.tar.gz",
+  "download_time": "2025-09-19T06:29:37.270085",
   "package_url": "https://pypi.org/project/marm-mcp-server/"
 }
