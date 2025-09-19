@@ -1,11 +1,11 @@
 {
   "name": "byteplus-python-sdk-v2",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "summary": "Byteplus SDK for Python",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "byteplus-python-sdk-v2-3.0.10.tar.gz",
-  "download_time": "2025-09-18T12:39:18.357039",
+  "download_filename": "byteplus-python-sdk-v2-3.0.11.tar.gz",
+  "download_time": "2025-09-19T07:39:02.206316",
   "package_url": "https://pypi.org/project/byteplus-python-sdk-v2/"
 }

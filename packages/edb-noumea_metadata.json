@@ -1,11 +1,11 @@
 {
   "name": "edb-noumea",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "summary": "Un scraper pour la qualité des eaux de baignade à Nouméa.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edb_noumea-0.2.11.tar.gz",
-  "download_time": "2025-09-19T07:19:25.631771",
+  "download_filename": "edb_noumea-0.2.12.tar.gz",
+  "download_time": "2025-09-19T07:39:07.417947",
   "package_url": "https://pypi.org/project/edb-noumea/"
 }
