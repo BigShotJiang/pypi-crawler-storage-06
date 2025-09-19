@@ -1,11 +1,11 @@
 {
   "name": "cbases",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Number base conversion library with Roman numeral support",
   "author": "Votre Nom",
   "license": "MIT",
   "home_page": "https://github.com/votrenom/cbases",
-  "download_filename": "cbases-1.0.1.tar.gz",
-  "download_time": "2025-09-18T20:21:43.521519",
+  "download_filename": "cbases-1.0.2.tar.gz",
+  "download_time": "2025-09-19T18:48:22.465164",
   "package_url": "https://pypi.org/project/cbases/"
 }

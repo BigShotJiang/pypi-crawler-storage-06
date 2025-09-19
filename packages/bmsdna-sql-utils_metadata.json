@@ -1,11 +1,11 @@
 {
   "name": "bmsdna-sql-utils",
-  "version": "0.14.4",
+  "version": "0.14.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bmsdna_sql_utils-0.14.4.tar.gz",
-  "download_time": "2025-09-19T18:26:55.650667",
+  "download_filename": "bmsdna_sql_utils-0.14.5.tar.gz",
+  "download_time": "2025-09-19T18:48:14.044021",
   "package_url": "https://pypi.org/project/bmsdna-sql-utils/"
 }
