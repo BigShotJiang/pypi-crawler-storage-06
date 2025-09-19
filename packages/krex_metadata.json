@@ -1,11 +1,11 @@
 {
   "name": "krex",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "A Lightweight Python Package for Low-Latency and Cross-Exchange Trading.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "krex-0.18.0.tar.gz",
-  "download_time": "2025-09-19T17:39:25.656435",
+  "download_filename": "krex-0.19.0.tar.gz",
+  "download_time": "2025-09-19T17:52:07.311330",
   "package_url": "https://pypi.org/project/krex/"
 }

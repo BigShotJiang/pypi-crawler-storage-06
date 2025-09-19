@@ -1,11 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T17:39:55.012858
-- **Total Packages**: 84
-- **Total Size**: 34.52 MB
+- **Download Time**: 2025-09-19T17:52:51.743804
+- **Total Packages**: 81
+- **Total Size**: 12.93 MB
 
 ## Packages List
+- krex
+- thisisneat
+- agapi
+- bce-python-sdk-next
+- authentik-client
+- pixascii
+- astronomer-orbiter
+- hello6tr41
+- milcapy
+- amsdal_models
+- CordForge
+- GuardianUnivalle-Benito-Yucra
+- moose-lib
+- aio-sf
+- nmdc-submission-schema
+- img2-info
+- mdquery
+- fvgp
+- svc-infra
+- discord-self-api
+- ninja-kafka-sdk
+- dolphins
+- yangke
+- agent-framework-lab-tau2
+- pyudon
+- kaqing
+- ioh
+- base-api-utils
+- tobiko-cloud-pydantic
+- microsoft-graph-helpers
+- tobiko-cloud-api-client
+- prompts-mcp
+- tobiko-cloud-helpers
+- mirumoji
+- vior-cli
+- papermodels
+- avtdl
+- detprocess
+- alibabacloud-ecs-workbench20220220
+- alibabacloud-websitebuild20250429
+- alibabacloud-ddoscoo20200101
+- jerry-thomas
 - trame-server
 - peakviz
 - alibabacloud-xtee20210910
@@ -16,7 +58,6 @@
 - niwrap-helper
 - claude-mpm
 - telliot-core
-- authentik-client
 - iatoolkit-core
 - ingestr
 - sqlmesh
@@ -28,20 +69,15 @@
 - pyqrackising
 - dymoapi
 - mobisurvstd
-- discord-self-api
 - pylizlib
 - muck-out
 - ctxkit
 - py-allspice
 - cogames
-- krex
 - mettagrid
 - vcp-cli
 - data-repo-client
-- kaqing
-- CordForge
 - gridworks-scada-protocol
-- py-udon
 - get-shell
 - rds-proxy-password-rotation
 - dabhounds
@@ -51,42 +87,3 @@
 - onnx-diagnostic
 - videomass
 - jwt-algorithms
-- d3-tb-agent-comms
-- healthyselfjournal
-- ginseng
-- a4f
-- aurora-mvc
-- redivis
-- agenta
-- gridworks-admin
-- pycc.id
-- pycarlo
-- threepio-test-runner
-- lite-bootstrap
-- flake8-no-emoji
-- starlette-dishka
-- termaitrik
-- littlefluffyclouds
-- phonlab
-- sapiopycommons
-- django-workos
-- perfmetrics
-- vcdiff-decoder
-- sdforge
-- yandex-cloud-ml-sdk
-- rest-filters
-- grobnercrystals
-- modeci-mdf
-- conductor-py
-- auto-propensity
-- dreamtools-dreamgeeker
-- atlan-application-sdk
-- prompts-mcp
-- assemblyline-core
-- python-ydotool
-- assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- backspaceAlpha

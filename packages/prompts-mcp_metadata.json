@@ -1,11 +1,11 @@
 {
   "name": "prompts-mcp",
-  "version": "1.3.1",
-  "summary": "MCP server that provides prompts from an user defined directory",
+  "version": "1.3.2",
+  "summary": "MCP server that provides prompts from a directory",
   "author": "Anssi Syrjäsalo",
   "license": "LGPLv3",
   "home_page": null,
-  "download_filename": "prompts_mcp-1.3.1.tar.gz",
-  "download_time": "2025-09-19T17:17:40.751930",
+  "download_filename": "prompts_mcp-1.3.2.tar.gz",
+  "download_time": "2025-09-19T17:52:25.275733",
   "package_url": "https://pypi.org/project/prompts-mcp/"
 }

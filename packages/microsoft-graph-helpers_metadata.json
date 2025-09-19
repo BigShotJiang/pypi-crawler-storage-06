@@ -1,11 +1,11 @@
 {
   "name": "microsoft-graph-helpers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Helper functions for interacting with Microsoft Graph API",
   "author": "Lucas Krupinski",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_graph_helpers-0.1.1.tar.gz",
-  "download_time": "2025-09-18T17:52:35.910578",
+  "download_filename": "microsoft_graph_helpers-0.1.2.tar.gz",
+  "download_time": "2025-09-19T17:52:24.166269",
   "package_url": "https://pypi.org/project/microsoft-graph-helpers/"
 }
