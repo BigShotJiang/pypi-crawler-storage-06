@@ -1,0 +1,11 @@
+{
+  "name": "dtp-security",
+  "version": "1.0.0",
+  "summary": "Advanced cryptographic SDK with steganography and active defense capabilities",
+  "author": "Jeyashree Narayanan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/vinothvbt/DTP-password-manager",
+  "download_filename": "dtp_security-1.0.0.tar.gz",
+  "download_time": "2025-09-19T05:51:57.502393",
+  "package_url": "https://pypi.org/project/dtp-security/"
+}
