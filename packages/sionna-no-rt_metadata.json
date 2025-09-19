@@ -1,0 +1,11 @@
+{
+  "name": "sionna-no-rt",
+  "version": "1.2.0",
+  "summary": "Sionna - A hardware-accelerated differentiable open-source library for research on communication systems",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "sionna_no_rt-1.2.0-py3-none-any.whl",
+  "download_time": "2025-09-19T16:56:27.285782",
+  "package_url": "https://pypi.org/project/sionna-no-rt/"
+}

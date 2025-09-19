@@ -1,0 +1,11 @@
+{
+  "name": "circe-py",
+  "version": "0.3.9",
+  "summary": "Circe: Package for building co-accessibility networks from ATAC-seq data.",
+  "author": "Remi-Trimbour",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/cantinilab/circe",
+  "download_filename": "circe_py-0.3.9.tar.gz",
+  "download_time": "2025-09-19T16:55:50.592096",
+  "package_url": "https://pypi.org/project/circe-py/"
+}

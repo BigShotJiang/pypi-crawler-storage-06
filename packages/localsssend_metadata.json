@@ -1,0 +1,11 @@
+{
+  "name": "localsssend",
+  "version": "0.0.0",
+  "summary": "A Python implementation of the Localsend protocol.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localsssend-0.0.0.tar.gz",
+  "download_time": "2025-09-19T16:55:48.029590",
+  "package_url": "https://pypi.org/project/localsssend/"
+}

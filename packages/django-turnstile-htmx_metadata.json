@@ -1,0 +1,11 @@
+{
+  "name": "django-turnstile-htmx",
+  "version": "0.1.0",
+  "summary": "A Django app for integrating Cloudflare Turnstile CAPTCHA protection with support for HTMX.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_turnstile_htmx-0.1.0.tar.gz",
+  "download_time": "2025-09-19T16:55:58.919317",
+  "package_url": "https://pypi.org/project/django-turnstile-htmx/"
+}

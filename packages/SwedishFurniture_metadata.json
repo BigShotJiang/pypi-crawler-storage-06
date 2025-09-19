@@ -1,0 +1,11 @@
+{
+  "name": "SwedishFurniture",
+  "version": "1.0.2",
+  "summary": "Furniture name generator like a popular Swedish company does it.",
+  "author": "Mikhail",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swedishfurniture-1.0.2.tar.gz",
+  "download_time": "2025-09-19T16:56:30.941956",
+  "package_url": "https://pypi.org/project/SwedishFurniture/"
+}
