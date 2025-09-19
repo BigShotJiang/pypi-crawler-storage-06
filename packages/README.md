@@ -1,11 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T19:23:19.820473
-- **Total Packages**: 96
-- **Total Size**: 23.23 MB
+- **Download Time**: 2025-09-19T19:27:50.677975
+- **Total Packages**: 88
+- **Total Size**: 3.65 MB
 
 ## Packages List
+- browser-use
+- actora
+- tartex
+- tobiko-cloud-api-client
+- limoon
+- tobiko-cloud-pydantic
+- tobiko-cloud-helpers
+- turboxl
+- withpi
+- rda-python-icoads
+- ccfx
+- authentik-client
+- chalkpy
+- masai-framework
+- mcp-openstack-ops
+- typer
+- typer-cli
+- typer-slim
+- snowflake-labs-mcp
+- rsamal-mcp-server
+- dshellInterpreter
+- pydeephaven
+- deephaven-core
+- pennylane-calculquebec
+- argos3
+- svc-infra
+- roundtable-ai
+- apitele
 - gumnut-sdk
 - openaleph-client
 - xmanager-slurm
@@ -14,7 +42,6 @@
 - maple-spec
 - grasp_agents
 - typechat
-- svc-infra
 - geometry-ar
 - querymate
 - nexusflowmeter
@@ -27,7 +54,6 @@
 - ob-metaflow
 - stresslog
 - neurograph-core
-- authentik-client
 - edx-enterprise
 - bioblueprint
 - nia-mcp-server
@@ -68,37 +94,3 @@
 - passagemath-objects
 - passagemath-ntl
 - TC-TUI
-- passagemath-nauty
-- passagemath-msolve
-- passagemath-modules
-- passagemath-meataxe
-- passagemath-mcqd
-- passagemath-maxima
-- passagemath-macaulay2
-- passagemath-lrslib
-- ginseng
-- passagemath-linbox
-- passagemath-libecm
-- passagemath-libbraiding
-- passagemath-lcalc
-- datacommons-mcp
-- passagemath-latte-4ti2
-- passagemath-kissat
-- passagemath-kenzo
-- passagemath-homfly
-- passagemath-groups
-- passagemath-graphs
-- passagemath-glucose
-- passagemath-glpk
-- passagemath-giac
-- passagemath-gfan
-- passagemath-gap-pkg-yangbaxter-data
-- passagemath-gap-pkg-unitlib-data
-- passagemath-gap-pkg-transgrp-data
-- passagemath-gap-pkg-tomlib-data
-- passagemath-gap-pkg-sonata-data
-- passagemath-gap-pkg-smallsemi-data
-- passagemath-gap-pkg-smallgrp-data
-- passagemath-gap-pkg-simpcomp-data
-- passagemath-gap-pkg-sglppow-data
-- passagemath-gap-pkg-semigroups
