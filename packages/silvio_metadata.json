@@ -1,0 +1,11 @@
+{
+  "name": "silvio",
+  "version": "0.2.13",
+  "summary": "silvio is an environment for Simulation of Virtual Organisms. silvio contains several linked microbial models.",
+  "author": "Ulf Liebal",
+  "license": "MIT license",
+  "home_page": "https://git.rwth-aachen.de/ulf.liebal/silvio.git",
+  "download_filename": "silvio-0.2.13.tar.gz",
+  "download_time": "2025-09-19T11:38:43.450068",
+  "package_url": "https://pypi.org/project/silvio/"
+}

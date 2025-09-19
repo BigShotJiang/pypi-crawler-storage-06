@@ -1,0 +1,11 @@
+{
+  "name": "pysmartyaml",
+  "version": "0.1.0",
+  "summary": "Extended YAML format with custom directives for imports, environment variables, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysmartyaml-0.1.0.tar.gz",
+  "download_time": "2025-09-19T11:38:17.557481",
+  "package_url": "https://pypi.org/project/pysmartyaml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "collective.labels",
+  "version": "3.0.0a1",
+  "summary": "A Plone addon for labels.",
+  "author": "4teamwork AG",
+  "license": "GPL2",
+  "home_page": "https://github.com/collective/collective.labels",
+  "download_filename": "collective.labels-3.0.0a1.tar.gz",
+  "download_time": "2025-09-19T11:38:50.165828",
+  "package_url": "https://pypi.org/project/collective.labels/"
+}
