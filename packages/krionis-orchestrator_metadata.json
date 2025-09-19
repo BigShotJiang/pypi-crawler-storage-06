@@ -1,0 +1,11 @@
+{
+  "name": "krionis-orchestrator",
+  "version": "0.3.5",
+  "summary": "Krionis Orchestrator — agentic batching and coordination on top of the Krionis Pipeline",
+  "author": "pkbythebay29",
+  "license": null,
+  "home_page": "https://github.com/pkbythebay29/ot-rag-llm-api",
+  "download_filename": "krionis_orchestrator-0.3.5.tar.gz",
+  "download_time": "2025-09-19T04:53:26.141969",
+  "package_url": "https://pypi.org/project/krionis-orchestrator/"
+}

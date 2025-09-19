@@ -1,11 +1,11 @@
 {
   "name": "crawailer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Modern Python library for browser automation and intelligent content extraction with full JavaScript execution support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crawailer-0.1.1.tar.gz",
-  "download_time": "2025-09-18T23:38:17.336277",
+  "download_filename": "crawailer-0.1.2.tar.gz",
+  "download_time": "2025-09-19T04:53:21.141383",
   "package_url": "https://pypi.org/project/crawailer/"
 }

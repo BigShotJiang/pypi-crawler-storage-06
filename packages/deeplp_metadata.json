@@ -1,0 +1,11 @@
+{
+  "name": "deeplp",
+  "version": "0.7.1",
+  "summary": "A package that solves Linear Programs using pytorch",
+  "author": "Mohammed Alshahrani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "deeplp-0.7.1.tar.gz",
+  "download_time": "2025-09-19T04:53:25.047091",
+  "package_url": "https://pypi.org/project/deeplp/"
+}
