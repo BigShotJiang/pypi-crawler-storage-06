@@ -1,0 +1,11 @@
+{
+  "name": "SigProfilerExtractor",
+  "version": "1.2.3",
+  "summary": "Extracts mutational signatures from mutational catalogues",
+  "author": "S Mishu Ashiqul Islam",
+  "license": "UCSD",
+  "home_page": "https://github.com/AlexandrovLab/SigProfilerExtractor.git",
+  "download_filename": "sigprofilerextractor-1.2.3.tar.gz",
+  "download_time": "2025-09-19T23:51:47.345004",
+  "package_url": "https://pypi.org/project/SigProfilerExtractor/"
+}

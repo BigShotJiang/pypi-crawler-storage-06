@@ -1,11 +1,11 @@
 {
   "name": "python-project-galactipy",
-  "version": "0.8.0",
+  "version": "0.16.0",
   "summary": "Awesome `python-project` is a Python cli/package created with https://gitlab.com/galactipy/galactipy",
   "author": "The Galactipy Contributors",
   "license": "MIT",
   "home_page": "https://gitlab.com/galactipy/python-project",
-  "download_filename": "python_project_galactipy-0.8.0.tar.gz",
-  "download_time": "2025-09-19T21:17:34.893259",
+  "download_filename": "python_project_galactipy-0.16.0.tar.gz",
+  "download_time": "2025-09-19T23:51:57.455739",
   "package_url": "https://pypi.org/project/python-project-galactipy/"
 }

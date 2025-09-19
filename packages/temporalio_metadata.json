@@ -1,0 +1,11 @@
+{
+  "name": "temporalio",
+  "version": "1.18.0",
+  "summary": "Temporal.io Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "temporalio-1.18.0.tar.gz",
+  "download_time": "2025-09-19T23:51:56.944445",
+  "package_url": "https://pypi.org/project/temporalio/"
+}
