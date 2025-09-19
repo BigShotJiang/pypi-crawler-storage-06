@@ -1,11 +1,11 @@
 {
   "name": "braintrust",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "SDK for integrating Braintrust",
   "author": "Braintrust",
   "license": null,
   "home_page": "https://www.braintrust.dev",
-  "download_filename": "braintrust-0.2.7.tar.gz",
-  "download_time": "2025-09-19T22:04:41.527860",
+  "download_filename": "braintrust-0.2.8.tar.gz",
+  "download_time": "2025-09-19T22:17:58.809970",
   "package_url": "https://pypi.org/project/braintrust/"
 }

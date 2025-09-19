@@ -1,0 +1,11 @@
+{
+  "name": "ots-sdk",
+  "version": "1.0.0",
+  "summary": "Forked Python SDK for the Omnia Timeseries API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/asmfstatoil/omnia-timeseries-python",
+  "download_filename": "ots_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-19T22:17:53.572855",
+  "package_url": "https://pypi.org/project/ots-sdk/"
+}
