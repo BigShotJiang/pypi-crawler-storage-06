@@ -1,0 +1,11 @@
+{
+  "name": "unilogging",
+  "version": "0.2.1",
+  "summary": "A simple library for working with the context of logs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unilogging-0.2.1.tar.gz",
+  "download_time": "2025-09-19T23:38:30.276227",
+  "package_url": "https://pypi.org/project/unilogging/"
+}

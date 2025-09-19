@@ -1,11 +1,11 @@
 {
   "name": "turboxl",
-  "version": "0.1.12",
+  "version": "0.1.16",
   "summary": "Fast XLSX to CSV converter (C++ core with Python bindings)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "turboxl-0.1.12-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-19T22:52:09.055394",
+  "download_filename": "turboxl-0.1.16-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-19T23:38:31.466450",
   "package_url": "https://pypi.org/project/turboxl/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "txtpack",
+  "version": "1.1.0",
+  "summary": "Pack/unpack multiple files into a single file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "txtpack-1.1.0.tar.gz",
+  "download_time": "2025-09-19T23:38:44.852563",
+  "package_url": "https://pypi.org/project/txtpack/"
+}

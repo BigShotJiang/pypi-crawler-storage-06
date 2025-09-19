@@ -1,0 +1,11 @@
+{
+  "name": "q2gui",
+  "version": "0.1.190",
+  "summary": "Python GUI toolkit",
+  "author": "Andrei Puchko",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "q2gui-0.1.190.tar.gz",
+  "download_time": "2025-09-19T23:38:43.081071",
+  "package_url": "https://pypi.org/project/q2gui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "barmpy",
+  "version": "1.2.3",
+  "summary": "Bayesian Additive Regression Models",
+  "author": "Danielle Van Boxel",
+  "license": null,
+  "home_page": "https://github.com/dvbuntu/barmpy",
+  "download_filename": "barmpy-1.2.3.tar.gz",
+  "download_time": "2025-09-19T23:38:51.608700",
+  "package_url": "https://pypi.org/project/barmpy/"
+}

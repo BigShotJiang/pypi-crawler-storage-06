@@ -1,11 +1,11 @@
 {
   "name": "GalCraft",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "GalCraft: Building integral-field spectrograph data cubes of the Galaxy",
   "author": "Zixian Wang (Purmortal)",
   "license": null,
   "home_page": "https://github.com/purmortal/galcraft",
-  "download_filename": "galcraft-1.5.1.tar.gz",
-  "download_time": "2025-09-19T14:43:39.876723",
+  "download_filename": "galcraft-1.5.2.tar.gz",
+  "download_time": "2025-09-19T23:38:27.298055",
   "package_url": "https://pypi.org/project/GalCraft/"
 }
