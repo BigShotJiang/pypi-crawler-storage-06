@@ -1,11 +1,11 @@
 {
   "name": "encdr",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A Python library for autoencoder-based dimensionality reduction with a scikit-learn compatible interface.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "encdr-1.1.0.tar.gz",
-  "download_time": "2025-09-18T16:24:38.295066",
+  "download_filename": "encdr-1.2.0.tar.gz",
+  "download_time": "2025-09-19T08:26:03.827736",
   "package_url": "https://pypi.org/project/encdr/"
 }

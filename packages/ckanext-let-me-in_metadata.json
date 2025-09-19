@@ -1,11 +1,11 @@
 {
   "name": "ckanext-let-me-in",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "An extension that generates a one-time login link for a user",
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "ckanext_let_me_in-1.1.0.tar.gz",
-  "download_time": "2025-09-19T07:19:53.192000",
+  "download_filename": "ckanext_let_me_in-1.1.1.tar.gz",
+  "download_time": "2025-09-19T08:26:16.339742",
   "package_url": "https://pypi.org/project/ckanext-let-me-in/"
 }

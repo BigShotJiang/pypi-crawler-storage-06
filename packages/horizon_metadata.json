@@ -1,0 +1,11 @@
+{
+  "name": "horizon",
+  "version": "25.5.1",
+  "summary": "OpenStack Dashboard",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/horizon/latest/",
+  "download_filename": "horizon-25.5.1.tar.gz",
+  "download_time": "2025-09-19T08:26:09.480349",
+  "package_url": "https://pypi.org/project/horizon/"
+}

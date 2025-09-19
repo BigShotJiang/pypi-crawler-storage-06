@@ -1,11 +1,11 @@
 {
   "name": "breathe-design",
-  "version": "0.7.0",
+  "version": "1.0.0",
   "summary": "A Python library for interating with the Breathe Design api and analyzing and visualizing Breathe Design data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "breathe_design-0.7.0.tar.gz",
-  "download_time": "2025-09-18T16:25:16.823960",
+  "download_filename": "breathe_design-1.0.0.tar.gz",
+  "download_time": "2025-09-19T08:26:24.488716",
   "package_url": "https://pypi.org/project/breathe-design/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "textnormx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Normalize/clean text from PDF OCR/extraction (PUA bullets, quotes, dashes, NBSP, control chars)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textnormx-0.2.0.tar.gz",
-  "download_time": "2025-09-17T23:17:56.809631",
+  "download_filename": "textnormx-0.2.1.tar.gz",
+  "download_time": "2025-09-19T08:26:11.160123",
   "package_url": "https://pypi.org/project/textnormx/"
 }
