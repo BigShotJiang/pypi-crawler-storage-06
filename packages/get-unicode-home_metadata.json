@@ -1,0 +1,11 @@
+{
+  "name": "get-unicode-home",
+  "version": "0.1.0a0",
+  "summary": "A cross-platform utility to get the current HOME as a Unicode string.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_unicode_home-0.1.0a0.tar.gz",
+  "download_time": "2025-09-19T18:27:10.186128",
+  "package_url": "https://pypi.org/project/get-unicode-home/"
+}

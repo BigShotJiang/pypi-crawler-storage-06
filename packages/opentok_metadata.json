@@ -1,0 +1,11 @@
+{
+  "name": "opentok",
+  "version": "3.13.0",
+  "summary": "OpenTok server-side SDK",
+  "author": "TokBox, Inc.",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/opentok/Opentok-Python-SDK/",
+  "download_filename": "opentok-3.13.0.tar.gz",
+  "download_time": "2025-09-19T18:26:57.931898",
+  "package_url": "https://pypi.org/project/opentok/"
+}

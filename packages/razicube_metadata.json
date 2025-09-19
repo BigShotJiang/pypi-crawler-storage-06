@@ -1,0 +1,11 @@
+{
+  "name": "razicube",
+  "version": "0.1.0",
+  "summary": "مكتبة شاملة لحساب المساحة والمحيط للأشكال الثنائية والثلاثية الأبعاد",
+  "author": "Razi Ramzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "razicube-0.1.0.tar.gz",
+  "download_time": "2025-09-19T18:27:07.547315",
+  "package_url": "https://pypi.org/project/razicube/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "get-unicode-shell",
+  "version": "0.1.0a0",
+  "summary": "A cross-platform utility to get the current SHELL as a Unicode string.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_unicode_shell-0.1.0a0.tar.gz",
+  "download_time": "2025-09-19T18:27:04.870385",
+  "package_url": "https://pypi.org/project/get-unicode-shell/"
+}

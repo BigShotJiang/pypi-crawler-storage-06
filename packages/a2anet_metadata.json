@@ -1,11 +1,11 @@
 {
   "name": "a2anet",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A package that makes implementing the A2A protocol easy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a2anet-0.1.2.tar.gz",
-  "download_time": "2025-09-19T17:17:50.763892",
+  "download_filename": "a2anet-0.2.0.tar.gz",
+  "download_time": "2025-09-19T18:27:37.830563",
   "package_url": "https://pypi.org/project/a2anet/"
 }

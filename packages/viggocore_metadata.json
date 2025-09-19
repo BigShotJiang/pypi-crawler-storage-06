@@ -1,0 +1,11 @@
+{
+  "name": "viggocore",
+  "version": "1.7.12",
+  "summary": null,
+  "author": "Samuel de Medeiros Queiroz, Francois Oliveira, Jorge Júnio da Silva",
+  "license": "Apache-2",
+  "home_page": "https://github.com/viggosistemas/viggocore-backend",
+  "download_filename": "viggocore-1.7.12.tar.gz",
+  "download_time": "2025-09-19T18:27:03.282807",
+  "package_url": "https://pypi.org/project/viggocore/"
+}

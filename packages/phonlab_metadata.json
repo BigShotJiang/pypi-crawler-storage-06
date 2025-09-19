@@ -1,11 +1,11 @@
 {
   "name": "phonlab",
-  "version": "0.0.34",
+  "version": "0.0.36",
   "summary": "Python tools for phonetics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phonlab-0.0.34.tar.gz",
-  "download_time": "2025-09-19T17:39:43.218823",
+  "download_filename": "phonlab-0.0.36.tar.gz",
+  "download_time": "2025-09-19T18:26:56.302660",
   "package_url": "https://pypi.org/project/phonlab/"
 }

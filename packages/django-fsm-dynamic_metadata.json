@@ -1,0 +1,11 @@
+{
+  "name": "django-fsm-dynamic",
+  "version": "1.1.0",
+  "summary": "Dynamic workflow extensions for django-fsm-2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_fsm_dynamic-1.1.0.tar.gz",
+  "download_time": "2025-09-19T18:27:27.250067",
+  "package_url": "https://pypi.org/project/django-fsm-dynamic/"
+}
