@@ -1,11 +1,11 @@
 {
   "name": "mhd-model",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "MetabolomicsHub Common Data Model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mhd_model-0.1.22.tar.gz",
-  "download_time": "2025-09-18T16:45:33.847588",
+  "download_filename": "mhd_model-0.1.23.tar.gz",
+  "download_time": "2025-09-19T11:17:27.567394",
   "package_url": "https://pypi.org/project/mhd-model/"
 }

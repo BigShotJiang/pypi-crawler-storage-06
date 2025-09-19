@@ -1,0 +1,11 @@
+{
+  "name": "semilattice",
+  "version": "0.6.0",
+  "summary": "The official Python library for the semilattice API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "semilattice-0.6.0.tar.gz",
+  "download_time": "2025-09-19T11:17:10.607637",
+  "package_url": "https://pypi.org/project/semilattice/"
+}

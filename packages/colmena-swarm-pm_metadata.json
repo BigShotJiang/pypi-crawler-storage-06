@@ -1,0 +1,11 @@
+{
+  "name": "colmena-swarm-pm",
+  "version": "0.1.4",
+  "summary": "COLMENA Programming model library",
+  "author": "Workflows and Distributed Computing group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colmena_swarm_pm-0.1.4.tar.gz",
+  "download_time": "2025-09-19T11:17:14.235080",
+  "package_url": "https://pypi.org/project/colmena-swarm-pm/"
+}

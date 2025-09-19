@@ -1,0 +1,11 @@
+{
+  "name": "fast-flights-unoff",
+  "version": "0.1.0",
+  "summary": "An unofficial, extended version of the fast, robust, strongly-typed Google Flights scraper (API).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_flights_unoff-0.1.0.tar.gz",
+  "download_time": "2025-09-19T11:17:24.634494",
+  "package_url": "https://pypi.org/project/fast-flights-unoff/"
+}

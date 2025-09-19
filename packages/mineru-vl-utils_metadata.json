@@ -1,11 +1,11 @@
 {
   "name": "mineru-vl-utils",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Utilities for MinerU Vision-Language models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mineru_vl_utils-0.1.6.tar.gz",
-  "download_time": "2025-09-18T09:51:34.832518",
+  "download_filename": "mineru_vl_utils-0.1.8.tar.gz",
+  "download_time": "2025-09-19T11:17:21.991462",
   "package_url": "https://pypi.org/project/mineru-vl-utils/"
 }

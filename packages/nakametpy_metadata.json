@@ -1,0 +1,11 @@
+{
+  "name": "nakametpy",
+  "version": "2025.9.1",
+  "summary": "Meteorological modules for calculation and colormap.",
+  "author": "muchojp",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/muchojp/NakaMetPy",
+  "download_filename": "nakametpy-2025.9.1.tar.gz",
+  "download_time": "2025-09-19T11:17:02.637506",
+  "package_url": "https://pypi.org/project/nakametpy/"
+}

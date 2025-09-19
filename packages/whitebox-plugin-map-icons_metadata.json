@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-map-icons",
+  "version": "0.1.5",
+  "summary": "A plugin for whitebox to display alternative icons on the map display",
+  "author": "Milos",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_map_icons-0.1.5.tar.gz",
+  "download_time": "2025-09-19T11:17:09.007051",
+  "package_url": "https://pypi.org/project/whitebox-plugin-map-icons/"
+}
