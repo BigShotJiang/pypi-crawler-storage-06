@@ -1,0 +1,11 @@
+{
+  "name": "fdmep",
+  "version": "0.2.0",
+  "summary": "CLI para inicialização rápida de extensões pyRevit",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fdmep-0.2.0.tar.gz",
+  "download_time": "2025-09-19T22:40:08.043176",
+  "package_url": "https://pypi.org/project/fdmep/"
+}

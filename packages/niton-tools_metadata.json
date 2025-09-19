@@ -1,11 +1,11 @@
 {
   "name": "niton-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Manage data from Niton XRF analyzers",
   "author": "Adrian Tasistro-Hart",
   "license": "GPL-3.0-only",
   "home_page": "https://github.com/sarttiso/niton-tools",
-  "download_filename": "niton_tools-0.2.0.tar.gz",
-  "download_time": "2025-09-19T22:04:46.559866",
+  "download_filename": "niton_tools-0.2.1.tar.gz",
+  "download_time": "2025-09-19T22:40:12.333158",
   "package_url": "https://pypi.org/project/niton-tools/"
 }

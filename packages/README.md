@@ -1,13 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T22:18:25.174109
-- **Total Packages**: 83
-- **Total Size**: 17.14 MB
+- **Download Time**: 2025-09-19T22:40:41.095471
+- **Total Packages**: 81
+- **Total Size**: 23.25 MB
 
 ## Packages List
-- music-bassline-generator
+- filoma
+- GNServer
+- dandelion-data-schema
+- gnobjects
+- biblemate
+- orb-billing
+- authentik-client
+- make87
+- getserving
+- anatools
+- codex-sdk
+- toki
+- azure-ai-textanalytics-authoring
+- netbox-zwave
+- azure-ai-voicelive
+- chiaro
+- fhlmi
+- ldp
 - parameterizable
+- fdmep
+- sayer
+- cerebrate-file
+- brinjal
+- flarchitect
+- hsm-orchestrator
+- turboxl
+- yamlgrep
+- niton-tools
+- ua-generator
+- skyrl
+- oldaplib
+- climax-rfglab
+- NEMO-publications
+- data-ingestion-sdk
+- agentmake
+- adaptive-formula
+- pyRejseplan
+- music-bassline-generator
 - crypticorn-utils
 - nbprint
 - qwix
@@ -19,20 +55,14 @@
 - finbrain-mcp
 - nextroute
 - regula-documentreader-webclient
-- turboxl
-- data-ingestion-sdk
 - sqlmesh
 - datatypes
-- authentik-client
 - pycarlo
-- oldaplib
 - foxglove-sdk
 - codex-cli-linker
-- flarchitect
 - cresnextws
 - ots-sdk
 - hmr
-- cerebrate-file
 - jet-django
 - jet-bridge
 - jet-bridge-base
@@ -47,7 +77,6 @@
 - doccano-client-patched
 - butter-backup
 - NEMO-CE
-- niton-tools
 - streamlit-rockyroad-tools
 - endpoints
 - CommonConf
@@ -58,34 +87,3 @@
 - mars-patcher
 - lookahead-keys-attention
 - pygeoglim
-- ai-ebash
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- c2cgeoportal-commons
-- dist-classicrl
-- pyrecfusionsdk
-- datahood
-- ob-metaflow-extensions
-- bbot
-- treescript-builder
-- actora
-- pyasic
-- petrel-chicks
-- ecghelper
-- readosso
-- arelle-release
-- nexaai
-- odoo-addon-l10n-br-account
-- bhp-pro
-- amigo_sdk
-- bader-nasser-calculator
-- dreadnode
-- lacrei-models
-- amazon-braket-sdk
-- juliapkg
-- machine2human
-- snappi-ixnetwork
-- FreeDynamics-simaf
-- joythief
-- guardrails-jsonformer
-- pyonchfs

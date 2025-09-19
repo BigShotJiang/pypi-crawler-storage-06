@@ -1,11 +1,11 @@
 {
   "name": "adaptive-formula",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Cognitive Programming SDK - Eliminate conditionals with adaptive formulas",
   "author": "Jaime Alexander Jimenez Lozano",
   "license": null,
   "home_page": "https://github.com/yourusername/adaptive-formula",
-  "download_filename": "adaptive-formula-0.3.0.tar.gz",
-  "download_time": "2025-09-18T23:52:20.452516",
+  "download_filename": "adaptive-formula-0.3.2.tar.gz",
+  "download_time": "2025-09-19T22:40:17.116102",
   "package_url": "https://pypi.org/project/adaptive-formula/"
 }
