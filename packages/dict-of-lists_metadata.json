@@ -1,0 +1,11 @@
+{
+  "name": "dict-of-lists",
+  "version": "1.0.0",
+  "summary": "A dictionary with empty list/sets pre-setted values",
+  "author": "Ehsan Karbasian",
+  "license": null,
+  "home_page": "https://github.com/ehsankarbasian/dict_of_lists",
+  "download_filename": "dict-of-lists-1.0.0.tar.gz",
+  "download_time": "2025-09-19T19:39:29.706345",
+  "package_url": "https://pypi.org/project/dict-of-lists/"
+}

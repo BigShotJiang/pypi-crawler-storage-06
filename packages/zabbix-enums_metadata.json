@@ -1,0 +1,11 @@
+{
+  "name": "zabbix-enums",
+  "version": "1.74.0",
+  "summary": "An Enum collection for Zabbix API scripting",
+  "author": "Robert Szulist",
+  "license": null,
+  "home_page": "https://github.com/szuro/zabbix-enums",
+  "download_filename": "zabbix_enums-1.74.0.tar.gz",
+  "download_time": "2025-09-19T19:39:16.633987",
+  "package_url": "https://pypi.org/project/zabbix-enums/"
+}

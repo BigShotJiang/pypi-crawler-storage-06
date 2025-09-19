@@ -1,0 +1,11 @@
+{
+  "name": "tc-tui",
+  "version": "0.1.0",
+  "summary": "A TUI for creating testcases for the ISP/OOP1 courses at TU Graz",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tc_tui-0.1.0.tar.gz",
+  "download_time": "2025-09-19T19:39:22.088366",
+  "package_url": "https://pypi.org/project/tc-tui/"
+}

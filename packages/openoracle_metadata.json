@@ -1,0 +1,11 @@
+{
+  "name": "openoracle",
+  "version": "1.0.0",
+  "summary": "Intelligent Oracle Routing for Prediction Markets",
+  "author": "OpenOracle Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openoracle/python-sdk",
+  "download_filename": "openoracle-1.0.0.tar.gz",
+  "download_time": "2025-09-19T19:39:16.085212",
+  "package_url": "https://pypi.org/project/openoracle/"
+}

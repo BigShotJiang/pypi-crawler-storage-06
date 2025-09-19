@@ -1,0 +1,11 @@
+{
+  "name": "detetime",
+  "version": "5.5",
+  "summary": "This package provides a DateTime data type, as known from Zope. Unless you need to communicate with Zope APIs, you're probably better off using Python's built-in datetime module.",
+  "author": "DateTime",
+  "license": null,
+  "home_page": null,
+  "download_filename": "detetime-5.5.tar.gz",
+  "download_time": "2025-09-19T19:39:17.176110",
+  "package_url": "https://pypi.org/project/detetime/"
+}
