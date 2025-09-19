@@ -1,11 +1,11 @@
 {
   "name": "api-jongler",
-  "version": "2.0.5",
+  "version": "2.0.7",
   "summary": "A middleware utility for calling Google AI APIs (Gemini and Gemma) using multiple API keys with intelligent rate limiting and retry logic",
   "author": "Anton Pavlenko",
   "license": null,
   "home_page": "https://github.com/antonpavlenko/api-jongler",
-  "download_filename": "api_jongler-2.0.5.tar.gz",
-  "download_time": "2025-09-18T22:20:05.155783",
+  "download_filename": "api_jongler-2.0.7.tar.gz",
+  "download_time": "2025-09-19T03:53:50.287099",
   "package_url": "https://pypi.org/project/api-jongler/"
 }

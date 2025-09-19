@@ -1,0 +1,11 @@
+{
+  "name": "ml-custom",
+  "version": "0.1.0",
+  "summary": "A small ML library with CE, Find-S, FOIL Gain, and dataset stats",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ml_lib",
+  "download_filename": "ml_custom-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-19T03:53:48.676290",
+  "package_url": "https://pypi.org/project/ml-custom/"
+}

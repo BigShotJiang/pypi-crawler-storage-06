@@ -1,0 +1,11 @@
+{
+  "name": "pykmertools",
+  "version": "0.2.0",
+  "summary": "kmertools is a k-mer based feature extraction tool designed to support metagenomics and other bioinformatics analytics.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykmertools-0.2.0-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-19T03:53:48.146207",
+  "package_url": "https://pypi.org/project/pykmertools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SDNorm",
+  "version": "0.1.0",
+  "summary": "Streamline Density Normalization",
+  "author": "Yixue Feng",
+  "license": "MIT",
+  "home_page": "https://github.com/wendyfyx/SDNorm",
+  "download_filename": "sdnorm-0.1.0.tar.gz",
+  "download_time": "2025-09-19T03:53:54.621937",
+  "package_url": "https://pypi.org/project/SDNorm/"
+}
