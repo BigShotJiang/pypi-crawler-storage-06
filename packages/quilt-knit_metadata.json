@@ -1,11 +1,11 @@
 {
   "name": "quilt-knit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A knit-programming library for modular combination of knitted structures defined by the knitout machine knitting language.",
   "author": "Megan Hofmann",
   "license": "License :: Free for non-commercial use",
-  "home_page": "https://mhofmann-Khoury.github.io/quilt-knit/",
-  "download_filename": "quilt_knit-1.0.0.tar.gz",
-  "download_time": "2025-09-18T13:44:26.293919",
+  "home_page": "https://mhofmann-khoury.github.io/QUILT/",
+  "download_filename": "quilt_knit-1.0.1.tar.gz",
+  "download_time": "2025-09-19T13:44:44.875688",
   "package_url": "https://pypi.org/project/quilt-knit/"
 }

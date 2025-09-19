@@ -1,0 +1,11 @@
+{
+  "name": "MaMAI",
+  "version": "3.5.0",
+  "summary": "MaMa è un toolkit RAG modulare basato su LangChain per knowledge base locali e interfacce conversazionali.",
+  "author": "Francesco Bellifemine",
+  "license": null,
+  "home_page": "https://github.com/cyberbionik/MaMa",
+  "download_filename": "mamai-3.5.0.tar.gz",
+  "download_time": "2025-09-19T13:44:46.953138",
+  "package_url": "https://pypi.org/project/MaMAI/"
+}

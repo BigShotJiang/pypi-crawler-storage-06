@@ -1,0 +1,11 @@
+{
+  "name": "queck",
+  "version": "2.1.1",
+  "summary": "A quiz authoring format and tool with different export formats.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "queck-2.1.1.tar.gz",
+  "download_time": "2025-09-19T13:44:40.197461",
+  "package_url": "https://pypi.org/project/queck/"
+}

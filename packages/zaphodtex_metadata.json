@@ -1,0 +1,11 @@
+{
+  "name": "zaphodtex",
+  "version": "0.7.0",
+  "summary": "A LaTeX change tracking tool",
+  "author": "Ankur Sinha",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/sanjayankur31/zaphod",
+  "download_filename": "zaphodtex-0.7.0.tar.gz",
+  "download_time": "2025-09-19T13:45:09.050310",
+  "package_url": "https://pypi.org/project/zaphodtex/"
+}
