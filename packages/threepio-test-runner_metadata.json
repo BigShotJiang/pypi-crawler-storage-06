@@ -1,11 +1,11 @@
 {
   "name": "threepio-test-runner",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "Context-optimized test runner for coding agents",
   "author": "Zachary Kim",
   "license": "MIT",
   "home_page": "https://github.com/zk/3pio",
-  "download_filename": "threepio_test_runner-0.6.0.tar.gz",
-  "download_time": "2025-09-17T08:46:52.687919",
+  "download_filename": "threepio_test_runner-0.7.1.tar.gz",
+  "download_time": "2025-09-19T04:23:43.891361",
   "package_url": "https://pypi.org/project/threepio-test-runner/"
 }

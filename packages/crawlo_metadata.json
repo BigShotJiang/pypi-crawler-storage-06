@@ -1,11 +1,11 @@
 {
   "name": "crawlo",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "summary": "Crawlo 是一款基于异步IO的高性能Python爬虫框架，支持分布式抓取。",
   "author": "crawl-coder",
   "license": "MIT",
   "home_page": "https://github.com/crawl-coder/Crawlo.git",
-  "download_filename": "crawlo-1.2.6.tar.gz",
-  "download_time": "2025-09-18T23:38:14.697884",
+  "download_filename": "crawlo-1.2.8-py3-none-any.whl",
+  "download_time": "2025-09-19T04:23:08.997531",
   "package_url": "https://pypi.org/project/crawlo/"
 }

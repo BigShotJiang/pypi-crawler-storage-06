@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-line-auto-fill",
+  "version": "16.0.1.1.1.4",
+  "summary": "Stock Move Line auto fill",
+  "author": "ACSONE SA/NV, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_line_auto_fill-16.0.1.1.1.4-py3-none-any.whl",
+  "download_time": "2025-09-19T04:23:35.696628",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-line-auto-fill/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-searchbar-full-width",
+  "version": "16.0.1.0.0.6",
+  "summary": "Show search bar in full screen width",
+  "author": "Therp BV, Odoo Community Association (OCA), Siddharth Bhalgami",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_searchbar_full_width-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-09-19T04:23:29.209004",
+  "package_url": "https://pypi.org/project/odoo-addon-web-searchbar-full-width/"
+}

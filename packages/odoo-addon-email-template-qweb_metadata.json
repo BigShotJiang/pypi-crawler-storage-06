@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-email-template-qweb",
+  "version": "16.0.1.0.0.11",
+  "summary": "Use the QWeb templating mechanism for emails",
+  "author": "Therp BV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_email_template_qweb-16.0.1.0.0.11-py3-none-any.whl",
+  "download_time": "2025-09-19T04:23:42.148960",
+  "package_url": "https://pypi.org/project/odoo-addon-email-template-qweb/"
+}

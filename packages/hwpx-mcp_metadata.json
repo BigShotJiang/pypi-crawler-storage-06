@@ -1,0 +1,11 @@
+{
+  "name": "hwpx-mcp",
+  "version": "0.1.0",
+  "summary": "python-hwpx 기반 HWPX 자동화를 제공하는 Smithery MCP 서버",
+  "author": "HWPX MCP Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hwpx_mcp-0.1.0.tar.gz",
+  "download_time": "2025-09-19T04:23:48.138028",
+  "package_url": "https://pypi.org/project/hwpx-mcp/"
+}
