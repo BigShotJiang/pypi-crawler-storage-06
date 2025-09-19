@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T08:26:30.636650
-- **Total Packages**: 86
-- **Total Size**: 51.05 MB
+- **Download Time**: 2025-09-19T08:47:13.328456
+- **Total Packages**: 85
+- **Total Size**: 13.71 MB
 
 ## Packages List
+- gradio-autopilot-chatbot
+- wowool-sdk
+- artefacts-xray
+- hive-nectar
+- django-w-careers
+- odoo-addon-ddmrp
+- odoo-addon-ddmrp-adjustment
+- odoo-addon-ddmrp-history
+- google-secops-mcp
+- rnapy
+- viadot2
+- dystore-data-collection
+- pdd-cli
+- apsniper0673-grsheetmanager
+- lucheng-models
+- agentcrew-ai
+- bizyairsdk
+- pipeline-eds
+- goodday-mcp
+- authentik-client
+- hou-garden
+- xgae
 - beeai-cli
 - langevaluate
 - polarismesh-specification
@@ -20,7 +42,6 @@
 - pybgpkitstream
 - github-ioc-scanner
 - django-code-audit
-- pipeline-eds
 - keywordsai-tracing
 - arcane-mage
 - snowplow-signals
@@ -50,7 +71,6 @@
 - apsniper0673-configreader
 - django-msteams-notify
 - encdr
-- authentik-client
 - lda4microbiome
 - prefect
 - anyon
@@ -71,24 +91,3 @@
 - ckanext-let-me-in
 - fracnetics
 - valar
-- odoo-addon-sign-oca
-- gardener-ocm
-- gardener-oci
-- aerospot-autoreport
-- gardener-gha-libs
-- gardener-cicd-whd
-- gardener-cicd-libs
-- gardener-cicd-cli
-- dioptra-zeph-elena
-- marm-mcp-server
-- breathe-design
-- autoagents-graph
-- BCBvcl4pyAPI
-- gtgt
-- voice-agent-core
-- vios
-- hapla
-- oc-cdtapi
-- xiaohan-mcpdemo
-- unstract-sdk
-- tikit

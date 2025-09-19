@@ -1,0 +1,11 @@
+{
+  "name": "goodday-mcp",
+  "version": "1.1.1",
+  "summary": "Model Context Protocol server for Goodday project management platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "goodday_mcp-1.1.1.tar.gz",
+  "download_time": "2025-09-19T08:46:32.912874",
+  "package_url": "https://pypi.org/project/goodday-mcp/"
+}

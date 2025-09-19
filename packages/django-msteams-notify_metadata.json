@@ -1,11 +1,11 @@
 {
   "name": "django-msteams-notify",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "summary": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_msteams_notify-3.0.7.tar.gz",
-  "download_time": "2025-09-19T08:26:03.257183",
+  "download_filename": "django_msteams_notify-3.0.8.tar.gz",
+  "download_time": "2025-09-19T08:46:59.084401",
   "package_url": "https://pypi.org/project/django-msteams-notify/"
 }
