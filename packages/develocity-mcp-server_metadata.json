@@ -1,0 +1,11 @@
+{
+  "name": "develocity-mcp-server",
+  "version": "0.6.2",
+  "summary": "An MCP server for interacting with Develocity build data.",
+  "author": "develocity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "develocity_mcp_server-0.6.2.tar.gz",
+  "download_time": "2025-09-19T16:46:03.517106",
+  "package_url": "https://pypi.org/project/develocity-mcp-server/"
+}

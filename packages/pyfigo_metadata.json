@@ -1,0 +1,11 @@
+{
+  "name": "pyfigo",
+  "version": "0.1.5",
+  "summary": "Get the OBJECT keyword from a fits file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfigo-0.1.5.tar.gz",
+  "download_time": "2025-09-19T16:45:50.618581",
+  "package_url": "https://pypi.org/project/pyfigo/"
+}

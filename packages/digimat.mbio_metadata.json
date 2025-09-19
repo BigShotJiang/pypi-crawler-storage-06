@@ -1,11 +1,11 @@
 {
   "name": "digimat.mbio",
-  "version": "0.1.151",
+  "version": "0.1.153",
   "summary": "Digimat MBIO System",
   "author": "Frederic Hess",
   "license": "PSF",
   "home_page": "https://github.com/digimat/digimat-mbio",
-  "download_filename": "digimat_mbio-0.1.151.tar.gz",
-  "download_time": "2025-09-19T15:20:20.126452",
+  "download_filename": "digimat_mbio-0.1.153.tar.gz",
+  "download_time": "2025-09-19T16:45:45.857954",
   "package_url": "https://pypi.org/project/digimat.mbio/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentql",
+  "version": "1.14.0",
+  "summary": "Tiny Fish AgentQL Python Client",
+  "author": "Tiny Fish",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentql-1.14.0.tar.gz",
+  "download_time": "2025-09-19T16:46:08.771450",
+  "package_url": "https://pypi.org/project/agentql/"
+}

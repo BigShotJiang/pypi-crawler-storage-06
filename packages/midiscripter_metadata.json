@@ -1,0 +1,11 @@
+{
+  "name": "midiscripter",
+  "version": "0.8.1",
+  "summary": "Framework for scripting MIDI, Open Sound Control, keyboard and mouse input and output",
+  "author": "Maboroshy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "midiscripter-0.8.1.tar.gz",
+  "download_time": "2025-09-19T16:46:00.884707",
+  "package_url": "https://pypi.org/project/midiscripter/"
+}

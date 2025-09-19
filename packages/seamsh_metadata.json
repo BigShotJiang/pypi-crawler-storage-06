@@ -1,0 +1,11 @@
+{
+  "name": "seamsh",
+  "version": "0.4.18",
+  "summary": "Ocean mesh generation",
+  "author": "Jonathan Lambrechts",
+  "license": null,
+  "home_page": "https://git.immc.ucl.ac.be/jlambrechts/seamsh",
+  "download_filename": "seamsh-0.4.18.tar.gz",
+  "download_time": "2025-09-19T16:45:34.008931",
+  "package_url": "https://pypi.org/project/seamsh/"
+}

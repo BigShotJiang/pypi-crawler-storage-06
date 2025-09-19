@@ -1,0 +1,11 @@
+{
+  "name": "timc-vector-toolkit",
+  "version": "20250919",
+  "summary": "Ensemble package for all Tutte Institute librairies involved in data vectorization, dimension reduction, clustering and exploratory visualization",
+  "author": "Benoit Hamelin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "timc_vector_toolkit-20250919.tar.gz",
+  "download_time": "2025-09-19T16:45:38.946885",
+  "package_url": "https://pypi.org/project/timc-vector-toolkit/"
+}
