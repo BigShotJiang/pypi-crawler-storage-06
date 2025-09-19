@@ -1,0 +1,11 @@
+{
+  "name": "PyHOPE",
+  "version": "0.1.1",
+  "summary": "Python High-Order Preprocessing Environment",
+  "author": "Numerics Research Group (NRG)",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pyhope-0.1.1.tar.gz",
+  "download_time": "2025-09-19T11:51:52.071245",
+  "package_url": "https://pypi.org/project/PyHOPE/"
+}

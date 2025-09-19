@@ -1,15 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T11:38:59.903518
-- **Total Packages**: 80
-- **Total Size**: 35.39 MB
+- **Download Time**: 2025-09-19T11:52:29.793123
+- **Total Packages**: 85
+- **Total Size**: 18.84 MB
 
 ## Packages List
+- pandaflow
+- gllm-inference-binary
+- authentik-client
+- bg4h
+- GluPredKit
+- flex-streaming-sdk
+- streamlit-octostar-utils
+- iis-vpro
+- osidb-bindings
+- RESTinstance
+- AOT-biomaps
+- pyMetaModel
+- keeya
+- airflow-cli
+- PyHOPE
+- mathjson-solver
+- osbot-utils
+- analogic-framework
+- PyCxx11Bindings
+- janito
+- docker-model-runner
+- sparks-ai
+- fh-pydantic-form
+- talvez
+- tmux-popup
+- quantylab-client
+- aionvk
+- aistudio-sdk
+- deltalake2db
+- mas-cli
+- pmr-elirobots-sdk
+- hyperscale-ozone
+- unsloth
+- arcane-mage
+- pyweclapp
+- gitwip
+- mbu-dev-shared-components
+- suyo
+- pycfm
+- amplpower
+- webtap-tool
+- rara-meta-extractor
+- unsloth-zoo
+- s-MProcs
 - pysmartyaml
 - kerex
 - PVNet
-- rusty-req
 - artistools
 - synalinks
 - deformers
@@ -17,15 +60,9 @@
 - ftw-tools
 - mikro-next
 - fast-flights-unoff
-- authentik-client
-- GluPredKit
 - fastapi-repository
-- keeya
 - LyGui
-- pycfm
 - freshrelease-mcp
-- AOT-biomaps
-- suyo
 - ivrit
 - gdsfactoryplus
 - psann
@@ -54,35 +91,3 @@
 - termaitrik
 - openedx-ltistore
 - apikeyrotator
-- silvio
-- rafay-workflow-sdk
-- kcli
-- gdcmd
-- django-migrate-fresh
-- aionvk
-- nakametpy
-- GalCraft
-- py-agent-tools
-- openplx-bundles
-- replkit2
-- aixtools
-- nexaai
-- collective.labels
-- prometheux-chain
-- qibo
-- pytom-match-pick
-- django_utility_suite
-- yt-dlp-rajiko
-- speech-map
-- taranis-models
-- botmark
-- databeam-mcap-reader
-- unifyai
-- haige-pyqt
-- zenx
-- coralsnake
-- tb-nightly
-- justrunalready
-- fgspectra
-- pywr
-- multimodalrouter

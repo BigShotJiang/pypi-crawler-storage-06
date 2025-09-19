@@ -1,0 +1,11 @@
+{
+  "name": "mathjson-solver",
+  "version": "1.16.1",
+  "summary": "Utilities for MathJSON evaluation",
+  "author": "Martins Mednis",
+  "license": null,
+  "home_page": "https://github.com/LongenesisLtd/mathjson-solver",
+  "download_filename": "mathjson_solver-1.16.1.tar.gz",
+  "download_time": "2025-09-19T11:51:52.590478",
+  "package_url": "https://pypi.org/project/mathjson-solver/"
+}

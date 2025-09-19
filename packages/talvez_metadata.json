@@ -1,0 +1,11 @@
+{
+  "name": "talvez",
+  "version": "0.0.9",
+  "summary": "A lightweight Python implementation of a Maybe monad",
+  "author": "Bruno Rodrigues",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "talvez-0.0.9.tar.gz",
+  "download_time": "2025-09-19T11:51:56.795381",
+  "package_url": "https://pypi.org/project/talvez/"
+}
