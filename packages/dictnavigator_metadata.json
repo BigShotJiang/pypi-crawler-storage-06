@@ -1,0 +1,11 @@
+{
+  "name": "dictnavigator",
+  "version": "1.1",
+  "summary": "dictnavigator is a tool for working with nested dictionaries in Python. The DictNavigatorKey class allows easy retrieval, updating, and deletion of values by keys at any depth, even inside nested types (tuple, list, dictionary). It also provides a list of all keys at any nesting level. Especially useful for working with JSON data from APIs, simplifying access and modification of needed values.",
+  "author": "Aleksei Surnov",
+  "license": "MIT License",
+  "home_page": "https://gitlab.com/asurnovsurnov/dictnavigator/",
+  "download_filename": "dictnavigator-1.1.tar.gz",
+  "download_time": "2025-09-19T14:19:19.852943",
+  "package_url": "https://pypi.org/project/dictnavigator/"
+}

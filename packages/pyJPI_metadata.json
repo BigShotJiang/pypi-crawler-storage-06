@@ -1,11 +1,11 @@
 {
   "name": "pyJPI",
-  "version": "0.1.13",
+  "version": "0.1.18",
   "summary": "A library to access Android devices which run JPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyjpi-0.1.13.tar.gz",
-  "download_time": "2025-09-19T13:16:42.101058",
+  "download_filename": "pyjpi-0.1.18.tar.gz",
+  "download_time": "2025-09-19T14:19:05.719289",
   "package_url": "https://pypi.org/project/pyJPI/"
 }

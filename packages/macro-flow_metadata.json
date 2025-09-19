@@ -1,11 +1,11 @@
 {
   "name": "macro-flow",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "ETL Para banco macro, extrae pdf desde la url que le pongas, extrae datos y crea chunks que sube a s3 (aws)",
   "author": "Walter Facundo Vega",
   "license": "MIT",
   "home_page": "https://github.com/facuvegaingenieer/macro-flow",
-  "download_filename": "macro_flow-0.0.3.tar.gz",
-  "download_time": "2025-09-17T04:53:11.128383",
+  "download_filename": "macro_flow-0.0.4.tar.gz",
+  "download_time": "2025-09-19T14:19:15.156497",
   "package_url": "https://pypi.org/project/macro-flow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mikro-next",
-  "version": "0.14.0",
+  "version": "0.16.0",
   "summary": "next images for arkitekt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mikro_next-0.14.0.tar.gz",
-  "download_time": "2025-09-19T11:38:23.260064",
+  "download_filename": "mikro_next-0.16.0.tar.gz",
+  "download_time": "2025-09-19T14:19:02.064521",
   "package_url": "https://pypi.org/project/mikro-next/"
 }

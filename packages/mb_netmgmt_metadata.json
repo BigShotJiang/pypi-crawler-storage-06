@@ -1,0 +1,11 @@
+{
+  "name": "mb_netmgmt",
+  "version": "0.0.96",
+  "summary": "Network Management Protocols for Mountebank",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mb_netmgmt-0.0.96.tar.gz",
+  "download_time": "2025-09-19T14:19:12.536466",
+  "package_url": "https://pypi.org/project/mb_netmgmt/"
+}
