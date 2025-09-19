@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-emulator",
+  "version": "16.3.3",
+  "summary": "Run/Inspect a .gitlab-ci.yml jobs and pipelines locally",
+  "author": "Ian Norton",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": null,
+  "download_filename": "gitlab_emulator-16.3.3-py3-none-any.whl",
+  "download_time": "2025-09-19T10:43:40.792947",
+  "package_url": "https://pypi.org/project/gitlab-emulator/"
+}

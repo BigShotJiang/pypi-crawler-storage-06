@@ -1,0 +1,11 @@
+{
+  "name": "AbstractAgent",
+  "version": "0.1.0",
+  "summary": "Placeholder for autonomous stateful agents with advanced memory - Future modularization of AbstractLLM agent functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abstractagent-0.1.0.tar.gz",
+  "download_time": "2025-09-19T10:43:32.026964",
+  "package_url": "https://pypi.org/project/AbstractAgent/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "the37lab-authlib",
-  "version": "0.1.1758268086",
+  "version": "0.1.1758278310",
   "summary": "Python SDK for the Authlib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "the37lab_authlib-0.1.1758268086.tar.gz",
-  "download_time": "2025-09-19T07:51:55.881137",
+  "download_filename": "the37lab_authlib-0.1.1758278310.tar.gz",
+  "download_time": "2025-09-19T10:43:07.346326",
   "package_url": "https://pypi.org/project/the37lab-authlib/"
 }

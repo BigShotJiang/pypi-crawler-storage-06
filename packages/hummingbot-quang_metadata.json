@@ -1,0 +1,11 @@
+{
+  "name": "hummingbot-quang",
+  "version": "20250919.9",
+  "summary": "Hummingbot quang development",
+  "author": "Hummingbot Foundation",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/hummingbot/hummingbot",
+  "download_filename": "hummingbot_quang-20250919.9.tar.gz",
+  "download_time": "2025-09-19T10:43:35.784838",
+  "package_url": "https://pypi.org/project/hummingbot-quang/"
+}

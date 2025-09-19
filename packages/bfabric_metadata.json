@@ -1,0 +1,11 @@
+{
+  "name": "bfabric",
+  "version": "1.13.34",
+  "summary": "Python client for the B-Fabric API",
+  "author": "Aleksejs Fomins, Marco Schmidt, Maria d'Errico, Witold Eryk Wolski",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "bfabric-1.13.34.tar.gz",
+  "download_time": "2025-09-19T10:43:30.491526",
+  "package_url": "https://pypi.org/project/bfabric/"
+}

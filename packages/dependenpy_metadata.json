@@ -1,0 +1,11 @@
+{
+  "name": "dependenpy",
+  "version": "3.3.3",
+  "summary": "Show the inter-dependencies between modules of Python packages.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependenpy-3.3.3.tar.gz",
+  "download_time": "2025-09-19T10:43:23.277820",
+  "package_url": "https://pypi.org/project/dependenpy/"
+}

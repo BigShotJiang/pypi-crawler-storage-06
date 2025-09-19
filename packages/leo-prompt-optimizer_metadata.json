@@ -1,0 +1,11 @@
+{
+  "name": "leo-prompt-optimizer",
+  "version": "0.1.0",
+  "summary": "A Python library to optimize prompt drafts using LLMs",
+  "author": "Léonard Baesen-Wagner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "leo_prompt_optimizer-0.1.0.tar.gz",
+  "download_time": "2025-09-19T10:43:16.109228",
+  "package_url": "https://pypi.org/project/leo-prompt-optimizer/"
+}

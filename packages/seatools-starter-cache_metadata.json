@@ -1,0 +1,11 @@
+{
+  "name": "seatools-starter-cache",
+  "version": "1.0.2",
+  "summary": "seatools ioc cache 启动器",
+  "author": "dragons96",
+  "license": "MIT license",
+  "home_page": "https://gitee.com/seatools-py/seatools-starter-cache",
+  "download_filename": "seatools_starter_cache-1.0.2.tar.gz",
+  "download_time": "2025-09-19T10:43:39.683934",
+  "package_url": "https://pypi.org/project/seatools-starter-cache/"
+}

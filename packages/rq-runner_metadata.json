@@ -1,0 +1,11 @@
+{
+  "name": "rq-runner",
+  "version": "0.1.0",
+  "summary": "RQ worker for django",
+  "author": "pyqf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rq_runner-0.1.0.tar.gz",
+  "download_time": "2025-09-19T10:43:26.381310",
+  "package_url": "https://pypi.org/project/rq-runner/"
+}

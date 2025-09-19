@@ -1,11 +1,11 @@
 {
   "name": "furthrmind",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "Official python wrapper for the FURTHRmind rest api.",
   "author": "Daniel Menne",
   "license": "GNU GENERAL PUBLIC LICENSE Version 3",
   "home_page": "https://furthrmind.com",
-  "download_filename": "furthrmind-0.2.6.tar.gz",
-  "download_time": "2025-09-19T10:21:30.090990",
+  "download_filename": "furthrmind-0.2.8.tar.gz",
+  "download_time": "2025-09-19T10:43:01.634190",
   "package_url": "https://pypi.org/project/furthrmind/"
 }
