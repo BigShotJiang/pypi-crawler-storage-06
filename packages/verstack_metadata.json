@@ -1,0 +1,11 @@
+{
+  "name": "verstack",
+  "version": "4.3.10",
+  "summary": "Machine learning tools to make a Data Scientist's work more efficient",
+  "author": "Danil Zherebtsov",
+  "license": "MIT",
+  "home_page": "https://github.com/DanilZherebtsov/verstack",
+  "download_filename": "verstack-4.3.10.tar.gz",
+  "download_time": "2025-09-19T10:21:27.158248",
+  "package_url": "https://pypi.org/project/verstack/"
+}

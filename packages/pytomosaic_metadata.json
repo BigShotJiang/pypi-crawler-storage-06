@@ -1,11 +1,11 @@
 {
   "name": "pytomosaic",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "An Open Source Python library for creating photomosaics",
   "author": "Luca Noble",
   "license": null,
   "home_page": "https://github.com/RustyLegacy01/Pytomosaic",
-  "download_filename": "pytomosaic-0.1.5.tar.gz",
-  "download_time": "2025-09-19T09:52:06.983591",
+  "download_filename": "pytomosaic-0.1.7.tar.gz",
+  "download_time": "2025-09-19T10:21:32.885294",
   "package_url": "https://pypi.org/project/pytomosaic/"
 }

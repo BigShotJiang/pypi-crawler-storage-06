@@ -1,23 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T09:52:45.157801
-- **Total Packages**: 82
-- **Total Size**: 44.38 MB
+- **Download Time**: 2025-09-19T10:22:15.702308
+- **Total Packages**: 84
+- **Total Size**: 15.63 MB
 
 ## Packages List
+- verstack
+- upgini
+- cwl2nx
+- intentkit
+- another-sd-client
+- furthrmind
+- nthu-complaints-mcp
+- edwh-auth-rbac
+- gpt2giga
+- agentspro
+- pytomosaic
+- domaintools-api
+- supertuxkart.py
+- opencv-pattern
+- metbit
+- projen
+- embygram
+- maleo-exceptions
+- evaluatr
+- edu-rdm-integration
+- mcp-proxy-adapter
+- inspect-wandb
+- socha
+- justrunalready
+- tide-feature-selection
+- django-tree-queries
 - unifyai
 - cycode
 - finn-plus
-- edwh-auth-rbac
 - adafmt
-- nthu-complaints-mcp
-- metbit
 - mwrpy
 - authentik-client
 - bplot
 - tokenizers
-- pytomosaic
 - worldnex
 - wperf-cmn-visualizer
 - zbuild-tools
@@ -68,23 +90,3 @@
 - scdef
 - rcplus_alloy_common
 - cpr_sdk
-- orca-studio
-- pydorm
-- warlock-waker
-- owocr
-- modal
-- yield-analysis-sdk
-- turboeda
-- finqual
-- linkdapi
-- togetfun
-- owasp-dependency-track-azure-devops
-- dnadsl
-- oxylabs-mcp
-- gs-tool
-- ndp-ep
-- dafni-cli
-- lox-space
-- yuhe
-- dve-lumipy-testing
-- rafay-workflow-sdk
