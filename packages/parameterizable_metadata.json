@@ -1,0 +1,11 @@
+{
+  "name": "parameterizable",
+  "version": "0.11.0",
+  "summary": "Library for work with parameterizable classes.",
+  "author": "Vlad (Volodymyr) Pavlov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parameterizable-0.11.0.tar.gz",
+  "download_time": "2025-09-19T22:05:10.372533",
+  "package_url": "https://pypi.org/project/parameterizable/"
+}

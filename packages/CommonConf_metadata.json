@@ -1,0 +1,11 @@
+{
+  "name": "CommonConf",
+  "version": "1.2.2",
+  "summary": "An interface for getting settings from a variety of configuration libraries.",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/commonconf",
+  "download_filename": "commonconf-1.2.2.tar.gz",
+  "download_time": "2025-09-19T22:04:48.949253",
+  "package_url": "https://pypi.org/project/CommonConf/"
+}

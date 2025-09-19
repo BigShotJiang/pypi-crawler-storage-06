@@ -1,11 +1,11 @@
 {
   "name": "pure-framework",
-  "version": "0.0.3.5",
-  "summary": "A modern, lightweight Python web framework with type safety, dependency injection, middleware pipelines, and auto-generated API documentation.",
+  "version": "0.0.4",
+  "summary": "A modern, lightweight Python web framework with type safety, dependency injection, middleware pipelines, async support, request validation, enhanced error handling, and auto-generated API documentation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pure_framework-0.0.3.5.tar.gz",
-  "download_time": "2025-09-18T21:18:45.885445",
+  "download_filename": "pure_framework-0.0.4.tar.gz",
+  "download_time": "2025-09-19T22:04:43.860666",
   "package_url": "https://pypi.org/project/pure-framework/"
 }

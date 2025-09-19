@@ -1,0 +1,11 @@
+{
+  "name": "butter-backup",
+  "version": "3.5.3",
+  "summary": "Vollverschlüsselte, pseudoinkrementelle Sicherungskopien leicht gemacht",
+  "author": "Max Görner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "butter_backup-3.5.3.tar.gz",
+  "download_time": "2025-09-19T22:04:45.178405",
+  "package_url": "https://pypi.org/project/butter-backup/"
+}

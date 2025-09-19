@@ -1,0 +1,11 @@
+{
+  "name": "bader-nasser-calculator",
+  "version": "0.1.0",
+  "summary": "A simple calculator package for basic math operations by Bader Nasser",
+  "author": "بدر ناصر",
+  "license": null,
+  "home_page": "https://github.com/bader-nasser/simple-calculator",
+  "download_filename": "bader_nasser_calculator-0.1.0.tar.gz",
+  "download_time": "2025-09-19T22:05:11.023171",
+  "package_url": "https://pypi.org/project/bader-nasser-calculator/"
+}

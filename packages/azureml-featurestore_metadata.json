@@ -1,0 +1,11 @@
+{
+  "name": "azureml-featurestore",
+  "version": "1.2.1",
+  "summary": "Azure Machine Learning Feature Store SDK",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://aka.ms/featurestore-get-started",
+  "download_filename": "azureml_featurestore-1.2.1-py3-none-any.whl",
+  "download_time": "2025-09-19T22:04:39.831121",
+  "package_url": "https://pypi.org/project/azureml-featurestore/"
+}
