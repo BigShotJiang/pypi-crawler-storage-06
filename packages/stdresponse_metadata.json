@@ -1,0 +1,11 @@
+{
+  "name": "stdresponse",
+  "version": "0.1.1",
+  "summary": "A lightweight Python package for standardized API responses for Flask, FastAPI, and other Python web frameworks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stdresponse-0.1.1.tar.gz",
+  "download_time": "2025-09-19T19:52:09.961418",
+  "package_url": "https://pypi.org/project/stdresponse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "incline",
+  "version": "0.3.0",
+  "summary": "Estimate Trend at a Particular Point in a Noisy Time Series",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "incline-0.3.0.tar.gz",
+  "download_time": "2025-09-19T19:52:03.468313",
+  "package_url": "https://pypi.org/project/incline/"
+}

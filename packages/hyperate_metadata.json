@@ -1,11 +1,11 @@
 {
   "name": "hyperate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python client for the HypeRate WebSocket API",
   "author": "Serpensin",
   "license": "AGPL-3.0",
   "home_page": "https://hyperate.io/",
-  "download_filename": "hyperate-0.1.1.tar.gz",
-  "download_time": "2025-09-19T19:39:28.141207",
+  "download_filename": "hyperate-0.1.2.tar.gz",
+  "download_time": "2025-09-19T19:52:13.925804",
   "package_url": "https://pypi.org/project/hyperate/"
 }

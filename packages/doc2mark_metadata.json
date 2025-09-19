@@ -1,0 +1,11 @@
+{
+  "name": "doc2mark",
+  "version": "0.4.0",
+  "summary": "Unified document processing with AI-powered OCR",
+  "author": "HaoLiangWen",
+  "license": "MIT",
+  "home_page": "https://github.com/luisleo526/doc2mark",
+  "download_filename": "doc2mark-0.4.0.tar.gz",
+  "download_time": "2025-09-19T19:52:17.085638",
+  "package_url": "https://pypi.org/project/doc2mark/"
+}

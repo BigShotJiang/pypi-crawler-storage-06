@@ -1,11 +1,11 @@
 {
   "name": "docent-python",
-  "version": "0.1.17a0",
+  "version": "0.1.18a0",
   "summary": "Docent SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docent_python-0.1.17a0.tar.gz",
-  "download_time": "2025-09-19T18:27:12.425610",
+  "download_filename": "docent_python-0.1.18a0-py3-none-any.whl",
+  "download_time": "2025-09-19T19:52:01.826383",
   "package_url": "https://pypi.org/project/docent-python/"
 }
