@@ -1,0 +1,11 @@
+{
+  "name": "cloe-metadata",
+  "version": "2.2.7",
+  "summary": "Package for all base CLOE metadata objects and support functions.",
+  "author": "initions",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloe_metadata-2.2.7-py3-none-any.whl",
+  "download_time": "2025-09-19T13:55:27.138009",
+  "package_url": "https://pypi.org/project/cloe-metadata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apteco",
+  "version": "0.8.2",
+  "summary": "A Python package for interacting with Apteco Marketing Suite resources via the Apteco API.",
+  "author": "Apteco Ltd",
+  "license": "Apache-2.0",
+  "home_page": "https://help.apteco.com/python/index.html",
+  "download_filename": "apteco-0.8.2.tar.gz",
+  "download_time": "2025-09-19T13:55:19.635094",
+  "package_url": "https://pypi.org/project/apteco/"
+}

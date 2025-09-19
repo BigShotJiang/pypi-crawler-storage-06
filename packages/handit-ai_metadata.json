@@ -1,11 +1,11 @@
 {
   "name": "handit-ai",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "summary": null,
   "author": "Handit",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "handit_ai-1.0.11-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-19T13:16:22.030461",
+  "download_filename": "handit_ai-1.0.13-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-19T13:55:11.568871",
   "package_url": "https://pypi.org/project/handit-ai/"
 }

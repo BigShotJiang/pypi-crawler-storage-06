@@ -1,50 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T13:45:11.117024
-- **Total Packages**: 87
-- **Total Size**: 27.29 MB
+- **Download Time**: 2025-09-19T13:55:27.638824
+- **Total Packages**: 90
+- **Total Size**: 4.9 MB
 
 ## Packages List
-- secml-torch
-- meetcap
 - taha
-- PyCodeBox
-- lookahead-keys-attention
-- pyPSG-toolbox
-- hwpx-mcp-server
-- qtype
-- PyCmdUI
-- nima
-- authentik-client
-- symetrie-hexapod
-- plato-spw
-- plato-hdf5
-- plato-fits
-- lakeshore-tempcontrol
-- keithley-tempcontrol
-- cgse-tools
-- cgse-gui
-- cgse-core
-- cgse-coordinates
-- cgse-common
-- cgse
-- ezMM
-- any-agent-wrapper
-- pylacus
-- cell-cycle-classification
-- syrup-shared
-- queck
-- ag-ui-langgraph
-- neutronapi
-- ag-ui-protocol
-- pykingenie
-- req-scanner
-- amazon-bedrock-haystack
-- AOT-biomaps
 - OpenPinch
 - quilt-knit
 - trophy
+- AOT-biomaps
 - query-tables
 - pitchlense-mcp
 - MaMAI
@@ -56,6 +22,7 @@
 - inorbit-edge-executor
 - pycarlo
 - ai-parrot
+- ag-ui-langgraph
 - zih-models
 - snakemake-interface-software-deployment-plugins
 - stario
@@ -93,3 +60,39 @@
 - osbot-fast-api
 - ethoPyRT
 - pycti
+- acryl-datahub
+- pytomosaic
+- prefect-datahub
+- neutronapi
+- acryl-datahub-actions
+- acryl-datahub-dagster-plugin
+- acryl-datahub-gx-plugin
+- handit-ai
+- florestbotfunctions
+- acryl-datahub-airflow-plugin
+- corflow
+- coaxial-terminal-ai
+- clerk-backend-api
+- warpzone-sdk
+- hyperactive
+- besapi
+- pycrdt
+- odp-sdk
+- aioesphomeapi
+- rolesnap
+- fractalic
+- tt-perf-report
+- apteco
+- SwiftGUI
+- cybrid-api-id-python
+- cybrid-api-bank-python
+- hud-python
+- cybrid-api-organization-python
+- honeyshare
+- agent-redis-framework
+- skilleter-thingy
+- wikimore
+- authentik-client
+- oarepo-rdm
+- AbstractForge
+- cloe-metadata
