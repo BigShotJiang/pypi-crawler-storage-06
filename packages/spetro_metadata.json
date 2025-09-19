@@ -1,11 +1,11 @@
 {
   "name": "spetro",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "Rough volatility models with automatic differentiation.",
   "author": "aycsi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spetro-0.0.7.tar.gz",
-  "download_time": "2025-09-19T20:21:35.389020",
+  "download_filename": "spetro-0.0.9.tar.gz",
+  "download_time": "2025-09-19T20:39:49.399959",
   "package_url": "https://pypi.org/project/spetro/"
 }

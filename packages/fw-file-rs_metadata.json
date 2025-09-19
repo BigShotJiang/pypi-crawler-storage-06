@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": "https://gitlab.com/flywheel-io/tools/lib/fw-file-rs",
-  "download_filename": "fw_file_rs-0.2.1-cp311-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-19T20:21:00.829314",
+  "download_filename": "fw_file_rs-0.2.1.tar.gz",
+  "download_time": "2025-09-19T20:40:18.136311",
   "package_url": "https://pypi.org/project/fw-file-rs/"
 }

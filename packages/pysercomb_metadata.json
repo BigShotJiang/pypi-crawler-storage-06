@@ -1,0 +1,11 @@
+{
+  "name": "pysercomb",
+  "version": "0.0.14",
+  "summary": "parser combinator library and assorted parsers",
+  "author": "Tom Gillespie",
+  "license": "MIT",
+  "home_page": "https://github.com/tgbugs/parsercomb",
+  "download_filename": "pysercomb-0.0.14.tar.gz",
+  "download_time": "2025-09-19T20:39:53.178245",
+  "package_url": "https://pypi.org/project/pysercomb/"
+}
