@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-extension",
+  "version": "0.0.6",
+  "summary": "Handy pydantic extension for advanced slicing and FASTAPI, LLM context awareness",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_extension-0.0.6.tar.gz",
+  "download_time": "2025-09-19T02:48:03.225163",
+  "package_url": "https://pypi.org/project/pydantic-extension/"
+}

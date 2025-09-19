@@ -1,0 +1,11 @@
+{
+  "name": "clown_sort",
+  "version": "1.14.0",
+  "summary": "Sort screenshots based on rules or through individual review.",
+  "author": "Michel de Cryptadamus",
+  "license": null,
+  "home_page": "https://github.com/michelcrypt4d4mus/clown_sort",
+  "download_filename": "clown_sort-1.14.0.tar.gz",
+  "download_time": "2025-09-19T02:47:53.039841",
+  "package_url": "https://pypi.org/project/clown_sort/"
+}

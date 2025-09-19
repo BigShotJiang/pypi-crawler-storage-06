@@ -1,0 +1,11 @@
+{
+  "name": "rdflib",
+  "version": "7.2.1",
+  "summary": "RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.",
+  "author": "Daniel 'eikeon' Krech",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/RDFLib/rdflib",
+  "download_filename": "rdflib-7.2.1.tar.gz",
+  "download_time": "2025-09-19T02:47:44.160410",
+  "package_url": "https://pypi.org/project/rdflib/"
+}
