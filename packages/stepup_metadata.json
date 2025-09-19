@@ -1,0 +1,11 @@
+{
+  "name": "stepup",
+  "version": "3.0.9",
+  "summary": "StepUp Core provides the basic framework for the StepUp build tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stepup-3.0.9.tar.gz",
+  "download_time": "2025-09-19T12:39:25.342858",
+  "package_url": "https://pypi.org/project/stepup/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-multimedia-somconnexio",
-  "version": "16.0.1.0.3",
+  "version": "16.0.1.0.4",
   "summary": "Sets a basic structure for multimedia subscriptions within the SomConnexio ERP",
   "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
   "license": "AGPL-3",
   "home_page": "https://coopdevs.org",
-  "download_filename": "odoo_addon_multimedia_somconnexio-16.0.1.0.3.tar.gz",
-  "download_time": "2025-09-17T14:42:28.366454",
+  "download_filename": "odoo_addon_multimedia_somconnexio-16.0.1.0.4.tar.gz",
+  "download_time": "2025-09-19T12:39:56.876421",
   "package_url": "https://pypi.org/project/odoo-addon-multimedia-somconnexio/"
 }

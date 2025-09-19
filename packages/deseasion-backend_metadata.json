@@ -1,11 +1,11 @@
 {
   "name": "deseasion-backend",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Backend for the DeSEAsion application stack",
   "author": "Antoine Mallegol",
   "license": null,
   "home_page": null,
-  "download_filename": "deseasion_backend-0.2.0.tar.gz",
-  "download_time": "2025-09-17T15:40:18.455524",
+  "download_filename": "deseasion_backend-0.3.0.tar.gz",
+  "download_time": "2025-09-19T12:39:57.937272",
   "package_url": "https://pypi.org/project/deseasion-backend/"
 }

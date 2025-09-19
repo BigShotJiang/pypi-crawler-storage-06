@@ -1,0 +1,11 @@
+{
+  "name": "firebolt-sdk",
+  "version": "1.15.0",
+  "summary": "Python SDK for Firebolt",
+  "author": "Firebolt",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/firebolt-db/firebolt-sdk",
+  "download_filename": "firebolt_sdk-1.15.0.tar.gz",
+  "download_time": "2025-09-19T12:39:45.376662",
+  "package_url": "https://pypi.org/project/firebolt-sdk/"
+}

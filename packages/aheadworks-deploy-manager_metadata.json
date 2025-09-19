@@ -1,11 +1,11 @@
 {
   "name": "aheadworks-deploy-manager",
-  "version": "1.7.13",
+  "version": "1.7.14",
   "summary": "deploy manager from aheadworks",
   "author": "nnuser",
   "license": "EULA",
   "home_page": "https://bitbucket.org/awimpl/deploy-tools",
-  "download_filename": "aheadworks_deploy_manager-1.7.13.tar.gz",
-  "download_time": "2025-09-17T11:27:47.434315",
+  "download_filename": "aheadworks_deploy_manager-1.7.14.tar.gz",
+  "download_time": "2025-09-19T12:39:48.658425",
   "package_url": "https://pypi.org/project/aheadworks-deploy-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-firmware",
+  "version": "4.1.0",
+  "summary": "Firmware management in NetBox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_firmware-4.1.0.tar.gz",
+  "download_time": "2025-09-19T12:40:00.063308",
+  "package_url": "https://pypi.org/project/netbox-firmware/"
+}

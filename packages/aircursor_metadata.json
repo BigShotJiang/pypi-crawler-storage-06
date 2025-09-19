@@ -1,0 +1,11 @@
+{
+  "name": "aircursor",
+  "version": "1.0.6",
+  "summary": "Remote mouse control server with web interface and REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aircursor-1.0.6.tar.gz",
+  "download_time": "2025-09-19T12:39:32.995681",
+  "package_url": "https://pypi.org/project/aircursor/"
+}

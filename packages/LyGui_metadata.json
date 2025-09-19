@@ -1,11 +1,11 @@
 {
   "name": "LyGui",
-  "version": "0.1.0b2.post1",
-  "summary": "LyGui (beta): zero-deps, pure-Python immediate-mode GUI with a software renderer.",
+  "version": "0.2.1",
+  "summary": "LyGui: Immediate-Mode GUI library with auto backend (CustomTkinter preferred, falls back to Tkinter).",
   "author": "DeathAmir",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "lygui-0.1.0b2.post1.tar.gz",
-  "download_time": "2025-09-19T11:38:26.369109",
+  "home_page": "https://github.com/pyimgui/pyimgui",
+  "download_filename": "lygui-0.2.1.tar.gz",
+  "download_time": "2025-09-19T12:40:07.056435",
   "package_url": "https://pypi.org/project/LyGui/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "energy-monitor-GPU",
+  "version": "1.0.1",
+  "summary": "Track and visualize GPU energy consumption using PyNVML, with MongoDB integration.",
+  "author": "VIT College",
+  "license": null,
+  "home_page": "https://github.com/SiddheshDhomse/energy-monitor",
+  "download_filename": "energy_monitor_gpu-1.0.1.tar.gz",
+  "download_time": "2025-09-19T12:39:53.124822",
+  "package_url": "https://pypi.org/project/energy-monitor-GPU/"
+}
