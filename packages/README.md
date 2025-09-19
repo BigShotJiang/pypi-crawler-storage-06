@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T10:43:45.475389
-- **Total Packages**: 84
-- **Total Size**: 41.35 MB
+- **Download Time**: 2025-09-19T10:54:26.172028
+- **Total Packages**: 80
+- **Total Size**: 17.69 MB
 
 ## Packages List
+- replkit2
+- asap3
+- sigstore
+- annex4risk-detector
+- berryworld
+- flo_ai
+- codalpy
+- supervisely
+- msal-bearer
+- qing-client
+- suyo
+- tonnikala
+- authentik-client
+- payments-py
+- mkdocstrings
+- mkdocs-llmstxt
+- cache-dit
+- pytrade
+- cogwit_sdk
+- termaitrik
+- qpool
+- data-science-document-ai
+- py-agent-tools
+- llm-detector
+- tgadmin
+- fastapi-radar
+- yeref
+- leo-prompt-optimizer
+- konduktor-nightly
+- ut-path
+- memorisdk
+- reportlab
+- trainy-policy-nightly
+- netpicker-netbox-plugin
+- oarepo-rdm
 - forgeNN
 - bowshockpy
 - furthrmind
@@ -14,15 +49,12 @@
 - metal-stack-api
 - socha
 - e2b
-- berryworld
 - aa-metenox
-- authentik-client
 - quansino
 - ebi-pm
 - the37lab-authlib
 - voice-agent-core
 - katonic-sdk
-- yeref
 - rl-language
 - orchestrator-core
 - litelines
@@ -35,12 +67,10 @@
 - cwl-loader
 - greeum
 - glados-chat-lib
-- leo-prompt-optimizer
 - nthu-complaints-mcp
 - climate-finance
 - CTADIRAC
 - runreporter
-- flo_ai
 - rq-result
 - assi
 - abstractions
@@ -56,37 +86,3 @@
 - zenx
 - omniverse-asset-validator
 - rq-runner
-- leggen
-- weaviate-cli
-- readgrid
-- qing-client
-- ethoPyRT
-- ariadne-codegen
-- AOT-biomaps
-- bfabric
-- compass_api_sdk
-- regioncam
-- AbstractAgent
-- cgse-dummy
-- revolution-eda
-- ophyd-async
-- AbstractMemory
-- fastapi-radar
-- repology-mcp-server
-- hummingbot-quang
-- mxcubecore
-- justrunalready
-- odoo-addon-shopfloor-base
-- pytestomatio
-- lmnr
-- seatools-starter-cache
-- dependency-injector
-- gitlab-emulator
-- smartpush
-- agentspro
-- yara-x
-- nexusflowmeter
-- tf-keras-nightly
-- alibuild
-- ezphot
-- pixelle
