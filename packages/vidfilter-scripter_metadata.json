@@ -1,11 +1,11 @@
 {
   "name": "vidfilter-scripter",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "An mpv front-end which creates a mencoder script with video adjustments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vidfilter_scripter-1.1.1.tar.gz",
-  "download_time": "2025-09-19T05:18:39.335374",
+  "download_filename": "vidfilter_scripter-1.1.2.tar.gz",
+  "download_time": "2025-09-19T22:52:14.833806",
   "package_url": "https://pypi.org/project/vidfilter-scripter/"
 }

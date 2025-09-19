@@ -1,0 +1,11 @@
+{
+  "name": "expectise",
+  "version": "1.4.0",
+  "summary": "Mocking API and function calls in Python - inspired by Ruby's RSpec-Mocks.",
+  "author": "tcassou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "expectise-1.4.0.tar.gz",
+  "download_time": "2025-09-19T22:52:06.888715",
+  "package_url": "https://pypi.org/project/expectise/"
+}
