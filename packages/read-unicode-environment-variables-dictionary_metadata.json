@@ -1,0 +1,11 @@
+{
+  "name": "read-unicode-environment-variables-dictionary",
+  "version": "0.1.0a0",
+  "summary": "Use raw ctypes to read Unicode environment variables directly from the OS, even where Python's own `os` module is incomplete or restricted.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "read_unicode_environment_variables_dictionary-0.1.0a0.tar.gz",
+  "download_time": "2025-09-19T17:17:48.871653",
+  "package_url": "https://pypi.org/project/read-unicode-environment-variables-dictionary/"
+}

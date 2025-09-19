@@ -1,11 +1,11 @@
 {
   "name": "fastwoe",
-  "version": "0.1.2.post4",
+  "version": "0.1.3",
   "summary": "Fast Weight of Evidence (WOE) encoding and inference",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastwoe-0.1.2.post4.tar.gz",
-  "download_time": "2025-09-19T16:56:07.728186",
+  "download_filename": "fastwoe-0.1.3.tar.gz",
+  "download_time": "2025-09-19T17:17:57.499409",
   "package_url": "https://pypi.org/project/fastwoe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "modeci-mdf",
+  "version": "0.4.13",
+  "summary": "ModECI (Model Exchange and Convergence Initiative) Model Description Format",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "modeci_mdf-0.4.13.tar.gz",
+  "download_time": "2025-09-19T17:17:36.691909",
+  "package_url": "https://pypi.org/project/modeci-mdf/"
+}

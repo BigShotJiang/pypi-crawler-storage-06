@@ -1,11 +1,11 @@
 {
   "name": "make-colors",
-  "version": "3.43",
+  "version": "3.44",
   "summary": "A simple, powerful, and cross-platform Python library for adding colors, styles, and rich markup support to your terminal output. Optimized for **Windows 10+**, Linux, and macOS.",
   "author": "Hadi Cahyadi",
   "license": "MIT",
   "home_page": "https://github.com/cumulus13/make_colors",
-  "download_filename": "make_colors-3.43.tar.gz",
-  "download_time": "2025-09-19T16:56:26.771914",
+  "download_filename": "make_colors-3.44.tar.gz",
+  "download_time": "2025-09-19T17:18:04.454934",
   "package_url": "https://pypi.org/project/make-colors/"
 }

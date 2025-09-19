@@ -1,0 +1,11 @@
+{
+  "name": "bento-sts",
+  "version": "0.1.19",
+  "summary": "Bento Simple Terminology Server",
+  "author": "Mark Benson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bento_sts-0.1.19.tar.gz",
+  "download_time": "2025-09-19T17:17:55.298906",
+  "package_url": "https://pypi.org/project/bento-sts/"
+}

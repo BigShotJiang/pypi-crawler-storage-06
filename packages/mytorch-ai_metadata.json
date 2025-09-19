@@ -1,0 +1,11 @@
+{
+  "name": "mytorch-ai",
+  "version": "0.4.6",
+  "summary": "Drop-in replacement for PyTorch that does distributed training and inference on a remote server",
+  "author": "mytorch.net",
+  "license": "Custom License",
+  "home_page": "https://mytorch.net",
+  "download_filename": "mytorch_ai-0.4.6.tar.gz",
+  "download_time": "2025-09-19T17:17:53.295735",
+  "package_url": "https://pypi.org/project/mytorch-ai/"
+}
