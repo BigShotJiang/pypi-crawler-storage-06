@@ -1,0 +1,11 @@
+{
+  "name": "Dungeo-ai",
+  "version": "0.1.0",
+  "summary": "this is a dungeon ai run locally that use your llm",
+  "author": "Laszlobeer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "Dungeo_ai-0.1.0.tar.gz",
+  "download_time": "2025-09-19T21:17:06.171395",
+  "package_url": "https://pypi.org/project/Dungeo-ai/"
+}

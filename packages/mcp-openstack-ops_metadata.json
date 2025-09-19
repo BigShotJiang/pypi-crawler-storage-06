@@ -1,11 +1,11 @@
 {
   "name": "mcp-openstack-ops",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "OpenStack operations automation MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_openstack_ops-2.0.1.tar.gz",
-  "download_time": "2025-09-19T20:39:47.795884",
+  "download_filename": "mcp_openstack_ops-2.0.2.tar.gz",
+  "download_time": "2025-09-19T21:17:22.111810",
   "package_url": "https://pypi.org/project/mcp-openstack-ops/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edgebridge",
+  "version": "0.1.0",
+  "summary": "EdgeBridge: Lightweight AI Model Conversion, Quantization, Pruning & Deployment Toolkit",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/<your-username>/EdgeBridge",
+  "download_filename": "edgebridge-0.1.0.tar.gz",
+  "download_time": "2025-09-19T21:17:37.061925",
+  "package_url": "https://pypi.org/project/edgebridge/"
+}

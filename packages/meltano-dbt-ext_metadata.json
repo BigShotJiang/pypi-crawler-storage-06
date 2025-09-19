@@ -1,0 +1,11 @@
+{
+  "name": "meltano-dbt-ext",
+  "version": "0.3.4",
+  "summary": "A Meltano utility extension to manage dbt projects.",
+  "author": "Meltano Team and Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://meltano.com",
+  "download_filename": "meltano_dbt_ext-0.3.4.tar.gz",
+  "download_time": "2025-09-19T21:17:23.798008",
+  "package_url": "https://pypi.org/project/meltano-dbt-ext/"
+}

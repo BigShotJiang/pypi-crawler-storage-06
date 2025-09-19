@@ -1,0 +1,11 @@
+{
+  "name": "guardrails-jsonformer",
+  "version": "0.13.0",
+  "summary": "A fork of 1rgs' jsonformer maintained by Guardrails AI",
+  "author": "1rgs",
+  "license": null,
+  "home_page": "https://github.com/guardrails-ai/jsonformer",
+  "download_filename": "guardrails_jsonformer-0.13.0.tar.gz",
+  "download_time": "2025-09-19T21:17:07.768972",
+  "package_url": "https://pypi.org/project/guardrails-jsonformer/"
+}

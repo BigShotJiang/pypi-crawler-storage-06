@@ -1,11 +1,11 @@
 {
   "name": "msal-bearer",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Python package to get auth token for a msal client application using msal, msal-extensions and azure-identity.",
   "author": "Åsmund Våge Fannemel",
   "license": "MIT",
   "home_page": "https://github.com/Equinor/msal-bearer",
-  "download_filename": "msal_bearer-1.4.2.tar.gz",
-  "download_time": "2025-09-19T10:53:46.197672",
+  "download_filename": "msal_bearer-1.4.3.tar.gz",
+  "download_time": "2025-09-19T21:17:09.962350",
   "package_url": "https://pypi.org/project/msal-bearer/"
 }

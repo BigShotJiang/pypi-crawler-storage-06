@@ -1,11 +1,11 @@
 {
   "name": "prompts-mcp",
-  "version": "1.3.2",
-  "summary": "MCP server that provides prompts from a directory",
+  "version": "1.4.0",
+  "summary": "Model Context Protocol (MCP) server of Markdown based prompts.",
   "author": "Anssi Syrjäsalo",
   "license": "LGPLv3",
   "home_page": null,
-  "download_filename": "prompts_mcp-1.3.2.tar.gz",
-  "download_time": "2025-09-19T17:52:25.275733",
+  "download_filename": "prompts_mcp-1.4.0.tar.gz",
+  "download_time": "2025-09-19T21:17:19.851648",
   "package_url": "https://pypi.org/project/prompts-mcp/"
 }
