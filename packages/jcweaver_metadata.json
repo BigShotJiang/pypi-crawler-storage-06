@@ -1,0 +1,11 @@
+{
+  "name": "jcweaver",
+  "version": "0.1.8",
+  "summary": "A platform-adaptive task framework for cloud-edge scenarios",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jcweaver-0.1.8.tar.gz",
+  "download_time": "2025-09-19T01:24:47.413566",
+  "package_url": "https://pypi.org/project/jcweaver/"
+}

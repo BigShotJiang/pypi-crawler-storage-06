@@ -1,0 +1,11 @@
+{
+  "name": "dbt-glue",
+  "version": "1.10.11",
+  "summary": "dbt adapter for AWS Glue",
+  "author": "moshirm,segnina,sekiyama",
+  "license": null,
+  "home_page": "https://github.com/aws-samples/dbt-glue",
+  "download_filename": "dbt_glue-1.10.11.tar.gz",
+  "download_time": "2025-09-19T01:24:29.794483",
+  "package_url": "https://pypi.org/project/dbt-glue/"
+}

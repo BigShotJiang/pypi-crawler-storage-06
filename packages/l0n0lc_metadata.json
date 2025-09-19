@@ -1,11 +1,11 @@
 {
   "name": "l0n0lc",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "一个将python函数翻译为c++函数并运行的jit编译器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "l0n0lc-0.9.3.tar.gz",
-  "download_time": "2025-09-18T02:44:00.424405",
+  "download_filename": "l0n0lc-0.9.4.tar.gz",
+  "download_time": "2025-09-19T01:24:51.147499",
   "package_url": "https://pypi.org/project/l0n0lc/"
 }

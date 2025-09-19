@@ -1,0 +1,11 @@
+{
+  "name": "backspaceAlpha",
+  "version": "0.1.1",
+  "summary": "A simple backtesting framework to quickly and easily optimise strategies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "backspacealpha-0.1.1.tar.gz",
+  "download_time": "2025-09-19T01:25:01.992224",
+  "package_url": "https://pypi.org/project/backspaceAlpha/"
+}

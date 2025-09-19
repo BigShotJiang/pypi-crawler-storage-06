@@ -1,0 +1,11 @@
+{
+  "name": "django-ansible-observability",
+  "version": "0.1.4",
+  "summary": "Django application for Ansible observability with OpenTelemetry integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_ansible_observability-0.1.4.tar.gz",
+  "download_time": "2025-09-19T01:24:59.874343",
+  "package_url": "https://pypi.org/project/django-ansible-observability/"
+}

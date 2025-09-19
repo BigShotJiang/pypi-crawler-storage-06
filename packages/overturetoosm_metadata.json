@@ -1,0 +1,11 @@
+{
+  "name": "overturetoosm",
+  "version": "1.1.0",
+  "summary": "Translate the Overture maps schema to OpenStreetMap tags.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "overturetoosm-1.1.0.tar.gz",
+  "download_time": "2025-09-19T01:24:53.948227",
+  "package_url": "https://pypi.org/project/overturetoosm/"
+}
