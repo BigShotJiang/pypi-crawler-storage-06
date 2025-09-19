@@ -1,17 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T09:41:45.487891
-- **Total Packages**: 80
-- **Total Size**: 32.99 MB
+- **Download Time**: 2025-09-19T09:52:45.157801
+- **Total Packages**: 82
+- **Total Size**: 44.38 MB
 
 ## Packages List
-- sourcemeta-jsonschema
+- unifyai
+- cycode
+- finn-plus
+- edwh-auth-rbac
+- adafmt
+- nthu-complaints-mcp
+- metbit
+- mwrpy
+- authentik-client
 - bplot
+- tokenizers
+- pytomosaic
+- worldnex
+- wperf-cmn-visualizer
+- zbuild-tools
+- Nuitka
+- symetrie-hexapod
+- plato-spw
+- dmri-commit
+- plato-hdf5
+- plato-fits
+- lakeshore-tempcontrol
+- keithley-tempcontrol
+- cgse-tools
+- cgse-gui
+- cgse-core
+- cgse-coordinates
+- cgse-common
+- cgse
+- voice-agent-core
+- secops
+- nest-neat
+- pycvcam
+- pyducc
+- vibe-llama
+- aerospot-autoreport
+- astro-nest
+- funcnodes-pandas
+- berryworld
+- qpool
+- mstrio-py
+- finbourne-access-sdk
+- redback-jax
+- projen.canary-package
+- makcu
+- gradio-flatpickr-calendar
+- yaxai
+- whitebox-plugin-device-manager
+- erton
+- lgtm-ai
+- sourcemeta-jsonschema
 - django-daiquiri
 - ansys-fluent-visualization
 - ultrasphere
-- authentik-client
 - rich-reg-replace
 - nhs_aws_helpers
 - wads
@@ -24,7 +72,6 @@
 - pydorm
 - warlock-waker
 - owocr
-- tokenizers
 - modal
 - yield-analysis-sdk
 - turboeda
@@ -32,57 +79,12 @@
 - linkdapi
 - togetfun
 - owasp-dependency-track-azure-devops
-- voice-agent-core
 - dnadsl
-- nthu-complaints-mcp
 - oxylabs-mcp
 - gs-tool
 - ndp-ep
-- pytomosaic
 - dafni-cli
 - lox-space
 - yuhe
 - dve-lumipy-testing
 - rafay-workflow-sdk
-- mbu-dev-shared-components
-- alita-sdk
-- rolesnap
-- genomehubs
-- gcip
-- acryl-executor
-- terragon-downloader
-- hired
-- tabpfn-common-utils
-- whitebox-plugin-device-insta360
-- gdcmd
-- resolver-athena-client
-- zenx
-- kfactory
-- cognite-toolkit
-- pyannote-database
-- odoo-addon-mrp-multi-level
-- whitebox-plugin-flight-management
-- pymobiledevice3
-- subdomain-takeover-tools
-- haiku.rag
-- fastwoe
-- openobd
-- pytme
-- flagsmith
-- hello-agents
-- virtualinput
-- pysmb
-- pennylane-oqcqcaas
-- alibabacloud-push20160801
-- crawlee
-- ipfabric_netbox
-- gamspy-snopt
-- unimi-crop-sensing
-- gamspy-reshop
-- seam
-- gramps-gedcom7
-- gamspy-examiner
-- gamspy-miles
-- gamspy-mpsge
-- gamspy-soplex
-- tbp-nightly

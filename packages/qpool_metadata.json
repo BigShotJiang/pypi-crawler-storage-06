@@ -1,11 +1,11 @@
 {
   "name": "qpool",
-  "version": "0.5.11",
+  "version": "0.5.13",
   "summary": "Trait based multiprocessing with queues",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qpool-0.5.11-py3-none-any.whl",
-  "download_time": "2025-09-18T06:50:01.674369",
+  "download_filename": "qpool-0.5.13.tar.gz",
+  "download_time": "2025-09-19T09:52:21.456465",
   "package_url": "https://pypi.org/project/qpool/"
 }

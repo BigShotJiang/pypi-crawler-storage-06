@@ -1,0 +1,11 @@
+{
+  "name": "zbuild-tools",
+  "version": "1.0.27",
+  "summary": "It is the build system of linux which is based on Conan",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zbuild_tools-1.0.27.tar.gz",
+  "download_time": "2025-09-19T09:52:08.525175",
+  "package_url": "https://pypi.org/project/zbuild-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "redback-jax",
+  "version": "0.1.0",
+  "summary": "A lightweight JAX-only version of redback for electromagnetic transient analysis",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "redback_jax-0.1.0.tar.gz",
+  "download_time": "2025-09-19T09:52:23.016141",
+  "package_url": "https://pypi.org/project/redback-jax/"
+}
