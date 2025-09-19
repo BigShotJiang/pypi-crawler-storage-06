@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-19T05:19:07.158805
-- **Total Packages**: 74
-- **Total Size**: 11.9 MB
+- **Download Time**: 2025-09-19T05:41:14.398588
+- **Total Packages**: 83
+- **Total Size**: 10.81 MB
 
 ## Packages List
+- ibauth
+- statline
+- superb-ai-onprem
+- authentik-client
 - lacrei-models
+- pytmpinv
+- opendp
+- videosdk-plugins-turn-detector
+- videosdk-plugins-speechify
+- videosdk-plugins-smallestai
+- videosdk-plugins-simli
+- videosdk-plugins-silero
+- videosdk-plugins-sarvamai
+- videosdk-plugins-rnnoise
+- Dinkar-Pattern
+- videosdk-plugins-rime
+- videosdk-plugins-resemble
+- videosdk-plugins-papla
+- videosdk-plugins-openai
+- mcp-veo3-azure-blob
+- videosdk-plugins-neuphonic
+- PySwitchbot
+- videosdk-plugins-navana
+- videosdk-plugins-lmnt
+- videosdk-plugins-inworldai
+- v4-proto
+- videosdk-plugins-humeai
+- videosdk-plugins-groq
+- videosdk-plugins-google
+- videosdk-plugins-elevenlabs
+- videosdk-plugins-deepgram
+- videosdk-plugins-cerebras
+- videosdk-plugins-cartesia
+- file2txt
+- videosdk-plugins-aws
+- videosdk-plugins-assemblyai
+- videosdk-plugins-anthropic
+- hedonic
+- videosdk-agents
+- kaggle-discussion-extractor
+- tart-cargo
+- jsoncompat
+- syft-flwr
 - disko
 - egrc-core
 - clud
@@ -15,7 +57,6 @@
 - sleipnirgroup-jormungandr
 - gradio-autopilot-chatbot
 - ci-matrix-starter
-- pytmpinv
 - django-msteams-notify
 - bear-dereth
 - yearn-treasury
@@ -24,7 +65,6 @@
 - django-codemod
 - abstract-hugpy
 - stellar-stats
-- authentik-client
 - lunaconf
 - doccmd
 - VirecFremwork
@@ -43,40 +83,9 @@
 - justrunalready
 - osv
 - redcaplite
-- statline
 - pwnkit
 - dataflow-conda-plugin
 - clselove
 - fullcalendar-hj3415
 - dataflow-core
 - fred-oss
-- iamdata
-- programming-game
-- crawailer
-- superb-ai-onprem
-- jinja2-inflection
-- robotframework-schemathesislibrary
-- cat-llm
-- deeplp
-- pyeasyphd
-- krionis-orchestrator
-- speedy-utils
-- svc-infra
-- SDNorm
-- msgflux
-- BoschMiniRpa
-- deepmcp
-- xopr
-- diffsinger-utau
-- better-jupyter-mcp-server
-- woolworm
-- rigol-ds1054z
-- keywordsai-exporter-openai-agents
-- gllm-inference-binary
-- nxtomomill
-- marm-mcp-server
-- zacro
-- json-repair
-- jamaibase
-- syft2
-- gllm-agents-binary
