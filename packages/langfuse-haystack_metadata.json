@@ -1,0 +1,11 @@
+{
+  "name": "langfuse-haystack",
+  "version": "3.0.0",
+  "summary": "Langfuse integration for Haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langfuse_haystack-3.0.0.tar.gz",
+  "download_time": "2025-09-19T13:16:27.244092",
+  "package_url": "https://pypi.org/project/langfuse-haystack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "preheat-open",
+  "version": "2.5",
+  "summary": "Python wrapper for Neogrid Technologies' REST API",
+  "author": "Neogrid and contributors",
+  "license": null,
+  "home_page": "https://gitlab.com/neogrid-technologies-public/preheat-open-python",
+  "download_filename": "preheat_open-2.5.tar.gz",
+  "download_time": "2025-09-19T13:16:49.932956",
+  "package_url": "https://pypi.org/project/preheat-open/"
+}

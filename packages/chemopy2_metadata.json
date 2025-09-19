@@ -1,0 +1,11 @@
+{
+  "name": "chemopy2",
+  "version": "1.0.11",
+  "summary": "\"A Python library calculating molecular descriptors.\"",
+  "author": "\"Dongsheng Cao, Yizeng Liang\"",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/OlivierBeq/chemopy",
+  "download_filename": "chemopy2-1.0.11.tar.gz",
+  "download_time": "2025-09-19T13:16:51.493277",
+  "package_url": "https://pypi.org/project/chemopy2/"
+}

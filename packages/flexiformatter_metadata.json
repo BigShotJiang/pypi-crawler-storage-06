@@ -1,0 +1,11 @@
+{
+  "name": "flexiformatter",
+  "version": "1.0.4",
+  "summary": "Moving flexiplex barcode and UMI to bam tags",
+  "author": "Luuk Harbers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexiformatter-1.0.4.tar.gz",
+  "download_time": "2025-09-19T13:16:38.324419",
+  "package_url": "https://pypi.org/project/flexiformatter/"
+}

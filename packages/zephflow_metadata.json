@@ -1,0 +1,11 @@
+{
+  "name": "zephflow",
+  "version": "0.2.3",
+  "summary": "Python SDK for ZephFlow data processing pipelines",
+  "author": "Fleak Tech Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zephflow-0.2.3.tar.gz",
+  "download_time": "2025-09-19T13:16:17.240397",
+  "package_url": "https://pypi.org/project/zephflow/"
+}

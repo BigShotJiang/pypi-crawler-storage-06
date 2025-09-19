@@ -1,11 +1,11 @@
 {
   "name": "FreeDynamics-simaf",
-  "version": "2.2.7",
+  "version": "2.3.0",
   "summary": "A comprehensive ML tool for vacancy prediction with GUI",
   "author": "Eduardo Bringa, Santiago Bergamin",
   "license": null,
   "home_page": "https://github.com/tuusuario/vacancy-predictor",
-  "download_filename": "freedynamics_simaf-2.2.7.tar.gz",
-  "download_time": "2025-09-19T01:24:30.328887",
+  "download_filename": "freedynamics_simaf-2.3.0.tar.gz",
+  "download_time": "2025-09-19T13:16:23.080291",
   "package_url": "https://pypi.org/project/FreeDynamics-simaf/"
 }

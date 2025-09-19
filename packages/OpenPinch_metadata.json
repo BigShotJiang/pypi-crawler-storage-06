@@ -1,11 +1,11 @@
 {
   "name": "OpenPinch",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Package for performing Pinch Analysis on stream data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openpinch-0.0.11-py3-none-any.whl",
-  "download_time": "2025-09-19T06:29:00.979849",
+  "download_filename": "openpinch-0.0.12-py3-none-any.whl",
+  "download_time": "2025-09-19T13:16:12.249544",
   "package_url": "https://pypi.org/project/OpenPinch/"
 }

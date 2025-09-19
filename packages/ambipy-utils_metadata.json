@@ -1,11 +1,11 @@
 {
   "name": "ambipy-utils",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Pacote interno da Ambipar Carbon para manipulação de dados geoespaciais, carbono e tabulares. Inclui suporte para conexão com bancos de dados, templates de e-mail e correção de dados",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ambipy_utils-0.2.1.tar.gz",
-  "download_time": "2025-09-18T18:50:32.598506",
+  "download_filename": "ambipy_utils-0.2.2.tar.gz",
+  "download_time": "2025-09-19T13:16:38.843947",
   "package_url": "https://pypi.org/project/ambipy-utils/"
 }
