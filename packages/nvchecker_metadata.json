@@ -1,0 +1,11 @@
+{
+  "name": "nvchecker",
+  "version": "2.19",
+  "summary": "New version checker for software",
+  "author": "lilydjwg",
+  "license": "MIT",
+  "home_page": "https://github.com/lilydjwg/nvchecker",
+  "download_filename": "nvchecker-2.19.tar.gz",
+  "download_time": "2025-09-19T03:33:53.902048",
+  "package_url": "https://pypi.org/project/nvchecker/"
+}

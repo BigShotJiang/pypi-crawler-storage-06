@@ -1,0 +1,11 @@
+{
+  "name": "test-mypip-setup",
+  "version": "0.2.2",
+  "summary": "一个跨平台的Python示例包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "test_mypip_setup-0.2.2.tar.gz",
+  "download_time": "2025-09-19T03:33:37.353023",
+  "package_url": "https://pypi.org/project/test-mypip-setup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "telnyx",
+  "version": "2.1.6",
+  "summary": "Python bindings for the Telnyx API",
+  "author": "Telnyx",
+  "license": "MIT",
+  "home_page": "https://github.com/team-telnyx/telnyx-python",
+  "download_filename": "telnyx-2.1.6.tar.gz",
+  "download_time": "2025-09-19T03:34:04.502900",
+  "package_url": "https://pypi.org/project/telnyx/"
+}
