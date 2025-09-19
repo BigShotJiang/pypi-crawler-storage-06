@@ -1,11 +1,11 @@
 {
   "name": "dm-mcp-server",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "summary": "达梦数据库 Model Context Protocol (MCP) 服务器",
   "author": "AI Assistant",
   "license": null,
   "home_page": "https://github.com/your-username/dm-mcp-server",
-  "download_filename": "dm_mcp_server-2.0.4.tar.gz",
-  "download_time": "2025-09-19T15:20:07.115250",
+  "download_filename": "dm_mcp_server-2.1.0.tar.gz",
+  "download_time": "2025-09-19T15:52:54.922459",
   "package_url": "https://pypi.org/project/dm-mcp-server/"
 }
