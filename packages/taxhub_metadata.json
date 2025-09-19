@@ -1,0 +1,11 @@
+{
+  "name": "taxhub",
+  "version": "2.2.3",
+  "summary": "Application web de gestion centralisée des taxons basée sur le référentiel TAXREF",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/PnX-SI/TaxHub",
+  "download_filename": "taxhub-2.2.3.tar.gz",
+  "download_time": "2025-09-19T14:54:06.644062",
+  "package_url": "https://pypi.org/project/taxhub/"
+}

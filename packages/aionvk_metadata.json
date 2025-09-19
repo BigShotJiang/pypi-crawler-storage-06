@@ -1,11 +1,11 @@
 {
   "name": "aionvk",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Asynchronous VK API framework for building bots",
   "author": "Nikita",
   "license": null,
   "home_page": null,
-  "download_filename": "aionvk-0.4.0.tar.gz",
-  "download_time": "2025-09-19T14:19:29.900894",
+  "download_filename": "aionvk-0.4.1.tar.gz",
+  "download_time": "2025-09-19T14:54:04.468293",
   "package_url": "https://pypi.org/project/aionvk/"
 }

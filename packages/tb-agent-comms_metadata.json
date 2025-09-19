@@ -1,0 +1,11 @@
+{
+  "name": "tb-agent-comms",
+  "version": "0.1.0",
+  "summary": "Lib that holds a Class for easily interacting with TB-Agent Endpoints",
+  "author": "Oscar Mitchell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tb_agent_comms-0.1.0.tar.gz",
+  "download_time": "2025-09-19T14:53:48.832964",
+  "package_url": "https://pypi.org/project/tb-agent-comms/"
+}
