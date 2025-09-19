@@ -1,0 +1,11 @@
+{
+  "name": "vesper-reqflow",
+  "version": "1.0.0",
+  "summary": "A Postman-like terminal tool for API testing with Redis backend and AI assistance",
+  "author": "API Tester Team",
+  "license": null,
+  "home_page": "https://github.com/apitester/agentic-api-tester-cli",
+  "download_filename": "vesper_reqflow-1.0.0.tar.gz",
+  "download_time": "2025-09-19T15:41:23.183424",
+  "package_url": "https://pypi.org/project/vesper-reqflow/"
+}

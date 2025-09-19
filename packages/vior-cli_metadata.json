@@ -1,11 +1,11 @@
 {
   "name": "vior-cli",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Vior Secrets CLI - Secure command-line interface for Vior Secrets management",
   "author": "Viorcloud Team",
   "license": "MIT",
   "home_page": "https://github.com/viorcloud/vior-cli",
-  "download_filename": "vior_cli-1.0.5.tar.gz",
-  "download_time": "2025-09-19T14:53:55.947191",
+  "download_filename": "vior_cli-1.0.7.tar.gz",
+  "download_time": "2025-09-19T15:41:02.626440",
   "package_url": "https://pypi.org/project/vior-cli/"
 }

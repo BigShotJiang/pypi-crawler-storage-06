@@ -1,0 +1,11 @@
+{
+  "name": "StringUtilsLib",
+  "version": "0.1.0",
+  "summary": "Text utilities: reverse, count letters and words",
+  "author": "Raghed Ehap Suif Alfaghe",
+  "license": "MIT License\r\n        \r\n        Copyright (c) Raghed Ehap Suif Alfaghe.\r\n        ",
+  "home_page": null,
+  "download_filename": "stringutilslib-0.1.0.tar.gz",
+  "download_time": "2025-09-19T15:40:47.949448",
+  "package_url": "https://pypi.org/project/StringUtilsLib/"
+}
