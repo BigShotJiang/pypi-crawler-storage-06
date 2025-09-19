@@ -1,0 +1,11 @@
+{
+  "name": "mytsoss",
+  "version": "0.1.0",
+  "summary": "A Discord bot library for managing executable programs.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mytsoss-0.1.0.tar.gz",
+  "download_time": "2025-09-19T21:37:55.675455",
+  "package_url": "https://pypi.org/project/mytsoss/"
+}

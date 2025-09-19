@@ -1,0 +1,11 @@
+{
+  "name": "bioma-modelling",
+  "version": "0.0.1",
+  "summary": "Python library to streamline interaction with the BioMA APIs, providing a pythonic facade to data and service access.",
+  "author": "CREA",
+  "license": "MIT",
+  "home_page": "https://dev.azure.com/dariodenart/_git/BioMA%20Python%20Toolkit",
+  "download_filename": "bioma-modelling-0.0.1.tar.gz",
+  "download_time": "2025-09-19T21:38:07.260014",
+  "package_url": "https://pypi.org/project/bioma-modelling/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sdforge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python library for SDF modeling with real-time GLSL rendering and mesh export.",
   "author": "nassimberrada",
   "license": null,
   "home_page": "https://github.com/nassimberrada/sdforge",
-  "download_filename": "sdforge-0.1.1.tar.gz",
-  "download_time": "2025-09-19T19:52:04.549405",
+  "download_filename": "sdforge-0.1.2.tar.gz",
+  "download_time": "2025-09-19T21:38:00.961842",
   "package_url": "https://pypi.org/project/sdforge/"
 }

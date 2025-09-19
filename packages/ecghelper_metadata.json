@@ -1,11 +1,11 @@
 {
   "name": "ecghelper",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Tools to load and process electrocardiogram data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ecghelper-0.8.0.tar.gz",
-  "download_time": "2025-09-19T21:17:21.554142",
+  "download_filename": "ecghelper-0.8.1.tar.gz",
+  "download_time": "2025-09-19T21:37:52.854572",
   "package_url": "https://pypi.org/project/ecghelper/"
 }
