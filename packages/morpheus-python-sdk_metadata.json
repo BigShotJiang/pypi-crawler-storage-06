@@ -1,0 +1,11 @@
+{
+  "name": "morpheus-python-sdk",
+  "version": "0.0.2",
+  "summary": "Python SDK for Morpheus API - A powerful cloud management tool",
+  "author": "HPE HCSS",
+  "license": null,
+  "home_page": "https://github.com/hpe-hcss/morpheus-python-sdk",
+  "download_filename": "morpheus_python_sdk-0.0.2.tar.gz",
+  "download_time": "2025-09-19T15:20:04.215908",
+  "package_url": "https://pypi.org/project/morpheus-python-sdk/"
+}

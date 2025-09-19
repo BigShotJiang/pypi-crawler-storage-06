@@ -1,0 +1,11 @@
+{
+  "name": "gcalvault",
+  "version": "2.0.2",
+  "summary": "Command-line utility which exports all of a user's Google Calendars to iCal/ICS format for backup (or portability)",
+  "author": "Ryan Tomac",
+  "license": "MIT",
+  "home_page": "http://github.com/rtomac/gcalvault",
+  "download_filename": "gcalvault-2.0.2.tar.gz",
+  "download_time": "2025-09-19T15:19:51.260508",
+  "package_url": "https://pypi.org/project/gcalvault/"
+}

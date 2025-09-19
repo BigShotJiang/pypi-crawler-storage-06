@@ -1,0 +1,11 @@
+{
+  "name": "tts-webui",
+  "version": "0.0.0",
+  "summary": "TTS WebUI / Harmonica",
+  "author": "rsxdalv",
+  "license": null,
+  "home_page": "https://github.com/rsxdalv/tts-webui",
+  "download_filename": "tts_webui-0.0.0.tar.gz",
+  "download_time": "2025-09-19T15:19:43.456935",
+  "package_url": "https://pypi.org/project/tts-webui/"
+}
