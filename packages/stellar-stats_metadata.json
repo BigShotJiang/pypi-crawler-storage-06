@@ -1,0 +1,11 @@
+{
+  "name": "stellar-stats",
+  "version": "0.8.2",
+  "summary": "Stats page for backtest/live trading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stellar_stats-0.8.2.tar.gz",
+  "download_time": "2025-09-19T05:18:34.970937",
+  "package_url": "https://pypi.org/project/stellar-stats/"
+}

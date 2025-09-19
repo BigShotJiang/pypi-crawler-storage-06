@@ -1,0 +1,11 @@
+{
+  "name": "egrc-core",
+  "version": "1.0.0",
+  "summary": "EGRC Core - Shared functionality and GraphQL support for Enterprise Governance, Risk, and Compliance platform",
+  "author": "EGRC Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "egrc_core-1.0.0.tar.gz",
+  "download_time": "2025-09-19T05:18:26.483441",
+  "package_url": "https://pypi.org/project/egrc-core/"
+}

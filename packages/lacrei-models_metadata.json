@@ -1,11 +1,11 @@
 {
   "name": "lacrei-models",
-  "version": "0.2.6",
+  "version": "0.3.0",
   "summary": "Modelos de domínio do projeto Lacrei.",
   "author": "Kaio",
   "license": null,
   "home_page": null,
-  "download_filename": "lacrei_models-0.2.6.tar.gz",
-  "download_time": "2025-09-18T17:16:44.772056",
+  "download_filename": "lacrei_models-0.3.0.tar.gz",
+  "download_time": "2025-09-19T05:18:25.390175",
   "package_url": "https://pypi.org/project/lacrei-models/"
 }
