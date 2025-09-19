@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-polyhedra",
+  "version": "10.6.25",
+  "summary": "passagemath: Convex polyhedra in arbitrary dimension, mixed integer linear optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_polyhedra-10.6.25.tar.gz",
+  "download_time": "2025-09-19T19:22:48.853753",
+  "package_url": "https://pypi.org/project/passagemath-polyhedra/"
+}

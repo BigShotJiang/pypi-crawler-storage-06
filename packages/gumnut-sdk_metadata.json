@@ -1,11 +1,11 @@
 {
   "name": "gumnut-sdk",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "summary": "The official Python library for the Gumnut API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "gumnut_sdk-0.15.0.tar.gz",
-  "download_time": "2025-09-17T18:27:52.196940",
+  "download_filename": "gumnut_sdk-0.16.0.tar.gz",
+  "download_time": "2025-09-19T19:22:22.246213",
   "package_url": "https://pypi.org/project/gumnut-sdk/"
 }

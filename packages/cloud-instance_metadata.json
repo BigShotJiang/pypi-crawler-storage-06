@@ -1,0 +1,11 @@
+{
+  "name": "cloud-instance",
+  "version": "0.1.5",
+  "summary": null,
+  "author": "Fabio Ghirardello",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/fabiog1901/cloud_instance",
+  "download_filename": "cloud_instance-0.1.5.tar.gz",
+  "download_time": "2025-09-19T19:22:32.773646",
+  "package_url": "https://pypi.org/project/cloud-instance/"
+}

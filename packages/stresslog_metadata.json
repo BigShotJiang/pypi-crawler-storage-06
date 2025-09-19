@@ -1,11 +1,11 @@
 {
   "name": "stresslog",
-  "version": "1.7.5",
+  "version": "1.7.6",
   "summary": "Library for stress calculations from well logs",
   "author": "Arkadeep Ghosh",
   "license": "AGPL-3.0",
   "home_page": "https://www.rocklab.in/stresslog",
-  "download_filename": "stresslog-1.7.5.tar.gz",
-  "download_time": "2025-09-19T18:27:26.193925",
+  "download_filename": "stresslog-1.7.6.tar.gz",
+  "download_time": "2025-09-19T19:22:33.943118",
   "package_url": "https://pypi.org/project/stresslog/"
 }

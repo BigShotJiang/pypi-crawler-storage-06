@@ -1,0 +1,11 @@
+{
+  "name": "MLstatkit",
+  "version": "0.1.91",
+  "summary": "MLstatkit integrates established statistical methods into ML workflows (DeLong test, bootstrapping CI, AUC2OR, permutation test, etc.).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlstatkit-0.1.91.tar.gz",
+  "download_time": "2025-09-19T19:22:42.967149",
+  "package_url": "https://pypi.org/project/MLstatkit/"
+}

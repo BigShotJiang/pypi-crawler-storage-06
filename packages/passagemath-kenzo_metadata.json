@@ -1,11 +1,11 @@
 {
   "name": "passagemath-kenzo",
-  "version": "10.6.24",
+  "version": "10.6.25",
   "summary": "passagemath: Topological spaces and homology groups with kenzo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_kenzo-10.6.24.tar.gz",
-  "download_time": "2025-09-17T05:40:26.660927",
+  "download_filename": "passagemath_kenzo-10.6.25.tar.gz",
+  "download_time": "2025-09-19T19:23:09.315853",
   "package_url": "https://pypi.org/project/passagemath-kenzo/"
 }
