@@ -1,0 +1,11 @@
+{
+  "name": "aurora-mvc",
+  "version": "0.9.7",
+  "summary": "Aurora is an MVC web framework for creating RESTFUL CRUD applications quickly and simply",
+  "author": "Hemin Satya",
+  "license": "MIT",
+  "home_page": "https://github.com/heminsatya/aurora",
+  "download_filename": "aurora_mvc-0.9.7.tar.gz",
+  "download_time": "2025-09-19T17:39:36.933619",
+  "package_url": "https://pypi.org/project/aurora-mvc/"
+}

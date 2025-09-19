@@ -1,0 +1,11 @@
+{
+  "name": "stack-spy",
+  "version": "1.0.0",
+  "summary": "Stack analysis and discovery tool for webs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stack_spy-1.0.0.tar.gz",
+  "download_time": "2025-09-19T17:39:18.993220",
+  "package_url": "https://pypi.org/project/stack-spy/"
+}

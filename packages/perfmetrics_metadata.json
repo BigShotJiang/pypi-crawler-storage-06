@@ -1,0 +1,11 @@
+{
+  "name": "perfmetrics",
+  "version": "4.2.0",
+  "summary": "Send performance metrics about Python code to Statsd",
+  "author": "Shane Hathaway",
+  "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+  "home_page": "https://github.com/zodb/perfmetrics",
+  "download_filename": "perfmetrics-4.2.0.tar.gz",
+  "download_time": "2025-09-19T17:39:44.771582",
+  "package_url": "https://pypi.org/project/perfmetrics/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "toisto",
-  "version": "0.38.1",
+  "version": "0.38.2",
   "summary": "Toisto is a command-line terminal app to practice languages.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toisto-0.38.1.tar.gz",
-  "download_time": "2025-09-17T18:28:10.783258",
+  "download_filename": "toisto-0.38.2.tar.gz",
+  "download_time": "2025-09-19T17:39:18.480976",
   "package_url": "https://pypi.org/project/toisto/"
 }
