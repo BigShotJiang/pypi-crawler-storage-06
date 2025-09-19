@@ -1,0 +1,11 @@
+{
+  "name": "arglogger",
+  "version": "0.1.0",
+  "summary": "A package for logging experiment results with automatic table generation from argparse configurations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arglogger-0.1.0.tar.gz",
+  "download_time": "2025-09-19T07:52:16.874969",
+  "package_url": "https://pypi.org/project/arglogger/"
+}

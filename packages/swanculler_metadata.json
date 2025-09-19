@@ -1,0 +1,11 @@
+{
+  "name": "swanculler",
+  "version": "1.0.5",
+  "summary": "Culler for JupyterHub",
+  "author": "SWAN Admins",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/swan-cern/jupyterhub-extensions",
+  "download_filename": "swanculler-1.0.5.tar.gz",
+  "download_time": "2025-09-19T07:52:17.393368",
+  "package_url": "https://pypi.org/project/swanculler/"
+}

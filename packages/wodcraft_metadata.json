@@ -1,11 +1,11 @@
 {
   "name": "wodcraft",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "summary": "Write, lint, and compile CrossFit workouts (WODs) with a simple language and CLI. Export JSON/ICS, build a movements catalog, and get a quick timeline.",
   "author": "WODCraft Authors",
   "license": "Apache License\n                                   Version 2.0, January 2004\n                                http://www.apache.org/licenses/\n        \n        TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n        \n        1. Definitions.\n           \"License\" shall mean the terms and conditions for use, reproduction,\n           and distribution as defined by Sections 1 through 9 of this document.\n           ...\n        \n           (texte complet : https://www.apache.org/licenses/LICENSE-2.0)\n        \n        END OF TERMS AND CONDITIONS\n        \n        Copyright 2025 Nicolas Caussin - caussin@aumana-consulting.com\n        \n        Licensed under the Apache License, Version 2.0 (the \"License\");\n        you may not use this file except in compliance with the License.\n        You may obtain a copy of the License at\n        \n            http://www.apache.org/licenses/LICENSE-2.0\n        \n        Unless required by applicable law or agreed to in writing, software\n        distributed under the License is distributed on an \"AS IS\" BASIS,\n        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n        See the License for the specific language governing permissions and\n        limitations under the License.\n        ",
   "home_page": null,
-  "download_filename": "wodcraft-0.2.3.tar.gz",
-  "download_time": "2025-09-18T10:20:13.673009",
+  "download_filename": "wodcraft-0.3.1.tar.gz",
+  "download_time": "2025-09-19T07:51:58.572296",
   "package_url": "https://pypi.org/project/wodcraft/"
 }

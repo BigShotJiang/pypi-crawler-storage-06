@@ -1,11 +1,11 @@
 {
   "name": "katonic-sdk",
-  "version": "6.0.0.19rc0",
+  "version": "6.0.0.21rc0",
   "summary": "A modern, enterprise-ready MLOps Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "katonic_sdk-6.0.0.19rc0.tar.gz",
-  "download_time": "2025-09-18T13:17:17.508912",
+  "download_filename": "katonic_sdk-6.0.0.21rc0.tar.gz",
+  "download_time": "2025-09-19T07:52:06.987519",
   "package_url": "https://pypi.org/project/katonic-sdk/"
 }

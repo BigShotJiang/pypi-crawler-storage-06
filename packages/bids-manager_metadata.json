@@ -1,0 +1,11 @@
+{
+  "name": "bids-manager",
+  "version": "0.1.6",
+  "summary": "GUI application to manage BIDS datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bids_manager-0.1.6.tar.gz",
+  "download_time": "2025-09-19T07:51:53.802636",
+  "package_url": "https://pypi.org/project/bids-manager/"
+}
