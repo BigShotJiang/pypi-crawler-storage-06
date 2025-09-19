@@ -1,0 +1,11 @@
+{
+  "name": "pytme",
+  "version": "0.3.2.post1",
+  "summary": "Python Template Matching Engine",
+  "author": "Valentin Maurer",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/KosinskiLab/pyTME",
+  "download_filename": "pytme-0.3.2.post1-cp311-cp311-macosx_15_0_arm64.whl",
+  "download_time": "2025-09-19T09:21:23.737993",
+  "package_url": "https://pypi.org/project/pytme/"
+}

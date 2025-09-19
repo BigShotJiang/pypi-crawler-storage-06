@@ -1,0 +1,11 @@
+{
+  "name": "lark-oapi",
+  "version": "1.4.23",
+  "summary": "Lark OpenAPI SDK for Python",
+  "author": "Wenbo Mao",
+  "license": null,
+  "home_page": "https://github.com/larksuite/oapi-sdk-python",
+  "download_filename": "lark-oapi-1.4.23.tar.gz",
+  "download_time": "2025-09-19T09:21:38.008077",
+  "package_url": "https://pypi.org/project/lark-oapi/"
+}

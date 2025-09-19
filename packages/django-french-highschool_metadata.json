@@ -1,0 +1,11 @@
+{
+  "name": "django-french-highschool",
+  "version": "0.16.0",
+  "summary": "French high school database with UAI, department and region",
+  "author": "Brief.me",
+  "license": "MIT",
+  "home_page": "https://github.com/briefmnews/django-french-highschool",
+  "download_filename": "django_french_highschool-0.16.0.tar.gz",
+  "download_time": "2025-09-19T09:21:52.843263",
+  "package_url": "https://pypi.org/project/django-french-highschool/"
+}

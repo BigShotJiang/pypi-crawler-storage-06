@@ -1,0 +1,11 @@
+{
+  "name": "refspy",
+  "version": "0.10.4",
+  "summary": "A Python package for working with biblical references in human text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "refspy-0.10.4.tar.gz",
+  "download_time": "2025-09-19T09:22:04.442331",
+  "package_url": "https://pypi.org/project/refspy/"
+}
