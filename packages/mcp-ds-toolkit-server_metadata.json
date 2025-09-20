@@ -1,0 +1,11 @@
+{
+  "name": "mcp-ds-toolkit-server",
+  "version": "0.2.9",
+  "summary": "Pure standalone MCP Data Science Server - Complete DS workflows with local SQLite tracking, no external services required",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_ds_toolkit_server-0.2.9.tar.gz",
+  "download_time": "2025-09-20T23:17:39.853478",
+  "package_url": "https://pypi.org/project/mcp-ds-toolkit-server/"
+}

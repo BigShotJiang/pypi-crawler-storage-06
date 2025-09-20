@@ -1,11 +1,11 @@
 {
   "name": "hiinsta",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A wrapper for Instagram's API",
-  "author": "Your Name",
+  "author": "Tomas Santana",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/hiinsta",
-  "download_filename": "hiinsta-0.1.1.tar.gz",
-  "download_time": "2025-09-20T22:53:04.088103",
+  "home_page": "https://github.com/cervant-ai/hiinsta",
+  "download_filename": "hiinsta-0.1.2.tar.gz",
+  "download_time": "2025-09-20T23:17:34.516565",
   "package_url": "https://pypi.org/project/hiinsta/"
 }

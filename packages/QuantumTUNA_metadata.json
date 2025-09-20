@@ -1,11 +1,11 @@
 {
   "name": "QuantumTUNA",
-  "version": "0.7.9",
+  "version": "0.7.9.9",
   "summary": "A user-friendly quantum chemistry program for diatomics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantumtuna-0.7.9-cp312-cp312-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-20T20:52:21.861683",
+  "download_filename": "quantumtuna-0.7.9.9-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-20T23:17:38.274542",
   "package_url": "https://pypi.org/project/QuantumTUNA/"
 }

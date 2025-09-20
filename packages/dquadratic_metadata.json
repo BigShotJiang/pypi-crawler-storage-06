@@ -1,0 +1,11 @@
+{
+  "name": "dquadratic",
+  "version": "0.1.0",
+  "summary": "The package is used to find the roots and the nature of a quadratic equation.",
+  "author": "Shahabaj Tamjid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dquadratic-0.1.0.tar.gz",
+  "download_time": "2025-09-20T23:17:32.954440",
+  "package_url": "https://pypi.org/project/dquadratic/"
+}

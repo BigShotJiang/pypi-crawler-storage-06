@@ -1,11 +1,11 @@
 {
   "name": "xai-review",
-  "version": "0.3.0",
-  "summary": null,
+  "version": "0.4.0",
+  "summary": "AI-powered code review tool",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "xai_review-0.3.0.tar.gz",
-  "download_time": "2025-09-20T22:53:09.856721",
+  "download_filename": "xai_review-0.4.0.tar.gz",
+  "download_time": "2025-09-20T23:17:44.581866",
   "package_url": "https://pypi.org/project/xai-review/"
 }
