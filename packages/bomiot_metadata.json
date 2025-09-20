@@ -1,11 +1,11 @@
 {
   "name": "bomiot",
-  "version": "1.1.19",
+  "version": "1.1.20",
   "summary": "Powerful Distributed Document Management Framework & Full-Stack Development Platform",
   "author": "Bomiot",
   "license": null,
   "home_page": "https://github.com/Bomiot/Bomiot",
-  "download_filename": "bomiot-1.1.19.tar.gz",
-  "download_time": "2025-09-20T16:21:43.273038",
+  "download_filename": "bomiot-1.1.20.tar.gz",
+  "download_time": "2025-09-20T17:39:41.941138",
   "package_url": "https://pypi.org/project/bomiot/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "symmetria-core",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "symmetria_core-0.3.3.tar.gz",
-  "download_time": "2025-09-20T08:44:01.049493",
+  "download_filename": "symmetria_core-0.4.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-09-20T17:39:36.196735",
   "package_url": "https://pypi.org/project/symmetria-core/"
 }

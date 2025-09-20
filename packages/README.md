@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T17:29:42.047540
-- **Total Packages**: 80
-- **Total Size**: 22.51 MB
+- **Download Time**: 2025-09-20T17:40:15.433042
+- **Total Packages**: 75
+- **Total Size**: 15.62 MB
 
 ## Packages List
+- miney
+- footysim-core
+- matrixlink
+- music-bassline-generator
+- symmetria-core
+- markdown-flow
+- sticker-convert
+- sbase
+- basecase
+- authentik-client
+- pytest-seleniumbase
+- pytest-sbase
+- selenium-base
+- bomiot
+- seleniumbase
+- motionbuilder-stubs
+- instaui
+- fred-oss
+- sibi-dst
+- discord-autoupdate
 - odoo-addon-l10n-br-nfe
 - can-waveshare
 - odoo-addon-l10n-br-nfe-spec
@@ -15,9 +35,6 @@
 - prompt-refiner-cb
 - OpenMM-HIP-6
 - OpenMM-CUDA-12
-- music-bassline-generator
-- authentik-client
-- fred-oss
 - SarthakFraction
 - discord-channel-to-html-transcripts
 - cresnextws
@@ -27,7 +44,6 @@
 - django-ocr_translate
 - django-msteams-notify
 - projen
-- footysim-core
 - MetaRagTool
 - altan
 - PYield
@@ -45,7 +61,6 @@
 - ptulsconv
 - intentkit
 - pygator
-- motionbuilder-stubs
 - django-mg
 - upstox-totp
 - alibabacloud-imm20200930
@@ -66,23 +81,3 @@
 - fastdi-core
 - netbox-zwave
 - ormparams
-- nemo-library-etl
-- ocr_translate-google
-- azulero
-- zerozen
-- sparkforge
-- jenkins-job-builder
-- ocr_translate-tesseract
-- hardware-benchmark
-- ocr_translate-easyocr
-- mdfb
-- ocr_translate_ollama
-- ocr_translate-hugging_face
-- sqlitewrapper
-- rexdsl
-- pratyush
-- python-steam-api
-- exifMapOverlay
-- ipsae
-- specfabpy
-- codecpy

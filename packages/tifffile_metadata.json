@@ -1,11 +1,11 @@
 {
   "name": "tifffile",
-  "version": "2025.9.9",
+  "version": "2025.9.20",
   "summary": "Read and write TIFF files",
   "author": "Christoph Gohlke",
   "license": "BSD-3-Clause",
   "home_page": "https://www.cgohlke.com",
-  "download_filename": "tifffile-2025.9.9.tar.gz",
-  "download_time": "2025-09-20T17:28:57.228806",
+  "download_filename": "tifffile-2025.9.20.tar.gz",
+  "download_time": "2025-09-20T17:39:48.289700",
   "package_url": "https://pypi.org/project/tifffile/"
 }

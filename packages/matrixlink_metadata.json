@@ -1,0 +1,11 @@
+{
+  "name": "matrixlink",
+  "version": "0.1.0",
+  "summary": "MatrixLink — Client for MCP Gateway discovery, Orchestrator invoke, and A2A agent messaging.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "matrixlink-0.1.0.tar.gz",
+  "download_time": "2025-09-20T17:39:35.120776",
+  "package_url": "https://pypi.org/project/matrixlink/"
+}
