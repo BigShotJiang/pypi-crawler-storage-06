@@ -1,11 +1,11 @@
 {
   "name": "scorpius-scanner",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "summary": "World's Strongest Smart Contract Security Scanner with Machine Learning",
   "author": "Scorpius Security Team",
   "license": "MIT",
-  "home_page": "https://github.com/scorpius-security/scorpius",
-  "download_filename": "scorpius_scanner-1.0.1.tar.gz",
-  "download_time": "2025-09-20T02:40:21.072260",
+  "home_page": "https://github.com/scorpius-security/scorpius-scanner",
+  "download_filename": "scorpius_scanner-2.0.0.tar.gz",
+  "download_time": "2025-09-20T09:18:38.469644",
   "package_url": "https://pypi.org/project/scorpius-scanner/"
 }

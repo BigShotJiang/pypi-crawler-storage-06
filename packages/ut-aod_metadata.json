@@ -1,11 +1,11 @@
 {
   "name": "ut-aod",
-  "version": "1.3.4.20250920",
+  "version": "1.3.6.20250920",
   "summary": "Utilities for Arrays of Dictionaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ut_aod-1.3.4.20250920.tar.gz",
-  "download_time": "2025-09-20T03:45:41.583535",
+  "download_filename": "ut_aod-1.3.6.20250920.tar.gz",
+  "download_time": "2025-09-20T09:18:41.124336",
   "package_url": "https://pypi.org/project/ut-aod/"
 }

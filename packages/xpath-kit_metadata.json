@@ -1,11 +1,11 @@
 {
   "name": "xpath-kit",
-  "version": "0.3.8",
+  "version": "0.3.10",
   "summary": "A toolkit for convenient and expressive XPath operations based on lxml.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xpath_kit-0.3.8.tar.gz",
-  "download_time": "2025-09-19T07:20:12.175813",
+  "download_filename": "xpath_kit-0.3.10.tar.gz",
+  "download_time": "2025-09-20T09:18:42.706382",
   "package_url": "https://pypi.org/project/xpath-kit/"
 }
