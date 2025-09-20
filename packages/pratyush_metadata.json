@@ -1,11 +1,11 @@
 {
   "name": "pratyush",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI to showcase Pratyush's portfolio and projects 🚀",
   "author": "Pratyush Ranjan",
-  "license": null,
+  "license": "---\r\n        \r\n        ### 📜 `LICENSE`\r\n        Use MIT license (simple & free):\r\n        \r\n        ```text\r\n        MIT License\r\n        \r\n        Copyright (c) 2025 Pratyush Ranjan\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        ...\r\n        ",
   "home_page": "https://its-pratyush.web.app/",
-  "download_filename": "pratyush-0.1.1.tar.gz",
-  "download_time": "2025-09-20T16:21:26.712858",
+  "download_filename": "pratyush-0.1.2.tar.gz",
+  "download_time": "2025-09-20T16:52:33.536624",
   "package_url": "https://pypi.org/project/pratyush/"
 }

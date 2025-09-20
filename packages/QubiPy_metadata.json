@@ -1,0 +1,11 @@
+{
+  "name": "QubiPy",
+  "version": "0.4.1",
+  "summary": "QubiPy, a Python Library for the QUBIC RPC API",
+  "author": "Kyoto",
+  "license": null,
+  "home_page": "https://github.com/QubiPy-Labs/QubiPy",
+  "download_filename": "qubipy-0.4.1.tar.gz",
+  "download_time": "2025-09-20T16:52:42.109029",
+  "package_url": "https://pypi.org/project/QubiPy/"
+}
