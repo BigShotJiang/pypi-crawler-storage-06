@@ -1,0 +1,11 @@
+{
+  "name": "array-record-python",
+  "version": "0.8.1",
+  "summary": "A high-performance file format for ML data storage with parallel I/O and random access",
+  "author": "ArrayRecord Python Contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/bzantium/array_record",
+  "download_filename": "array-record-python-0.8.1.tar.gz",
+  "download_time": "2025-09-20T07:17:37.033270",
+  "package_url": "https://pypi.org/project/array-record-python/"
+}

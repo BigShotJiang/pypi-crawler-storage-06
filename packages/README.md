@@ -1,14 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T06:53:36.097496
-- **Total Packages**: 67
-- **Total Size**: 16.08 MB
+- **Download Time**: 2025-09-20T07:18:14.703144
+- **Total Packages**: 78
+- **Total Size**: 23.62 MB
 
 ## Packages List
+- odoo-addon-account-invoice-line-report
+- ddump
+- nixie
+- T5SummaryPratik
+- tritonparse
+- onnxscript
+- pinybytecnn
+- voxcity
+- array-record-python
+- oelint-data
+- youku-video-download-mcp
+- konserve
+- mcp-sharepoint
+- proxyproviders
+- sutrakit
+- abs-auth-rbac-core
+- streamlit-nightly
+- restep
+- authentik-client
+- mcp-server-bb
+- batch-rename-mcp
+- aditor
+- viyv-mcp
+- voylla
+- a4f
+- odoo-addon-ai-oca-bridge-document-page
+- tf-models-nightly
+- mcp-ambari-api
+- mcp-airflow-api
+- mcp-postgresql-ops
+- ant-ray-cpp-nightly
+- mcp-mysql-ops
+- toomanysessions
+- flarchitect
+- bilibili-video-download-mcp
 - ibproxy
 - vior-sdk
-- authentik-client
 - gradupe
 - pybibtexer
 - nima
@@ -28,7 +62,6 @@
 - firstock
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- toomanysessions
 - py-open-news
 - task-scheduling
 - brewinglib-generic
@@ -51,25 +84,3 @@
 - tcpping-mcp-server
 - django-jaeger-middleware-plus
 - analogic-framework
-- calculate-tool-lengyue1084
-- fastmssql
-- pyg-nightly
-- waypanel
-- git-mcp-server
-- ir-sim
-- appmesh
-- konami-mcp-demo
-- mpl-ascii
-- opthub_runner_admin
-- fca-unofficial
-- struct_post
-- partitura
-- pyzurecli
-- blues-lib
-- gondola
-- a-stock-mcp-server
-- sutrakit
-- vizly
-- DictSQLite
-- pympdata-examples
-- pympdata

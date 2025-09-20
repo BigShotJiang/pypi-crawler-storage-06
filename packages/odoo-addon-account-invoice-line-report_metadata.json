@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-line-report",
+  "version": "18.0.1.0.1",
+  "summary": "New view to manage invoice lines information",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoice-reporting",
+  "download_filename": "odoo_addon_account_invoice_line_report-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-20T07:17:32.865867",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-line-report/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "voylla",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "AI-powered test case generator for Python, Java, and JavaScript with OpenAI, Anthropic, and Google Gemini support",
   "author": "Voylla",
   "license": null,
   "home_page": null,
-  "download_filename": "voylla-0.2.1.tar.gz",
-  "download_time": "2025-09-20T05:40:54.689984",
+  "download_filename": "voylla-0.2.2.tar.gz",
+  "download_time": "2025-09-20T07:17:45.083276",
   "package_url": "https://pypi.org/project/voylla/"
 }
