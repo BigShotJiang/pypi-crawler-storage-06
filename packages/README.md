@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T04:53:21.410782
-- **Total Packages**: 67
-- **Total Size**: 3.73 MB
+- **Download Time**: 2025-09-20T05:19:00.957112
+- **Total Packages**: 65
+- **Total Size**: 2.15 MB
 
 ## Packages List
+- hmr-daemon
+- pyzurecli
+- FourCIPP
+- zhmcclient
+- mcp-server-bb
+- xcpcio
+- sleipnirgroup-jormungandr
+- magic_hour
+- authentik-client
+- edir
+- ut-eviq
+- pytest-homeassistant-custom-component
+- lark-sheet-mcp
+- mcp-as-a-judge
+- google-analytics-mcp
+- datagen-gmail-mcp
+- pauc
+- django-jaeger-middleware-plus
+- insight-cli-sarang
+- shellviz
 - keepercommander
 - klotho-cac
 - tiny-scientist
@@ -13,7 +33,6 @@
 - pygremlinbox-unlicense
 - pygremlinbox-osl-3-0
 - pygremlinbox-mpl-2-0
-- authentik-client
 - pygremlinbox-lgpl-3-0
 - pygremlinbox-lgpl-2-1
 - pygremlinbox-gpl-3-0
@@ -31,15 +50,12 @@
 - iamdata
 - wxauto
 - package-test1
-- django-jaeger-middleware-plus
 - secfsdstools
-- mcp-as-a-judge
 - shipit-cli
 - adf2stowf
 - cml-mcp
 - ultrapyup
 - tm-devices
-- sleipnirgroup-jormungandr
 - pulumi-alicloud
 - nonebot-plugin-reminder
 - sienge-ecbiesek-mcp
@@ -55,21 +71,3 @@
 - pdfalyzer
 - cdktf-cdktf-provider-gitlab
 - pyxel
-- pyvigil
-- ezKit
-- chromedriver-binary
-- pyqrackising
-- cx-Freeze
-- fiftyone-devicedetection-onpremise
-- fiftyone-devicedetection
-- fiftyone-devicedetection-shared
-- fiftyone-devicedetection-cloud
-- saudi-regions-widget-py
-- forecasting-tools
-- adaptive-formula
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- ethyca-fides
-- robhan-cdk-lib.utils
-- tcpping-mcp-server
-- nomadicml
