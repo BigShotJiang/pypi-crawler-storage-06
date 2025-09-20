@@ -1,11 +1,11 @@
 {
   "name": "oven-compiler",
-  "version": "0.1.0",
-  "summary": "Python to MLIR compiler with GPU and mathematical operation support",
+  "version": "0.1.1",
+  "summary": "Python-to-MLIR compiler for GPU kernel development and mathematical computing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oven_compiler-0.1.0-py3-none-any.whl",
-  "download_time": "2025-09-19T16:56:24.699941",
+  "download_filename": "oven_compiler-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-20T22:39:06.934638",
   "package_url": "https://pypi.org/project/oven-compiler/"
 }
