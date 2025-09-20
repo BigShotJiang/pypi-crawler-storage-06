@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-09-20T11:27:58.889018",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 2.3,
+  "download_time": "2025-09-20T11:39:56.023019",
+  "total_packages_downloaded": 80,
+  "total_size_mb": 1.37,
   "packages": [
+    "torchx-nightly",
+    "cerebrate-file",
     "crankpy",
     "calibrion",
     "alita-sdk",
@@ -80,7 +82,6 @@
     "peek-core-api",
     "peek-core-user",
     "peek-core-search",
-    "peek-core-email",
-    "peek-core-docdb"
+    "peek-core-email"
   ]
 }
