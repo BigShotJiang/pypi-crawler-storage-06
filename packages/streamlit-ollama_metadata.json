@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-ollama",
+  "version": "0.1.0",
+  "summary": "Streamlit utilities for Ollama LLM integration",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/streamlit-ollama",
+  "download_filename": "streamlit_ollama-0.1.0.tar.gz",
+  "download_time": "2025-09-20T21:15:58.747458",
+  "package_url": "https://pypi.org/project/streamlit-ollama/"
+}

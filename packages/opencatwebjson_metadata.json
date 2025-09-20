@@ -1,11 +1,11 @@
 {
   "name": "opencatwebjson",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python Library for handling CatWeb's JSON Formats",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "opencatwebjson-0.0.2.tar.gz",
-  "download_time": "2025-09-20T20:52:11.151425",
+  "download_filename": "opencatwebjson-0.0.3.tar.gz",
+  "download_time": "2025-09-20T21:16:04.549193",
   "package_url": "https://pypi.org/project/opencatwebjson/"
 }

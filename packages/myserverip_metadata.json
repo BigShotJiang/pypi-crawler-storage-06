@@ -1,0 +1,11 @@
+{
+  "name": "myserverip",
+  "version": "1.0.0",
+  "summary": "A Python library to get server's public IP address from system interfaces",
+  "author": "younes daoudi",
+  "license": null,
+  "home_page": "https://github.com/daoudiyounes/serverip",
+  "download_filename": "myserverip-1.0.0.tar.gz",
+  "download_time": "2025-09-20T21:15:57.136217",
+  "package_url": "https://pypi.org/project/myserverip/"
+}

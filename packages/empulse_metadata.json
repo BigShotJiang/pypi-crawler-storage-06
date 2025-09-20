@@ -1,0 +1,11 @@
+{
+  "name": "empulse",
+  "version": "0.10.4",
+  "summary": "Value-driven and cost-sensitive tools for scikit-learn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "empulse-0.10.4.tar.gz",
+  "download_time": "2025-09-20T21:16:05.130757",
+  "package_url": "https://pypi.org/project/empulse/"
+}

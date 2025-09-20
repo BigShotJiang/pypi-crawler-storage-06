@@ -1,0 +1,11 @@
+{
+  "name": "selective-self-attention",
+  "version": "1.0.0",
+  "summary": "Complete PyTorch implementation of Selective Self-Attention (SSA) from NeurIPS 2024",
+  "author": "DeepCode Research Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/selective-self-attention",
+  "download_filename": "selective_self_attention-1.0.0.tar.gz",
+  "download_time": "2025-09-20T21:16:06.238036",
+  "package_url": "https://pypi.org/project/selective-self-attention/"
+}

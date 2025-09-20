@@ -1,0 +1,11 @@
+{
+  "name": "loggerplusplus",
+  "version": "0.2.3",
+  "summary": "LoggerPlusPlus is an enhanced Python logging module with colorized output, customizable themes, improved multi-logger management, and optimized display for better readability",
+  "author": "Florian BARRE",
+  "license": null,
+  "home_page": "https://github.com/Florian-BARRE/LoggerPlusPlus",
+  "download_filename": "loggerplusplus-0.2.3.tar.gz",
+  "download_time": "2025-09-20T21:15:50.962169",
+  "package_url": "https://pypi.org/project/loggerplusplus/"
+}
