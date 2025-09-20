@@ -1,16 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T07:52:31.026183
-- **Total Packages**: 79
-- **Total Size**: 1.64 MB
+- **Download Time**: 2025-09-20T08:23:39.777164
+- **Total Packages**: 83
+- **Total Size**: 4.86 MB
 
 ## Packages List
+- NWinPy
+- life3d-rgb
+- kivy-deps.sdl3-dev
+- kivy-deps.sdl3
+- nvfuser-cu126
+- hyundai-kia-connect-api
+- azure-ai-helper
+- iatoolkit-core
+- nvfuser-cu129
+- nvfuser-cu128
+- taku-cli
+- AbstractSwarm
+- CodeVideoRenderer
+- authentik-client
+- ean-tools
+- pyglove
+- colt
+- typer
+- typer-cli
+- typer-slim
+- yeref
+- llmasajudge
+- base-api-utils
+- bilibili-video-download-mcp
+- codegen-2
+- StreamingCommunity
+- datatailr
+- bool-hybrid-array
+- robotframework-schemathesislibrary
+- aditor
+- symmetria-core
 - cppref
 - qpuiq
 - cs-models
 - aniworld
-- authentik-client
 - otp-cli-utils
 - tinyflux
 - youku-video-download-mcp
@@ -29,7 +59,6 @@
 - pyadvtools
 - nemo-library-etl
 - restep
-- aditor
 - stac-mcp
 - agentlab-py
 - better-jupyter-mcp-server
@@ -60,28 +89,3 @@
 - mcp-sharepoint
 - proxyproviders
 - sutrakit
-- abs-auth-rbac-core
-- streamlit-nightly
-- mcp-server-bb
-- batch-rename-mcp
-- voylla
-- a4f
-- odoo-addon-ai-oca-bridge-document-page
-- tf-models-nightly
-- mcp-ambari-api
-- mcp-airflow-api
-- mcp-postgresql-ops
-- ant-ray-cpp-nightly
-- mcp-mysql-ops
-- toomanysessions
-- flarchitect
-- bilibili-video-download-mcp
-- ibproxy
-- vior-sdk
-- gradupe
-- pybibtexer
-- nima
-- greenremover
-- archie-cli
-- rigour
-- liteevallogger

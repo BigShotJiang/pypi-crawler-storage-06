@@ -1,11 +1,11 @@
 {
   "name": "iatoolkit-core",
-  "version": "0.2.3",
-  "summary": "Un toolkit de herramientas de IA",
-  "author": null,
+  "version": "0.2.6",
+  "summary": "IAToolkit",
+  "author": "Fernando Libedinsky",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iatoolkit_core-0.2.3.tar.gz",
-  "download_time": "2025-09-19T17:39:16.864589",
+  "download_filename": "iatoolkit_core-0.2.6.tar.gz",
+  "download_time": "2025-09-20T08:22:59.617053",
   "package_url": "https://pypi.org/project/iatoolkit-core/"
 }

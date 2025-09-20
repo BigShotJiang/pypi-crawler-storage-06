@@ -1,11 +1,11 @@
 {
   "name": "typer-cli",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "typer_cli-0.18.0.tar.gz",
-  "download_time": "2025-09-19T19:27:09.860171",
+  "download_filename": "typer_cli-0.19.0.tar.gz",
+  "download_time": "2025-09-20T08:23:05.479831",
   "package_url": "https://pypi.org/project/typer-cli/"
 }

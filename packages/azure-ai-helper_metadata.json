@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-helper",
+  "version": "0.1.0",
+  "summary": "A simple, human-friendly wrapper over Azure AI Vision and Language services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_ai_helper-0.1.0.tar.gz",
+  "download_time": "2025-09-20T08:22:59.092055",
+  "package_url": "https://pypi.org/project/azure-ai-helper/"
+}
