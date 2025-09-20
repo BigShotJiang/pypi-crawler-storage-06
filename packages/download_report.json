@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-09-20T15:38:47.540927",
+  "download_time": "2025-09-20T15:53:07.074714",
   "total_packages_downloaded": 75,
-  "total_size_mb": 18.1,
+  "total_size_mb": 4.83,
   "packages": [
+    "check-pfda",
+    "biliup",
     "indexly",
     "authentik-client",
     "dymoapi",
@@ -75,8 +77,6 @@
     "haske",
     "cerebrate-file",
     "athena-intelligence",
-    "ftpleasant",
-    "pyscratch-lobotomy2012",
-    "billiard"
+    "ftpleasant"
   ]
 }
