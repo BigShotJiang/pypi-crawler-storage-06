@@ -1,11 +1,11 @@
 {
   "name": "django-twilio-call",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Django package for call center functionality using Twilio",
   "author": "Gojjo Tech",
   "license": "MIT",
   "home_page": "https://github.com/hmesfin/django-twilio-call",
-  "download_filename": "django_twilio_call-0.1.5.tar.gz",
-  "download_time": "2025-09-20T14:52:37.670045",
+  "download_filename": "django_twilio_call-0.1.6.tar.gz",
+  "download_time": "2025-09-20T15:18:02.474260",
   "package_url": "https://pypi.org/project/django-twilio-call/"
 }

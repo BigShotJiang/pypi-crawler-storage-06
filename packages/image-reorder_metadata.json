@@ -1,0 +1,11 @@
+{
+  "name": "image-reorder",
+  "version": "0.4.0",
+  "summary": "Reorder images from multiple cameras into a single folder",
+  "author": "Kenneth J. Pronovici",
+  "license": null,
+  "home_page": null,
+  "download_filename": "image_reorder-0.4.0-py3-none-any.whl",
+  "download_time": "2025-09-20T15:17:50.433696",
+  "package_url": "https://pypi.org/project/image-reorder/"
+}

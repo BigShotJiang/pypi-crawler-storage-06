@@ -1,0 +1,11 @@
+{
+  "name": "pdf-lite-mcp",
+  "version": "1.0.1",
+  "summary": "A simplified Python MCP server for reading PDF files, optimized for Amazon Q CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_lite_mcp-1.0.1.tar.gz",
+  "download_time": "2025-09-20T15:17:47.272377",
+  "package_url": "https://pypi.org/project/pdf-lite-mcp/"
+}

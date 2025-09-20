@@ -1,0 +1,11 @@
+{
+  "name": "Banz-domainfile-generator",
+  "version": "1.1.0",
+  "summary": "Package to generate a base structure for given java objects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "banz_domainfile_generator-1.1.0.tar.gz",
+  "download_time": "2025-09-20T15:17:58.350274",
+  "package_url": "https://pypi.org/project/Banz-domainfile-generator/"
+}
