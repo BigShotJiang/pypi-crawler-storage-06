@@ -1,11 +1,11 @@
 {
   "name": "otobo",
-  "version": "4.1.6",
+  "version": "4.1.7",
   "summary": "Python client library for the OTOBO REST API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "otobo-4.1.6.tar.gz",
-  "download_time": "2025-09-17T06:50:28.287048",
+  "download_filename": "otobo-4.1.7.tar.gz",
+  "download_time": "2025-09-20T10:19:03.476752",
   "package_url": "https://pypi.org/project/otobo/"
 }

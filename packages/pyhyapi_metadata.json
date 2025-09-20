@@ -1,0 +1,11 @@
+{
+  "name": "pyhyapi",
+  "version": "0.1.2",
+  "summary": "HyAPI - Python wrapper for Hypixel API",
+  "author": "Sm1CKBall",
+  "license": "MIT",
+  "home_page": "https://github.com/Sm1CKBall/HyAPI",
+  "download_filename": "pyhyapi-0.1.2.tar.gz",
+  "download_time": "2025-09-20T10:19:02.945499",
+  "package_url": "https://pypi.org/project/pyhyapi/"
+}

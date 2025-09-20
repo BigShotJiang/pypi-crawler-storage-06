@@ -1,0 +1,11 @@
+{
+  "name": "postalert",
+  "version": "0.1.0",
+  "summary": "PostAlert: Bug bounty secret scanning tool with Discord alerts",
+  "author": "Muthu D.",
+  "license": null,
+  "home_page": "https://github.com/muthud-anonysm/postalert",
+  "download_filename": "postalert-0.1.0.tar.gz",
+  "download_time": "2025-09-20T10:19:04.528317",
+  "package_url": "https://pypi.org/project/postalert/"
+}

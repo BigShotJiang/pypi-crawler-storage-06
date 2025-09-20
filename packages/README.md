@@ -1,19 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T09:52:51.686037
-- **Total Packages**: 86
-- **Total Size**: 7.67 MB
+- **Download Time**: 2025-09-20T10:19:32.024075
+- **Total Packages**: 80
+- **Total Size**: 15.67 MB
 
 ## Packages List
+- mcp-as-a-judge
+- jndataset-down
+- taku-cli
+- ai-ebash
+- tf-keras-nightly
+- leksara
+- hamtaa-texttools
+- cwl-loader
+- ai-edge-torch-nightly
+- mcp-server-bb
+- copyparty
+- cloudoll
+- iplotx
+- jder-fastapi
+- kartverkets-api
+- gogs-cli
+- otobo_znuny
+- voylla
+- authentik-client
+- dv-pipecat-flows
+- pypcapkit
+- evolverx
+- hive-messaging
+- dataskipper-boat
+- vininfo
+- pyhyapi
+- otobo
+- biblemate
+- postalert
+- xl-docx
+- spikee
+- clesyde_cloud_lib
+- alita-sdk
+- owocr
+- room-env
+- expression-copilot
+- spherapy
+- ooflow
+- printsafe
 - hive-common
 - image-format-converter-mcp
-- mcp-as-a-judge
 - openapi-python-generator
-- authentik-client
 - jaxonlayers
-- evolverx
-- biblemate
 - pwnkit
 - pygremlinbox-polyform-noncommercial-1-0-0
 - pygremlinbox-ncgl-uk-2-0
@@ -32,7 +67,6 @@
 - pyprocessors-chunk_sentences
 - unicorn-eval
 - task-helpers
-- gogs-cli
 - churchsong
 - AgentToolProtocol
 - waldur-api-client
@@ -42,7 +76,6 @@
 - nivo
 - PyWebApp3
 - replication
-- ai-ebash
 - viyv-mcp
 - bitproto
 - utils4
@@ -51,44 +84,5 @@
 - keepassxc-cli-integration
 - pygremlinbox-cddl-1-0
 - pygremlinbox-cc-by-sa-3-0-de
-- printsafe
 - alm-mcp
 - async-bakalari-api
-- pyonchfs
-- ut-aod
-- tbp-nightly
-- xpath-kit
-- jlop
-- DrissionPage-expand
-- casioplot
-- syTool
-- pwn-flashlib
-- demo-example-package
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- SuperClaude
-- pyconarr
-- autogluon.tabular
-- leksara
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- memium
-- synapse-lang
-- NWinPy
-- binDB
-- qupepfold
-- typer-slim
-- typer-cli
-- typer
-- svmbolcore
-- olympipe
-- pywest
-- django-reversion
-- kaq-quant-common
-- xnb
-- yeref
-- ExoJAX
-- fastgraphFPMS
-- gym-saturation
