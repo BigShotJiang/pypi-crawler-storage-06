@@ -1,0 +1,11 @@
+{
+  "name": "pulumi_authentik",
+  "version": "2025.8.1",
+  "summary": "A Pulumi provider dynamically bridged from authentik.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_authentik-2025.8.1.tar.gz",
+  "download_time": "2025-09-20T13:05:46.279297",
+  "package_url": "https://pypi.org/project/pulumi_authentik/"
+}

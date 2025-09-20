@@ -1,0 +1,11 @@
+{
+  "name": "pulumi_kestra",
+  "version": "1.0.0",
+  "summary": "A Pulumi provider dynamically bridged from kestra.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulumi_kestra-1.0.0.tar.gz",
+  "download_time": "2025-09-20T13:05:45.248670",
+  "package_url": "https://pypi.org/project/pulumi_kestra/"
+}
