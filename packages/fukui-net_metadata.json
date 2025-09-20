@@ -1,0 +1,11 @@
+{
+  "name": "fukui-net",
+  "version": "0.1.0",
+  "summary": "A neural network for predicting Fukui indices using Kernel-based Attention Networks (KAN) with Chebyshev graph convolutions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fukui_net-0.1.0-py3-none-any.whl",
+  "download_time": "2025-09-20T21:28:12.985345",
+  "package_url": "https://pypi.org/project/fukui-net/"
+}

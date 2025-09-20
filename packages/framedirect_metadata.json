@@ -1,11 +1,11 @@
 {
   "name": "framedirect",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Una librería para dibujar píxeles usando el framebuffer de Linux en Python.",
   "author": "gneval9 Software",
   "license": "MIT",
   "home_page": "https://github.com/gneval9/FrameDirect",
-  "download_filename": "framedirect-0.6.0.tar.gz",
-  "download_time": "2025-09-20T20:52:23.431171",
+  "download_filename": "framedirect-0.6.1.tar.gz",
+  "download_time": "2025-09-20T21:28:17.206587",
   "package_url": "https://pypi.org/project/framedirect/"
 }

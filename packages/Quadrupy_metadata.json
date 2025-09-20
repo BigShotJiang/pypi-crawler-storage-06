@@ -1,0 +1,11 @@
+{
+  "name": "Quadrupy",
+  "version": "0.1.0",
+  "summary": "Simple library to control the STQ V1 via Bluetooth",
+  "author": "Jaden Stout-Reason",
+  "license": "Proprietary",
+  "home_page": "https://github.com/jadenstoutreason/Quadrupy",
+  "download_filename": "quadrupy-0.1.0.tar.gz",
+  "download_time": "2025-09-20T21:28:11.858875",
+  "package_url": "https://pypi.org/project/Quadrupy/"
+}

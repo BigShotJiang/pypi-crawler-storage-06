@@ -1,11 +1,11 @@
 {
   "name": "infdb",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "InfDB wrapper for python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "infdb-0.0.7.tar.gz",
-  "download_time": "2025-09-19T21:37:56.728165",
+  "download_filename": "infdb-0.0.8.tar.gz",
+  "download_time": "2025-09-20T21:28:19.303666",
   "package_url": "https://pypi.org/project/infdb/"
 }
