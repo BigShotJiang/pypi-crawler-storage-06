@@ -1,11 +1,11 @@
 {
   "name": "zpui-lib",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "ZPUI libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zpui_lib-1.2.0.tar.gz",
-  "download_time": "2025-09-19T20:39:51.034618",
+  "download_filename": "zpui_lib-1.2.1.tar.gz",
+  "download_time": "2025-09-20T14:32:54.757750",
   "package_url": "https://pypi.org/project/zpui-lib/"
 }

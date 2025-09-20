@@ -1,0 +1,11 @@
+{
+  "name": "django-for-runners",
+  "version": "0.20.1",
+  "summary": "Store your GPX tracks of your running (or other sports activity) in django.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "django_for_runners-0.20.1.tar.gz",
+  "download_time": "2025-09-20T14:32:41.960437",
+  "package_url": "https://pypi.org/project/django-for-runners/"
+}

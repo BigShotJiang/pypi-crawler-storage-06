@@ -1,0 +1,11 @@
+{
+  "name": "sql-blocks",
+  "version": "1.20250921",
+  "summary": "Allows you to create objects for parts of SQL query commands. Also to combine these objects by joining them, adding or removing parts...",
+  "author": "Júlio Cascalles",
+  "license": null,
+  "home_page": "https://github.com/julio-cascalles/sql_blocks",
+  "download_filename": "sql_blocks-1.20250921.tar.gz",
+  "download_time": "2025-09-20T14:32:58.905922",
+  "package_url": "https://pypi.org/project/sql-blocks/"
+}
