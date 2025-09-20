@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-eupl-1-1",
+  "version": "1.0.1",
+  "summary": "PyGremlinBox EUPL-1.1 - Supply chain security testing module with European Union Public Licence v1.1",
+  "author": null,
+  "license": "European Union Public Licence v1.1\n        \n        Copyright (c) 2025 Supply Chain Security Tester\n        \n        This package is provided under the European Union Public Licence v1.1 for supply chain security testing purposes.\n        The full license text would normally appear here.\n        \n        This is a placeholder for testing licence detection in dependency scanning tools.",
+  "home_page": null,
+  "download_filename": "pygremlinbox_eupl_1_1-1.0.1.tar.gz",
+  "download_time": "2025-09-20T09:38:49.851021",
+  "package_url": "https://pypi.org/project/pygremlinbox-eupl-1-1/"
+}

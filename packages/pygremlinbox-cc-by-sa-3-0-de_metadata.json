@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-cc-by-sa-3-0-de",
+  "version": "1.0.1",
+  "summary": "PyGremlinBox CC-BY-SA-3.0-DE - Supply chain security testing module with Creative Commons BY-SA 3.0 Germany",
+  "author": null,
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Germany\n        \n        Copyright (c) 2025 Supply Chain Security Tester\n        \n        This package is provided under the Creative Commons Attribution-ShareAlike 3.0 Germany licence for supply chain security testing purposes.\n        The full license text would normally appear here.\n        \n        This is a placeholder for testing licence detection in dependency scanning tools.",
+  "home_page": null,
+  "download_filename": "pygremlinbox_cc_by_sa_3_0_de-1.0.1.tar.gz",
+  "download_time": "2025-09-20T09:38:51.429300",
+  "package_url": "https://pypi.org/project/pygremlinbox-cc-by-sa-3-0-de/"
+}

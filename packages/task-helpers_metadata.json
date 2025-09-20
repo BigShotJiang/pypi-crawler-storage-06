@@ -1,0 +1,11 @@
+{
+  "name": "task-helpers",
+  "version": "2.0.0",
+  "summary": "A Python library for creating and managing asynchronous tasks with support for various backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "task_helpers-2.0.0.tar.gz",
+  "download_time": "2025-09-20T09:38:40.097745",
+  "package_url": "https://pypi.org/project/task-helpers/"
+}

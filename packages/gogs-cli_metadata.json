@@ -1,0 +1,11 @@
+{
+  "name": "gogs-cli",
+  "version": "0.17",
+  "summary": "A high-performance, async command-line interface for interacting with Gogs Git repositories",
+  "author": "Hadi Cahyadi",
+  "license": null,
+  "home_page": "https://github.com/cumulus13/gogs_cli",
+  "download_filename": "gogs_cli-0.17.tar.gz",
+  "download_time": "2025-09-20T09:38:40.628390",
+  "package_url": "https://pypi.org/project/gogs-cli/"
+}
