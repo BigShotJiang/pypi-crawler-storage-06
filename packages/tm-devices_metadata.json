@@ -1,0 +1,11 @@
+{
+  "name": "tm-devices",
+  "version": "3.4.0",
+  "summary": "Manage connections and interactions with Test & Measurement devices.",
+  "author": "Tektronix",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/tm_devices/",
+  "download_filename": "tm_devices-3.4.0.tar.gz",
+  "download_time": "2025-09-20T04:42:09.039496",
+  "package_url": "https://pypi.org/project/tm-devices/"
+}

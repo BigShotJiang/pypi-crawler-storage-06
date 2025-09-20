@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-reminder",
+  "version": "0.4.3",
+  "summary": "This plugin can remind you not to forget something",
+  "author": "velor2012",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_reminder-0.4.3.tar.gz",
+  "download_time": "2025-09-20T04:42:11.254178",
+  "package_url": "https://pypi.org/project/nonebot-plugin-reminder/"
+}

@@ -1,21 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T04:23:10.624266
-- **Total Packages**: 81
-- **Total Size**: 21.23 MB
+- **Download Time**: 2025-09-20T04:42:49.223734
+- **Total Packages**: 79
+- **Total Size**: 13.15 MB
 
 ## Packages List
-- ut-xls
+- mcp-as-a-judge
+- authentik-client
+- shipit-cli
+- adf2stowf
+- cml-mcp
+- yacscript
 - ultrapyup
-- xh-bin
+- tm-devices
 - sleipnirgroup-jormungandr
+- pulumi-alicloud
+- nonebot-plugin-reminder
+- sienge-ecbiesek-mcp
+- sdrips
+- frads
+- maestro-workers
+- ipc-frontier-py
+- blueprint-cli
+- ut-xls
+- xh-bin
 - music-bassline-generator
 - snowflake-connector-python-nightly
 - django-jaeger-middleware-plus
-- pulumi-alicloud
 - pdfalyzer
-- authentik-client
 - pygremlinbox-unlicense
 - pygremlinbox-osl-3-0
 - pygremlinbox-mpl-2-0
@@ -30,7 +43,6 @@
 - pygremlinbox-apsl
 - pygremlinbox-agpl-3-0
 - pyxel
-- sienge-ecbiesek-mcp
 - pyvigil
 - ezKit
 - chromedriver-binary
@@ -57,7 +69,6 @@
 - odoo-addon-shopfloor
 - xhsaliyunmcpserver
 - VirecFremwork
-- ipc-frontier-py
 - odoo-addon-sign-oca
 - llparse
 - pysimlin
@@ -74,16 +85,3 @@
 - mathify-ramc
 - TidalPy
 - pythermodb-settings
-- barcable
-- portwatch
-- vellum-workflow-server
-- random-color-hex
-- VectorCode
-- downloaderx
-- rcline
-- solshade
-- fred-oss
-- cdktf-cdktf-provider-ionoscloud
-- xraylabtool
-- keras-rs-nightly
-- pulumi-xenorchestra
