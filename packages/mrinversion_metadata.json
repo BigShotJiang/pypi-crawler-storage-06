@@ -1,0 +1,11 @@
+{
+  "name": "mrinversion",
+  "version": "0.3.1",
+  "summary": "Python based statistical learning of NMR tensor and relaxation parameters distribution.",
+  "author": "Deepansh J. Srivastava",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/DeepanshS/mrinversion/",
+  "download_filename": "mrinversion-0.3.1.tar.gz",
+  "download_time": "2025-09-20T18:43:35.859353",
+  "package_url": "https://pypi.org/project/mrinversion/"
+}

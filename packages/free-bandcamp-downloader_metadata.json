@@ -1,0 +1,11 @@
+{
+  "name": "free-bandcamp-downloader",
+  "version": "0.5.1",
+  "summary": "Download free and name-your-price albums from Bandcamp in lossless quality",
+  "author": "7x11x13",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "free_bandcamp_downloader-0.5.1.tar.gz",
+  "download_time": "2025-09-20T18:43:24.763620",
+  "package_url": "https://pypi.org/project/free-bandcamp-downloader/"
+}

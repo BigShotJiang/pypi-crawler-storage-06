@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-with-whisper",
+  "version": "0.1.1",
+  "summary": "Video transcription with speaker diarization and HTML output",
+  "author": "Jay Pfaffman",
+  "license": null,
+  "home_page": "https://github.com/literatecomputing/transcribe-with-whisper",
+  "download_filename": "transcribe_with_whisper-0.1.1.tar.gz",
+  "download_time": "2025-09-20T18:43:32.708399",
+  "package_url": "https://pypi.org/project/transcribe-with-whisper/"
+}

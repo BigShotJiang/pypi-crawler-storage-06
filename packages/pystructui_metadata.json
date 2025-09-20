@@ -1,0 +1,11 @@
+{
+  "name": "pystructui",
+  "version": "0.1.0",
+  "summary": "Convert data structures to HTML for any Python web framework",
+  "author": "DBBasic Team",
+  "license": null,
+  "home_page": "https://github.com/askrobots/PyStructUI",
+  "download_filename": "pystructui-0.1.0.tar.gz",
+  "download_time": "2025-09-20T18:43:28.527757",
+  "package_url": "https://pypi.org/project/pystructui/"
+}

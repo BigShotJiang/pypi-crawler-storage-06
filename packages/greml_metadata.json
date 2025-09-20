@@ -1,0 +1,11 @@
+{
+  "name": "greml",
+  "version": "1.3.0",
+  "summary": "A CLI tool to make HTML greppable",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "greml-1.3.0.tar.gz",
+  "download_time": "2025-09-20T18:43:37.943300",
+  "package_url": "https://pypi.org/project/greml/"
+}
