@@ -1,11 +1,11 @@
 {
   "name": "pygremlinbox-lgpl-2-1",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "Supply chain security testing package with LGPL-2.1 licence",
   "author": null,
   "license": "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n        <html><head>\n        <title>302 Found</title>\n        </head><body>\n        <h1>Found</h1>\n        <p>The document has moved <a href=\"https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt\">here</a>.</p>\n        </body></html>\n        ",
   "home_page": null,
-  "download_filename": "pygremlinbox_lgpl_2_1-0.1.0.tar.gz",
-  "download_time": "2025-09-20T04:22:34.345265",
+  "download_filename": "pygremlinbox_lgpl_2_1-1.0.1.tar.gz",
+  "download_time": "2025-09-20T04:52:47.351392",
   "package_url": "https://pypi.org/project/pygremlinbox-lgpl-2-1/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "keepercommander",
+  "version": "17.1.10",
+  "summary": "Keeper Commander for Python 3",
+  "author": "Craig Lurey",
+  "license": "MIT",
+  "home_page": "https://keepersecurity.com/",
+  "download_filename": "keepercommander-17.1.10.tar.gz",
+  "download_time": "2025-09-20T04:52:42.551758",
+  "package_url": "https://pypi.org/project/keepercommander/"
+}

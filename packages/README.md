@@ -1,17 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T04:42:49.223734
-- **Total Packages**: 79
-- **Total Size**: 13.15 MB
+- **Download Time**: 2025-09-20T04:53:21.410782
+- **Total Packages**: 67
+- **Total Size**: 3.73 MB
 
 ## Packages List
-- mcp-as-a-judge
+- keepercommander
+- klotho-cac
+- tiny-scientist
+- DBSamizdat
+- pygremlinbox-unlicense
+- pygremlinbox-osl-3-0
+- pygremlinbox-mpl-2-0
 - authentik-client
+- pygremlinbox-lgpl-3-0
+- pygremlinbox-lgpl-2-1
+- pygremlinbox-gpl-3-0
+- opthub_runner_admin
+- pygremlinbox-gpl-2-0
+- pygremlinbox-eupl-1-2
+- pygremlinbox-epl-2-0
+- pygremlinbox-cc-by-sa-4-0
+- pygremlinbox-apsl
+- pygremlinbox-agpl-3-0
+- pygremlinbox-agpl-2-0
+- eth-event
+- deepmcp
+- jbag
+- iamdata
+- wxauto
+- package-test1
+- django-jaeger-middleware-plus
+- secfsdstools
+- mcp-as-a-judge
 - shipit-cli
 - adf2stowf
 - cml-mcp
-- yacscript
 - ultrapyup
 - tm-devices
 - sleipnirgroup-jormungandr
@@ -27,21 +52,8 @@
 - xh-bin
 - music-bassline-generator
 - snowflake-connector-python-nightly
-- django-jaeger-middleware-plus
 - pdfalyzer
-- pygremlinbox-unlicense
-- pygremlinbox-osl-3-0
-- pygremlinbox-mpl-2-0
 - cdktf-cdktf-provider-gitlab
-- pygremlinbox-lgpl-3-0
-- pygremlinbox-lgpl-2-1
-- pygremlinbox-gpl-3-0
-- pygremlinbox-gpl-2-0
-- pygremlinbox-eupl-1-2
-- pygremlinbox-epl-2-0
-- pygremlinbox-cc-by-sa-4-0
-- pygremlinbox-apsl
-- pygremlinbox-agpl-3-0
 - pyxel
 - pyvigil
 - ezKit
@@ -59,29 +71,5 @@
 - robhan-cdk-lib.aws-aps
 - ethyca-fides
 - robhan-cdk-lib.utils
-- pygremlinbox-agpl-2-0
 - tcpping-mcp-server
 - nomadicml
-- pwntools-util
-- dars-framework
-- polykit
-- insight-cli-sarang
-- odoo-addon-shopfloor
-- xhsaliyunmcpserver
-- VirecFremwork
-- odoo-addon-sign-oca
-- llparse
-- pysimlin
-- odoo-addon-autovacuum-message-attachment
-- keras-nightly
-- adaptive-tests-py
-- django-dart-sass
-- neuro-api
-- llmcompressor
-- strucgap
-- ut-path
-- pulumi-tailscale
-- akari-bot-webui
-- mathify-ramc
-- TidalPy
-- pythermodb-settings

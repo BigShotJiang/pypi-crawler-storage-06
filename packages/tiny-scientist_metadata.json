@@ -1,0 +1,11 @@
+{
+  "name": "tiny-scientist",
+  "version": "0.1.2",
+  "summary": "A lightweight framework for building research agents",
+  "author": "Haofei Yu",
+  "license": "Apache 2.0 License",
+  "home_page": null,
+  "download_filename": "tiny_scientist-0.1.2.tar.gz",
+  "download_time": "2025-09-20T04:52:43.622233",
+  "package_url": "https://pypi.org/project/tiny-scientist/"
+}
