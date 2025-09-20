@@ -1,0 +1,11 @@
+{
+  "name": "neurohub",
+  "version": "0.0.7",
+  "summary": "A python wrapper for neurohub API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurohub-0.0.7.tar.gz",
+  "download_time": "2025-09-20T22:17:14.291594",
+  "package_url": "https://pypi.org/project/neurohub/"
+}

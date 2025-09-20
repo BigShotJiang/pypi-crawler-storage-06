@@ -1,26 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T21:52:56.654348
-- **Total Packages**: 78
-- **Total Size**: 11.66 MB
+- **Download Time**: 2025-09-20T22:17:42.277395
+- **Total Packages**: 70
+- **Total Size**: 17.32 MB
 
 ## Packages List
-- sera-2
-- cqas
-- rigol-ds1054z
+- talkpipe
+- geeagri
+- jupyter-kernel-handler
+- cwl2puml
+- jupyter-kernel-addons
+- radboy
+- birdnames
+- GNServer
+- hiinsta
+- aiosteampy
+- rxlm
 - authentik-client
+- ludo-king-engine
+- rtcirqus
+- postinfer
+- neurohub
+- archie-cli
+- KeyisBTools
+- ai-audit-sdk
+- cqas
+- pixverse-ai-v2
+- gobin-cli
+- pyUnfoldedCircleRemote
+- pyzotero
+- streetview-dl
+- troml-dev-status
+- augint-org
+- filmo
+- mkds
+- gdt
+- localstack-dependencies
+- M3Drop
+- Quadrupy
+- pywa
+- sera-2
+- rigol-ds1054z
 - pyqrackising
 - grasp_agents
-- augint-org
-- rxlm
-- mkds
 - krex
 - pub-analyzer
 - mkds-py
 - rustivig
 - quant1x
-- archie-cli
 - filoma
 - cendat
 - agentrouter
@@ -30,8 +58,6 @@
 - starsgraceAPI
 - fukui-net
 - nflreadpy
-- Quadrupy
-- radboy
 - streamlit-ollama
 - backspaceAlpha
 - django-cfg
@@ -50,37 +76,3 @@
 - wayne-trade
 - vaul
 - easyapi-leozhang
-- crewai
-- libfelix
-- worldnex
-- trendsagi
-- perfetto-mcp
-- lt-tensor
-- prometheus-mcp-server
-- jsonlitedb
-- aplr
-- myserverip
-- prime
-- warn-scraper
-- mediaComp
-- adieu-discordbot-cogs
-- eformer
-- ares-datamodel
-- gerermesaffaires-events
-- dosh-cli
-- pyphishtanklookup
-- supervoxtral
-- mbs
-- embykeeper
-- opencatwebjson
-- empulse
-- cwl2puml
-- selective-self-attention
-- gdt
-- scooby
-- keepex
-- Tailbone
-- toltecmk
-- py-sketch-art
-- create-browser-app
-- xync-client

@@ -1,0 +1,11 @@
+{
+  "name": "birdnames",
+  "version": "0.1.1",
+  "summary": "A Python package for managing avian taxonomy and converting between different bird name formats across multiple taxonomic authorities",
+  "author": "Sam Lapp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "birdnames-0.1.1.tar.gz",
+  "download_time": "2025-09-20T22:17:09.654833",
+  "package_url": "https://pypi.org/project/birdnames/"
+}

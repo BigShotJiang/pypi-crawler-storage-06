@@ -1,0 +1,11 @@
+{
+  "name": "ai-audit-sdk",
+  "version": "1.0.1",
+  "summary": "SDK for logging AI/ML decisions with compliance tracking",
+  "author": "AI Audit Trail",
+  "license": "MIT",
+  "home_page": "https://github.com/aiaudit/python-sdk",
+  "download_filename": "ai_audit_sdk-1.0.1.tar.gz",
+  "download_time": "2025-09-20T22:17:15.825654",
+  "package_url": "https://pypi.org/project/ai-audit-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gobin-cli",
+  "version": "0.0.post9",
+  "summary": "AI Coding Agent CLI",
+  "author": "Xgramm Platforms",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gobin_cli-0.0.post9.tar.gz",
+  "download_time": "2025-09-20T22:17:17.361421",
+  "package_url": "https://pypi.org/project/gobin-cli/"
+}
