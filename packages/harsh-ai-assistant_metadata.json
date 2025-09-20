@@ -1,11 +1,11 @@
 {
   "name": "harsh-ai-assistant",
-  "version": "0.1.1",
-  "summary": "Interactive AI code generator",
+  "version": "0.1.2",
+  "summary": "Custom AI assistant with LangGraph",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harsh_ai_assistant-0.1.1.tar.gz",
-  "download_time": "2025-09-20T19:52:27.132565",
+  "download_filename": "harsh_ai_assistant-0.1.2.tar.gz",
+  "download_time": "2025-09-20T20:19:07.781988",
   "package_url": "https://pypi.org/project/harsh-ai-assistant/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pytelecomm",
-  "version": "1.1.16",
+  "version": "1.1.17",
   "summary": "Exploration of telecommunication theory in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytelecomm-1.1.16.tar.gz",
-  "download_time": "2025-09-20T19:52:18.079881",
+  "download_filename": "pytelecomm-1.1.17.tar.gz",
+  "download_time": "2025-09-20T20:19:17.368986",
   "package_url": "https://pypi.org/project/pytelecomm/"
 }

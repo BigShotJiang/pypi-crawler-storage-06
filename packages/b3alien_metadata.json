@@ -1,11 +1,11 @@
 {
   "name": "b3alien",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Calculating the CBD target 6.1 indicator from occurrence cubes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "b3alien-0.2.1.tar.gz",
-  "download_time": "2025-09-19T20:51:38.849701",
+  "download_filename": "b3alien-0.2.2.tar.gz",
+  "download_time": "2025-09-20T20:19:07.262595",
   "package_url": "https://pypi.org/project/b3alien/"
 }
