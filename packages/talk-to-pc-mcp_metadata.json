@@ -1,0 +1,11 @@
+{
+  "name": "talk-to-pc-mcp",
+  "version": "0.1.1",
+  "summary": "MCP Server for PC system management and troubleshooting using natural language",
+  "author": "Irene-123",
+  "license": null,
+  "home_page": "https://github.com/Irene-123/talk-to-your-pc-mcp-server",
+  "download_filename": "talk_to_pc_mcp-0.1.1.tar.gz",
+  "download_time": "2025-09-20T11:52:32.426560",
+  "package_url": "https://pypi.org/project/talk-to-pc-mcp/"
+}

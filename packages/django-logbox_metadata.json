@@ -1,0 +1,11 @@
+{
+  "name": "django-logbox",
+  "version": "1.1.0",
+  "summary": "Your small, but useful django log box. 📦",
+  "author": "tgoddessana",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_logbox-1.1.0.tar.gz",
+  "download_time": "2025-09-20T11:52:35.496640",
+  "package_url": "https://pypi.org/project/django-logbox/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pypiget",
+  "version": "0.2.0",
+  "summary": "A Python library to fetch PyPI package information (sync & async)",
+  "author": "Mahdi Ahmadi",
+  "license": null,
+  "home_page": "https://api-free.ir",
+  "download_filename": "pypiget-0.2.0.tar.gz",
+  "download_time": "2025-09-20T11:52:18.640958",
+  "package_url": "https://pypi.org/project/pypiget/"
+}

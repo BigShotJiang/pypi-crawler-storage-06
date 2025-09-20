@@ -1,0 +1,11 @@
+{
+  "name": "payra-sdk",
+  "version": "1.1.3",
+  "summary": "Python SDK for Payra payment signature generation (backend)",
+  "author": "Your Name",
+  "license": "MIT License\n        \n        Copyright (c) 2025 Wraith\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy...\n        ",
+  "home_page": null,
+  "download_filename": "payra_sdk-1.1.3.tar.gz",
+  "download_time": "2025-09-20T11:52:31.408782",
+  "package_url": "https://pypi.org/project/payra-sdk/"
+}

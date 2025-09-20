@@ -1,0 +1,11 @@
+{
+  "name": "syntax-diagrams",
+  "version": "0.0.0b1",
+  "summary": "A library for generating railroad syntax diagrams",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syntax_diagrams-0.0.0b1.tar.gz",
+  "download_time": "2025-09-20T11:52:24.772239",
+  "package_url": "https://pypi.org/project/syntax-diagrams/"
+}

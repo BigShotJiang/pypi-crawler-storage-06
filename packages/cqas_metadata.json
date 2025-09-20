@@ -1,0 +1,11 @@
+{
+  "name": "cqas",
+  "version": "0.0.0",
+  "summary": "Python Code Quality and Security (CQaS) tester",
+  "author": "Arija A.",
+  "license": "AGPLv3+",
+  "home_page": "https://git.ari.lt/ari/cqas",
+  "download_filename": "cqas-0.0.0-py2.py3-none-any.whl",
+  "download_time": "2025-09-20T11:52:20.683564",
+  "package_url": "https://pypi.org/project/cqas/"
+}
