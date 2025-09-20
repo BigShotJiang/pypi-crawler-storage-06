@@ -1,0 +1,11 @@
+{
+  "name": "PositiveNegative-Library",
+  "version": "0.1.1",
+  "summary": "Check if a number is positive, negative, or zero",
+  "author": "Rahaf Salh Qadah",
+  "license": "MIT License\r\n        Copyright (c) 2025 Rahaf Salh Qadah.",
+  "home_page": null,
+  "download_filename": "positivenegative_library-0.1.1.tar.gz",
+  "download_time": "2025-09-20T13:51:56.681530",
+  "package_url": "https://pypi.org/project/PositiveNegative-Library/"
+}

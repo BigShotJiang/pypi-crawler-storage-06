@@ -5,7 +5,7 @@
   "author": "FBGEMM Team",
   "license": "BSD-3",
   "home_page": "https://github.com/pytorch/fbgemm",
-  "download_filename": "fbgemm_gpu_nightly_cpu-2025.9.20-cp313-cp313-manylinux_2_28_aarch64.whl",
-  "download_time": "2025-09-20T13:32:00.924798",
+  "download_filename": "fbgemm_gpu_nightly_cpu-2025.9.20-cp310-cp310-manylinux_2_28_aarch64.whl",
+  "download_time": "2025-09-20T13:52:09.500381",
   "package_url": "https://pypi.org/project/fbgemm-gpu-nightly-cpu/"
 }
