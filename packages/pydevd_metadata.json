@@ -1,0 +1,11 @@
+{
+  "name": "pydevd",
+  "version": "3.4.0",
+  "summary": "PyDev.Debugger (used in PyDev, PyCharm and VSCode Python)",
+  "author": "Fabio Zadrozny and others",
+  "license": "EPL",
+  "home_page": "https://github.com/fabioz/PyDev.Debugger/",
+  "download_filename": "pydevd-3.4.0.tar.gz",
+  "download_time": "2025-09-20T16:40:57.116017",
+  "package_url": "https://pypi.org/project/pydevd/"
+}

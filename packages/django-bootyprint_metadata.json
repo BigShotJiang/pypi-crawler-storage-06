@@ -1,0 +1,11 @@
+{
+  "name": "django-bootyprint",
+  "version": "0.0.5",
+  "summary": "A Django app for rendering PDF documents with WeasyPrint",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_bootyprint-0.0.5.tar.gz",
+  "download_time": "2025-09-20T16:41:06.721772",
+  "package_url": "https://pypi.org/project/django-bootyprint/"
+}

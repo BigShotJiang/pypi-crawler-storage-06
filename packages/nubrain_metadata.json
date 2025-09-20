@@ -1,11 +1,11 @@
 {
   "name": "nubrain",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "NuBrain connect",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nubrain-0.1.2.tar.gz",
-  "download_time": "2025-09-20T16:21:49.656111",
+  "download_filename": "nubrain-0.1.3.tar.gz",
+  "download_time": "2025-09-20T16:41:09.646728",
   "package_url": "https://pypi.org/project/nubrain/"
 }

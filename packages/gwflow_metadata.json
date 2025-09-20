@@ -1,0 +1,11 @@
+{
+  "name": "gwflow",
+  "version": "0.1.0a1",
+  "summary": "Normalizing flows for gravitational-wave analyses",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gwflow-0.1.0a1.tar.gz",
+  "download_time": "2025-09-20T16:40:58.246600",
+  "package_url": "https://pypi.org/project/gwflow/"
+}

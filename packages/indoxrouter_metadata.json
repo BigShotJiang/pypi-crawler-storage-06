@@ -1,11 +1,11 @@
 {
   "name": "indoxrouter",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "A unified client for various AI providers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "indoxrouter-0.1.28.tar.gz",
-  "download_time": "2025-09-20T16:21:27.773702",
+  "download_filename": "indoxrouter-0.1.29.tar.gz",
+  "download_time": "2025-09-20T16:41:06.173028",
   "package_url": "https://pypi.org/project/indoxrouter/"
 }

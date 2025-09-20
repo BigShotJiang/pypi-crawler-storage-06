@@ -1,11 +1,11 @@
 {
   "name": "hardware-benchmark",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A deep learning model hardware benchmarking tool",
   "author": "zihan.deng",
   "license": null,
   "home_page": "https://github.com/Zihan-D/hardware-bench-yolo",
-  "download_filename": "hardware_benchmark-0.1.0.tar.gz",
-  "download_time": "2025-09-20T16:21:54.346611",
+  "download_filename": "hardware_benchmark-0.1.1.tar.gz",
+  "download_time": "2025-09-20T16:41:03.402528",
   "package_url": "https://pypi.org/project/hardware-benchmark/"
 }
