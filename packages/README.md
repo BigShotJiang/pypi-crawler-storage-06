@@ -1,18 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T06:27:39.214362
-- **Total Packages**: 72
-- **Total Size**: 9.1 MB
+- **Download Time**: 2025-09-20T06:53:36.097496
+- **Total Packages**: 67
+- **Total Size**: 16.08 MB
 
 ## Packages List
-- pygeoinf
+- ibproxy
+- vior-sdk
+- authentik-client
+- gradupe
+- pybibtexer
+- nima
+- greenremover
+- archie-cli
+- rigour
+- cppref
+- liteevallogger
+- underthesea
 - tsbuddy
+- life3d-rgb
 - pyadvtools
+- pyscn
+- evonet
+- xync-client
+- pkglog
+- firstock
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- toomanysessions
+- py-open-news
+- task-scheduling
+- brewinglib-generic
+- brewinglib-db
+- brewinglib-cli
+- brewing
+- pygeoinf
 - wagtail-tw-blocks
 - selenium-browserkit
 - xloft
-- underthesea
 - scruby
 - ramifice
 - quantum-loop
@@ -23,13 +49,10 @@
 - cdk8s-awscdk-resolver
 - fake-bpy-module-latest
 - tcpping-mcp-server
-- archie-cli
 - django-jaeger-middleware-plus
 - analogic-framework
 - calculate-tool-lengyue1084
 - fastmssql
-- authentik-client
-- gradupe
 - pyg-nightly
 - waypanel
 - git-mcp-server
@@ -50,31 +73,3 @@
 - DictSQLite
 - pympdata-examples
 - pympdata
-- pympdata-mpi
-- ducktools-pytui
-- duckdb-upgrade
-- SarthakFraction
-- uvicorn-hmr
-- mdhk
-- yacscript
-- voylla
-- xcpcio
-- airbyte
-- hyperactive
-- ksrpc
-- aditor
-- pykmertools
-- opendp
-- prdocc
-- libcomponent
-- nemo-library-etl
-- hmr-daemon
-- FourCIPP
-- zhmcclient
-- mcp-server-bb
-- sleipnirgroup-jormungandr
-- magic_hour
-- edir
-- ut-eviq
-- pytest-homeassistant-custom-component
-- lark-sheet-mcp

@@ -1,0 +1,11 @@
+{
+  "name": "greenremover",
+  "version": "0.1.0",
+  "summary": "A lightweight Python tool for removing green screen backgrounds from images, converting them into transparent PNGs for easy compositing and editing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greenremover-0.1.0.tar.gz",
+  "download_time": "2025-09-20T06:53:04.088623",
+  "package_url": "https://pypi.org/project/greenremover/"
+}
