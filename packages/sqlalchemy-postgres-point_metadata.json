@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-postgres-point",
+  "version": "0.1.0",
+  "summary": "Lightweight SQLAlchemy custom type for PostgreSQL POINT columns with tuple binding and an earth-distance comparator.",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_postgres_point-0.1.0.tar.gz",
+  "download_time": "2025-09-20T19:38:36.406789",
+  "package_url": "https://pypi.org/project/sqlalchemy-postgres-point/"
+}

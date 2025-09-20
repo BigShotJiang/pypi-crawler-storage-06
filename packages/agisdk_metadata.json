@@ -1,0 +1,11 @@
+{
+  "name": "agisdk",
+  "version": "0.2.9",
+  "summary": "AGI SDK - tools for building and evaluating AI web agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agisdk-0.2.9.tar.gz",
+  "download_time": "2025-09-20T19:38:34.062433",
+  "package_url": "https://pypi.org/project/agisdk/"
+}

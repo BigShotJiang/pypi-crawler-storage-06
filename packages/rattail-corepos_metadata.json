@@ -1,0 +1,11 @@
+{
+  "name": "rattail-corepos",
+  "version": "0.3.10",
+  "summary": "Rattail Software Interfaces for CORE POS",
+  "author": null,
+  "license": "GNU GPL v3+",
+  "home_page": null,
+  "download_filename": "rattail_corepos-0.3.10.tar.gz",
+  "download_time": "2025-09-20T19:38:30.539738",
+  "package_url": "https://pypi.org/project/rattail-corepos/"
+}

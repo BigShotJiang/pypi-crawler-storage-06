@@ -1,0 +1,11 @@
+{
+  "name": "rattail-harvest",
+  "version": "0.3.3",
+  "summary": "Rattail integration package for Harvest",
+  "author": null,
+  "license": "GNU GPL v3+",
+  "home_page": null,
+  "download_filename": "rattail_harvest-0.3.3.tar.gz",
+  "download_time": "2025-09-20T19:38:27.423312",
+  "package_url": "https://pypi.org/project/rattail-harvest/"
+}
