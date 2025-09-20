@@ -1,0 +1,11 @@
+{
+  "name": "pygremlinbox-agpl-2-0",
+  "version": "1.0.0",
+  "summary": "PyGremlinBox AGPL-2.0 - Supply chain security testing module with AGPL-2.0 licence",
+  "author": null,
+  "license": "AFFERO GENERAL PUBLIC LICENSE\n        \n        Version 2, November 2007\n        \n        Copyright © 2007 Affero Inc.\n        510 Third Street - Suite 225, San Francisco, CA 94107, USA\n        \n        This is version 2 of the Affero General Public License. It gives each licensee\n        permission to distribute the Program or a work based on the Program (as defined\n        in version 1 of the Affero GPL) under the GNU Affero General Public License,\n        version 3 or any later version.\n        \n        If the Program was licensed under version 1 of the Affero GPL \"or any later\n        version\", no additional obligations are imposed on any author or copyright\n        holder of the Program as a result of a licensee's choice to follow this version\n        2 of the Affero GPL.",
+  "home_page": null,
+  "download_filename": "pygremlinbox_agpl_2_0-1.0.0.tar.gz",
+  "download_time": "2025-09-20T04:02:06.961438",
+  "package_url": "https://pypi.org/project/pygremlinbox-agpl-2-0/"
+}

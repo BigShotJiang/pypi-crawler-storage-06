@@ -1,0 +1,11 @@
+{
+  "name": "insight-cli-sarang",
+  "version": "0.2.1",
+  "summary": "A Python-based CLI tool that analyzes codebases and generates detailed reports",
+  "author": "Arpit Sarang",
+  "license": "MIT",
+  "home_page": "https://github.com/ExplainHub/Insight-Py",
+  "download_filename": "insight_cli_sarang-0.2.1.tar.gz",
+  "download_time": "2025-09-20T04:02:11.213823",
+  "package_url": "https://pypi.org/project/insight-cli-sarang/"
+}

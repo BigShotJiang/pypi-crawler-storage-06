@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-autovacuum-message-attachment",
-  "version": "18.0.1.0.1.12",
+  "version": "18.0.1.0.1.14",
   "summary": "Automatically delete old mail messages and attachments",
   "author": "Akretion, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/server-tools",
-  "download_filename": "odoo_addon_autovacuum_message_attachment-18.0.1.0.1.12-py3-none-any.whl",
-  "download_time": "2025-09-18T04:23:34.673910",
+  "download_filename": "odoo_addon_autovacuum_message_attachment-18.0.1.0.1.14-py3-none-any.whl",
+  "download_time": "2025-09-20T04:02:16.727919",
   "package_url": "https://pypi.org/project/odoo-addon-autovacuum-message-attachment/"
 }
