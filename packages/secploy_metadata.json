@@ -1,0 +1,11 @@
+{
+  "name": "secploy",
+  "version": "0.2.7",
+  "summary": "Event tracking and monitoring SDK for Python applications",
+  "author": "Agastronics",
+  "license": null,
+  "home_page": "https://github.com/agastronics/secploy-python-sdk",
+  "download_filename": "secploy-0.2.7.tar.gz",
+  "download_time": "2025-09-20T11:27:19.293972",
+  "package_url": "https://pypi.org/project/secploy/"
+}

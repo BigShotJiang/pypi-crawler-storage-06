@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T11:15:50.858392
-- **Total Packages**: 82
-- **Total Size**: 20.05 MB
+- **Download Time**: 2025-09-20T11:27:58.889018
+- **Total Packages**: 79
+- **Total Size**: 2.3 MB
 
 ## Packages List
+- crankpy
+- calibrion
+- alita-sdk
+- dazllm
+- pyrtex
+- RanjeetTrial
+- authentik-client
+- secploy
+- c-test9-cc
+- rtyuzer
+- nativehello
+- scikit-vector-fields
+- standardbots
+- datasetool
+- dataprof
 - rcline
 - sandbox-esp9990994
 - spacefrontiers-clients
@@ -15,14 +30,10 @@
 - avl-core
 - vllm-rs
 - buddybet-idpsecure
-- scikit-vector-fields
 - scaevola
-- standardbots
 - pyshellcli
 - svgfont
-- authentik-client
 - dcmspec
-- alita-sdk
 - irispy-client
 - piqtec
 - ai-ebash
@@ -36,7 +47,6 @@
 - openfund-taker
 - openfund-maker
 - SwiftGUI
-- datasetool
 - odfdo
 - image-format-converter-mcp
 - mathrtc
@@ -54,7 +64,6 @@
 - peek-plugin-diagram
 - peek-plugin-chat
 - peek-plugin-branch
-- gradio-academic-agents
 - synerty-peek
 - node-graph
 - peek-worker-service
@@ -76,15 +85,3 @@
 - peek-core-search
 - peek-core-email
 - peek-core-docdb
-- peek-core-device
-- peek-agent-service
-- peek-admin-app
-- peek-admin-doc
-- peek-abstract-chunked-index
-- peek-abstract-chunked-data-loader
-- uvicorn-worker
-- hhelper
-- minix
-- rbacx
-- konduktor-nightly
-- trainy-policy-nightly
