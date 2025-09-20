@@ -1,11 +1,11 @@
 {
   "name": "chatterflow",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A cli based chat application in python",
   "author": "Ishan Bhat",
   "license": null,
   "home_page": null,
-  "download_filename": "chatterflow-0.0.2.tar.gz",
-  "download_time": "2025-09-20T14:32:44.193474",
+  "download_filename": "chatterflow-0.0.3.tar.gz",
+  "download_time": "2025-09-20T14:52:35.303885",
   "package_url": "https://pypi.org/project/chatterflow/"
 }

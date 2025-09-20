@@ -1,0 +1,11 @@
+{
+  "name": "collective.techevent",
+  "version": "1.0.0a22",
+  "summary": "Support for implementing tech conference in a Plone site.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collective_techevent-1.0.0a22.tar.gz",
+  "download_time": "2025-09-20T14:52:36.529352",
+  "package_url": "https://pypi.org/project/collective.techevent/"
+}
