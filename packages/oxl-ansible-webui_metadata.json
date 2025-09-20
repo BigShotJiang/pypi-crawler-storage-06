@@ -1,0 +1,11 @@
+{
+  "name": "oxl-ansible-webui",
+  "version": "0.9.0",
+  "summary": "Basic WebUI for using Ansible",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oxl_ansible_webui-0.9.0.tar.gz",
+  "download_time": "2025-09-20T18:24:33.021597",
+  "package_url": "https://pypi.org/project/oxl-ansible-webui/"
+}

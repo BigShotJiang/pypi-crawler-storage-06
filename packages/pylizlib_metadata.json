@@ -1,11 +1,11 @@
 {
   "name": "pylizlib",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylizlib-0.3.0.tar.gz",
-  "download_time": "2025-09-20T17:15:19.902196",
+  "download_filename": "pylizlib-0.3.1.tar.gz",
+  "download_time": "2025-09-20T18:24:28.773125",
   "package_url": "https://pypi.org/project/pylizlib/"
 }

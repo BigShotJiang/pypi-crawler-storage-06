@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T17:53:04.284624
-- **Total Packages**: 70
-- **Total Size**: 8.65 MB
+- **Download Time**: 2025-09-20T18:25:11.686578
+- **Total Packages**: 78
+- **Total Size**: 11.78 MB
 
 ## Packages List
+- rumdl
+- pyprik
+- ScriptCollection
+- lg-agents
+- cryptocoreedu
+- kfactory
+- eoap-cwlwrap
+- detextive
+- pylizlib
+- schedulo-api
+- pyTibber
+- pratyush
+- athena-intelligence
+- deezy
+- archie-cli
+- oxl-ansible-webui
+- d-back
+- amati
+- gnosis-dispatch
+- e-sim-game-scraper
+- motionbuilder-stubs
+- docutils
+- biliup
+- cartomancy
+- litewave-logger
+- django-postgres-anonymizer
+- re-static
+- odoo-addon-l10n-br-base-l10n-br-compat
+- odoo-addon-l10n-br-account-due-list
+- odoo-addon-l10n-br-fiscal
+- gunicorn-prometheus-exporter
 - pyrauli
 - pyline-core
 - dbt-colibri
@@ -13,7 +44,6 @@
 - konata
 - authentik-client
 - attp_core
-- amati
 - limber-timber
 - django-msteams-notify
 - mw75-streamer
@@ -42,7 +72,6 @@
 - selenium-base
 - bomiot
 - seleniumbase
-- motionbuilder-stubs
 - instaui
 - fred-oss
 - sibi-dst
@@ -55,24 +84,3 @@
 - OpenMM-HIP-6
 - OpenMM-CUDA-12
 - SarthakFraction
-- cresnextws
-- rpa-suite
-- bayesgm
-- backspaceAlpha
-- django-ocr_translate
-- projen
-- MetaRagTool
-- altan
-- PYield
-- grss
-- biblemate
-- ocr_translate-paddle
-- polykit
-- opentaskpy
-- go3
-- quansino
-- pyqrackising
-- MaxNumberLib
-- ptulsconv
-- intentkit
-- pygator

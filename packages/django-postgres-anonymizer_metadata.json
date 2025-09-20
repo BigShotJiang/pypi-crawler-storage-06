@@ -1,0 +1,11 @@
+{
+  "name": "django-postgres-anonymizer",
+  "version": "0.1.0a1",
+  "summary": "Django integration for PostgreSQL Anonymizer extension",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_postgres_anonymizer-0.1.0a1.tar.gz",
+  "download_time": "2025-09-20T18:24:38.823679",
+  "package_url": "https://pypi.org/project/django-postgres-anonymizer/"
+}

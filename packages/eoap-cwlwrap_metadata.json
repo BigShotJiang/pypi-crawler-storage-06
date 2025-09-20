@@ -1,0 +1,11 @@
+{
+  "name": "eoap-cwlwrap",
+  "version": "0.14.0",
+  "summary": "Add stage-in/stage-out steps to EOAP CWL Workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eoap_cwlwrap-0.14.0.tar.gz",
+  "download_time": "2025-09-20T18:24:27.609203",
+  "package_url": "https://pypi.org/project/eoap-cwlwrap/"
+}
