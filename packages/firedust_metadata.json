@@ -1,0 +1,11 @@
+{
+  "name": "firedust",
+  "version": "0.0.72",
+  "summary": "A simple framework to build and deploy AI tools.",
+  "author": "ion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firedust-0.0.72.tar.gz",
+  "download_time": "2025-09-20T14:16:37.663869",
+  "package_url": "https://pypi.org/project/firedust/"
+}

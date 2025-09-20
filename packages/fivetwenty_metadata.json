@@ -1,0 +1,11 @@
+{
+  "name": "fivetwenty",
+  "version": "0.1.0",
+  "summary": "Simple, elegant Python client for OANDA's REST API v20",
+  "author": "FiveTwenty Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fivetwenty-0.1.0.tar.gz",
+  "download_time": "2025-09-20T14:16:52.985419",
+  "package_url": "https://pypi.org/project/fivetwenty/"
+}

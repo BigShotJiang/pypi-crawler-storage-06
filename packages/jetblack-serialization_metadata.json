@@ -1,11 +1,11 @@
 {
   "name": "jetblack-serialization",
-  "version": "4.0.12",
-  "summary": "Serialization for JSON and XML using typing",
+  "version": "4.0.13",
+  "summary": "Serialization for JSON, YAML and XML using typing",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jetblack_serialization-4.0.12.tar.gz",
-  "download_time": "2025-09-20T09:52:18.238434",
+  "download_filename": "jetblack_serialization-4.0.13.tar.gz",
+  "download_time": "2025-09-20T14:16:29.944403",
   "package_url": "https://pypi.org/project/jetblack-serialization/"
 }
