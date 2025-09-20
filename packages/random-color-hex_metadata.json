@@ -1,0 +1,11 @@
+{
+  "name": "random-color-hex",
+  "version": "1.0",
+  "summary": "Generate random CSS-style hex colors",
+  "author": "Nathan Honn",
+  "license": "Unlicense",
+  "home_page": "https://github.com/BobSanders64/RandomColorHex",
+  "download_filename": "random_color_hex-1.0.tar.gz",
+  "download_time": "2025-09-20T03:18:49.918148",
+  "package_url": "https://pypi.org/project/random-color-hex/"
+}

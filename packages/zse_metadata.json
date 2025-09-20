@@ -1,0 +1,11 @@
+{
+  "name": "zse",
+  "version": "1.4.0",
+  "summary": "A CLI tool that allows UNSW students to submit work to CSE machines.",
+  "author": "Kareem Agha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zse-1.4.0.tar.gz",
+  "download_time": "2025-09-20T03:18:52.801488",
+  "package_url": "https://pypi.org/project/zse/"
+}

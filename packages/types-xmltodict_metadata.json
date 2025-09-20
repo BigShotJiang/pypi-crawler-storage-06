@@ -1,0 +1,11 @@
+{
+  "name": "types-xmltodict",
+  "version": "1.0.1.20250920",
+  "summary": "Typing stubs for xmltodict",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_xmltodict-1.0.1.20250920.tar.gz",
+  "download_time": "2025-09-20T03:19:04.090181",
+  "package_url": "https://pypi.org/project/types-xmltodict/"
+}
