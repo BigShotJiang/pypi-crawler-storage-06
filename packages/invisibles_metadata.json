@@ -1,0 +1,11 @@
+{
+  "name": "invisibles",
+  "version": "0.1.0",
+  "summary": "A modern Python library for transparent object proxying",
+  "author": "Gor Arakelyan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "invisibles-0.1.0.tar.gz",
+  "download_time": "2025-09-20T10:40:49.476260",
+  "package_url": "https://pypi.org/project/invisibles/"
+}

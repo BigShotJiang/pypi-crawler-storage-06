@@ -1,11 +1,11 @@
 {
   "name": "dom-locator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Library for interacting with XML and HTML DOM ",
   "author": "Vinicius Benevides",
   "license": "MIT",
   "home_page": "https://github.com/VBenevides/dom-locator",
-  "download_filename": "dom_locator-0.0.1-py3-none-any.whl",
-  "download_time": "2025-09-19T01:24:57.756544",
+  "download_filename": "dom_locator-0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-20T10:40:56.511721",
   "package_url": "https://pypi.org/project/dom-locator/"
 }

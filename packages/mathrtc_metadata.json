@@ -1,11 +1,11 @@
 {
   "name": "mathrtc",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "A sample package published using Flit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mathrtc-0.1.12.tar.gz",
-  "download_time": "2025-09-18T02:44:00.947975",
+  "download_filename": "mathrtc-0.1.13.tar.gz",
+  "download_time": "2025-09-20T10:40:46.208150",
   "package_url": "https://pypi.org/project/mathrtc/"
 }

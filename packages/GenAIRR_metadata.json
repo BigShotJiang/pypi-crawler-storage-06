@@ -1,0 +1,11 @@
+{
+  "name": "GenAIRR",
+  "version": "0.6.0",
+  "summary": "An advanced immunoglobulin sequence simulation suite for benchmarking alignment models and sequence analysis.",
+  "author": "Thomas Konstantinovsky & Ayelet Peres",
+  "license": null,
+  "home_page": "https://github.com/MuteJester/GenAIRR",
+  "download_filename": "genairr-0.6.0.tar.gz",
+  "download_time": "2025-09-20T10:40:52.291921",
+  "package_url": "https://pypi.org/project/GenAIRR/"
+}

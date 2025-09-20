@@ -1,0 +1,11 @@
+{
+  "name": "decunicoder",
+  "version": "1.0.0",
+  "summary": "A Unicode encoding and decoding utility library",
+  "author": "SuperAssi2025",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decunicoder-1.0.0.tar.gz",
+  "download_time": "2025-09-20T10:40:57.557156",
+  "package_url": "https://pypi.org/project/decunicoder/"
+}
