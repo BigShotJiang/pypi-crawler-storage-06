@@ -1,0 +1,11 @@
+{
+  "name": "zyren-unit-converter",
+  "version": "0.1.2",
+  "summary": "مكتبة لتحويل الوحدات (طول، وزن، حجم، حرارة، زمن)",
+  "author": "Zyren_King",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zyren_unit_converter-0.1.2.tar.gz",
+  "download_time": "2025-09-20T08:43:55.306024",
+  "package_url": "https://pypi.org/project/zyren-unit-converter/"
+}

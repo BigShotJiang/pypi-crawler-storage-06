@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T08:23:39.777164
-- **Total Packages**: 83
-- **Total Size**: 4.86 MB
+- **Download Time**: 2025-09-20T08:44:40.899629
+- **Total Packages**: 76
+- **Total Size**: 1.18 MB
 
 ## Packages List
+- zyren-unit-converter
+- pygeoinf
+- authentik-client
+- django-activity-audit
+- pybibtexer
+- as-envhelper
+- mcp-openstack-ops
+- masai-framework
+- xrscipy
+- symmetria-core
+- pydolce
+- kuzu
+- beeai-cli
+- dv-pipecat-ai
+- ModulePyConText
+- beeai-sdk
+- pyformatjson
+- aditor
+- infoblox-discovery
+- tabnn
+- cpp-chunker
+- github-action-toolkit
+- nemo-library-etl
+- lark-sheet-mcp
+- demodapk
+- ai-ebash
+- dao-treasury
 - NWinPy
 - life3d-rgb
 - kivy-deps.sdl3-dev
@@ -19,7 +46,6 @@
 - taku-cli
 - AbstractSwarm
 - CodeVideoRenderer
-- authentik-client
 - ean-tools
 - pyglove
 - colt
@@ -35,8 +61,6 @@
 - datatailr
 - bool-hybrid-array
 - robotframework-schemathesislibrary
-- aditor
-- symmetria-core
 - cppref
 - qpuiq
 - cs-models
@@ -57,35 +81,4 @@
 - falsa
 - gapless-crypto-data
 - pyadvtools
-- nemo-library-etl
 - restep
-- stac-mcp
-- agentlab-py
-- better-jupyter-mcp-server
-- byzh-extra
-- smb2-gym
-- AutoRAG
-- yellhorn-mcp
-- underthesea
-- binance-sdk
-- viyv-mcp
-- nixa
-- unique_toolkit
-- netgen-mesher
-- gaussdb
-- isort-gaussdb
-- gaussdb-pool
-- odoo-addon-account-invoice-line-report
-- ddump
-- nixie
-- T5SummaryPratik
-- tritonparse
-- onnxscript
-- pinybytecnn
-- voxcity
-- array-record-python
-- oelint-data
-- konserve
-- mcp-sharepoint
-- proxyproviders
-- sutrakit

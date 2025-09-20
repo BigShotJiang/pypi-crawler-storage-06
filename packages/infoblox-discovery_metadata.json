@@ -1,0 +1,11 @@
+{
+  "name": "infoblox-discovery",
+  "version": "0.3.0",
+  "summary": "A Prometheus file and http discovery for infoblox",
+  "author": "thenodon",
+  "license": "GPLv3",
+  "home_page": "https://github.com/thenodon/infoblox_discovery",
+  "download_filename": "infoblox_discovery-0.3.0.tar.gz",
+  "download_time": "2025-09-20T08:44:06.463829",
+  "package_url": "https://pypi.org/project/infoblox-discovery/"
+}
