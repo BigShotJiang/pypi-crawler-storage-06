@@ -1,0 +1,11 @@
+{
+  "name": "foundationdb",
+  "version": "7.4.5",
+  "summary": "Python bindings for the FoundationDB Database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foundationdb-7.4.5.tar.gz",
+  "download_time": "2025-09-20T23:38:31.434062",
+  "package_url": "https://pypi.org/project/foundationdb/"
+}

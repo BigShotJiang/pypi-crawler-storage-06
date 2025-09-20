@@ -1,11 +1,11 @@
 {
   "name": "crankpy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python Components with Generators - A Python wrapper for Crank.js bringing JSX-like syntax to PyScript",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crankpy-0.1.0.tar.gz",
-  "download_time": "2025-09-20T11:27:14.820219",
+  "download_filename": "crankpy-0.1.1.tar.gz",
+  "download_time": "2025-09-20T23:38:33.008219",
   "package_url": "https://pypi.org/project/crankpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jupyter-kernel-handler",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Jupyter Kernel Handler: Cell Execution Monitor with colored output and custom hooks",
   "author": "Dataxcelerator",
   "license": "MIT",
   "home_page": "https://github.com/Dataxcelerator/jupyter_kernel_handler",
-  "download_filename": "jupyter_kernel_handler-0.1.3.tar.gz",
-  "download_time": "2025-09-20T22:17:07.020985",
+  "download_filename": "jupyter_kernel_handler-0.1.4.tar.gz",
+  "download_time": "2025-09-20T23:38:30.394309",
   "package_url": "https://pypi.org/project/jupyter-kernel-handler/"
 }

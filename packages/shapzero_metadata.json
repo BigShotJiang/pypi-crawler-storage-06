@@ -1,0 +1,11 @@
+{
+  "name": "shapzero",
+  "version": "0.0.2",
+  "summary": "A Python package for explaining biological sequence models using Shapley values and interactions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shapzero-0.0.2.tar.gz",
+  "download_time": "2025-09-20T23:38:19.955731",
+  "package_url": "https://pypi.org/project/shapzero/"
+}

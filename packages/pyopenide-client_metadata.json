@@ -1,0 +1,11 @@
+{
+  "name": "pyopenide-client",
+  "version": "1.1.1",
+  "summary": "Упрощенные клиенты для OpenIDE с разными уровнями простоты синтаксиса",
+  "author": "OpenIDE Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openide/pyopenide-client",
+  "download_filename": "pyopenide_client-1.1.1.tar.gz",
+  "download_time": "2025-09-20T23:38:24.168982",
+  "package_url": "https://pypi.org/project/pyopenide-client/"
+}
