@@ -1,13 +1,19 @@
 {
-  "download_time": "2025-09-20T07:43:05.015650",
+  "download_time": "2025-09-20T07:52:31.026183",
   "total_packages_downloaded": 79,
-  "total_size_mb": 9.22,
+  "total_size_mb": 1.64,
   "packages": [
+    "cppref",
+    "qpuiq",
+    "cs-models",
+    "aniworld",
+    "authentik-client",
+    "otp-cli-utils",
+    "tinyflux",
     "youku-video-download-mcp",
     "mineru",
     "greeum",
     "flux-sci-lang",
-    "authentik-client",
     "jndataset-down",
     "confidential-router",
     "odoo-addon-l10n-es-atc",
@@ -21,7 +27,6 @@
     "nemo-library-etl",
     "restep",
     "aditor",
-    "tinyflux",
     "stac-mcp",
     "agentlab-py",
     "better-jupyter-mcp-server",
@@ -76,11 +81,6 @@
     "greenremover",
     "archie-cli",
     "rigour",
-    "cppref",
-    "liteevallogger",
-    "tsbuddy",
-    "life3d-rgb",
-    "pyscn",
-    "evonet"
+    "liteevallogger"
   ]
 }

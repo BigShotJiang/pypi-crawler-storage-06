@@ -1,16 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T07:43:05.015650
+- **Download Time**: 2025-09-20T07:52:31.026183
 - **Total Packages**: 79
-- **Total Size**: 9.22 MB
+- **Total Size**: 1.64 MB
 
 ## Packages List
+- cppref
+- qpuiq
+- cs-models
+- aniworld
+- authentik-client
+- otp-cli-utils
+- tinyflux
 - youku-video-download-mcp
 - mineru
 - greeum
 - flux-sci-lang
-- authentik-client
 - jndataset-down
 - confidential-router
 - odoo-addon-l10n-es-atc
@@ -24,7 +30,6 @@
 - nemo-library-etl
 - restep
 - aditor
-- tinyflux
 - stac-mcp
 - agentlab-py
 - better-jupyter-mcp-server
@@ -79,9 +84,4 @@
 - greenremover
 - archie-cli
 - rigour
-- cppref
 - liteevallogger
-- tsbuddy
-- life3d-rgb
-- pyscn
-- evonet

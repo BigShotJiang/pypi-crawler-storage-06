@@ -1,11 +1,11 @@
 {
   "name": "tinyflux",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "The Tiny Time-Series Database Optimized for Your Happiness",
   "author": "Justin Fung",
   "license": null,
   "home_page": "https://github.com/citrusvanilla/tinyflux",
-  "download_filename": "tinyflux-1.1.0.tar.gz",
-  "download_time": "2025-09-20T07:42:28.809951",
+  "download_filename": "tinyflux-1.1.1.tar.gz",
+  "download_time": "2025-09-20T07:51:52.639040",
   "package_url": "https://pypi.org/project/tinyflux/"
 }
