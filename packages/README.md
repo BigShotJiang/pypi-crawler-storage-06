@@ -1,19 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T05:53:00.006914
-- **Total Packages**: 77
-- **Total Size**: 12.91 MB
+- **Download Time**: 2025-09-20T06:27:39.214362
+- **Total Packages**: 72
+- **Total Size**: 9.1 MB
 
 ## Packages List
-- partitura
-- authentik-client
-- pyzurecli
+- pygeoinf
+- tsbuddy
+- pyadvtools
+- wagtail-tw-blocks
+- selenium-browserkit
+- xloft
+- underthesea
+- scruby
+- ramifice
+- quantum-loop
+- ai-edge-litert-nightly
+- maai
+- counted-float
+- fake-bpy-module
+- cdk8s-awscdk-resolver
+- fake-bpy-module-latest
+- tcpping-mcp-server
 - archie-cli
+- django-jaeger-middleware-plus
+- analogic-framework
+- calculate-tool-lengyue1084
+- fastmssql
+- authentik-client
+- gradupe
+- pyg-nightly
+- waypanel
+- git-mcp-server
+- ir-sim
+- appmesh
+- konami-mcp-demo
+- mpl-ascii
+- opthub_runner_admin
+- fca-unofficial
+- struct_post
+- partitura
+- pyzurecli
 - blues-lib
 - gondola
 - a-stock-mcp-server
-- struct_post
 - sutrakit
 - vizly
 - DictSQLite
@@ -26,7 +57,6 @@
 - uvicorn-hmr
 - mdhk
 - yacscript
-- django-jaeger-middleware-plus
 - voylla
 - xcpcio
 - airbyte
@@ -48,38 +78,3 @@
 - ut-eviq
 - pytest-homeassistant-custom-component
 - lark-sheet-mcp
-- mcp-as-a-judge
-- google-analytics-mcp
-- pauc
-- insight-cli-sarang
-- shellviz
-- keepercommander
-- klotho-cac
-- tiny-scientist
-- DBSamizdat
-- pygremlinbox-unlicense
-- pygremlinbox-osl-3-0
-- pygremlinbox-mpl-2-0
-- pygremlinbox-lgpl-3-0
-- pygremlinbox-lgpl-2-1
-- pygremlinbox-gpl-3-0
-- opthub_runner_admin
-- pygremlinbox-gpl-2-0
-- pygremlinbox-eupl-1-2
-- pygremlinbox-epl-2-0
-- pygremlinbox-cc-by-sa-4-0
-- pygremlinbox-apsl
-- pygremlinbox-agpl-3-0
-- pygremlinbox-agpl-2-0
-- eth-event
-- deepmcp
-- jbag
-- iamdata
-- wxauto
-- package-test1
-- secfsdstools
-- shipit-cli
-- adf2stowf
-- cml-mcp
-- ultrapyup
-- tm-devices

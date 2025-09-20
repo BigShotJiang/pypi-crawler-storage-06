@@ -1,11 +1,11 @@
 {
   "name": "wagtail-tw-blocks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A collection of reusable, production-ready content blocks for Wagtail CMS, styled with Tailwind CSS and daisyUI.",
   "author": "Yousef Abu Shanab",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wagtail_tw_blocks-0.1.1.tar.gz",
-  "download_time": "2025-09-18T06:50:05.508830",
+  "download_filename": "wagtail_tw_blocks-0.1.2.tar.gz",
+  "download_time": "2025-09-20T06:27:00.817015",
   "package_url": "https://pypi.org/project/wagtail-tw-blocks/"
 }
