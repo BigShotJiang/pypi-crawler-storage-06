@@ -1,0 +1,11 @@
+{
+  "name": "coolprop",
+  "version": "7.1.0",
+  "summary": "Open-source thermodynamic and transport properties database",
+  "author": "Ian Bell",
+  "license": null,
+  "home_page": "http://www.coolprop.org",
+  "download_filename": "coolprop-7.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-20T19:25:18.906695",
+  "package_url": "https://pypi.org/project/coolprop/"
+}

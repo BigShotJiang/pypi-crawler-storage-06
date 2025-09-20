@@ -1,0 +1,11 @@
+{
+  "name": "connix",
+  "version": "1.27",
+  "summary": "Connix is a general purpose Python 3.x library that contains a lot of commonly done operations inside of a single package.",
+  "author": "Patrick Lambert",
+  "license": "MIT",
+  "home_page": "https://dendory.net",
+  "download_filename": "connix-1.27.tar.gz",
+  "download_time": "2025-09-20T19:25:12.044223",
+  "package_url": "https://pypi.org/project/connix/"
+}
