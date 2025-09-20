@@ -1,11 +1,11 @@
 {
   "name": "sw-mc-builder",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Framework for building Stormworks microcontrollers",
   "author": "Fabian Wunsch",
   "license": null,
   "home_page": null,
-  "download_filename": "sw_mc_builder-0.0.8.tar.gz",
-  "download_time": "2025-09-20T14:16:38.199112",
+  "download_filename": "sw_mc_builder-0.0.9.tar.gz",
+  "download_time": "2025-09-20T19:52:29.759561",
   "package_url": "https://pypi.org/project/sw-mc-builder/"
 }

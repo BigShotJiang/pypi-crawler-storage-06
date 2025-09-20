@@ -1,0 +1,11 @@
+{
+  "name": "rattail-tempmon",
+  "version": "0.4.7",
+  "summary": "Retail Software Framework - Temperature monitoring add-on",
+  "author": null,
+  "license": "GNU GPL v3+",
+  "home_page": null,
+  "download_filename": "rattail_tempmon-0.4.7.tar.gz",
+  "download_time": "2025-09-20T19:52:30.806702",
+  "package_url": "https://pypi.org/project/rattail-tempmon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rattail-mailchimp",
+  "version": "0.3.4",
+  "summary": "Rattail Software Interfaces for MailChimp",
+  "author": null,
+  "license": "GNU GPL v3+",
+  "home_page": null,
+  "download_filename": "rattail_mailchimp-0.3.4.tar.gz",
+  "download_time": "2025-09-20T19:52:36.087486",
+  "package_url": "https://pypi.org/project/rattail-mailchimp/"
+}
