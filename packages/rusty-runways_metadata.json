@@ -1,11 +1,11 @@
 {
   "name": "rusty-runways",
-  "version": "2.0.4",
+  "version": "2.2.1",
   "summary": "Python bindings for Rusty Runways",
   "author": "RustyRunways Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusty_runways-2.0.4.tar.gz",
-  "download_time": "2025-09-20T16:52:41.467671",
+  "download_filename": "rusty_runways-2.2.1.tar.gz",
+  "download_time": "2025-09-20T17:15:37.870202",
   "package_url": "https://pypi.org/project/rusty-runways/"
 }

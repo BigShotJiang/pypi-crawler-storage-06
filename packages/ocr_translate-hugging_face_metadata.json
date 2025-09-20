@@ -1,0 +1,11 @@
+{
+  "name": "ocr_translate-hugging_face",
+  "version": "0.4.0",
+  "summary": "Plugins to enable usage of HuggingFace Models in ocr_translate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_translate_hugging_face-0.4.0.tar.gz",
+  "download_time": "2025-09-20T17:15:30.835200",
+  "package_url": "https://pypi.org/project/ocr_translate-hugging_face/"
+}

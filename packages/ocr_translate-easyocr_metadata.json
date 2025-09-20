@@ -1,0 +1,11 @@
+{
+  "name": "ocr_translate-easyocr",
+  "version": "0.5.0",
+  "summary": "Plugins to enable usage of Easyocr in ocr_translate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_translate_easyocr-0.5.0.tar.gz",
+  "download_time": "2025-09-20T17:15:29.108199",
+  "package_url": "https://pypi.org/project/ocr_translate-easyocr/"
+}

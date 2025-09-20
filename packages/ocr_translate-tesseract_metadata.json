@@ -1,0 +1,11 @@
+{
+  "name": "ocr_translate-tesseract",
+  "version": "0.4.0",
+  "summary": "Plugin to implement tesseract OCR for ocr_translate.",
+  "author": "Davide Grassano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_translate_tesseract-0.4.0.tar.gz",
+  "download_time": "2025-09-20T17:15:28.015092",
+  "package_url": "https://pypi.org/project/ocr_translate-tesseract/"
+}
