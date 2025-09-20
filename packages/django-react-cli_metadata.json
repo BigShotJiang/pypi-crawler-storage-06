@@ -1,0 +1,11 @@
+{
+  "name": "django-react-cli",
+  "version": "1.0.0",
+  "summary": "A starter template for building full-stack web applications using Django (backend), React (frontend), and TailwindCSS. Comes pre-configured with REST API support, authentication, and ready-to-use development and production settings.",
+  "author": "code530pro",
+  "license": null,
+  "home_page": "https://github.com",
+  "download_filename": "django_react_cli-1.0.0.tar.gz",
+  "download_time": "2025-09-20T15:38:23.204331",
+  "package_url": "https://pypi.org/project/django-react-cli/"
+}

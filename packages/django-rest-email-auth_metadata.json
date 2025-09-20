@@ -1,0 +1,11 @@
+{
+  "name": "django-rest-email-auth",
+  "version": "5.0.0",
+  "summary": "Django app for email based authentication and registration via a REST API.",
+  "author": "Chathan Driehuys",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_rest_email_auth-5.0.0.tar.gz",
+  "download_time": "2025-09-20T15:38:38.330354",
+  "package_url": "https://pypi.org/project/django-rest-email-auth/"
+}

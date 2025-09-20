@@ -1,0 +1,11 @@
+{
+  "name": "augments-mcp-server",
+  "version": "2.0.5",
+  "summary": "Augments MCP Server - A comprehensive framework documentation provider for Claude Code",
+  "author": "augmnt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "augments_mcp_server-2.0.5.tar.gz",
+  "download_time": "2025-09-20T15:38:35.727031",
+  "package_url": "https://pypi.org/project/augments-mcp-server/"
+}

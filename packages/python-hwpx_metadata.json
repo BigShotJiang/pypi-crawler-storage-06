@@ -1,11 +1,11 @@
 {
   "name": "python-hwpx",
-  "version": "1.5",
+  "version": "1.7",
   "summary": "Hancom HWPX 패키지를 로드하고 편집하기 위한 Python 유틸리티 모음",
   "author": "python-hwpx Maintainers",
-  "license": "Non-Commercial License",
+  "license": "Non-Commercial License  Copyright (c) 2024 python-hwpx Maintainers  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to use, copy, modify, merge, publish, distribute, and sublicense the Software only for non-commercial purposes, subject to the following conditions:  1. Non-Commercial Use Only. The Software may be used, copied, modified, merged, published, distributed, and sublicensed only for non-commercial purposes. \"Non-Commercial\" means use that is not primarily intended for or directed toward commercial advantage, monetary compensation, or any form of direct or indirect commercial exploitation.  2. Attribution. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  3. No Warranty of Commercial Support. The maintainers are not obligated to provide commercial support, maintenance, or updates.  THIS SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  If you require permissions to use this Software for commercial purposes, please contact the copyright holders to negotiate an alternative licensing arrangement. ",
   "home_page": null,
-  "download_filename": "python-hwpx-1.5.tar.gz",
-  "download_time": "2025-09-20T13:32:07.198013",
+  "download_filename": "python_hwpx-1.7.tar.gz",
+  "download_time": "2025-09-20T15:38:11.236954",
   "package_url": "https://pypi.org/project/python-hwpx/"
 }
