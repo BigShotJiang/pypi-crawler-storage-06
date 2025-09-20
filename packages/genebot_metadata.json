@@ -1,11 +1,11 @@
 {
   "name": "genebot",
-  "version": "1.1.24",
+  "version": "1.1.26",
   "summary": "Advanced Multi-Market Trading Bot with Crypto & Forex Support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "genebot-1.1.24.tar.gz",
-  "download_time": "2025-09-20T20:19:19.460009",
+  "download_filename": "genebot-1.1.26.tar.gz",
+  "download_time": "2025-09-20T20:37:58.873678",
   "package_url": "https://pypi.org/project/genebot/"
 }

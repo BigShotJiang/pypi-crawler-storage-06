@@ -1,0 +1,11 @@
+{
+  "name": "chemotools",
+  "version": "0.2.0",
+  "summary": "chemotools: A Python Package that Integrates Chemometrics and scikit-learn",
+  "author": "Pau Cabaneros",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemotools-0.2.0.tar.gz",
+  "download_time": "2025-09-20T20:37:57.294156",
+  "package_url": "https://pypi.org/project/chemotools/"
+}

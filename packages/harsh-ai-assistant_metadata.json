@@ -1,11 +1,11 @@
 {
   "name": "harsh-ai-assistant",
-  "version": "0.1.2",
-  "summary": "Custom AI assistant with LangGraph",
-  "author": null,
+  "version": "0.1.3",
+  "summary": "A custom AI assistant using LangGraph and LangChain",
+  "author": "Harish Reddy",
   "license": null,
-  "home_page": null,
-  "download_filename": "harsh_ai_assistant-0.1.2.tar.gz",
-  "download_time": "2025-09-20T20:19:07.781988",
+  "home_page": "https://github.com/harishreddy17/Custom-AI-Assistant",
+  "download_filename": "harsh_ai_assistant-0.1.3.tar.gz",
+  "download_time": "2025-09-20T20:38:01.143261",
   "package_url": "https://pypi.org/project/harsh-ai-assistant/"
 }

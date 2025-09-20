@@ -1,11 +1,11 @@
 {
   "name": "reportlab-typesetting",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A library to simplify complex typesetting with ReportLab, featuring Japanese Kinsoku rules, automatic font switching, and block alignment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reportlab_typesetting-0.0.3.tar.gz",
-  "download_time": "2025-09-19T07:52:09.074289",
+  "download_filename": "reportlab_typesetting-0.0.4.tar.gz",
+  "download_time": "2025-09-20T20:38:03.220877",
   "package_url": "https://pypi.org/project/reportlab-typesetting/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "snkmt",
+  "version": "0.2.1",
+  "summary": "Realtime monitoring of Snakemake workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snkmt-0.2.1.tar.gz",
+  "download_time": "2025-09-20T20:37:58.346425",
+  "package_url": "https://pypi.org/project/snkmt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nuki-web-api",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Python wrapper for the Nuki Web API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuki_web_api-0.1.5.tar.gz",
-  "download_time": "2025-09-19T14:19:07.802731",
+  "download_filename": "nuki_web_api-0.1.6.tar.gz",
+  "download_time": "2025-09-20T20:37:56.731621",
   "package_url": "https://pypi.org/project/nuki-web-api/"
 }
