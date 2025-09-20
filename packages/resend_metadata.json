@@ -1,0 +1,11 @@
+{
+  "name": "resend",
+  "version": "2.14.0",
+  "summary": "Resend Python SDK",
+  "author": "Derich Pacheco",
+  "license": null,
+  "home_page": "https://github.com/resendlabs/resend-python",
+  "download_filename": "resend-2.14.0.tar.gz",
+  "download_time": "2025-09-20T01:21:39.985949",
+  "package_url": "https://pypi.org/project/resend/"
+}

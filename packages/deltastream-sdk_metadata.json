@@ -1,0 +1,11 @@
+{
+  "name": "deltastream-sdk",
+  "version": "0.1.1",
+  "summary": "Python SDK for DeltaStream, built on the DeltaStream Connector library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deltastream_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-20T01:21:38.915062",
+  "package_url": "https://pypi.org/project/deltastream-sdk/"
+}

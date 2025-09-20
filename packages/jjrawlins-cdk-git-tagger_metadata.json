@@ -1,11 +1,11 @@
 {
   "name": "jjrawlins-cdk-git-tagger",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "summary": "CDK Aspect to tag resources with git metadata.  This provides a nice connection between the construct and the git repository.",
   "author": "Jayson Rawlins<JaysonJ.Rawlins@gmail.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/JaysonRawlins/cdk-git-tagger.git",
-  "download_filename": "jjrawlins_cdk_git_tagger-0.0.25.tar.gz",
-  "download_time": "2025-09-19T01:24:48.447762",
+  "download_filename": "jjrawlins_cdk_git_tagger-0.0.26.tar.gz",
+  "download_time": "2025-09-20T01:21:14.100196",
   "package_url": "https://pypi.org/project/jjrawlins-cdk-git-tagger/"
 }
