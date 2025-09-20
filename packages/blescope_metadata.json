@@ -1,0 +1,11 @@
+{
+  "name": "blescope",
+  "version": "0.0.0",
+  "summary": "Like a telescope for Bluetooth Low Energy devices",
+  "author": "Lionel H",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blescope-0.0.0.tar.gz",
+  "download_time": "2025-09-20T16:21:24.587237",
+  "package_url": "https://pypi.org/project/blescope/"
+}

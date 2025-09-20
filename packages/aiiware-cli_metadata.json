@@ -1,11 +1,11 @@
 {
   "name": "aiiware-cli",
-  "version": "0.3.0",
-  "summary": "aii — AI × Intelligence companion for translate, code, write, explain & automate.",
+  "version": "0.3.7",
+  "summary": "Your all-in-one AI companion in the terminal — for translation, coding, git assistance, writing, explanation, analysis, and automation.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aiiware_cli-0.3.0.tar.gz",
-  "download_time": "2025-09-19T17:17:46.928389",
+  "download_filename": "aiiware_cli-0.3.7.tar.gz",
+  "download_time": "2025-09-20T16:21:37.423140",
   "package_url": "https://pypi.org/project/aiiware-cli/"
 }

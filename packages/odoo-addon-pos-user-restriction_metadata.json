@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-user-restriction",
+  "version": "17.0.1.0.0.7",
+  "summary": "Restrict some users to see and use only certain points of sale",
+  "author": "TAKOBI, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_user_restriction-17.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2025-09-20T16:21:42.200217",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-user-restriction/"
+}

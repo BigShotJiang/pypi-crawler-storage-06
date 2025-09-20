@@ -1,11 +1,11 @@
 {
   "name": "dj-admin-2fa",
-  "version": "0.0.2",
+  "version": "1.1.1",
   "summary": "Two-Factor Authentication for Django Admin with TOTP, backup codes, trusted devices, and more.",
   "author": "Suraj Patidar",
   "license": "MIT",
   "home_page": "https://github.com/SurajPysquad/dj-admin-2fa",
-  "download_filename": "dj_admin_2fa-0.0.2.tar.gz",
-  "download_time": "2025-09-18T09:51:29.728200",
+  "download_filename": "dj_admin_2fa-1.1.1.tar.gz",
+  "download_time": "2025-09-20T16:21:29.376716",
   "package_url": "https://pypi.org/project/dj-admin-2fa/"
 }
