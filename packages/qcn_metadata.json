@@ -1,0 +1,11 @@
+{
+  "name": "qcn",
+  "version": "0.1.0",
+  "summary": "Quick Commit Note - interactive commit message CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qcn-0.1.0.tar.gz",
+  "download_time": "2025-09-20T12:36:38.015406",
+  "package_url": "https://pypi.org/project/qcn/"
+}

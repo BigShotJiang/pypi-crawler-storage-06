@@ -1,0 +1,11 @@
+{
+  "name": "logurich",
+  "version": "0.1.0",
+  "summary": "A Python library combining Loguru and Rich for beautiful logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logurich-0.1.0.tar.gz",
+  "download_time": "2025-09-20T12:36:35.261452",
+  "package_url": "https://pypi.org/project/logurich/"
+}

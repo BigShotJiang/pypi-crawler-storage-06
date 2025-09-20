@@ -1,0 +1,11 @@
+{
+  "name": "conanex",
+  "version": "2.3.0",
+  "summary": "Conan Extended C/C++ package manager",
+  "author": "redradist",
+  "license": "MIT",
+  "home_page": "https://github.com/redradist/conanex",
+  "download_filename": "conanex-2.3.0-py3-none-any.whl",
+  "download_time": "2025-09-20T12:36:49.630254",
+  "package_url": "https://pypi.org/project/conanex/"
+}

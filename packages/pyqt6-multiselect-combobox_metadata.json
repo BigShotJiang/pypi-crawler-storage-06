@@ -1,0 +1,11 @@
+{
+  "name": "pyqt6-multiselect-combobox",
+  "version": "1.2.0",
+  "summary": "A custom PyQt6 widget providing a multi-select combobox functionality for PyQt6 applications.",
+  "author": "user0706",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyqt6_multiselect_combobox-1.2.0.tar.gz",
+  "download_time": "2025-09-20T12:36:40.111293",
+  "package_url": "https://pypi.org/project/pyqt6-multiselect-combobox/"
+}

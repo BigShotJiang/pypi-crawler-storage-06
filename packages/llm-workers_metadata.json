@@ -1,0 +1,11 @@
+{
+  "name": "llm-workers",
+  "version": "0.1.0rc12",
+  "summary": "Simple library and command-line tools for experimenting with LLMs",
+  "author": "Dmitry Mikhaylov",
+  "license": null,
+  "home_page": "https://github.com/MrBagheera/llm-workers",
+  "download_filename": "llm_workers-0.1.0rc12.tar.gz",
+  "download_time": "2025-09-20T12:36:43.255666",
+  "package_url": "https://pypi.org/project/llm-workers/"
+}
