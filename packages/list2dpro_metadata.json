@@ -1,0 +1,11 @@
+{
+  "name": "list2dpro",
+  "version": "0.1.0",
+  "summary": "A powerful 2D list manipulation library for Python, with special focus on game development utilities.",
+  "author": "FriskYan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "list2dpro-0.1.0.tar.gz",
+  "download_time": "2025-09-20T11:15:18.312420",
+  "package_url": "https://pypi.org/project/list2dpro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyscratch-lobotmy2012",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Scratch-like game engine built with Pygame",
   "author": null,
   "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Lobotomy2012\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"PyScratch\"), to deal\r\n        in PyScratch without restriction, including without limitation the rights\r\n        to use, copy the Pyscratch, and to permit persons to whom PyScratch is\r\n        furnished to do so, subject to the following conditions:\r\n        \r\n        The above copyright notice and this permission notice shall be included in all\r\n        copies or substantial portions of PyScratch.\r\n        \r\n        PYSCRATCH IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\n        SOFTWARE.\r\n        ",
   "home_page": null,
-  "download_filename": "pyscratch_lobotmy2012-0.1.3.tar.gz",
-  "download_time": "2025-09-20T09:52:15.123060",
+  "download_filename": "pyscratch_lobotmy2012-0.1.4.tar.gz",
+  "download_time": "2025-09-20T11:15:18.825442",
   "package_url": "https://pypi.org/project/pyscratch-lobotmy2012/"
 }

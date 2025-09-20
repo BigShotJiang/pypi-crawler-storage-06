@@ -1,11 +1,11 @@
 {
   "name": "openfund-maker",
-  "version": "2.5.3",
+  "version": "2.5.5",
   "summary": "Openfund-maker.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openfund_maker-2.5.3.tar.gz",
-  "download_time": "2025-09-17T12:39:07.920398",
+  "download_filename": "openfund_maker-2.5.5.tar.gz",
+  "download_time": "2025-09-20T11:15:22.266909",
   "package_url": "https://pypi.org/project/openfund-maker/"
 }
