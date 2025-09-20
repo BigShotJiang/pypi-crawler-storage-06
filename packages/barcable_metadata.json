@@ -1,0 +1,11 @@
+{
+  "name": "barcable",
+  "version": "0.1.0",
+  "summary": "Barcable SDK but keeps langfuse as import",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "barcable-0.1.0.tar.gz",
+  "download_time": "2025-09-20T03:45:34.756194",
+  "package_url": "https://pypi.org/project/barcable/"
+}

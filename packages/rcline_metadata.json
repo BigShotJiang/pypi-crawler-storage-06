@@ -1,11 +1,11 @@
 {
   "name": "rcline",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A 2D simulation package for cat and line interaction with collision detection",
   "author": null,
   "license": "Apache",
   "home_page": null,
-  "download_filename": "rcline-0.3.0.tar.gz",
-  "download_time": "2025-09-19T14:54:25.018733",
+  "download_filename": "rcline-0.4.0.tar.gz",
+  "download_time": "2025-09-20T03:45:37.890444",
   "package_url": "https://pypi.org/project/rcline/"
 }
