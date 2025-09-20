@@ -1,11 +1,11 @@
 {
   "name": "gradio-agents",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "gradio for academic agents studio",
   "author": "AIOAGI",
   "license": null,
   "home_page": "https://github.com/AcademicAgentsStudio",
-  "download_filename": "gradio_agents-1.0.3.tar.gz",
-  "download_time": "2025-09-20T12:36:32.124118",
+  "download_filename": "gradio_agents-1.0.5.tar.gz",
+  "download_time": "2025-09-20T13:32:06.635581",
   "package_url": "https://pypi.org/project/gradio-agents/"
 }

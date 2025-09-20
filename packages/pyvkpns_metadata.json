@@ -1,11 +1,11 @@
 {
   "name": "pyvkpns",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Client to send push notifications via VKPNS api",
   "author": "Timofei Ivankov",
   "license": "MIT",
   "home_page": "https://github.com/deadlovelll/pyvkpns",
-  "download_filename": "pyvkpns-0.1.1.tar.gz",
-  "download_time": "2025-09-20T13:05:42.554029",
+  "download_filename": "pyvkpns-0.1.2.tar.gz",
+  "download_time": "2025-09-20T13:32:05.538990",
   "package_url": "https://pypi.org/project/pyvkpns/"
 }

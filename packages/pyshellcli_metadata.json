@@ -1,11 +1,11 @@
 {
   "name": "pyshellcli",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "PyShell is a lightweight Python-based CLI that enhances the terminal experience with system commands, automation, advance math tools, Artifical Intelligence and network utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyshellcli-1.4.2.tar.gz",
-  "download_time": "2025-09-20T11:15:13.686118",
+  "download_filename": "pyshellcli-1.4.3.tar.gz",
+  "download_time": "2025-09-20T13:32:02.010745",
   "package_url": "https://pypi.org/project/pyshellcli/"
 }

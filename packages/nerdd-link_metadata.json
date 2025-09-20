@@ -1,0 +1,11 @@
+{
+  "name": "nerdd-link",
+  "version": "0.5.4",
+  "summary": "Run a NERDD module as a service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nerdd_link-0.5.4.tar.gz",
+  "download_time": "2025-09-20T13:31:57.122924",
+  "package_url": "https://pypi.org/project/nerdd-link/"
+}

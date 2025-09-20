@@ -1,11 +1,11 @@
 {
   "name": "bdns-fetch",
-  "version": "3.1.7",
+  "version": "3.1.3",
   "summary": "Python client and CLI to fetch data from the Base de Datos Nacional de Subvenciones (BDNS)",
   "author": "José María Cruz Lorite",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "bdns_fetch-3.1.7.tar.gz",
-  "download_time": "2025-09-19T23:38:36.043213",
+  "download_filename": "bdns_fetch-3.1.3.tar.gz",
+  "download_time": "2025-09-20T13:31:53.269604",
   "package_url": "https://pypi.org/project/bdns-fetch/"
 }
