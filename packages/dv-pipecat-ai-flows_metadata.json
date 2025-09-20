@@ -1,0 +1,11 @@
+{
+  "name": "dv-pipecat-ai-flows",
+  "version": "0.0.22.dev103",
+  "summary": "Conversation Flow management for Pipecat AI applications",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "dv_pipecat_ai_flows-0.0.22.dev103.tar.gz",
+  "download_time": "2025-09-20T08:54:38.043819",
+  "package_url": "https://pypi.org/project/dv-pipecat-ai-flows/"
+}

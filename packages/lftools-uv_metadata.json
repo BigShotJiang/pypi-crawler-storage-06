@@ -1,0 +1,11 @@
+{
+  "name": "lftools-uv",
+  "version": "0.1.5",
+  "summary": "Linux Foundation Release Engineering Tools",
+  "author": null,
+  "license": "EPL-1.0 OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "lftools_uv-0.1.5.tar.gz",
+  "download_time": "2025-09-20T08:54:35.033423",
+  "package_url": "https://pypi.org/project/lftools-uv/"
+}

@@ -1,13 +1,18 @@
 {
-  "download_time": "2025-09-20T08:44:40.899629",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 1.18,
+  "download_time": "2025-09-20T08:55:17.529578",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 13.87,
   "packages": [
+    "lftools-uv",
+    "pybibtexer",
+    "ai-ebash",
+    "tfp-nightly",
+    "yeref",
+    "dv-pipecat-ai-flows",
     "zyren-unit-converter",
     "pygeoinf",
     "authentik-client",
     "django-activity-audit",
-    "pybibtexer",
     "as-envhelper",
     "mcp-openstack-ops",
     "masai-framework",
@@ -28,7 +33,6 @@
     "nemo-library-etl",
     "lark-sheet-mcp",
     "demodapk",
-    "ai-ebash",
     "dao-treasury",
     "NWinPy",
     "life3d-rgb",
@@ -49,7 +53,6 @@
     "typer",
     "typer-cli",
     "typer-slim",
-    "yeref",
     "llmasajudge",
     "base-api-utils",
     "bilibili-video-download-mcp",
@@ -77,7 +80,6 @@
     "antchain-gesaas",
     "falsa",
     "gapless-crypto-data",
-    "pyadvtools",
-    "restep"
+    "pyadvtools"
   ]
 }
