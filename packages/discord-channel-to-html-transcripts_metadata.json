@@ -1,0 +1,11 @@
+{
+  "name": "discord-channel-to-html-transcripts",
+  "version": "0.0.7",
+  "summary": "A simple Discord chat exporter for Python Discord bots.",
+  "author": "Xougui",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "discord_channel_to_html_transcripts-0.0.7.tar.gz",
+  "download_time": "2025-09-20T17:29:03.036677",
+  "package_url": "https://pypi.org/project/discord-channel-to-html-transcripts/"
+}

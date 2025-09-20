@@ -1,0 +1,11 @@
+{
+  "name": "can-waveshare",
+  "version": "0.1.0",
+  "summary": "python-can backend for Waveshare 2-CH-CAN-TO-ETH (13-byte TCP wire format over TCP)",
+  "author": "Klaudiusz Staniek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "can_waveshare-0.1.0.tar.gz",
+  "download_time": "2025-09-20T17:28:54.846501",
+  "package_url": "https://pypi.org/project/can-waveshare/"
+}

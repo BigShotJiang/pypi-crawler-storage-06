@@ -1,0 +1,11 @@
+{
+  "name": "bayesgm",
+  "version": "0.3.0",
+  "summary": "An AI-powered Bayesian generative modeling approach",
+  "author": "Qiao Liu",
+  "license": null,
+  "home_page": "https://github.com/SUwonglab/CausalBGM",
+  "download_filename": "bayesgm-0.3.0.tar.gz",
+  "download_time": "2025-09-20T17:29:04.767869",
+  "package_url": "https://pypi.org/project/bayesgm/"
+}

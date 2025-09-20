@@ -1,11 +1,11 @@
 {
   "name": "ocr_translate-paddle",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Plugins to enable usage of PaddleOCR in ocr_translate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ocr_translate_paddle-0.3.0.tar.gz",
-  "download_time": "2025-09-20T17:15:26.453555",
+  "download_filename": "ocr_translate_paddle-0.3.1.tar.gz",
+  "download_time": "2025-09-20T17:29:11.336951",
   "package_url": "https://pypi.org/project/ocr_translate-paddle/"
 }
