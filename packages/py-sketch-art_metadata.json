@@ -1,0 +1,11 @@
+{
+  "name": "py-sketch-art",
+  "version": "0.0.2",
+  "summary": "A Python library for animating drawings of images and generating ASCII art.",
+  "author": "Mr Mystery (Original) & Manus AI (Refactoring)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_sketch_art-0.0.2.tar.gz",
+  "download_time": "2025-09-20T20:52:15.922728",
+  "package_url": "https://pypi.org/project/py-sketch-art/"
+}

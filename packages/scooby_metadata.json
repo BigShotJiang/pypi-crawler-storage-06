@@ -1,0 +1,11 @@
+{
+  "name": "scooby",
+  "version": "0.10.2",
+  "summary": "A Great Dane turned Python environment detective",
+  "author": "Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors",
+  "license": null,
+  "home_page": "https://github.com/banesullivan/scooby",
+  "download_filename": "scooby-0.10.2.tar.gz",
+  "download_time": "2025-09-20T20:52:12.755704",
+  "package_url": "https://pypi.org/project/scooby/"
+}
