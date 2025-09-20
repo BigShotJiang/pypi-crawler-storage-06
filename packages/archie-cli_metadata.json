@@ -1,11 +1,11 @@
 {
   "name": "archie-cli",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "summary": "A command line tool to make managing your Linux system easier",
   "author": "Helix128",
   "license": null,
   "home_page": null,
-  "download_filename": "archie_cli-0.6.3.tar.gz",
-  "download_time": "2025-09-20T21:28:17.725675",
+  "download_filename": "archie_cli-0.6.4.tar.gz",
+  "download_time": "2025-09-20T21:52:23.407415",
   "package_url": "https://pypi.org/project/archie-cli/"
 }

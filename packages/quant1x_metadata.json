@@ -1,11 +1,11 @@
 {
   "name": "quant1x",
-  "version": "0.6.61",
+  "version": "0.6.62",
   "summary": "Quant1X量化研究",
   "author": "wangfeng",
   "license": "Apache 2.0 license",
   "home_page": "https://gitee.com/quant1x/quant1x",
-  "download_filename": "quant1x-0.6.61.tar.gz",
-  "download_time": "2025-09-20T15:38:14.875775",
+  "download_filename": "quant1x-0.6.62.tar.gz",
+  "download_time": "2025-09-20T21:52:22.895622",
   "package_url": "https://pypi.org/project/quant1x/"
 }

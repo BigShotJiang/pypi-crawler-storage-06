@@ -1,11 +1,11 @@
 {
   "name": "grasp_agents",
-  "version": "0.5.22",
+  "version": "0.5.23",
   "summary": "Grasp Agents Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "grasp_agents-0.5.22.tar.gz",
-  "download_time": "2025-09-20T20:19:10.996581",
+  "download_filename": "grasp_agents-0.5.23.tar.gz",
+  "download_time": "2025-09-20T21:52:18.727189",
   "package_url": "https://pypi.org/project/grasp_agents/"
 }
