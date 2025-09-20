@@ -1,11 +1,11 @@
 {
   "name": "filoma",
-  "version": "1.7.7",
+  "version": "1.8.1",
   "summary": "Modular Python tool for profiling files, analyzing directory structures, and inspecting image data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filoma-1.7.7.tar.gz",
-  "download_time": "2025-09-20T21:52:23.951405",
+  "download_filename": "filoma-1.8.1.tar.gz",
+  "download_time": "2025-09-20T22:53:08.312567",
   "package_url": "https://pypi.org/project/filoma/"
 }

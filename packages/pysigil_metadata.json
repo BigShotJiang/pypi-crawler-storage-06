@@ -1,0 +1,11 @@
+{
+  "name": "pysigil",
+  "version": "0.6.0",
+  "summary": "Settings manager with layered scopes and tuple-key internals",
+  "author": "Tim Marquart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysigil-0.6.0.tar.gz",
+  "download_time": "2025-09-20T22:53:07.777867",
+  "package_url": "https://pypi.org/project/pysigil/"
+}
