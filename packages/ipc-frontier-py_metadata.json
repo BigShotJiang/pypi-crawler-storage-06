@@ -1,11 +1,11 @@
 {
   "name": "ipc-frontier-py",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Benchmarks comparing Python concurrency models--threads, Queue-based multiprocessing, and SharedMemory-based multiprocessing--for moving and processing NumPy arrays.",
   "author": "Ryan Wallace",
   "license": null,
   "home_page": null,
-  "download_filename": "ipc_frontier_py-0.1.7.tar.gz",
-  "download_time": "2025-09-20T04:02:14.092399",
+  "download_filename": "ipc_frontier_py-0.1.8.tar.gz",
+  "download_time": "2025-09-20T04:22:54.656154",
   "package_url": "https://pypi.org/project/ipc-frontier-py/"
 }

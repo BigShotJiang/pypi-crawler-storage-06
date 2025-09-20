@@ -1,0 +1,11 @@
+{
+  "name": "saudi-regions-widget-py",
+  "version": "2.0.0",
+  "summary": "A Python library for Saudi Arabia regions, cities, and districts data.",
+  "author": "Manus AI (Original by Younis Dany)",
+  "license": null,
+  "home_page": "https://github.com/YounisDany/saudi-regions-widget-py",
+  "download_filename": "saudi_regions_widget_py-2.0.0.tar.gz",
+  "download_time": "2025-09-20T04:22:44.769104",
+  "package_url": "https://pypi.org/project/saudi-regions-widget-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ut-xls",
-  "version": "1.4.6.20250919",
+  "version": "1.4.6.20250920",
   "summary": "Utilities for Excel files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ut_xls-1.4.6.20250919.tar.gz",
-  "download_time": "2025-09-19T14:19:17.231082",
+  "download_filename": "ut_xls-1.4.6.20250920.tar.gz",
+  "download_time": "2025-09-20T04:22:24.966972",
   "package_url": "https://pypi.org/project/ut-xls/"
 }
