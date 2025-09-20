@@ -1,0 +1,11 @@
+{
+  "name": "falsa",
+  "version": "0.0.6",
+  "summary": "Unofficial Rust-based implementation of H2O benchmark dataset generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "falsa-0.0.6.tar.gz",
+  "download_time": "2025-09-20T07:42:24.733878",
+  "package_url": "https://pypi.org/project/falsa/"
+}

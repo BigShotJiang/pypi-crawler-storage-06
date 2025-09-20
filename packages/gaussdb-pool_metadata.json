@@ -1,0 +1,11 @@
+{
+  "name": "gaussdb-pool",
+  "version": "1.0.3",
+  "summary": "Connection Pool for GaussDB",
+  "author": null,
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": null,
+  "download_filename": "gaussdb_pool-1.0.3-py3-none-any.whl",
+  "download_time": "2025-09-20T07:42:38.119591",
+  "package_url": "https://pypi.org/project/gaussdb-pool/"
+}

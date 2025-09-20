@@ -1,11 +1,11 @@
 {
   "name": "youku-video-download-mcp",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "Youku video downloader MCP server - specialized for Youku platform video downloading",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "youku_video_download_mcp-1.0.1.tar.gz",
-  "download_time": "2025-09-20T07:17:38.090020",
+  "download_filename": "youku_video_download_mcp-1.0.3.tar.gz",
+  "download_time": "2025-09-20T07:42:16.526475",
   "package_url": "https://pypi.org/project/youku-video-download-mcp/"
 }

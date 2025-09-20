@@ -1,0 +1,11 @@
+{
+  "name": "isort-gaussdb",
+  "version": "0.0.5",
+  "summary": "isort plug-in to sort imports by module length first",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isort_gaussdb-0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-20T07:42:37.538991",
+  "package_url": "https://pypi.org/project/isort-gaussdb/"
+}
