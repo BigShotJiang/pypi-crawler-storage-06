@@ -1,23 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T18:44:06.768743
-- **Total Packages**: 80
-- **Total Size**: 12.95 MB
+- **Download Time**: 2025-09-20T18:54:35.258596
+- **Total Packages**: 79
+- **Total Size**: 2.71 MB
 
 ## Packages List
+- d4rktg
+- django-twilio-call
+- music-bassline-generator
+- troml-dev-status
+- authentik-client
+- programming-game
+- langgraph-sdk
+- TheSilent
+- autokitteh
+- python-material-icons
+- genebot
+- annex4risk-detector
+- dxtrx
+- feldera
+- cli-base-utilities
 - pytelecomm
 - free-bandcamp-downloader
 - configcrunch
 - cresnextws
-- authentik-client
 - symqnet-molopt
 - tartex
 - launcher-links
 - pystructui
 - deezy
 - odoo-addon-l10n-br-account
-- d4rktg
 - arcp-py
 - yta-video-pyav
 - any-llm-sdk
@@ -27,16 +40,13 @@
 - pyprik
 - tacotoolbox
 - whisptray
-- django-twilio-call
 - mrinversion
 - bw-essentials-core
 - odoo-addon-account-reconcile-oca
 - postinfer
 - greml
 - pumpe
-- music-bassline-generator
 - determinismus-kit
-- cli-base-utilities
 - blossy
 - yoyodyne
 - modusa
@@ -52,7 +62,6 @@
 - rumdl
 - ScriptCollection
 - lg-agents
-- cryptocoreedu
 - kfactory
 - eoap-cwlwrap
 - detextive
@@ -76,13 +85,3 @@
 - odoo-addon-l10n-br-account-due-list
 - odoo-addon-l10n-br-fiscal
 - gunicorn-prometheus-exporter
-- pyrauli
-- pyline-core
-- dbt-colibri
-- vellum-workflow-server
-- konata
-- attp_core
-- limber-timber
-- django-msteams-notify
-- mw75-streamer
-- prompt-refiner-cb
