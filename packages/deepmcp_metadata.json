@@ -1,11 +1,11 @@
 {
   "name": "deepmcp",
-  "version": "0.2.0",
-  "summary": "a calculator mcp server, and this service may be published to nacos",
+  "version": "0.2.5",
+  "summary": "a calculator mcp server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepmcp-0.2.0-py3-none-any.whl",
-  "download_time": "2025-09-19T04:53:30.998009",
+  "download_filename": "deepmcp-0.2.5-py3-none-any.whl",
+  "download_time": "2025-09-20T02:40:26.735999",
   "package_url": "https://pypi.org/project/deepmcp/"
 }

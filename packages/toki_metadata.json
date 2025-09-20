@@ -1,11 +1,11 @@
 {
   "name": "toki",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Minimal universal LLM interface API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toki-0.2.4.tar.gz",
-  "download_time": "2025-09-19T22:40:03.602064",
+  "download_filename": "toki-0.2.5.tar.gz",
+  "download_time": "2025-09-20T02:40:46.560356",
   "package_url": "https://pypi.org/project/toki/"
 }

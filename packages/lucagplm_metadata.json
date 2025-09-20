@@ -1,0 +1,11 @@
+{
+  "name": "lucagplm",
+  "version": "1.1.2",
+  "summary": "LucaGPLM - The LUCA general purpose language model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lucagplm-1.1.2.tar.gz",
+  "download_time": "2025-09-20T02:40:31.372729",
+  "package_url": "https://pypi.org/project/lucagplm/"
+}

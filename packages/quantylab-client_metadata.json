@@ -1,11 +1,11 @@
 {
   "name": "quantylab-client",
-  "version": "1.0",
+  "version": "1.0.4",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quantylab_client-1.0.tar.gz",
-  "download_time": "2025-09-19T11:51:57.834915",
+  "download_filename": "quantylab_client-1.0.4.tar.gz",
+  "download_time": "2025-09-20T02:40:11.757305",
   "package_url": "https://pypi.org/project/quantylab-client/"
 }

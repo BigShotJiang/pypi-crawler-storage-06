@@ -1,0 +1,11 @@
+{
+  "name": "skorpion",
+  "version": "1.0.0",
+  "summary": "World's Strongest Smart Contract Security Scanner with Machine Learning",
+  "author": "Scorpius Security Team",
+  "license": "MIT",
+  "home_page": "https://github.com/scorpius-security/scorpius",
+  "download_filename": "skorpion-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-20T02:40:33.952798",
+  "package_url": "https://pypi.org/project/skorpion/"
+}

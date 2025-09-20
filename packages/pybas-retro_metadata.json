@@ -1,0 +1,11 @@
+{
+  "name": "pybas-retro",
+  "version": "1.0.1",
+  "summary": "A lightweight BASIC language interpreter written in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybas_retro-1.0.1.tar.gz",
+  "download_time": "2025-09-20T02:40:21.586983",
+  "package_url": "https://pypi.org/project/pybas-retro/"
+}

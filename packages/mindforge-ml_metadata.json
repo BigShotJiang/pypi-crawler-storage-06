@@ -1,11 +1,11 @@
 {
   "name": "mindforge-ml",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "MindForge is an open-source ML library offering simple, consistent, and extensible tools for building and experimenting with models.",
   "author": "Godsave Kawurem",
   "license": "MIT",
   "home_page": "https://github.com/Perfect-Aimers-Enterprise/mindforge",
-  "download_filename": "mindforge-ml-0.1.4.tar.gz",
-  "download_time": "2025-09-20T01:21:14.628225",
+  "download_filename": "mindforge-ml-0.1.6.tar.gz",
+  "download_time": "2025-09-20T02:40:38.122017",
   "package_url": "https://pypi.org/project/mindforge-ml/"
 }

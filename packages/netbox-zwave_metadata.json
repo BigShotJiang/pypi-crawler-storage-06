@@ -1,11 +1,11 @@
 {
   "name": "netbox-zwave",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A NetBox plugin for tracking Z-Wave devices and networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netbox_zwave-0.1.8.tar.gz",
-  "download_time": "2025-09-20T01:21:11.367073",
+  "download_filename": "netbox_zwave-0.1.9.tar.gz",
+  "download_time": "2025-09-20T02:40:49.159466",
   "package_url": "https://pypi.org/project/netbox-zwave/"
 }
