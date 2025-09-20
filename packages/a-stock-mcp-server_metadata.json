@@ -1,0 +1,11 @@
+{
+  "name": "a-stock-mcp-server",
+  "version": "1.0.0",
+  "summary": "A股实时行情MCP服务器 - 基于Model Context Protocol的A股数据查询工具",
+  "author": "Financial Tools Developer",
+  "license": null,
+  "home_page": "https://github.com/Llldmiao/a-stock-mcp-server",
+  "download_filename": "a_stock_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-09-20T05:52:22.286404",
+  "package_url": "https://pypi.org/project/a-stock-mcp-server/"
+}

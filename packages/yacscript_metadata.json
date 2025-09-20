@@ -1,11 +1,11 @@
 {
   "name": "yacscript",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "yet another chatroom script.",
   "author": "Valine0x",
   "license": null,
   "home_page": null,
-  "download_filename": "yacscript-0.3.0.tar.gz",
-  "download_time": "2025-09-20T04:42:07.299978",
+  "download_filename": "yacscript-0.3.1.tar.gz",
+  "download_time": "2025-09-20T05:52:29.012608",
   "package_url": "https://pypi.org/project/yacscript/"
 }

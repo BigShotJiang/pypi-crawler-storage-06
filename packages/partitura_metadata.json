@@ -1,0 +1,11 @@
+{
+  "name": "partitura",
+  "version": "1.7.0",
+  "summary": "A package for handling symbolic musical information",
+  "author": "Maarten Grachten, Carlos Cancino-Chacón, Silvan Peter, Emmanouil Karystinaios, Francesco Foscarin, Thassilo Gadermaier, Patricia Hu",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CPJKU/partitura",
+  "download_filename": "partitura-1.7.0.tar.gz",
+  "download_time": "2025-09-20T05:52:19.182147",
+  "package_url": "https://pypi.org/project/partitura/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vizly",
+  "version": "1.0.0",
+  "summary": "Commercial high-performance visualization library with GPU acceleration, VR/AR support, and zero dependencies",
+  "author": "Infinidatum Corporation",
+  "license": "Commercial License - Contact durai@infinidatum.net",
+  "home_page": "https://github.com/vizly/vizly",
+  "download_filename": "vizly-1.0.0.tar.gz",
+  "download_time": "2025-09-20T05:52:23.875653",
+  "package_url": "https://pypi.org/project/vizly/"
+}
