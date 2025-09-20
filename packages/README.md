@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-20T17:40:15.433042
-- **Total Packages**: 75
-- **Total Size**: 15.62 MB
+- **Download Time**: 2025-09-20T17:53:04.284624
+- **Total Packages**: 70
+- **Total Size**: 8.65 MB
 
 ## Packages List
+- pyrauli
+- pyline-core
+- dbt-colibri
+- vellum-workflow-server
+- konata
+- authentik-client
+- attp_core
+- amati
+- limber-timber
+- django-msteams-notify
+- mw75-streamer
+- prompt-refiner-cb
+- aiecs
+- discord-channel-to-html-transcripts
+- magic_hour
+- rose-python-sdk
+- grooveshop-django-api
+- pyEcoTrend-ista
+- torchkeras
+- fastapi-socketio-handler
+- WuttJamaican
+- neurograd
 - miney
 - footysim-core
 - matrixlink
@@ -15,7 +37,6 @@
 - sticker-convert
 - sbase
 - basecase
-- authentik-client
 - pytest-seleniumbase
 - pytest-sbase
 - selenium-base
@@ -29,20 +50,16 @@
 - odoo-addon-l10n-br-nfe
 - can-waveshare
 - odoo-addon-l10n-br-nfe-spec
-- magic_hour
 - ElSabio
 - tifffile
-- prompt-refiner-cb
 - OpenMM-HIP-6
 - OpenMM-CUDA-12
 - SarthakFraction
-- discord-channel-to-html-transcripts
 - cresnextws
 - rpa-suite
 - bayesgm
 - backspaceAlpha
 - django-ocr_translate
-- django-msteams-notify
 - projen
 - MetaRagTool
 - altan
@@ -50,34 +67,12 @@
 - grss
 - biblemate
 - ocr_translate-paddle
-- limber-timber
 - polykit
 - opentaskpy
 - go3
 - quansino
 - pyqrackising
 - MaxNumberLib
-- aiecs
 - ptulsconv
 - intentkit
 - pygator
-- django-mg
-- upstox-totp
-- alibabacloud-imm20200930
-- gnosis-dispatch
-- pyprocessors-chunk_sentences
-- vuln-checker
-- tackle
-- maksim-132
-- hyundai-kia-connect-api
-- shilling
-- airbyte
-- aisp
-- pylizlib
-- code-puppy
-- rayforge
-- pydevd
-- ros2-tui
-- fastdi-core
-- netbox-zwave
-- ormparams

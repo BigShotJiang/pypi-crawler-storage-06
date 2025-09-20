@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-socketio-handler",
+  "version": "0.4.0",
+  "summary": "Socket.IO wrapper for FastApi applications",
+  "author": "Nazarii",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_socketio_handler-0.4.0.tar.gz",
+  "download_time": "2025-09-20T17:52:36.169763",
+  "package_url": "https://pypi.org/project/fastapi-socketio-handler/"
+}
