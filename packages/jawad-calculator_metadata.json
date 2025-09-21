@@ -1,11 +1,11 @@
 {
   "name": "jawad-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple calculator with addition and subtraction",
   "author": "Jawad Iqbal",
   "license": null,
   "home_page": "https://github.com/jawad-iqbal99/calculator",
-  "download_filename": "jawad_calculator-0.1.0.tar.gz",
-  "download_time": "2025-09-21T20:20:46.137342",
+  "download_filename": "jawad_calculator-0.1.1.tar.gz",
+  "download_time": "2025-09-21T20:52:54.309451",
   "package_url": "https://pypi.org/project/jawad-calculator/"
 }
