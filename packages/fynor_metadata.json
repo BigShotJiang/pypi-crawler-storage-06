@@ -1,0 +1,11 @@
+{
+  "name": "fynor",
+  "version": "0.1.0.1",
+  "summary": "Fynor is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Jinja.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fynor-0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-21T11:52:49.666714",
+  "package_url": "https://pypi.org/project/fynor/"
+}

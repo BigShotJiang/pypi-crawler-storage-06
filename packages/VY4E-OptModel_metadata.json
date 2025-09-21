@@ -1,0 +1,11 @@
+{
+  "name": "VY4E-OptModel",
+  "version": "1.0.14",
+  "summary": "VY4E-OptModel: An open-source optimization model for the design and operation of hybrid renewable energy systems.",
+  "author": "VY4E Team",
+  "license": null,
+  "home_page": "https://vy4e-optmodel.readthedocs.io/en/latest/index.html",
+  "download_filename": "vy4e_optmodel-1.0.14-py3-none-any.whl",
+  "download_time": "2025-09-21T11:52:50.686319",
+  "package_url": "https://pypi.org/project/VY4E-OptModel/"
+}

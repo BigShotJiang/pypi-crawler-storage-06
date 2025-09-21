@@ -1,11 +1,11 @@
 {
   "name": "matplobblib",
-  "version": "0.3.12",
+  "version": "0.3.20",
   "summary": "Just a library for some subjects",
   "author": "Ackrome",
   "license": "MIT",
   "home_page": "https://github.com/Ackrome/matplobblib",
-  "download_filename": "matplobblib-0.3.12.tar.gz",
-  "download_time": "2025-09-21T11:15:18.089888",
+  "download_filename": "matplobblib-0.3.20.tar.gz",
+  "download_time": "2025-09-21T11:52:54.574008",
   "package_url": "https://pypi.org/project/matplobblib/"
 }

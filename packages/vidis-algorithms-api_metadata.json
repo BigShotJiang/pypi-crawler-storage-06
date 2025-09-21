@@ -1,0 +1,11 @@
+{
+  "name": "vidis-algorithms-api",
+  "version": "0.4.8",
+  "summary": "![Image size](https://badgen.net/badge/docker/size/banayaki/vidis-algorithms)",
+  "author": "Artem Mukhin",
+  "license": "MIT",
+  "home_page": "https://github.com/Banayaki",
+  "download_filename": "vidis_algorithms_api-0.4.8.tar.gz",
+  "download_time": "2025-09-21T11:52:35.738948",
+  "package_url": "https://pypi.org/project/vidis-algorithms-api/"
+}

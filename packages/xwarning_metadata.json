@@ -1,0 +1,11 @@
+{
+  "name": "xwarning",
+  "version": "0.16",
+  "summary": "Enhanced warning output using Rich with icons and colors.",
+  "author": "Hadi Cahyadi",
+  "license": "MIT",
+  "home_page": "https://github.com/cumulus13/xwarning",
+  "download_filename": "xwarning-0.16.tar.gz",
+  "download_time": "2025-09-21T11:52:52.813547",
+  "package_url": "https://pypi.org/project/xwarning/"
+}
