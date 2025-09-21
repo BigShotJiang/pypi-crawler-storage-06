@@ -1,11 +1,11 @@
 {
   "name": "shopify-partners-sdk",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Modern Python GraphQL SDK for Shopify Partners API",
   "author": "Amit Ray",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shopify_partners_sdk-0.3.1.tar.gz",
-  "download_time": "2025-09-21T03:00:52.054055",
+  "download_filename": "shopify_partners_sdk-0.3.2.tar.gz",
+  "download_time": "2025-09-21T03:42:02.472016",
   "package_url": "https://pypi.org/project/shopify-partners-sdk/"
 }

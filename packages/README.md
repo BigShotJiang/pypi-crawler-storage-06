@@ -1,25 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T03:01:31.079391
+- **Download Time**: 2025-09-21T03:42:43.632277
 - **Total Packages**: 76
-- **Total Size**: 46.17 MB
+- **Total Size**: 13.42 MB
 
 ## Packages List
+- bigwig-io
+- shopify-partners-sdk
+- django-esi
+- fastgps
+- authentik-client
+- keras-rs-nightly
+- xl-docx
+- pyeasyphd
+- django-msteams-notify
+- TikTor
+- GANDLF
+- djtagspecs
+- coloursamples
+- ddex-builder
+- ddex-parser
+- qmcpy
+- baobaxia-publica
+- GameSentenceMiner
+- qctrl-mkdocs-theme
+- PyExtender
+- frontmatter-utils
+- workflow-kit
+- odoo-addon-l10n-es-aeat
+- odoo-addon-l10n-es-atc
+- s3-cost-estimator
+- lambda-integration-kit
+- supermemory
+- cloudpub-python-sdk
+- ai-agent-video-transcription
+- shell-lib
+- aind-data-schema-models
+- omnara
+- graphs-csirhall
+- odoo-addon-l10n-br-base
+- odoo-addon-l10n-br-fiscal
+- odoo-addon-l10n-br-nfe-spec
+- heimdall-py
+- pysnowball
+- topax
+- types-regex
 - mcp-servers-auto-test
 - taha
 - pyidh
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
-- shopify-partners-sdk
 - formalpdf
 - robhan-cdk-lib.utils
-- pysnowball
 - py-lerchs-grossmann
 - TSMasterAPI
 - chainlit-chandru20
 - spex-tools
-- s3-cost-estimator
 - copykitten
 - naif-eop-high-prec
 - nonebot-plugin-mcversion
@@ -27,19 +64,15 @@
 - simcalibration
 - pyoptinterface
 - passphera-core
-- supermemory
 - mangotools
 - investor-agent
 - hwpx-mcp-server
-- authentik-client
 - DroneTSP
 - odoo-addon-ai-oca-bridge
 - django-autocomplete-package
-- baobaxia-publica
 - monai-weekly
 - modbus-mcp
 - carthooks
-- TikTor
 - mtcli-risco
 - py-alpaca-api
 - arbor-ai
@@ -49,36 +82,3 @@
 - molass-legacy
 - langevaluate
 - ppg
-- internal-rdbms
-- geofig
-- je-editor-dev
-- quick-pp
-- synthesia
-- pycync
-- ooflow
-- yoto-api
-- all-in-mcp
-- jjrawlins-cdk-iam-policy-builder-helper
-- leetcode-py-sdk
-- pyconarr
-- calciumpy
-- pyExploitDb
-- xl2md
-- dataknobs-fsm
-- dataknobs-data
-- tf-shell
-- Vijay-geometry-toolkit
-- pyformatjson
-- roquick-api
-- impuestos-package
-- compose-go
-- typeshed_stats
-- agent-redis-framework
-- pyqrackising
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy

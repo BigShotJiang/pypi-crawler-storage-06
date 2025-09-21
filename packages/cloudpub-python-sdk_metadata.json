@@ -1,0 +1,11 @@
+{
+  "name": "cloudpub-python-sdk",
+  "version": "2.4.4",
+  "summary": "Python bindings for CloudPub client",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ermak-dev/cloudpub",
+  "download_filename": "cloudpub_python_sdk-2.4.4-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-21T03:42:16.605869",
+  "package_url": "https://pypi.org/project/cloudpub-python-sdk/"
+}

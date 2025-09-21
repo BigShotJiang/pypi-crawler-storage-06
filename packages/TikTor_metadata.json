@@ -1,11 +1,11 @@
 {
   "name": "TikTor",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "summary": "TikTok Downloader tool (TikTor)",
   "author": "oil point",
   "license": "MIT",
   "home_page": "https://github.com/ccxos/TikTor",
-  "download_filename": "tiktor-0.9.9.tar.gz",
-  "download_time": "2025-09-21T03:01:07.527831",
+  "download_filename": "tiktor-1.0.0.tar.gz",
+  "download_time": "2025-09-21T03:42:06.734774",
   "package_url": "https://pypi.org/project/TikTor/"
 }
