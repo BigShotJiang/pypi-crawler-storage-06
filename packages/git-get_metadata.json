@@ -1,11 +1,11 @@
 {
   "name": "git-get",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Automatically clone Git repos.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_get-0.1.5.tar.gz",
-  "download_time": "2025-09-21T09:39:11.863426",
+  "download_filename": "git_get-0.2.0.tar.gz",
+  "download_time": "2025-09-21T09:52:28.118081",
   "package_url": "https://pypi.org/project/git-get/"
 }

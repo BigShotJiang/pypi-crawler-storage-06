@@ -1,0 +1,11 @@
+{
+  "name": "pyadb-client",
+  "version": "2.1.17",
+  "summary": "Python wrapper for adb_client library",
+  "author": "Corentin LIAUD",
+  "license": "MIT",
+  "home_page": "https://github.com/cocool97/adb_client",
+  "download_filename": "pyadb_client-2.1.17.tar.gz",
+  "download_time": "2025-09-21T09:52:24.008546",
+  "package_url": "https://pypi.org/project/pyadb-client/"
+}

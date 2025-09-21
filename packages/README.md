@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T09:39:41.370197
-- **Total Packages**: 69
-- **Total Size**: 15.83 MB
+- **Download Time**: 2025-09-21T09:52:58.007914
+- **Total Packages**: 72
+- **Total Size**: 5.93 MB
 
 ## Packages List
+- tensorpack-f
+- simcalibration
+- acb
+- authentik-client
+- instaui-tdesign
+- storey
+- shakenfist-utilities
+- pyadb-client
+- hertz-system-captcha
+- harish-ai-assist
+- pylibbpf
+- zrb
+- lazy-ninja
+- mysingle
+- filoma
+- git-get
+- beswarm
+- aient
+- frogml
+- tabsmith
+- monkey.dao
+- cryptocoreedu
+- wikimore
+- keycardai-mcp-fastmcp
+- Class163-NexT
 - reqman4
 - gnoman-cli
 - owlsensor
@@ -14,14 +39,12 @@
 - ut-doa
 - tonydbc
 - upstox-totp
-- authentik-client
 - alphabuilder-signal
 - intelligent-codelens
 - piper-tts-plus
 - xtimeline
 - nakametpy
 - qwak-core
-- git-get
 - flake8-sfs
 - django-w-blog
 - guildbotics
@@ -29,12 +52,10 @@
 - kotonebot
 - pika-mq-consumer
 - odoo14-addon-ssi-partner-evaluation
-- tensorpack-f
 - trendsagi
 - pyglet
 - ut-ioc
 - duckdb-ext-vss
-- cryptocoreedu
 - duckdb-ext-ui
 - opera-cloud-mcp
 - duckdb-ext-tpch
@@ -45,9 +66,7 @@
 - QR-ScanGen
 - duckdb-ext-postgres
 - duckdb-ext-parquet
-- mysingle
 - vja
-- hertz-captcha
 - duckdb-ext-json
 - django-cfg
 - duckdb-ext-inet
@@ -59,19 +78,3 @@
 - duckdb-ext-fts
 - duckdb-ext-excel
 - discohook
-- duckdb-ext-ducklake
-- archipy
-- duckdb-ext-azure
-- duckdb-ext-aws
-- duckdb-ext-avro
-- duckdb-ext-autocomplete
-- nonebot-plugin-sky
-- nvfuser-cu126
-- nvfuser-cu128
-- maleo-mixins
-- nvfuser-cu129
-- pyzotero
-- astrafocus
-- legit-api-client
-- aa-mumble-quick-connect
-- tbp-nightly
