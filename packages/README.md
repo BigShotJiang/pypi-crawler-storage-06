@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T11:15:39.388825
-- **Total Packages**: 82
-- **Total Size**: 108.7 MB
+- **Download Time**: 2025-09-21T11:27:33.758324
+- **Total Packages**: 84
+- **Total Size**: 1.16 MB
 
 ## Packages List
+- django-cfg
+- PyInventory
+- authentik-client
+- ibm-agent-analytics-common
+- spec-dev
+- marktree
+- alphabuilder-signal
+- smc-screener
+- bielik
+- sw-mc-builder
+- mazemdp
+- djcheckup
+- dependamerge
+- pyNukiBT
+- adv-optm
+- hseb
 - tb-nightly
 - d4rktg
 - PYield
@@ -15,7 +31,6 @@
 - su_master_mind
 - foundry-sdk
 - dice-checker
-- authentik-client
 - legit-api-client
 - shell-lib
 - example-tjc
@@ -45,7 +60,6 @@
 - passagemath-objects
 - hhsqllib
 - passagemath-ntl
-- djcheckup
 - passagemath-nauty
 - passagemath-msolve
 - passagemath-meataxe
@@ -76,15 +90,3 @@
 - duckdb-ext-ui
 - passagemath-gap-pkg-curlinterface
 - duckdb-ext-tpch
-- abersetz
-- duckdb-ext-tpcds
-- passagemath-gap-pkg-cddinterface
-- duckdb-ext-sqlite
-- subtranslate-py
-- duckdb-ext-postgres
-- tcg-research-desk
-- duckdb-ext-parquet
-- austin-python
-- duckdb-ext-json
-- passagemath-frobby
-- duckdb-ext-inet

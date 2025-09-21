@@ -1,0 +1,11 @@
+{
+  "name": "bielik",
+  "version": "0.1.1",
+  "summary": "Bielik — local Ollama chat client (CLI + web)",
+  "author": "Tom Sapletta",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bielik-0.1.1.tar.gz",
+  "download_time": "2025-09-21T11:26:45.064613",
+  "package_url": "https://pypi.org/project/bielik/"
+}
