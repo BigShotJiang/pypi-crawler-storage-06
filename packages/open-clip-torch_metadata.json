@@ -1,0 +1,11 @@
+{
+  "name": "open-clip-torch",
+  "version": "3.2.0",
+  "summary": "Open reproduction of consastive language-image pretraining (CLIP) and related.",
+  "author": "Gabriel Ilharco, Mitchell Wortsman, Romain Beaumont",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_clip_torch-3.2.0.tar.gz",
+  "download_time": "2025-09-21T17:41:44.924497",
+  "package_url": "https://pypi.org/project/open-clip-torch/"
+}

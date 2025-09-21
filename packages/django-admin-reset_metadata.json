@@ -1,0 +1,11 @@
+{
+  "name": "django-admin-reset",
+  "version": "0.7.2",
+  "summary": "Django admin password reset",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_admin_reset-0.7.2-py3-none-any.whl",
+  "download_time": "2025-09-21T17:41:42.277475",
+  "package_url": "https://pypi.org/project/django-admin-reset/"
+}
