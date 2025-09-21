@@ -1,14 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T05:42:07.351516
-- **Total Packages**: 60
-- **Total Size**: 12.14 MB
+- **Download Time**: 2025-09-21T05:52:44.101762
+- **Total Packages**: 59
+- **Total Size**: 8.89 MB
 
 ## Packages List
+- authentik-client
+- hwpx-mcp-server
+- testshed
+- duckdb-ext-postgres
 - pydal
 - django-revolution
-- authentik-client
 - duckdb-ext-vss
 - duckdb-ext-ui
 - xpath-kit
@@ -62,7 +65,3 @@
 - air
 - timestrader-preprocessing
 - library
-- pprintx
-- pycmd2
-- hwpx-mcp-server
-- stream4py

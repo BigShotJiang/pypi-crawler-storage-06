@@ -1,11 +1,11 @@
 {
   "name": "testshed",
-  "version": "0.0.2",
-  "summary": "🧪 The support crew for your test bench",
+  "version": "0.0.3",
+  "summary": "🛠️ PyTest's tool shed: Docker up, Playwright on, cleanup done",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "testshed-0.0.2.tar.gz",
-  "download_time": "2025-09-17T15:40:45.941284",
+  "download_filename": "testshed-0.0.3.tar.gz",
+  "download_time": "2025-09-21T05:52:12.773803",
   "package_url": "https://pypi.org/project/testshed/"
 }

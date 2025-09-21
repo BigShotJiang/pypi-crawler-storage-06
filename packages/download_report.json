@@ -1,11 +1,14 @@
 {
-  "download_time": "2025-09-21T05:42:07.351516",
-  "total_packages_downloaded": 60,
-  "total_size_mb": 12.14,
+  "download_time": "2025-09-21T05:52:44.101762",
+  "total_packages_downloaded": 59,
+  "total_size_mb": 8.89,
   "packages": [
+    "authentik-client",
+    "hwpx-mcp-server",
+    "testshed",
+    "duckdb-ext-postgres",
     "pydal",
     "django-revolution",
-    "authentik-client",
     "duckdb-ext-vss",
     "duckdb-ext-ui",
     "xpath-kit",
@@ -58,10 +61,6 @@
     "oven-compiler",
     "air",
     "timestrader-preprocessing",
-    "library",
-    "pprintx",
-    "pycmd2",
-    "hwpx-mcp-server",
-    "stream4py"
+    "library"
   ]
 }
