@@ -1,11 +1,11 @@
 {
   "name": "cugraph-service-server",
-  "version": "0.0.1",
-  "summary": "Dummy cugraph-service-server package for PyPI",
-  "author": null,
+  "version": "23.12.0",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "cugraph_service_server-0.0.1.tar.gz",
-  "download_time": "2025-09-21T07:17:06.737599",
+  "download_filename": "cugraph_service_server-23.12.0.tar.gz",
+  "download_time": "2025-09-21T07:38:22.769370",
   "package_url": "https://pypi.org/project/cugraph-service-server/"
 }
