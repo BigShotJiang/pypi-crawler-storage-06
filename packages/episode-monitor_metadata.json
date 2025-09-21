@@ -1,11 +1,11 @@
 {
   "name": "episode-monitor",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Monitor wikipedia pages of tv shows and send a notification when new episodes are detected",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "episode_monitor-1.1.1.tar.gz",
-  "download_time": "2025-09-21T08:42:04.916657",
+  "download_filename": "episode_monitor-1.2.0.tar.gz",
+  "download_time": "2025-09-21T09:18:36.280266",
   "package_url": "https://pypi.org/project/episode-monitor/"
 }

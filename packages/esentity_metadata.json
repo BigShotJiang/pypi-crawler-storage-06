@@ -1,11 +1,11 @@
 {
   "name": "esentity",
-  "version": "0.2.265",
+  "version": "0.2.266",
   "summary": "Elasticsearch Entity Tools",
   "author": "Slotmarks",
   "license": null,
   "home_page": "https://slotmarks.com",
-  "download_filename": "esentity-0.2.265.tar.gz",
-  "download_time": "2025-09-18T18:29:09.957245",
+  "download_filename": "esentity-0.2.266.tar.gz",
+  "download_time": "2025-09-21T09:18:34.103905",
   "package_url": "https://pypi.org/project/esentity/"
 }

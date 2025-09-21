@@ -1,0 +1,11 @@
+{
+  "name": "speechshift",
+  "version": "0.1.0",
+  "summary": "A speech-to-text application for Arch Linux + Hyprland",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speechshift-0.1.0.tar.gz",
+  "download_time": "2025-09-21T09:18:37.366900",
+  "package_url": "https://pypi.org/project/speechshift/"
+}
