@@ -1,11 +1,11 @@
 {
   "name": "batem",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A meta-package including core, heatpump, tespy, reno, sites and ecommunity",
   "author": "Stephane Ploix",
   "license": null,
   "home_page": null,
-  "download_filename": "batem-0.1.2.tar.gz",
-  "download_time": "2025-09-19T04:23:18.927884",
+  "download_filename": "batem-0.1.3.tar.gz",
+  "download_time": "2025-09-21T15:52:32.009464",
   "package_url": "https://pypi.org/project/batem/"
 }
