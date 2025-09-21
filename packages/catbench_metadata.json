@@ -1,0 +1,11 @@
+{
+  "name": "catbench",
+  "version": "1.0.0",
+  "summary": "CatBench: Benchmark Framework of Machine Learning Interatomic Potentials for Adsorption Energy Predictions in Heterogeneous Catalysis",
+  "author": "JinukMoon",
+  "license": "MIT",
+  "home_page": "https://github.com/JinukMoon/catbench",
+  "download_filename": "catbench-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-21T19:52:40.661675",
+  "package_url": "https://pypi.org/project/catbench/"
+}

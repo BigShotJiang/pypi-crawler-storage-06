@@ -1,11 +1,11 @@
 {
   "name": "pytorch-ie",
-  "version": "0.31.11",
+  "version": "0.32.0",
   "summary": "State-of-the-art Information Extraction in PyTorch",
   "author": "Arne Binder",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytorch_ie-0.31.11.tar.gz",
-  "download_time": "2025-09-21T17:41:43.316645",
+  "download_filename": "pytorch_ie-0.32.0.tar.gz",
+  "download_time": "2025-09-21T19:52:38.498345",
   "package_url": "https://pypi.org/project/pytorch-ie/"
 }

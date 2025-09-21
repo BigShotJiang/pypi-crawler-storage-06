@@ -1,11 +1,11 @@
 {
   "name": "pyds-stubs",
-  "version": "1.1.8.3",
+  "version": "1.1.11",
   "summary": "Typing stubs for NVIDIA DeepStream Python Bindings",
   "author": "Niklas Kaaf",
   "license": null,
   "home_page": null,
-  "download_filename": "pyds_stubs-1.1.8.3.tar.gz",
-  "download_time": "2025-09-21T18:45:46.003651",
+  "download_filename": "pyds_stubs-1.1.11.tar.gz",
+  "download_time": "2025-09-21T19:52:44.339013",
   "package_url": "https://pypi.org/project/pyds-stubs/"
 }
