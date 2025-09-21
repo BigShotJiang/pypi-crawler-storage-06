@@ -1,0 +1,11 @@
+{
+  "name": "tags-plot",
+  "version": "0.0.1",
+  "summary": "A convenience script using matplotlib to plot dolfinx mesh tags.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tags_plot-0.0.1.tar.gz",
+  "download_time": "2025-09-21T14:52:41.596565",
+  "package_url": "https://pypi.org/project/tags-plot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "scrimba-teaching-mcp",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Interactive programming teacher using Scrimba's methodology for MCP",
   "author": "Scrimba Teaching System",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrimba_teaching_mcp-1.1.0.tar.gz",
-  "download_time": "2025-09-21T14:32:53.063589",
+  "download_filename": "scrimba_teaching_mcp-1.2.0.tar.gz",
+  "download_time": "2025-09-21T14:52:41.024626",
   "package_url": "https://pypi.org/project/scrimba-teaching-mcp/"
 }

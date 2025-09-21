@@ -1,0 +1,11 @@
+{
+  "name": "musubi-scrape",
+  "version": "1.0.1",
+  "summary": "A convenient crawling package for collecting web data.",
+  "author": "Lung-Chuan Chen",
+  "license": null,
+  "home_page": "https://github.com/Musubi-ai/Musubi",
+  "download_filename": "musubi_scrape-1.0.1.tar.gz",
+  "download_time": "2025-09-21T14:52:55.962106",
+  "package_url": "https://pypi.org/project/musubi-scrape/"
+}
