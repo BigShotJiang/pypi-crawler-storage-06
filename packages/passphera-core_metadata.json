@@ -1,11 +1,11 @@
 {
   "name": "passphera-core",
-  "version": "0.30.2",
-  "summary": "The core system of passphera project",
+  "version": "0.31.0",
+  "summary": "The core of passphera project",
   "author": "Fathi Abdelmalek",
   "license": null,
   "home_page": "https://github.com/passphera/core",
-  "download_filename": "passphera_core-0.30.2.tar.gz",
-  "download_time": "2025-09-21T13:31:56.403157",
+  "download_filename": "passphera_core-0.31.0.tar.gz",
+  "download_time": "2025-09-21T14:32:48.887892",
   "package_url": "https://pypi.org/project/passphera-core/"
 }

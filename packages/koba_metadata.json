@@ -1,11 +1,11 @@
 {
   "name": "koba",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Terminal Image/Video Renderer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "koba-0.5.0.tar.gz",
-  "download_time": "2025-09-19T18:27:32.523622",
+  "download_filename": "koba-0.6.0.tar.gz",
+  "download_time": "2025-09-21T14:32:39.945579",
   "package_url": "https://pypi.org/project/koba/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "contextchain",
-  "version": "1.4.0",
-  "summary": "ContextChain v2.0: A pipeline execution framework for adaptive context optimization in LLMs with MongoDB integration",
+  "version": "1.4.1",
+  "summary": "ContextChain v2.0: Adaptive context optimization framework for LLMs with MongoDB, vector DB, and multi-backend LLM integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contextchain-1.4.0.tar.gz",
-  "download_time": "2025-09-20T23:17:44.066704",
+  "download_filename": "contextchain-1.4.1.tar.gz",
+  "download_time": "2025-09-21T14:32:48.375247",
   "package_url": "https://pypi.org/project/contextchain/"
 }

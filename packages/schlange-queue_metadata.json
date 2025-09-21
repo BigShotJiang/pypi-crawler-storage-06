@@ -1,0 +1,11 @@
+{
+  "name": "schlange-queue",
+  "version": "0.1.2",
+  "summary": "Lightweight, persistent, single-node task queue with at-least-once delivery guarantee",
+  "author": "Roman Novatorov",
+  "license": null,
+  "home_page": "https://github.com/rnovatorov/schlange",
+  "download_filename": "schlange_queue-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-21T14:32:34.170022",
+  "package_url": "https://pypi.org/project/schlange-queue/"
+}

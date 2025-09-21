@@ -1,0 +1,11 @@
+{
+  "name": "django-google-maps",
+  "version": "0.14.0",
+  "summary": "Plugs google maps V3 api into Django admin.",
+  "author": "Aaron Madison",
+  "license": null,
+  "home_page": "https://github.com/madisona/django-google-maps",
+  "download_filename": "django_google_maps-0.14.0.tar.gz",
+  "download_time": "2025-09-21T14:32:49.419951",
+  "package_url": "https://pypi.org/project/django-google-maps/"
+}

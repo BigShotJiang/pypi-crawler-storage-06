@@ -1,11 +1,11 @@
 {
   "name": "bce-python-sdk-next",
-  "version": "202.0.9.42",
+  "version": "203.0.9.42",
   "summary": "BCE SDK for python",
   "author": "atorber",
   "license": "Apache License 2.0",
   "home_page": "http://bce.baidu.com",
-  "download_filename": "bce_python_sdk_next-202.0.9.42.tar.gz",
-  "download_time": "2025-09-19T17:52:08.993561",
+  "download_filename": "bce_python_sdk_next-203.0.9.42.tar.gz",
+  "download_time": "2025-09-21T14:32:34.685118",
   "package_url": "https://pypi.org/project/bce-python-sdk-next/"
 }

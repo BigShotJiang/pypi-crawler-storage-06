@@ -1,0 +1,11 @@
+{
+  "name": "traceipy",
+  "version": "0.1.0",
+  "summary": "Traceipy is a Python tracing and profiling toolkit that provides clear, detailed insights into code execution to help you identify performance bottlenecks.",
+  "author": "Deban Kumar Sahu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "traceipy-0.1.0.tar.gz",
+  "download_time": "2025-09-21T14:32:51.493156",
+  "package_url": "https://pypi.org/project/traceipy/"
+}

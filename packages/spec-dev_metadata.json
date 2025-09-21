@@ -1,11 +1,11 @@
 {
   "name": "spec-dev",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Bundle of the .spec-dev workspace template.",
   "author": "Spec Dev",
   "license": null,
   "home_page": null,
-  "download_filename": "spec_dev-0.1.8.tar.gz",
-  "download_time": "2025-09-21T14:17:16.979487",
+  "download_filename": "spec_dev-0.1.10.tar.gz",
+  "download_time": "2025-09-21T14:32:40.992223",
   "package_url": "https://pypi.org/project/spec-dev/"
 }
