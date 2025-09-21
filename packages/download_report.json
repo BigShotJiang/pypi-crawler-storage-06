@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-09-21T13:53:56.708607",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 20.16,
+  "download_time": "2025-09-21T14:17:21.751201",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 5.72,
   "packages": [
+    "lymia",
+    "threshopt",
+    "foundry-platform-sdk",
+    "pyedi",
+    "authentik-client",
+    "AstrBot",
+    "experimaestro",
+    "odoo-addon-payroll-contract-advantages",
     "llmlayer",
     "flowprep-ml",
     "fylex",
@@ -21,7 +29,6 @@
     "tracdap-ext-openai",
     "tracdap-ext-http",
     "psaiops",
-    "authentik-client",
     "kegscraper",
     "xwarning",
     "janito",
@@ -67,16 +74,11 @@
     "spec-dev",
     "digsim-logic-simulator",
     "qing-client",
+    "cheroot",
     "pybrary",
     "llmada-cpp",
     "nbdev-apl",
     "nft-market",
-    "nbdev-django",
-    "nbdev-sphinx",
-    "nbdev-scipy",
-    "nbdev-pytorch",
-    "internal-rdbms",
-    "nbdev-pandas",
-    "nbdev-numpy"
+    "nbdev-django"
   ]
 }
