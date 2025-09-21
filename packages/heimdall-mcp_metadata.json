@@ -1,0 +1,11 @@
+{
+  "name": "heimdall-mcp",
+  "version": "0.3.7",
+  "summary": "Persistent, project-aware, long-term memory for AI coding assistants",
+  "author": "Lucas Castro",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "heimdall_mcp-0.3.7.tar.gz",
+  "download_time": "2025-09-21T23:53:07.168757",
+  "package_url": "https://pypi.org/project/heimdall-mcp/"
+}

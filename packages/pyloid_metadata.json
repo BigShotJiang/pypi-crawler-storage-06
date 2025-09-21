@@ -1,11 +1,11 @@
 {
   "name": "pyloid",
-  "version": "0.26.1",
+  "version": "0.26.2",
   "summary": null,
   "author": "aesthetics-of-record",
   "license": null,
   "home_page": null,
-  "download_filename": "pyloid-0.26.1.tar.gz",
-  "download_time": "2025-09-21T23:18:08.305895",
+  "download_filename": "pyloid-0.26.2.tar.gz",
+  "download_time": "2025-09-21T23:53:07.761283",
   "package_url": "https://pypi.org/project/pyloid/"
 }
