@@ -1,0 +1,11 @@
+{
+  "name": "gitlabci-local",
+  "version": "13.0.2",
+  "summary": "Launch .gitlab-ci.yml jobs locally",
+  "author": "Adrian DC",
+  "license": "Apache License 2.0",
+  "home_page": "https://gitlab.com/RadianDevCore/tools/gcil",
+  "download_filename": "gitlabci_local-13.0.2.tar.gz",
+  "download_time": "2025-09-21T01:39:22.665109",
+  "package_url": "https://pypi.org/project/gitlabci-local/"
+}

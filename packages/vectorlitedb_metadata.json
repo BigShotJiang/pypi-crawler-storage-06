@@ -1,0 +1,11 @@
+{
+  "name": "vectorlitedb",
+  "version": "0.1.0",
+  "summary": "SQLite for embeddings — fast, local, private vector database",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vectorlitedb-0.1.0.tar.gz",
+  "download_time": "2025-09-21T01:39:05.221323",
+  "package_url": "https://pypi.org/project/vectorlitedb/"
+}

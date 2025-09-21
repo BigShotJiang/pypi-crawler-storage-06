@@ -1,0 +1,11 @@
+{
+  "name": "gnoman-cli",
+  "version": "0.2.3",
+  "summary": "GNOMAN mission control CLI for Safes, secrets, and guard rails",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnoman_cli-0.2.3.tar.gz",
+  "download_time": "2025-09-21T01:39:04.071458",
+  "package_url": "https://pypi.org/project/gnoman-cli/"
+}

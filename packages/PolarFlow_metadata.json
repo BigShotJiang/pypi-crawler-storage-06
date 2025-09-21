@@ -1,11 +1,11 @@
 {
   "name": "PolarFlow",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "summary": "BIT ININ 课题组自用服务器 GPU 资源调度及管理工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polarflow-0.0.8-py3-none-any.whl",
-  "download_time": "2025-09-20T23:17:37.214134",
+  "download_filename": "polarflow-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-21T01:39:34.879430",
   "package_url": "https://pypi.org/project/PolarFlow/"
 }

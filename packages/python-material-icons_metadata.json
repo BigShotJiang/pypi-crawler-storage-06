@@ -1,11 +1,11 @@
 {
   "name": "python-material-icons",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Use Google's Material Icons in your Python applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_material_icons-0.3.1.tar.gz",
-  "download_time": "2025-09-20T18:53:58.294378",
+  "download_filename": "python_material_icons-0.3.2.tar.gz",
+  "download_time": "2025-09-21T01:39:25.002728",
   "package_url": "https://pypi.org/project/python-material-icons/"
 }
