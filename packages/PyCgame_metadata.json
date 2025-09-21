@@ -1,11 +1,11 @@
 {
   "name": "PyCgame",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": "Moteur Python pour jeux 2D avec gestion des images, sons et entrées",
   "author": "Baptiste GUERIN",
   "license": null,
   "home_page": null,
-  "download_filename": "pycgame-1.5.0.tar.gz",
-  "download_time": "2025-09-20T16:40:59.375899",
+  "download_filename": "pycgame-1.5.1.tar.gz",
+  "download_time": "2025-09-21T13:05:19.938808",
   "package_url": "https://pypi.org/project/PyCgame/"
 }

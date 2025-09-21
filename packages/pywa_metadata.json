@@ -1,11 +1,11 @@
 {
   "name": "pywa",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "🚀 Build WhatsApp Bots in Python • Fast, Effortless, Powerful",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pywa-3.1.0.tar.gz",
-  "download_time": "2025-09-20T22:17:23.507250",
+  "download_filename": "pywa-3.1.1.tar.gz",
+  "download_time": "2025-09-21T13:05:33.049713",
   "package_url": "https://pypi.org/project/pywa/"
 }

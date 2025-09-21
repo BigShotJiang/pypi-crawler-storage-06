@@ -1,0 +1,11 @@
+{
+  "name": "phiFEM",
+  "version": "0.4.5",
+  "summary": "phiFEM: convenience tools to use the phiFEM immersed boundary finite element method with dolfinx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phifem-0.4.5-py3-none-any.whl",
+  "download_time": "2025-09-21T13:05:24.671580",
+  "package_url": "https://pypi.org/project/phiFEM/"
+}

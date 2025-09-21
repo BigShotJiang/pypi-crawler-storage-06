@@ -1,15 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T12:37:03.561599
-- **Total Packages**: 84
-- **Total Size**: 10.93 MB
+- **Download Time**: 2025-09-21T13:05:58.689568
+- **Total Packages**: 82
+- **Total Size**: 17.4 MB
 
 ## Packages List
+- fgo-api-types
+- nlbone
+- maksim-132-servo
+- protokolo
+- twaddle
+- streamwatch
+- nft-market
+- v440
+- PyCgame
+- peaq-robotics-sdk
+- pywheels
+- celery-healthcheck
+- gmail-fakex
+- pyLkron
+- xpander-sdk
+- gobin-cli
+- whenever
+- phiFEM
+- authentik-client
+- repl-session
+- pyscratch-lobotomy2012
+- tensorcircuit-nightly
+- agentrouter
+- ttx-cli
+- py-obdii
+- eQuimageLab
+- eegdash
+- pymolfold
+- polymodel
+- gift-api
+- pyglowx
+- microsoft-fabric-mcp
+- usdm4-cpt
+- pywa
+- aiorum
+- oxygent
+- scrimba-teaching-mcp
+- investorzilla
+- logelin
+- pyaging
 - dynamic-favicon
 - sbom-upload-validator
 - mns-common
-- maksim-132-servo
 - llmswap
 - dispatch-proxy
 - eyadseif123
@@ -19,17 +58,12 @@
 - playbook
 - svgen
 - as-envhelper
-- authentik-client
 - shell-lib
-- pyscratch-lobotomy2012
-- scrimba-teaching-mcp
 - zlogger-client
 - nonebot_plugin_lazytea
 - pulse-sdk
-- aiorum
 - aioafero
 - multisocks
-- ttx-cli
 - news-please
 - stigg-api-client-v2
 - stigg-api-client
@@ -39,7 +73,6 @@
 - owega
 - hepdata-lib
 - svmbolcore
-- microsoft-fabric-mcp
 - lagoon
 - traceloop-sdk
 - outline-typst
@@ -55,38 +88,3 @@
 - opentelemetry-instrumentation-together
 - opentelemetry-instrumentation-sagemaker
 - opentelemetry-instrumentation-replicate
-- opentelemetry-instrumentation-qdrant
-- opentelemetry-instrumentation-pinecone
-- opentelemetry-instrumentation-openai-agents
-- opentelemetry-instrumentation-openai
-- opentelemetry-instrumentation-ollama
-- opentelemetry-instrumentation-mistralai
-- koxs-color
-- opentelemetry-instrumentation-milvus
-- sera-2
-- opentelemetry-instrumentation-mcp
-- opentelemetry-instrumentation-marqo
-- opentelemetry-instrumentation-llamaindex
-- opentelemetry-instrumentation-langchain
-- opentelemetry-instrumentation-lancedb
-- opentelemetry-instrumentation-haystack
-- opentelemetry-instrumentation-groq
-- opentelemetry-instrumentation-google-generativeai
-- opentelemetry-instrumentation-crewai
-- opentelemetry-instrumentation-cohere
-- discardapi-demo
-- opentelemetry-instrumentation-chromadb
-- opentelemetry-instrumentation-bedrock
-- opentelemetry-instrumentation-anthropic
-- opentelemetry-instrumentation-alephalpha
-- phasefieldx
-- synalinks
-- insyt-secure
-- usdm4
-- secretsmith
-- fynor
-- fastblocks
-- gqlbridge
-- my-ala-library
-- foundry-sdk
-- sealights-python-agent

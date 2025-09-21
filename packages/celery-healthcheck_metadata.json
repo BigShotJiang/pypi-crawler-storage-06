@@ -1,0 +1,11 @@
+{
+  "name": "celery-healthcheck",
+  "version": "0.2.0",
+  "summary": "A lightweight HTTP health check server for Celery workers, designed to work with cloud platforms that only support TCP-based health probes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celery_healthcheck-0.2.0.tar.gz",
+  "download_time": "2025-09-21T13:05:21.500337",
+  "package_url": "https://pypi.org/project/celery-healthcheck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "protokolo",
+  "version": "3.0.1",
+  "summary": "Protokolo is a change log generator.",
+  "author": "Carmen Bianca BAKKER",
+  "license": "EUPL-1.2+",
+  "home_page": "https://codeberg.org/carmenbianca/protokolo",
+  "download_filename": "protokolo-3.0.1.tar.gz",
+  "download_time": "2025-09-21T13:05:17.102820",
+  "package_url": "https://pypi.org/project/protokolo/"
+}

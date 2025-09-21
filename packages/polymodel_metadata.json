@@ -1,0 +1,11 @@
+{
+  "name": "polymodel",
+  "version": "0.0.1",
+  "summary": "PolyModel, a modern, flexible ORM with full Pydantic compatibility",
+  "author": "Ramón Vila Ferreres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "polymodel-0.0.1.tar.gz",
+  "download_time": "2025-09-21T13:05:30.456379",
+  "package_url": "https://pypi.org/project/polymodel/"
+}
