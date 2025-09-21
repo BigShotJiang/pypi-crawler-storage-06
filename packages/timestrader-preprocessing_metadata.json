@@ -1,0 +1,11 @@
+{
+  "name": "timestrader-preprocessing",
+  "version": "1.0.15",
+  "summary": "Data preprocessing pipeline for TimeStrader AI trading system - Google Colab optimized",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timestrader_preprocessing-1.0.15.tar.gz",
+  "download_time": "2025-09-21T05:19:19.790780",
+  "package_url": "https://pypi.org/project/timestrader-preprocessing/"
+}

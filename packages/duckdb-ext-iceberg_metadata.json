@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-ext-iceberg",
+  "version": "1.4.0.20250921",
+  "summary": "DuckDB extension package for duckdb/core-extensions/iceberg",
+  "author": "duckdb",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_ext_iceberg-1.4.0.20250921-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-21T05:19:12.388040",
+  "package_url": "https://pypi.org/project/duckdb-ext-iceberg/"
+}

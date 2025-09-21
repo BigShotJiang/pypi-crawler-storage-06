@@ -1,11 +1,11 @@
 {
   "name": "maleo-security",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "Security package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_security-0.2.9.tar.gz",
-  "download_time": "2025-09-19T19:39:27.612079",
+  "download_filename": "maleo_security-0.2.11.tar.gz",
+  "download_time": "2025-09-21T05:19:08.596126",
   "package_url": "https://pypi.org/project/maleo-security/"
 }
