@@ -1,11 +1,11 @@
 {
   "name": "graphs-csirhall",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Python package for graph algorithms including Dijkstra's shortest path",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphs_csirhall-0.0.2.tar.gz",
-  "download_time": "2025-09-21T04:24:16.880498",
+  "download_filename": "graphs_csirhall-0.0.3.tar.gz",
+  "download_time": "2025-09-21T18:46:05.856734",
   "package_url": "https://pypi.org/project/graphs-csirhall/"
 }

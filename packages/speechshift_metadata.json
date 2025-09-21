@@ -1,11 +1,11 @@
 {
   "name": "speechshift",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A fully local, offline first speech-to-text application made for Linux.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "speechshift-0.1.1.tar.gz",
-  "download_time": "2025-09-21T15:18:08.958147",
+  "download_filename": "speechshift-0.1.2.tar.gz",
+  "download_time": "2025-09-21T18:46:04.750672",
   "package_url": "https://pypi.org/project/speechshift/"
 }

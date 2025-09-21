@@ -1,11 +1,11 @@
 {
   "name": "p-requests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Library for sending requests in parallel with retry",
   "author": "Vinicius Benevides",
   "license": "MIT",
   "home_page": "https://github.com/VBenevides/p_requests",
-  "download_filename": "p_requests-0.0.1-py3-none-any.whl",
-  "download_time": "2025-09-20T01:21:27.516562",
+  "download_filename": "p_requests-0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-21T18:45:47.575428",
   "package_url": "https://pypi.org/project/p-requests/"
 }

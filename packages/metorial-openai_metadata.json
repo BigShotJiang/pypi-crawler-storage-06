@@ -1,11 +1,11 @@
 {
   "name": "metorial-openai",
-  "version": "1.0.0rc5",
+  "version": "1.0.0rc6",
   "summary": "OpenAI provider for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_openai-1.0.0rc5.tar.gz",
-  "download_time": "2025-09-21T17:31:58.071463",
+  "download_filename": "metorial_openai-1.0.0rc6.tar.gz",
+  "download_time": "2025-09-21T18:46:11.592019",
   "package_url": "https://pypi.org/project/metorial-openai/"
 }

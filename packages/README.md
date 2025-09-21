@@ -1,20 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T18:26:24.829555
-- **Total Packages**: 71
-- **Total Size**: 29.91 MB
+- **Download Time**: 2025-09-21T18:46:31.634886
+- **Total Packages**: 83
+- **Total Size**: 13.59 MB
 
 ## Packages List
+- pyds-stubs
+- sitebay-mcp
+- create-browser-app
+- p-requests
+- vyperdatum
+- tacotoolbox
+- d365fo-client
+- polars-ds
+- authentik-client
+- orionis
+- Quadrupy
+- manage-django-project
+- emerge
+- fast-django-asgi
+- zarrdump
+- gammarers.aws-secure-frontend-web-app-cloudfront-distribution
+- ai-ebash
+- pacupdate
+- complexipy
+- uvve
+- py-1151
+- nitro-boost
+- mcp-coaia-sequential-thinking
+- django-qsessions
+- tuk-time
+- radioactiveshrimp
+- py-utlx
+- dash-mantine-components
+- phalcopulse
+- pulumi-render
+- deckling
+- tariochbctools
+- gammarers.aws-secure-vpc-bucket
+- speechshift
+- cryptodatapy
+- graphs-csirhall
+- retryxlib
+- async-mega-py
+- metorial-anthropic
+- metorial-core
+- metorial-xai
+- metorial-openai-compatible
+- metorial-togetherai
+- metorial-util-endpoint
+- metorial-mistral
+- metorial-google
+- metorial-openai
+- metorial-deepseek
+- metorial
+- metorial-mcp-session
+- metorial-generated
 - pydantic-ai-chat-ui
 - lanscape
-- test-fastapi
 - pie-datasets
 - limoon
 - oma-helen-cli
-- asyncmega-py
 - peh-model
-- sitebay-mcp
 - cwl2puml
 - vectorgrep
 - sciexp2-expdata
@@ -33,7 +81,6 @@
 - keeya
 - package-main
 - imagecraft
-- authentik-client
 - poodle-async-full
 - poodle-async-mini
 - atx-mainframe-bre-analyzer
@@ -41,39 +88,4 @@
 - psaiops
 - atoparser
 - revos
-- orionis
 - surfdataverse
-- radboy
-- ai-pipeline-core
-- ming-drlms
-- pet-mad
-- baobaxia-publica
-- rds-proxy-password-rotation
-- numeric-converter
-- ruyi
-- spec-dev
-- ig-trading-lib
-- normalized-django-settings
-- microsoft-fabric-mcp
-- matrixflow
-- yta-video-pyav
-- yanga
-- simple-rtmw
-- naylence-agent-sdk
-- testcato
-- logit-graph
-- je-editor
-- foundry-platform-sdk
-- style-transfer-ai
-- aioampio
-- vit-pytorch
-- ut-arr
-- airweave-sdk
-- acbox
-- cresnextws
-- translate-shell
-- whenever
-- hyperspace-py
-- hhd
-- turbocore
-- repl-python-wakatime
