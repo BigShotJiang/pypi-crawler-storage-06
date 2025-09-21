@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth",
+  "version": "4.10.0",
+  "summary": "An auth system for EVE Online to help in-game organizations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth-4.10.0.tar.gz",
+  "download_time": "2025-09-21T04:24:25.328511",
+  "package_url": "https://pypi.org/project/allianceauth/"
+}

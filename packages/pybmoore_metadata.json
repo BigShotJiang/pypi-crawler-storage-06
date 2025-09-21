@@ -1,0 +1,11 @@
+{
+  "name": "pybmoore",
+  "version": "2.2.0",
+  "summary": "Python/Cython implementation of Boyer-Moore string-search algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybmoore-2.2.0-cp310-cp310-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2025-09-21T04:24:20.533808",
+  "package_url": "https://pypi.org/project/pybmoore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "class-argparse",
+  "version": "0.1.4",
+  "summary": "Class based argument parser",
+  "author": "Neblar",
+  "license": "MIT",
+  "home_page": "https://github.com/neblar/class-argparse",
+  "download_filename": "class_argparse-0.1.4.tar.gz",
+  "download_time": "2025-09-21T04:24:16.361729",
+  "package_url": "https://pypi.org/project/class-argparse/"
+}

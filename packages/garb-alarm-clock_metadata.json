@@ -1,0 +1,11 @@
+{
+  "name": "garb-alarm-clock",
+  "version": "0.2.1",
+  "summary": "Bilibili alarmclock",
+  "author": "chuiba",
+  "license": "MIT license",
+  "home_page": "https://github.com/chuiba/garb_alarm_clock",
+  "download_filename": "garb_alarm_clock-0.2.1.tar.gz",
+  "download_time": "2025-09-21T04:24:15.842686",
+  "package_url": "https://pypi.org/project/garb-alarm-clock/"
+}
