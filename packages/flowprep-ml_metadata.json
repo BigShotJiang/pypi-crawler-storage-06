@@ -1,0 +1,11 @@
+{
+  "name": "flowprep-ml",
+  "version": "1.0.0",
+  "summary": "Intelligent data preprocessing library with advanced options",
+  "author": "Flow ML Team",
+  "license": "MIT",
+  "home_page": "https://github.com/flowml/flowprep-ml",
+  "download_filename": "flowprep_ml-1.0.0.tar.gz",
+  "download_time": "2025-09-21T13:53:16.676725",
+  "package_url": "https://pypi.org/project/flowprep-ml/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eKoNLPy",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "summary": "A Korean natural language processing toolkit for economic analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ekonlpy-2.1.0-py3-none-any.whl",
-  "download_time": "2025-09-21T11:38:48.460232",
+  "download_filename": "ekonlpy-2.2.0-py3-none-any.whl",
+  "download_time": "2025-09-21T13:53:29.116874",
   "package_url": "https://pypi.org/project/eKoNLPy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "widpath",
+  "version": "0.1.0",
+  "summary": "A hierarchical file path resolver for WID-based storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "widpath-0.1.0.tar.gz",
+  "download_time": "2025-09-21T13:53:31.191261",
+  "package_url": "https://pypi.org/project/widpath/"
+}
