@@ -1,11 +1,11 @@
 {
   "name": "vexy-overnight",
-  "version": "1.0.7",
+  "version": "1.0.11",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vexy_overnight-1.0.7.tar.gz",
-  "download_time": "2025-09-21T14:32:50.981694",
+  "download_filename": "vexy_overnight-1.0.11.tar.gz",
+  "download_time": "2025-09-21T21:38:41.869611",
   "package_url": "https://pypi.org/project/vexy-overnight/"
 }
