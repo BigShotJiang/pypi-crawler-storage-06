@@ -1,11 +1,11 @@
 {
   "name": "unstructured-ingest-clickzetta",
-  "version": "1.2.18.dev2",
+  "version": "1.3.1",
   "summary": "ClickZetta connector for Unstructured data pipeline - Enhanced ETL with SQL and Volume support",
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "unstructured_ingest_clickzetta-1.2.18.dev2.tar.gz",
-  "download_time": "2025-09-21T06:48:00.225381",
+  "download_filename": "unstructured_ingest_clickzetta-1.3.1.tar.gz",
+  "download_time": "2025-09-21T13:31:57.022802",
   "package_url": "https://pypi.org/project/unstructured-ingest-clickzetta/"
 }

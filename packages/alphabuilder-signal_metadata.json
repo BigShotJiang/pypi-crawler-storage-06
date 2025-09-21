@@ -1,11 +1,11 @@
 {
   "name": "alphabuilder-signal",
-  "version": "0.1.1.11",
+  "version": "0.1.1.15",
   "summary": "Alpha signal library for quantitative finance research",
   "author": "Geet Mukherjee",
   "license": null,
   "home_page": "https://pypi.org/project/alphabuilder-signal/",
-  "download_filename": "alphabuilder_signal-0.1.1.11.tar.gz",
-  "download_time": "2025-09-21T11:26:43.883936",
+  "download_filename": "alphabuilder_signal-0.1.1.15.tar.gz",
+  "download_time": "2025-09-21T13:32:02.962214",
   "package_url": "https://pypi.org/project/alphabuilder-signal/"
 }

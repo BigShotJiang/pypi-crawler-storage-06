@@ -1,19 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T13:05:58.689568
-- **Total Packages**: 82
-- **Total Size**: 17.4 MB
+- **Download Time**: 2025-09-21T13:32:39.605119
+- **Total Packages**: 74
+- **Total Size**: 2.92 MB
 
 ## Packages List
-- fgo-api-types
-- nlbone
-- maksim-132-servo
-- protokolo
-- twaddle
-- streamwatch
-- nft-market
 - v440
+- passphera-core
+- unstructured-ingest-clickzetta
+- YoungLion
+- ovault
+- yta-video-pyav
+- langunittest
+- tracdap-runtime
+- tracdap-ext-openai
+- tracdap-ext-http
+- pyscratch-lobotomy2012
+- fgo-api-types
+- alphabuilder-signal
+- twaddle
+- psaiops
+- tarumba
+- owlsensor
+- voice-mode
+- maksim-132-servo
+- spec-dev
+- digsim-logic-simulator
+- qing-client
+- pybrary
+- llmada-cpp
+- nbdev-apl
+- nft-market
+- nbdev-django
+- nbdev-sphinx
+- nbdev-scipy
+- nbdev-pytorch
+- internal-rdbms
+- nbdev-pandas
+- nbdev-numpy
+- authentik-client
+- nbdev-stdlib
+- libdev
+- kegscraper
+- pymolfold
+- virtuals-acp
+- protokolo
+- nlbone
+- streamwatch
 - PyCgame
 - peaq-robotics-sdk
 - pywheels
@@ -24,16 +58,13 @@
 - gobin-cli
 - whenever
 - phiFEM
-- authentik-client
 - repl-session
-- pyscratch-lobotomy2012
 - tensorcircuit-nightly
 - agentrouter
 - ttx-cli
 - py-obdii
 - eQuimageLab
 - eegdash
-- pymolfold
 - polymodel
 - gift-api
 - pyglowx
@@ -49,42 +80,3 @@
 - dynamic-favicon
 - sbom-upload-validator
 - mns-common
-- llmswap
-- dispatch-proxy
-- eyadseif123
-- db-crawl-agents
-- feffery-antd-components
-- raw-docx
-- playbook
-- svgen
-- as-envhelper
-- shell-lib
-- zlogger-client
-- nonebot_plugin_lazytea
-- pulse-sdk
-- aioafero
-- multisocks
-- news-please
-- stigg-api-client-v2
-- stigg-api-client
-- tensorplow
-- casparser
-- d-back
-- owega
-- hepdata-lib
-- svmbolcore
-- lagoon
-- traceloop-sdk
-- outline-typst
-- chatterflow
-- asknews
-- emoji
-- opentelemetry-instrumentation-writer
-- opentelemetry-instrumentation-weaviate
-- opentelemetry-instrumentation-watsonx
-- mail-mcp
-- opentelemetry-instrumentation-vertexai
-- opentelemetry-instrumentation-transformers
-- opentelemetry-instrumentation-together
-- opentelemetry-instrumentation-sagemaker
-- opentelemetry-instrumentation-replicate

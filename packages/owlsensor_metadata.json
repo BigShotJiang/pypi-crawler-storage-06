@@ -1,11 +1,11 @@
 {
   "name": "owlsensor",
-  "version": "0.5.6",
+  "version": "0.5.8",
   "summary": "Library to read data from OWL Energy meters",
   "author": "Pascal Brunot",
   "license": "MIT",
   "home_page": "https://github.com/PBrunot/owlsensor",
-  "download_filename": "owlsensor-0.5.6.tar.gz",
-  "download_time": "2025-09-21T10:40:09.760483",
+  "download_filename": "owlsensor-0.5.8.tar.gz",
+  "download_time": "2025-09-21T13:32:05.895838",
   "package_url": "https://pypi.org/project/owlsensor/"
 }

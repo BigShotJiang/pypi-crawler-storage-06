@@ -1,11 +1,11 @@
 {
   "name": "pybrary",
-  "version": "0.2538.0",
+  "version": "0.2538.1",
   "summary": "Python Library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pybrary-0.2538.0.tar.gz",
-  "download_time": "2025-09-19T21:37:58.812539",
+  "download_filename": "pybrary-0.2538.1.tar.gz",
+  "download_time": "2025-09-21T13:32:09.397352",
   "package_url": "https://pypi.org/project/pybrary/"
 }

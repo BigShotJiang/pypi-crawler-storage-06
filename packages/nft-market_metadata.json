@@ -1,11 +1,11 @@
 {
   "name": "nft-market",
-  "version": "1.49",
+  "version": "1.50",
   "summary": "NFT market is in your hands.",
   "author": "ukaznil",
   "license": null,
   "home_page": "https://github.com/ukaznil/nft-market",
-  "download_filename": "nft_market-1.49.tar.gz",
-  "download_time": "2025-09-21T13:05:18.788036",
+  "download_filename": "nft_market-1.50.tar.gz",
+  "download_time": "2025-09-21T13:32:11.199788",
   "package_url": "https://pypi.org/project/nft-market/"
 }
