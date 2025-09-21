@@ -1,11 +1,11 @@
 {
   "name": "kryon-ai",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Kryon AI Multi-Backend Agent Framework",
   "author": "Syed Farith C",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/kryon-agent",
-  "download_filename": "kryon_ai-1.0.0.tar.gz",
-  "download_time": "2025-09-21T15:18:20.006701",
+  "home_page": "https://github.com/syedfarith/kryon-ai",
+  "download_filename": "kryon_ai-1.2.0.tar.gz",
+  "download_time": "2025-09-21T15:38:31.213379",
   "package_url": "https://pypi.org/project/kryon-ai/"
 }

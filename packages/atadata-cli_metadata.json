@@ -1,11 +1,11 @@
 {
   "name": "atadata-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Command line interface for AtaData Job Scheduler Backend API",
   "author": "AtaData Team",
   "license": "MIT",
   "home_page": "https://github.com/atadata/atadata-cli",
-  "download_filename": "atadata_cli-1.0.0.tar.gz",
-  "download_time": "2025-09-21T15:17:58.252917",
+  "download_filename": "atadata_cli-1.0.1-py3-none-any.whl",
+  "download_time": "2025-09-21T15:38:39.825930",
   "package_url": "https://pypi.org/project/atadata-cli/"
 }

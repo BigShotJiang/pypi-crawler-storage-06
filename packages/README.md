@@ -1,20 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T15:18:37.258663
-- **Total Packages**: 73
-- **Total Size**: 19.53 MB
+- **Download Time**: 2025-09-21T15:39:00.969455
+- **Total Packages**: 64
+- **Total Size**: 5.4 MB
 
 ## Packages List
-- vid2txt
+- pyzotero
+- deps-rocker
+- endstone-qqsync-plugin
 - foundry-sdk
-- atadata-cli
+- scrimba-teaching-mcp
+- jquantum
+- modxpy
+- odoo14-addon-ssi-partner-evaluation
+- carthooks
+- orionis
+- tombi
+- Py-DOS-B1
+- kryon-ai
+- libstored
+- siat
+- zenmav
+- passphera-core
 - adam-community
+- instaui-shiki
+- authentik-client
+- srsrpy
+- yeref
+- viswaternet
+- python-ros-engine
+- novel-downloader
+- vid2txt
+- atadata-cli
 - v440
 - lazy-mysql
-- mcp-fileparser
 - equity-aggregator
-- jquantum
 - splashstand
 - pybreaker
 - openfl-nightly
@@ -25,7 +46,6 @@
 - investorzilla
 - gamepadla-plus
 - fastworkflow
-- authentik-client
 - nbforager
 - speechshift
 - contextchain
@@ -35,7 +55,6 @@
 - mesonet-alerts
 - dynashell
 - ivrit
-- orionis
 - funhub
 - asim
 - hhsqllib
@@ -46,36 +65,8 @@
 - alita-sdk
 - biosteam
 - tuspyserver
-- kryon-ai
 - spec-dev
 - mi-maica
 - vector-vault
 - ppklib
 - gradboard
-- voxcity
-- poetry
-- crispy-daisyui
-- simple-port-checker
-- liitos
-- hpcflow-new2
-- django-activity-audit
-- tariochbctools
-- keeya
-- dice-checker
-- miniml-jax
-- scrimba-teaching-mcp
-- tags-plot
-- svetlanna
-- share-cli
-- maven-proxy
-- rumdl
-- venusai
-- parzzley
-- arraying
-- matrix-reminder-bot
-- markitdown-pro
-- tensorbite
-- freactor
-- fastdi-core
-- psaiops
-- passphera-core

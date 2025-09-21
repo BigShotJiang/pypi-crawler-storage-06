@@ -1,0 +1,11 @@
+{
+  "name": "libstored",
+  "version": "1.8.0.2",
+  "summary": "Embedded Debugger client for libstored's debug protocol",
+  "author": "Jochem Rutgers",
+  "license": "MPLv2.0",
+  "home_page": "https://github.com/DEMCON/libstored",
+  "download_filename": "libstored-1.8.0.2.tar.gz",
+  "download_time": "2025-09-21T15:38:32.251012",
+  "package_url": "https://pypi.org/project/libstored/"
+}

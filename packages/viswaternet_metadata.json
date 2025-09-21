@@ -1,0 +1,11 @@
+{
+  "name": "viswaternet",
+  "version": "2.2.3",
+  "summary": "A python package for easy generation and customization of water network graphs.",
+  "author": "Tyler Trimble",
+  "license": "MIT license",
+  "home_page": "https://github.com/tylertrimble/viswaternet",
+  "download_filename": "viswaternet-2.2.3-py2.py3-none-any.whl",
+  "download_time": "2025-09-21T15:38:37.682550",
+  "package_url": "https://pypi.org/project/viswaternet/"
+}

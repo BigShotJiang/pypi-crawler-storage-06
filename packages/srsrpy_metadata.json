@@ -1,0 +1,11 @@
+{
+  "name": "srsrpy",
+  "version": "0.2.4",
+  "summary": "Really Simple Service Registry - Python Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srsrpy-0.2.4.tar.gz",
+  "download_time": "2025-09-21T15:38:36.511368",
+  "package_url": "https://pypi.org/project/srsrpy/"
+}
