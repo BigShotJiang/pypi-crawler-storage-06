@@ -1,11 +1,11 @@
 {
   "name": "whyml",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "A powerful AI coding assistant framework",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "whyml-0.1.20.tar.gz",
-  "download_time": "2025-09-20T15:38:15.912420",
+  "download_filename": "whyml-0.1.21.tar.gz",
+  "download_time": "2025-09-21T08:22:22.748436",
   "package_url": "https://pypi.org/project/whyml/"
 }

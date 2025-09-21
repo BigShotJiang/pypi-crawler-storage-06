@@ -1,0 +1,11 @@
+{
+  "name": "intelligent-codelens",
+  "version": "1.0.0",
+  "summary": "智能代码搜索引擎，支持语义搜索和代码分析",
+  "author": "CodeLens Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/CodeLens",
+  "download_filename": "intelligent_codelens-1.0.0.tar.gz",
+  "download_time": "2025-09-21T08:22:10.308144",
+  "package_url": "https://pypi.org/project/intelligent-codelens/"
+}
