@@ -1,0 +1,11 @@
+{
+  "name": "pywikibot-scripts",
+  "version": "10.5.0",
+  "summary": "Pywikibot Scripts Collection",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pywikibot_scripts-10.5.0-py3-none-any.whl",
+  "download_time": "2025-09-21T07:17:07.848632",
+  "package_url": "https://pypi.org/project/pywikibot-scripts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytrading-toolkit",
+  "version": "1.0.0",
+  "summary": "Python 암호화폐 트레이딩 봇 개발 툴킷",
+  "author": "SHY",
+  "license": null,
+  "home_page": "https://pypi.org/project/pytrading-toolkit/",
+  "download_filename": "pytrading_toolkit-1.0.0.tar.gz",
+  "download_time": "2025-09-21T07:17:01.820448",
+  "package_url": "https://pypi.org/project/pytrading-toolkit/"
+}

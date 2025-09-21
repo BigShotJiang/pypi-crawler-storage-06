@@ -1,0 +1,11 @@
+{
+  "name": "memory-hub-mcp",
+  "version": "1.2.0",
+  "summary": "Local Memory Hub MCP Server with stdio transport for ZenCoder and MCP clients",
+  "author": "Matt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memory_hub_mcp-1.2.0.tar.gz",
+  "download_time": "2025-09-21T07:17:39.883494",
+  "package_url": "https://pypi.org/project/memory-hub-mcp/"
+}
