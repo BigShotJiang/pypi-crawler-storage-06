@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-09-21T19:27:00.223846",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 0.88,
+  "download_time": "2025-09-21T19:39:48.258079",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 0.15,
   "packages": [
-    "tobes-ui",
-    "xmlmergetocsv",
-    "retryxlib",
-    "authentik-client",
-    "foamlib",
     "omni-lpr",
     "snakemake-logger-plugin-snkmt",
     "async-mega-py",
@@ -21,12 +16,16 @@
     "core-infinity-stones",
     "sitebay-mcp",
     "py-cheatsheet-ace",
+    "tobes-ui",
+    "xmlmergetocsv",
     "SwiftGUI",
+    "retryxlib",
     "devpi-api-client",
     "perfetto-mcp",
     "psaiops",
     "dbt-colibri",
     "fraiseql",
+    "authentik-client",
     "ScopeSim_Templates",
     "package-main",
     "orionis",
@@ -75,6 +74,8 @@
     "manage-django-project",
     "emerge",
     "fast-django-asgi",
-    "zarrdump"
+    "zarrdump",
+    "gammarers.aws-secure-frontend-web-app-cloudfront-distribution",
+    "pacupdate"
   ]
 }

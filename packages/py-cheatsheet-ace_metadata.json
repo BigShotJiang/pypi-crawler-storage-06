@@ -1,11 +1,11 @@
 {
   "name": "py-cheatsheet-ace",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A personal cheatsheet library for my DS practicals.",
   "author": "prashant shirke",
   "license": null,
   "home_page": null,
-  "download_filename": "py_cheatsheet_ace-0.1.2.tar.gz",
-  "download_time": "2025-09-21T19:15:13.406730",
+  "download_filename": "py_cheatsheet_ace-0.2.0.tar.gz",
+  "download_time": "2025-09-21T19:39:14.137719",
   "package_url": "https://pypi.org/project/py-cheatsheet-ace/"
 }

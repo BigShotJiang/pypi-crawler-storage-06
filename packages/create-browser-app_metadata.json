@@ -1,11 +1,11 @@
 {
   "name": "create-browser-app",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Start your Stagehand project with a single command",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "create_browser_app-0.1.5.tar.gz",
-  "download_time": "2025-09-21T19:15:39.492500",
+  "download_filename": "create_browser_app-0.1.6.tar.gz",
+  "download_time": "2025-09-21T19:39:38.290308",
   "package_url": "https://pypi.org/project/create-browser-app/"
 }

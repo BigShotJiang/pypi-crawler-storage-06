@@ -1,11 +1,11 @@
 {
   "name": "retryxlib",
-  "version": "0.1.2",
-  "summary": "A simple retry/backoff library for Python",
+  "version": "0.1.3",
+  "summary": "A simple retry/backoff handler",
   "author": "Mohammad Razi",
   "license": null,
   "home_page": null,
-  "download_filename": "retryxlib-0.1.2.tar.gz",
-  "download_time": "2025-09-21T19:26:21.995997",
+  "download_filename": "retryxlib-0.1.3.tar.gz",
+  "download_time": "2025-09-21T19:39:16.436575",
   "package_url": "https://pypi.org/project/retryxlib/"
 }
