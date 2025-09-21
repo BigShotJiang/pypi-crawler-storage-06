@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-09-21T22:52:41.946548",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 0.32,
+  "download_time": "2025-09-21T23:18:48.085346",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 7.46,
   "packages": [
+    "my-aws-helpers",
+    "authentik-client",
+    "pyloid",
     "continual-foragax",
     "tinfoil",
     "OZI",
@@ -14,7 +17,6 @@
     "contextchain",
     "holamundoplayerlupo123",
     "cwl2puml",
-    "authentik-client",
     "cell-load",
     "GNServer",
     "emoji-country-flag",
@@ -74,7 +76,6 @@
     "irispie-ce",
     "ACMS",
     "orca-sdk",
-    "cvsim",
-    "pybag-sdk"
+    "cvsim"
   ]
 }
