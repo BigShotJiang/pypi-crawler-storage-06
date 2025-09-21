@@ -1,11 +1,11 @@
 {
   "name": "git-draft",
-  "version": "0.51.0",
+  "version": "0.51.1",
   "summary": "Version-controlled code assistant",
   "author": "Matthieu Monsch",
   "license": "MIT",
   "home_page": "https://github.com/mtth/git-draft",
-  "download_filename": "git_draft-0.51.0.tar.gz",
-  "download_time": "2025-09-21T19:15:37.867795",
+  "download_filename": "git_draft-0.51.1.tar.gz",
+  "download_time": "2025-09-21T20:40:04.293941",
   "package_url": "https://pypi.org/project/git-draft/"
 }

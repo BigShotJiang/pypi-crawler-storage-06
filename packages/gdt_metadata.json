@@ -1,11 +1,11 @@
 {
   "name": "gdt",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Gene Dictionary Tool - Bioinformatics package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gdt-1.1.1.tar.gz",
-  "download_time": "2025-09-20T22:17:21.459050",
+  "download_filename": "gdt-1.1.2.tar.gz",
+  "download_time": "2025-09-21T20:40:14.642544",
   "package_url": "https://pypi.org/project/gdt/"
 }

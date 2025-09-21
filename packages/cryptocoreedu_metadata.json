@@ -1,11 +1,11 @@
 {
   "name": "cryptocoreedu",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Educational cryptography toolkit",
   "author": "michaans",
   "license": null,
   "home_page": null,
-  "download_filename": "cryptocoreedu-0.2.1.tar.gz",
-  "download_time": "2025-09-21T09:52:31.188629",
+  "download_filename": "cryptocoreedu-0.2.2.tar.gz",
+  "download_time": "2025-09-21T20:40:01.638370",
   "package_url": "https://pypi.org/project/cryptocoreedu/"
 }

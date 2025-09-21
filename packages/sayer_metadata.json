@@ -1,11 +1,11 @@
 {
   "name": "sayer",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "The click running on steroids",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sayer-0.5.1.tar.gz",
-  "download_time": "2025-09-19T22:40:08.581050",
+  "download_filename": "sayer-0.5.2.tar.gz",
+  "download_time": "2025-09-21T20:40:20.466204",
   "package_url": "https://pypi.org/project/sayer/"
 }

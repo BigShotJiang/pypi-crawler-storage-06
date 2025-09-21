@@ -1,11 +1,11 @@
 {
   "name": "irispie-ce",
-  "version": "0.70.0",
+  "version": "0.71.0",
   "summary": "Macroeconomic modeling package",
   "author": null,
   "license": "OGResearch Community License 1.0",
   "home_page": null,
-  "download_filename": "irispie_ce-0.70.0.tar.gz",
-  "download_time": "2025-09-18T10:20:22.462153",
+  "download_filename": "irispie_ce-0.71.0.tar.gz",
+  "download_time": "2025-09-21T20:40:05.415853",
   "package_url": "https://pypi.org/project/irispie-ce/"
 }

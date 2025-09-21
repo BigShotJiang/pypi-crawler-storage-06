@@ -1,0 +1,11 @@
+{
+  "name": "kane-pe",
+  "version": "0.1.0",
+  "summary": "Python library για ΚΑΝ.ΕΠΕ. (Κανονισμός Επεμβάσεων)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kane_pe-0.1.0.tar.gz",
+  "download_time": "2025-09-21T20:40:19.942043",
+  "package_url": "https://pypi.org/project/kane-pe/"
+}

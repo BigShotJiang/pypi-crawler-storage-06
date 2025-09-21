@@ -1,0 +1,11 @@
+{
+  "name": "psyscale",
+  "version": "0.1.2",
+  "summary": "A Python library for storing & retrieving financial data in a TimescaleDB optimized Postgres Database.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psyscale-0.1.2.tar.gz",
+  "download_time": "2025-09-21T20:40:04.841640",
+  "package_url": "https://pypi.org/project/psyscale/"
+}
