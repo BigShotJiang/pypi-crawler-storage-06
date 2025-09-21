@@ -1,0 +1,11 @@
+{
+  "name": "file-format-detection",
+  "version": "1.0.0",
+  "summary": "S3 downloader and Snappy/.snz file format detection library",
+  "author": "Sai Niranjan Chitturi, Leela Sai Surya Veer Pedarla, Bhargav Dasari, Kavya Sri Punna, Vinay Appari, Chandralekha Alluri, Eknath Narravula, Pavan, Divya, OpenAI, xAI",
+  "license": "MIT",
+  "home_page": "https://github.com/SaiNiranjanChitturi/File_Format_Detection",
+  "download_filename": "file_format_detection-1.0.0.tar.gz",
+  "download_time": "2025-09-21T23:38:47.884389",
+  "package_url": "https://pypi.org/project/file-format-detection/"
+}

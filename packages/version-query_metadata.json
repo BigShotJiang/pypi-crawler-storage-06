@@ -1,0 +1,11 @@
+{
+  "name": "version-query",
+  "version": "1.7.0",
+  "summary": "Zero-overhead package versioning for Python.",
+  "author": "Mateusz Bysiek, John Vandenberg",
+  "license": null,
+  "home_page": "https://github.com/mbdevpl/version-query",
+  "download_filename": "version_query-1.7.0.tar.gz",
+  "download_time": "2025-09-21T23:38:45.432993",
+  "package_url": "https://pypi.org/project/version-query/"
+}
