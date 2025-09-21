@@ -1,0 +1,11 @@
+{
+  "name": "pyhub-office-automation",
+  "version": "5.2538.1",
+  "summary": "Python-based Excel and HWP automation package for AI agents",
+  "author": "Chinseok Lee",
+  "license": "MIT",
+  "home_page": "https://github.com/pyhub-apps/pyhub-office-automation",
+  "download_filename": "pyhub_office_automation-5.2538.1-py3-none-any.whl",
+  "download_time": "2025-09-21T06:29:14.410101",
+  "package_url": "https://pypi.org/project/pyhub-office-automation/"
+}

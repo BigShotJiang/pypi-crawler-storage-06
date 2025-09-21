@@ -1,11 +1,11 @@
 {
   "name": "django-revolution",
-  "version": "1.0.36",
+  "version": "1.0.42",
   "summary": "Zone-based API architecture for Django. Install and go.",
   "author": "ReformsAI",
   "license": "MIT",
   "home_page": "https://djangocfg.com",
-  "download_filename": "django_revolution-1.0.36.tar.gz",
-  "download_time": "2025-09-21T05:41:33.271882",
+  "download_filename": "django_revolution-1.0.42.tar.gz",
+  "download_time": "2025-09-21T06:29:01.447833",
   "package_url": "https://pypi.org/project/django-revolution/"
 }

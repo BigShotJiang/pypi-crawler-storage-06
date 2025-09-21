@@ -1,0 +1,11 @@
+{
+  "name": "fe25519",
+  "version": "2.0.0",
+  "summary": "Pure-Python data structure for working with Ed25519 (and Ristretto) field elements and operations.",
+  "author": "Andrei Lapets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fe25519-2.0.0.tar.gz",
+  "download_time": "2025-09-21T06:29:09.452185",
+  "package_url": "https://pypi.org/project/fe25519/"
+}
