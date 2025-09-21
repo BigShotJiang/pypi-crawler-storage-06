@@ -1,29 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T05:19:40.310934
-- **Total Packages**: 70
-- **Total Size**: 85.32 MB
+- **Download Time**: 2025-09-21T05:42:07.351516
+- **Total Packages**: 60
+- **Total Size**: 12.14 MB
 
 ## Packages List
-- music-bassline-generator
-- tabsearch
-- fileslicer
-- django-msteams-notify
-- mcp-servers-auto-test-secure
+- pydal
+- django-revolution
 - authentik-client
-- impy-array
-- galapagos-turtle
-- xpath-kit
-- ViOTUcluster
-- rxai-sdg
 - duckdb-ext-vss
 - duckdb-ext-ui
+- xpath-kit
 - duckdb-ext-tpch
-- maleo-security
 - duckdb-ext-tpcds
+- Cider.py
+- duckdb-ext-sqlite
 - duckdb-ext-parquet
 - duckdb-ext-json
+- music-bassline-generator
 - duckdb-ext-inet
 - duckdb-ext-icu
 - duckdb-ext-iceberg
@@ -31,6 +26,32 @@
 - duckdb-ext-fts
 - duckdb-ext-excel
 - duckdb-ext-ducklake
+- PyTFBS
+- duckdb-ext-azure
+- duckdb-ext-aws
+- duckdb-ext-avro
+- duckdb-ext-autocomplete
+- valetudo-map-parser
+- clipkit
+- dev-toolbox
+- opendp
+- formulaic
+- uk_bin_collection
+- mscp
+- git-draft
+- init-gitee
+- ast-tool-py
+- yeref
+- ask-bedrock
+- tabsearch
+- fileslicer
+- django-msteams-notify
+- mcp-servers-auto-test-secure
+- impy-array
+- galapagos-turtle
+- ViOTUcluster
+- rxai-sdg
+- maleo-security
 - PyExtender
 - truss-transfer
 - smoosense
@@ -40,39 +61,8 @@
 - oven-compiler
 - air
 - timestrader-preprocessing
-- duckdb-ext-azure
 - library
 - pprintx
 - pycmd2
 - hwpx-mcp-server
 - stream4py
-- dialectical-framework
-- maleo-mixins
-- gguf-connector
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- duckdb-ext-aws
-- tobiko-cloud-pydantic
-- garb-alarm-clock
-- class-argparse
-- graphs-csirhall
-- ipc-frontier-py
-- mcp-mesh
-- TraktorBuddy
-- docstring-to-text
-- quacc
-- pybmoore
-- duckdb-ext-avro
-- pyparsing
-- compspec-modules
-- compspec-spack
-- easyscript
-- chromedriver-binary
-- allianceauth
-- ctfutils
-- duckdb-ext-autocomplete
-- keras-nightly
-- django-cfg
-- ariel-data-preprocessing
-- duckdb-ext
-- leetcode-py-sdk

@@ -1,0 +1,11 @@
+{
+  "name": "clipkit",
+  "version": "2.7.0",
+  "summary": "Alignment trimming software for phylogenetics.",
+  "author": "Jacob L. Steenwyk",
+  "license": null,
+  "home_page": "https://github.com/jlsteenwyk/clipkit",
+  "download_filename": "clipkit-2.7.0.tar.gz",
+  "download_time": "2025-09-21T05:41:49.414790",
+  "package_url": "https://pypi.org/project/clipkit/"
+}
