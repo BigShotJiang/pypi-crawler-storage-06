@@ -1,0 +1,11 @@
+{
+  "name": "FolderArchaeologist",
+  "version": "1.0.1",
+  "summary": "A python based CLI file management tool that gamifies managing files in a cluttered folder.",
+  "author": "Koffandaff, Bond0707",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "folderarchaeologist-1.0.1.tar.gz",
+  "download_time": "2025-09-21T10:40:33.699660",
+  "package_url": "https://pypi.org/project/FolderArchaeologist/"
+}

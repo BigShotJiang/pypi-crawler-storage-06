@@ -1,0 +1,11 @@
+{
+  "name": "dnsdiag",
+  "version": "2.7.0",
+  "summary": "DNS Measurement, Troubleshooting and Security Auditing Toolset (ping, traceroute)",
+  "author": "Babak Farrokhi",
+  "license": "BSD",
+  "home_page": "https://dnsdiag.org/",
+  "download_filename": "dnsdiag-2.7.0.tar.gz",
+  "download_time": "2025-09-21T10:40:19.102056",
+  "package_url": "https://pypi.org/project/dnsdiag/"
+}

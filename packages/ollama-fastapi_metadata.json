@@ -1,0 +1,11 @@
+{
+  "name": "ollama-fastapi",
+  "version": "0.1.1",
+  "summary": "FastAPI wrapper for running Ollama locally",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ollama_fastapi-0.1.1.tar.gz",
+  "download_time": "2025-09-21T10:40:06.106002",
+  "package_url": "https://pypi.org/project/ollama-fastapi/"
+}
