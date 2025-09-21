@@ -1,11 +1,11 @@
 {
   "name": "kattis-tracker-py",
-  "version": "1.0.0.dev3",
+  "version": "1.0.0",
   "summary": "A Python API client for the Kattis Tracker backend.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kattis_tracker_py-1.0.0.dev3.tar.gz",
-  "download_time": "2025-09-17T01:50:30.336816",
+  "download_filename": "kattis_tracker_py-1.0.0.tar.gz",
+  "download_time": "2025-09-21T20:20:39.200232",
   "package_url": "https://pypi.org/project/kattis-tracker-py/"
 }

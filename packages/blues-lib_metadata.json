@@ -1,11 +1,11 @@
 {
   "name": "blues-lib",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Blues's core library",
   "author": "Blues Liu",
   "license": null,
   "home_page": null,
-  "download_filename": "blues_lib-1.9.0.tar.gz",
-  "download_time": "2025-09-20T05:52:21.260773",
+  "download_filename": "blues_lib-1.9.1.tar.gz",
+  "download_time": "2025-09-21T20:20:58.498080",
   "package_url": "https://pypi.org/project/blues-lib/"
 }

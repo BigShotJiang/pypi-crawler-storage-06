@@ -1,11 +1,11 @@
 {
   "name": "acbox",
-  "version": "0.0.0b7",
+  "version": "0.0.0b9",
   "summary": "Collection of small tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "acbox-0.0.0b7.tar.gz",
-  "download_time": "2025-09-21T17:52:57.314121",
+  "download_filename": "acbox-0.0.0b9.tar.gz",
+  "download_time": "2025-09-21T20:21:01.653002",
   "package_url": "https://pypi.org/project/acbox/"
 }
