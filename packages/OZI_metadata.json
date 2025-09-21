@@ -1,11 +1,11 @@
 {
   "name": "OZI",
-  "version": "2.1.19",
+  "version": "2.1.20",
   "summary": "Package Python projects with Meson.",
   "author": "Eden Ross Duff MSc",
   "license": "Apache-2.0 WITH LLVM-exception",
   "home_page": null,
-  "download_filename": "ozi-2.1.19.tar.gz",
-  "download_time": "2025-09-19T03:34:02.811441",
+  "download_filename": "ozi-2.1.20.tar.gz",
+  "download_time": "2025-09-21T22:52:02.149182",
   "package_url": "https://pypi.org/project/OZI/"
 }

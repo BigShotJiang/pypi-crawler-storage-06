@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-09-21T22:41:01.737407",
+  "download_time": "2025-09-21T22:52:41.946548",
   "total_packages_downloaded": 73,
-  "total_size_mb": 16.79,
+  "total_size_mb": 0.32,
   "packages": [
+    "continual-foragax",
+    "tinfoil",
+    "OZI",
+    "illumo-flow",
+    "dynamanager",
+    "telemetrix-Barmaja",
+    "compspec-containment",
+    "apkshadow",
     "contextchain",
     "holamundoplayerlupo123",
     "cwl2puml",
@@ -39,7 +47,6 @@
     "cantools",
     "faisal-salahi-calculator",
     "dycw-utilities",
-    "continual-foragax",
     "pyblhost",
     "gam7",
     "lunary",
@@ -64,17 +71,10 @@
     "pyedi",
     "contexter-codex",
     "tractosaurus-client",
-    "apkshadow",
     "irispie-ce",
     "ACMS",
     "orca-sdk",
     "cvsim",
-    "pybag-sdk",
-    "hellorota",
-    "foundry-platform-sdk",
-    "skycastle",
-    "fraiseql",
-    "symjit",
-    "miru-server-sdk"
+    "pybag-sdk"
   ]
 }
