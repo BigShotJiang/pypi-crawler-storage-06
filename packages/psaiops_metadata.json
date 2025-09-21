@@ -1,11 +1,11 @@
 {
   "name": "psaiops",
-  "version": "0.0.17",
+  "version": "0.1.0",
   "summary": "Web apps to inspect & engineer NN activations.",
   "author": "apehex",
   "license": ".github/LICENSE.md",
   "home_page": null,
-  "download_filename": "psaiops-0.0.17.tar.gz",
-  "download_time": "2025-09-21T18:26:04.151961",
+  "download_filename": "psaiops-0.1.0.tar.gz",
+  "download_time": "2025-09-21T19:15:17.336322",
   "package_url": "https://pypi.org/project/psaiops/"
 }

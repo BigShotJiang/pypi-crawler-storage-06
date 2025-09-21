@@ -1,0 +1,11 @@
+{
+  "name": "devpi-api-client",
+  "version": "0.2.0",
+  "summary": "High-level Python client for managing users, indexes, tokens, and packages on devpi servers.",
+  "author": "ramos",
+  "license": "MIT",
+  "home_page": "https://github.com/ramos_admin/python-devpi-api-client",
+  "download_filename": "devpi_api_client-0.2.0.tar.gz",
+  "download_time": "2025-09-21T19:15:16.207224",
+  "package_url": "https://pypi.org/project/devpi-api-client/"
+}

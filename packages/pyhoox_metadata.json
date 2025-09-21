@@ -1,0 +1,11 @@
+{
+  "name": "pyhoox",
+  "version": "2.0.0",
+  "summary": "Advanced Python Hook System - Modular, type-safe, and feature-rich event management library",
+  "author": "techatlasdev",
+  "license": "MIT",
+  "home_page": "https://github.com/techatlasdev/pyhoox",
+  "download_filename": "pyhoox-2.0.0.tar.gz",
+  "download_time": "2025-09-21T19:15:38.413536",
+  "package_url": "https://pypi.org/project/pyhoox/"
+}

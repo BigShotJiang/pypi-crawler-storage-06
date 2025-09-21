@@ -1,0 +1,11 @@
+{
+  "name": "ScopeSim_Templates",
+  "version": "0.7.0",
+  "summary": "On-sky source templates for ScopeSim",
+  "author": "Astar Vienna",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/AstarVienna/ScopeSim_Templates/",
+  "download_filename": "scopesim_templates-0.7.0.tar.gz",
+  "download_time": "2025-09-21T19:15:20.152844",
+  "package_url": "https://pypi.org/project/ScopeSim_Templates/"
+}

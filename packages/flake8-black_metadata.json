@@ -1,0 +1,11 @@
+{
+  "name": "flake8-black",
+  "version": "0.4.0",
+  "summary": "flake8 plugin to call black as a code style validator",
+  "author": "Peter J. A. Cock",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flake8_black-0.4.0.tar.gz",
+  "download_time": "2025-09-21T19:15:32.355950",
+  "package_url": "https://pypi.org/project/flake8-black/"
+}
