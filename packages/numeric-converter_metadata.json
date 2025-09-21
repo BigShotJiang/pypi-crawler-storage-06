@@ -1,0 +1,11 @@
+{
+  "name": "numeric-converter",
+  "version": "0.1.0",
+  "summary": "A Python package for converting Roman numerals and written numbers to integers",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/numeric-converter",
+  "download_filename": "numeric_converter-0.1.0.tar.gz",
+  "download_time": "2025-09-21T18:26:10.391531",
+  "package_url": "https://pypi.org/project/numeric-converter/"
+}

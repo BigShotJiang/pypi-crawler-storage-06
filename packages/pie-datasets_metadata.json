@@ -1,0 +1,11 @@
+{
+  "name": "pie-datasets",
+  "version": "0.10.12",
+  "summary": "Building scripts for Python-IE Datasets",
+  "author": "Arne Binder",
+  "license": null,
+  "home_page": "https://github.com/arnebinder/pie-datasets",
+  "download_filename": "pie_datasets-0.10.12.tar.gz",
+  "download_time": "2025-09-21T18:25:48.463579",
+  "package_url": "https://pypi.org/project/pie-datasets/"
+}

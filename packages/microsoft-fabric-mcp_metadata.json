@@ -1,11 +1,11 @@
 {
   "name": "microsoft-fabric-mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Safe, read-only MCP server for Microsoft Fabric - 25 tools for data engineers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_fabric_mcp-0.1.3.tar.gz",
-  "download_time": "2025-09-21T13:05:32.011260",
+  "download_filename": "microsoft_fabric_mcp-0.1.4.tar.gz",
+  "download_time": "2025-09-21T18:26:12.980328",
   "package_url": "https://pypi.org/project/microsoft-fabric-mcp/"
 }

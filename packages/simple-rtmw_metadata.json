@@ -1,11 +1,11 @@
 {
   "name": "simple-rtmw",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "RTMW simple rtmw inference",
-  "author": null,
+  "author": "Ajit Nath",
   "license": null,
   "home_page": null,
-  "download_filename": "simple_rtmw-0.1.0.tar.gz",
-  "download_time": "2025-09-21T17:31:44.627298",
+  "download_filename": "simple_rtmw-0.1.1.tar.gz",
+  "download_time": "2025-09-21T18:26:15.040039",
   "package_url": "https://pypi.org/project/simple-rtmw/"
 }
