@@ -1,0 +1,11 @@
+{
+  "name": "pysnowball",
+  "version": "0.1.6",
+  "summary": "xueqiu api python client | 集成雪球API",
+  "author": "Yang Yu",
+  "license": null,
+  "home_page": "https://github.com/uname-yang/pysnowball",
+  "download_filename": "pysnowball-0.1.6.tar.gz",
+  "download_time": "2025-09-21T03:00:53.620366",
+  "package_url": "https://pypi.org/project/pysnowball/"
+}

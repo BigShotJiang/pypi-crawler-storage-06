@@ -1,0 +1,11 @@
+{
+  "name": "s3-cost-estimator",
+  "version": "0.1.0",
+  "summary": "A Python library to estimate AWS S3 storage costs using Cost Explorer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "s3_cost_estimator-0.1.0.tar.gz",
+  "download_time": "2025-09-21T03:00:56.333574",
+  "package_url": "https://pypi.org/project/s3-cost-estimator/"
+}

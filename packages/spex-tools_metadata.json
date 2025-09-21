@@ -1,0 +1,11 @@
+{
+  "name": "spex-tools",
+  "version": "0.3.1059",
+  "summary": "Comprehensive spatial transcriptomics analysis library with advanced segmentation, clustering, and spatial analysis tools",
+  "author": "Aleksandr Prilipko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spex_tools-0.3.1059.tar.gz",
+  "download_time": "2025-09-21T03:00:55.801539",
+  "package_url": "https://pypi.org/project/spex-tools/"
+}

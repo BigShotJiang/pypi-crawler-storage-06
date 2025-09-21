@@ -1,0 +1,11 @@
+{
+  "name": "mcp-servers-auto-test",
+  "version": "0.2.2",
+  "summary": "MCP Servers Automated Testing Application - Test MCP servers with ease",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_servers_auto_test-0.2.2.tar.gz",
+  "download_time": "2025-09-21T03:00:49.468789",
+  "package_url": "https://pypi.org/project/mcp-servers-auto-test/"
+}

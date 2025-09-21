@@ -1,11 +1,11 @@
 {
   "name": "sysmaid",
-  "version": "0.6.9",
+  "version": "0.7.0",
   "summary": "为 Windows 高级用户和开发者打造：一个基于Python的系统管理框架，用于轻松发现并治理那些不守规矩的后台应用和服务。",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "sysmaid-0.6.9.tar.gz",
-  "download_time": "2025-09-20T15:38:16.433383",
+  "download_filename": "sysmaid-0.7.0.tar.gz",
+  "download_time": "2025-09-21T03:00:58.501692",
   "package_url": "https://pypi.org/project/sysmaid/"
 }

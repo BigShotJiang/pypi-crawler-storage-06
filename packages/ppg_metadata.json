@@ -1,0 +1,11 @@
+{
+  "name": "ppg",
+  "version": "1.2.0",
+  "summary": "PPG: A powerful app generator simplifying development with Python and Qt.",
+  "author": "Neuri",
+  "license": "GPL-3.0-only",
+  "home_page": "https://ppg.neuri.ai",
+  "download_filename": "ppg-1.2.0.tar.gz",
+  "download_time": "2025-09-21T03:01:12.342377",
+  "package_url": "https://pypi.org/project/ppg/"
+}
