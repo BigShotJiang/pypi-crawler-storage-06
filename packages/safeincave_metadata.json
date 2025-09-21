@@ -1,0 +1,11 @@
+{
+  "name": "safeincave",
+  "version": "2.0.0",
+  "summary": "Simulator and tools for salt cavern stability and storage analyses",
+  "author": "Hermínio T. Honório",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "safeincave-2.0.0.tar.gz",
+  "download_time": "2025-09-21T07:52:36.522871",
+  "package_url": "https://pypi.org/project/safeincave/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "scrcpy-client-def",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A partial implementation of scrcpy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrcpy_client_def-0.1.2.tar.gz",
-  "download_time": "2025-09-21T07:38:15.192327",
+  "download_filename": "scrcpy_client_def-0.1.3.tar.gz",
+  "download_time": "2025-09-21T07:52:32.933862",
   "package_url": "https://pypi.org/project/scrcpy-client-def/"
 }
