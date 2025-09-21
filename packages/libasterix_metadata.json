@@ -1,0 +1,11 @@
+{
+  "name": "libasterix",
+  "version": "0.21.3",
+  "summary": "Asterix data processing library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libasterix-0.21.3.tar.gz",
+  "download_time": "2025-09-21T03:57:27.649412",
+  "package_url": "https://pypi.org/project/libasterix/"
+}
