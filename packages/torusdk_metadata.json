@@ -1,11 +1,11 @@
 {
   "name": "torusdk",
-  "version": "0.2.4.2",
+  "version": "0.2.4.3",
   "summary": "Torus network official CLI",
   "author": "renlabs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torusdk-0.2.4.2.tar.gz",
-  "download_time": "2025-09-21T06:29:12.581593",
+  "download_filename": "torusdk-0.2.4.3.tar.gz",
+  "download_time": "2025-09-21T06:48:04.912628",
   "package_url": "https://pypi.org/project/torusdk/"
 }
