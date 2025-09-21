@@ -1,0 +1,11 @@
+{
+  "name": "koxs-file-editor",
+  "version": "0.1.0",
+  "summary": "一个功能强大的纯Python文件编辑器，支持批量操作、撤销重做、大文件处理和正则表达式",
+  "author": "koxs",
+  "license": null,
+  "home_page": "https://github.com/yourusername/koxs-file-editor",
+  "download_filename": "koxs_file_editor-0.1.0.tar.gz",
+  "download_time": "2025-09-21T11:38:46.347326",
+  "package_url": "https://pypi.org/project/koxs-file-editor/"
+}

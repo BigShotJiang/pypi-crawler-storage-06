@@ -1,14 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T11:27:33.758324
-- **Total Packages**: 84
-- **Total Size**: 1.16 MB
+- **Download Time**: 2025-09-21T11:39:22.662735
+- **Total Packages**: 80
+- **Total Size**: 13.94 MB
 
 ## Packages List
+- slimgui
+- utcp-text
+- usdm4-pj
+- valetudo-map-parser
+- legit-api-client
+- tabsmith
+- copr
+- utcp-http
+- copr-common
+- pyquoks
+- authentik-client
+- pulse-sdk
+- HiVis
+- Eryx
+- datamaestro-image
+- hgitaly
+- d4rktg
+- koxs-file-editor
+- djcheckup
+- llmswap
+- shinestacker
+- eKoNLPy
+- su_master_mind
+- yliueTools
+- torchx-nightly
+- pocong
 - django-cfg
 - PyInventory
-- authentik-client
 - ibm-agent-analytics-common
 - spec-dev
 - marktree
@@ -17,21 +42,17 @@
 - bielik
 - sw-mc-builder
 - mazemdp
-- djcheckup
 - dependamerge
 - pyNukiBT
 - adv-optm
 - hseb
 - tb-nightly
-- d4rktg
 - PYield
 - eo-styleguide
 - yanga
 - cosmic-ray
-- su_master_mind
 - foundry-sdk
 - dice-checker
-- legit-api-client
 - shell-lib
 - example-tjc
 - webspirit
@@ -65,28 +86,3 @@
 - passagemath-meataxe
 - passagemath-mcqd
 - passagemath-lrslib
-- db-crawl-agents
-- llama-tools-aisee
-- matplobblib
-- passagemath-libecm
-- passagemath-libbraiding
-- passagemath-lcalc
-- passagemath-latte-4ti2
-- passagemath-kissat
-- passagemath-kenzo
-- passagemath-homfly
-- passagemath-groups
-- mvcrender
-- ci-version-tools
-- passagemath-graphs
-- passagemath-glucose
-- llmswap
-- passagemath-glpk
-- underthesea
-- passagemath-gfan
-- python-kraken-sdk
-- passagemath-gap-pkg-normalizinterface
-- duckdb-ext-vss
-- duckdb-ext-ui
-- passagemath-gap-pkg-curlinterface
-- duckdb-ext-tpch

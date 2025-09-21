@@ -1,0 +1,11 @@
+{
+  "name": "copr",
+  "version": "2.3",
+  "summary": "Python client for copr service.",
+  "author": "Valentin Gologuzov",
+  "license": "GPLv2+",
+  "home_page": "https://github.com/fedora-copr/copr",
+  "download_filename": "copr-2.3.tar.gz",
+  "download_time": "2025-09-21T11:38:40.102996",
+  "package_url": "https://pypi.org/project/copr/"
+}

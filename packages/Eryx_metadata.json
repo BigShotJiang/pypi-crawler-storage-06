@@ -1,0 +1,11 @@
+{
+  "name": "Eryx",
+  "version": "0.5.7",
+  "summary": "A decently fast and simple dynamically typed programming language similar to javascript/python.",
+  "author": "ShyMike",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eryx-0.5.7.tar.gz",
+  "download_time": "2025-09-21T11:38:44.292423",
+  "package_url": "https://pypi.org/project/Eryx/"
+}

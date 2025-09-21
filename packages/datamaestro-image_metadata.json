@@ -1,0 +1,11 @@
+{
+  "name": "datamaestro-image",
+  "version": "2025.9.21.1",
+  "summary": "\"Image related datasets\"",
+  "author": null,
+  "license": "GPL-3",
+  "home_page": null,
+  "download_filename": "datamaestro_image-2025.9.21.1.tar.gz",
+  "download_time": "2025-09-21T11:38:44.804046",
+  "package_url": "https://pypi.org/project/datamaestro-image/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "utcp-http",
+  "version": "1.0.5",
+  "summary": "UTCP communication protocol plugin for HTTP, SSE, and streamable HTTP, plus an OpenAPI converter.",
+  "author": "UTCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp_http-1.0.5.tar.gz",
+  "download_time": "2025-09-21T11:38:40.633579",
+  "package_url": "https://pypi.org/project/utcp-http/"
+}

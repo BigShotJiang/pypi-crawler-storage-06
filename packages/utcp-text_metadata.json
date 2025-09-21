@@ -1,0 +1,11 @@
+{
+  "name": "utcp-text",
+  "version": "1.0.3",
+  "summary": "UTCP communication protocol plugin for reading text files.",
+  "author": "UTCP Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utcp_text-1.0.3.tar.gz",
+  "download_time": "2025-09-21T11:38:37.477447",
+  "package_url": "https://pypi.org/project/utcp-text/"
+}
