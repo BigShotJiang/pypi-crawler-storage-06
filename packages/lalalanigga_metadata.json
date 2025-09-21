@@ -1,11 +1,11 @@
 {
   "name": "lalalanigga",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A personal cheatsheet library for my DS practicals.",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "lalalanigga-0.1.0.tar.gz",
-  "download_time": "2025-09-21T16:52:58.982931",
+  "download_filename": "lalalanigga-0.1.1.tar.gz",
+  "download_time": "2025-09-21T17:31:46.938047",
   "package_url": "https://pypi.org/project/lalalanigga/"
 }

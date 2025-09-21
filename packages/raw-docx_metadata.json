@@ -1,11 +1,11 @@
 {
   "name": "raw-docx",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "A package for processing and analyzing raw document formats",
   "author": "Dave Iberson-Hurst",
   "license": null,
   "home_page": "https://github.com/daveih/raw_docx",
-  "download_filename": "raw_docx-0.9.0.tar.gz",
-  "download_time": "2025-09-21T12:36:22.187423",
+  "download_filename": "raw_docx-0.9.1.tar.gz",
+  "download_time": "2025-09-21T17:32:04.032389",
   "package_url": "https://pypi.org/project/raw-docx/"
 }

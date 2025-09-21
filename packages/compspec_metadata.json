@@ -1,0 +1,11 @@
+{
+  "name": "compspec",
+  "version": "0.1.15",
+  "summary": "Compatibility specifications and models",
+  "author": "Vanessa Sochat",
+  "license": "LICENSE",
+  "home_page": "https://github.com/compspec/compspec",
+  "download_filename": "compspec-0.1.15.tar.gz",
+  "download_time": "2025-09-21T17:32:02.880265",
+  "package_url": "https://pypi.org/project/compspec/"
+}

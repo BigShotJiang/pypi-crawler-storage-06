@@ -1,11 +1,11 @@
 {
   "name": "clearflow",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Correctness-first orchestration for emergent AI. Type-safe, deeply immutable, 100% code coverage.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clearflow-0.5.0.tar.gz",
-  "download_time": "2025-09-18T14:19:52.354185",
+  "download_filename": "clearflow-0.6.0.tar.gz",
+  "download_time": "2025-09-21T17:32:12.186215",
   "package_url": "https://pypi.org/project/clearflow/"
 }

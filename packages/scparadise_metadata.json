@@ -1,0 +1,11 @@
+{
+  "name": "scparadise",
+  "version": "0.6.0b0",
+  "summary": "Single-Cell Analysis Annotation and Modality Prediction.",
+  "author": "Vadim Chechekhin, Elizaveta Chechekhina",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "scparadise-0.6.0b0.tar.gz",
+  "download_time": "2025-09-21T17:31:48.675590",
+  "package_url": "https://pypi.org/project/scparadise/"
+}
