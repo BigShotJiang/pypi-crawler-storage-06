@@ -1,11 +1,11 @@
 {
   "name": "agentrouter",
-  "version": "0.0.1b9",
+  "version": "0.0.1b10",
   "summary": "Simplify the Complex, Amplify the Intelligent for Enterprise. Orchestrate multiple agents with ease: register agents, integrate tools, define custom instructions, and leverage multiple models.",
   "author": "AgentRouter Team",
   "license": "Non-Commercial Evaluation License",
   "home_page": "https://agents-docs.us.inc",
-  "download_filename": "agentrouter-0.0.1b9-py3-none-any.whl",
-  "download_time": "2025-09-21T08:41:51.282268",
+  "download_filename": "agentrouter-0.0.1b10.tar.gz",
+  "download_time": "2025-09-21T08:52:11.894448",
   "package_url": "https://pypi.org/project/agentrouter/"
 }

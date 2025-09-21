@@ -1,8 +1,16 @@
 {
-  "download_time": "2025-09-21T08:42:32.761609",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 12.97,
+  "download_time": "2025-09-21T08:52:48.056796",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 1.15,
   "packages": [
+    "prometheus-mcp-server",
+    "agentic-kit-common",
+    "cbz",
+    "kotonebot",
+    "finlab-guard",
+    "cnocr",
+    "simcalibration",
+    "intelligent-codelens",
     "agentrouter",
     "autogit-ui",
     "rushclis",
@@ -15,7 +23,6 @@
     "pyiron-base",
     "aa-intel-tool",
     "DiscordTranscript",
-    "intelligent-codelens",
     "wagtail-tw-blocks",
     "frogml",
     "pyidh",
@@ -72,12 +79,6 @@
     "safeincave",
     "pika-mq-consumer",
     "PySPlus",
-    "sentraiq-core",
-    "structRFM",
-    "fraiseql",
-    "feldera",
-    "a-stock-mcp-server",
-    "claude-code-mate",
-    "zymmr-client"
+    "sentraiq-core"
   ]
 }
