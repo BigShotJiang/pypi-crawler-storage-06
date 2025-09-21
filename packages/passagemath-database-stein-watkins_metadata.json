@@ -1,11 +1,11 @@
 {
   "name": "passagemath-database-stein-watkins",
-  "version": "10.6.24",
+  "version": "10.6.26",
   "summary": "passagemath: The Stein-Watkins database of elliptic curves (full version)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_database_stein_watkins-10.6.24.tar.gz",
-  "download_time": "2025-09-17T05:40:48.299740",
+  "download_filename": "passagemath_database_stein_watkins-10.6.26.tar.gz",
+  "download_time": "2025-09-21T16:21:59.181484",
   "package_url": "https://pypi.org/project/passagemath-database-stein-watkins/"
 }

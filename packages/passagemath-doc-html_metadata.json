@@ -1,11 +1,11 @@
 {
   "name": "passagemath-doc-html",
-  "version": "10.6.24",
+  "version": "10.6.26",
   "summary": "passagemath: Documentation in HTML format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_doc_html-10.6.24.tar.gz",
-  "download_time": "2025-09-17T05:40:46.762431",
+  "download_filename": "passagemath_doc_html-10.6.26.tar.gz",
+  "download_time": "2025-09-21T16:21:58.668605",
   "package_url": "https://pypi.org/project/passagemath-doc-html/"
 }

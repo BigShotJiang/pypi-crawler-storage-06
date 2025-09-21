@@ -1,11 +1,11 @@
 {
   "name": "StreamingCommunity",
-  "version": "3.3.3",
+  "version": "3.3.5",
   "summary": null,
   "author": "Arrowar",
   "license": null,
   "home_page": "https://github.com/Arrowar/StreamingCommunity",
-  "download_filename": "streamingcommunity-3.3.3.tar.gz",
-  "download_time": "2025-09-21T14:32:44.735601",
+  "download_filename": "streamingcommunity-3.3.5.tar.gz",
+  "download_time": "2025-09-21T16:22:16.789783",
   "package_url": "https://pypi.org/project/StreamingCommunity/"
 }

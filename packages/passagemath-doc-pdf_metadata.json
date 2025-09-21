@@ -1,11 +1,11 @@
 {
   "name": "passagemath-doc-pdf",
-  "version": "10.6.24",
+  "version": "10.6.26",
   "summary": "passagemath: Documentation in PDF format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_doc_pdf-10.6.24.tar.gz",
-  "download_time": "2025-09-17T05:40:45.700814",
+  "download_filename": "passagemath_doc_pdf-10.6.26.tar.gz",
+  "download_time": "2025-09-21T16:21:58.091188",
   "package_url": "https://pypi.org/project/passagemath-doc-pdf/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hhportfolio",
-  "version": "0.25",
+  "version": "0.26",
   "summary": "hhportfolio",
   "author": "hh",
   "license": null,
   "home_page": "https://your.project.url",
-  "download_filename": "hhportfolio-0.25.tar.gz",
-  "download_time": "2025-09-21T15:52:39.453814",
+  "download_filename": "hhportfolio-0.26.tar.gz",
+  "download_time": "2025-09-21T16:22:28.247084",
   "package_url": "https://pypi.org/project/hhportfolio/"
 }

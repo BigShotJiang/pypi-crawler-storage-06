@@ -1,0 +1,11 @@
+{
+  "name": "cogapp",
+  "version": "3.6.0",
+  "summary": "Cog: A content generator for executing Python snippets in source files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cogapp-3.6.0.tar.gz",
+  "download_time": "2025-09-21T16:22:27.732741",
+  "package_url": "https://pypi.org/project/cogapp/"
+}

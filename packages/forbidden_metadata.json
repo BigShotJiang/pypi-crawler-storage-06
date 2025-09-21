@@ -1,0 +1,11 @@
+{
+  "name": "forbidden",
+  "version": "13.4",
+  "summary": "Bypass 4xx HTTP response status codes and more.",
+  "author": "Ivan Sincek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forbidden-13.4.tar.gz",
+  "download_time": "2025-09-21T16:22:10.618761",
+  "package_url": "https://pypi.org/project/forbidden/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "busylight-for-humans",
+  "version": "0.45.2",
+  "summary": "Control USB connected LED lights, like a human.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "busylight_for_humans-0.45.2.tar.gz",
+  "download_time": "2025-09-21T16:22:05.294967",
+  "package_url": "https://pypi.org/project/busylight-for-humans/"
+}
