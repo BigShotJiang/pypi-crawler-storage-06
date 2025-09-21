@@ -1,11 +1,11 @@
 {
   "name": "metorial-generated",
-  "version": "1.0.0rc6",
+  "version": "1.0.0rc7",
   "summary": "Generated SDK endpoints and resources for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_generated-1.0.0rc6.tar.gz",
-  "download_time": "2025-09-21T18:46:13.681319",
+  "download_filename": "metorial_generated-1.0.0rc7.tar.gz",
+  "download_time": "2025-09-21T22:40:33.252484",
   "package_url": "https://pypi.org/project/metorial-generated/"
 }

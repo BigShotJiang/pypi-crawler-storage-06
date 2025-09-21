@@ -1,11 +1,11 @@
 {
   "name": "metorial-xai",
-  "version": "1.0.0rc6",
+  "version": "1.0.0rc7",
   "summary": "XAI (Grok) provider for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_xai-1.0.0rc6.tar.gz",
-  "download_time": "2025-09-21T18:46:08.462805",
+  "download_filename": "metorial_xai-1.0.0rc7.tar.gz",
+  "download_time": "2025-09-21T22:40:34.316488",
   "package_url": "https://pypi.org/project/metorial-xai/"
 }

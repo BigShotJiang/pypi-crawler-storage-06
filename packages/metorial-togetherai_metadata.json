@@ -1,11 +1,11 @@
 {
   "name": "metorial-togetherai",
-  "version": "1.0.0rc6",
+  "version": "1.0.0rc7",
   "summary": "Together AI provider for Metorial",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metorial_togetherai-1.0.0rc6.tar.gz",
-  "download_time": "2025-09-21T18:46:09.505030",
+  "download_filename": "metorial_togetherai-1.0.0rc7.tar.gz",
+  "download_time": "2025-09-21T22:40:34.837759",
   "package_url": "https://pypi.org/project/metorial-togetherai/"
 }

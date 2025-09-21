@@ -1,0 +1,11 @@
+{
+  "name": "adel-majli-calculator",
+  "version": "0.1.0",
+  "summary": "آلة حاسبة بسيطة لإجراء العمليات الحسابية الأساسية.",
+  "author": "عادل مجلي",
+  "license": null,
+  "home_page": "https://github.com/adelmajli/simple-calculator",
+  "download_filename": "adel_majli_calculator-0.1.0.tar.gz",
+  "download_time": "2025-09-21T22:40:38.506422",
+  "package_url": "https://pypi.org/project/adel-majli-calculator/"
+}

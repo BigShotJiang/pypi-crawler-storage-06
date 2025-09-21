@@ -1,11 +1,11 @@
 {
   "name": "cwl2puml",
-  "version": "0.20.0",
+  "version": "0.22.0",
   "summary": "CWL Worflows processor to generate PlantUML diagrams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cwl2puml-0.20.0.tar.gz",
-  "download_time": "2025-09-21T18:25:51.622018",
+  "download_filename": "cwl2puml-0.22.0.tar.gz",
+  "download_time": "2025-09-21T22:40:23.620877",
   "package_url": "https://pypi.org/project/cwl2puml/"
 }

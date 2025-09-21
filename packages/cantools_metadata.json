@@ -1,0 +1,11 @@
+{
+  "name": "cantools",
+  "version": "40.6.0",
+  "summary": "CAN BUS tools.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cantools-40.6.0.tar.gz",
+  "download_time": "2025-09-21T22:40:40.611194",
+  "package_url": "https://pypi.org/project/cantools/"
+}
