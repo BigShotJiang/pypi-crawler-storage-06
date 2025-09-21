@@ -1,0 +1,11 @@
+{
+  "name": "ci-version-tools",
+  "version": "0.2.7",
+  "summary": "Versioning tools for CI",
+  "author": "Sergej Alikov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ci_version_tools-0.2.7.tar.gz",
+  "download_time": "2025-09-21T11:15:23.390831",
+  "package_url": "https://pypi.org/project/ci-version-tools/"
+}

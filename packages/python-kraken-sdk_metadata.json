@@ -1,0 +1,11 @@
+{
+  "name": "python-kraken-sdk",
+  "version": "3.2.6",
+  "summary": "Command-line tool and collection of REST and websocket clients to interact with the Kraken Crypto Asset Exchange.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_kraken_sdk-3.2.6.tar.gz",
+  "download_time": "2025-09-21T11:15:27.617427",
+  "package_url": "https://pypi.org/project/python-kraken-sdk/"
+}

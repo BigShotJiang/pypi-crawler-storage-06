@@ -1,0 +1,11 @@
+{
+  "name": "dice-checker",
+  "version": "0.0.3",
+  "summary": "Simple dice manipulation library allowing to compute probabilities of complex dice rolls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dice_checker-0.0.3.tar.gz",
+  "download_time": "2025-09-21T11:14:52.090408",
+  "package_url": "https://pypi.org/project/dice-checker/"
+}

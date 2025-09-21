@@ -1,11 +1,11 @@
 {
   "name": "passagemath-sirocco",
-  "version": "10.6.25",
+  "version": "10.6.26",
   "summary": "passagemath: Certified root continuation with sirocco",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_sirocco-10.6.25.tar.gz",
-  "download_time": "2025-09-19T19:22:44.143140",
+  "download_filename": "passagemath_sirocco-10.6.26-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2025-09-21T11:15:02.419322",
   "package_url": "https://pypi.org/project/passagemath-sirocco/"
 }
