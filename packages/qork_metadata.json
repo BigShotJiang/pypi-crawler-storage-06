@@ -1,0 +1,11 @@
+{
+  "name": "qork",
+  "version": "0.0.11",
+  "summary": "A simple CLI for interacting with OpenAI models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qork-0.0.11.tar.gz",
+  "download_time": "2025-09-21T21:17:15.741507",
+  "package_url": "https://pypi.org/project/qork/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zenllm",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A zen, simple, and unified API to prompt LLMs from Anthropic, Google, OpenAI, and more, using only the requests library.",
   "author": "Koen van Eijk",
   "license": null,
   "home_page": "https://koenvaneijk.com",
-  "download_filename": "zenllm-0.3.2.tar.gz",
-  "download_time": "2025-09-17T07:18:08.607657",
+  "download_filename": "zenllm-0.3.3.tar.gz",
+  "download_time": "2025-09-21T21:17:25.913726",
   "package_url": "https://pypi.org/project/zenllm/"
 }

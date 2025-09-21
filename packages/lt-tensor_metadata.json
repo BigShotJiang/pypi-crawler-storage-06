@@ -1,11 +1,11 @@
 {
   "name": "lt-tensor",
-  "version": "0.0.1rc38",
+  "version": "0.0.1rc39",
   "summary": "General utilities for PyTorch and others. Built for general use.",
   "author": "gr1336",
   "license": "Apache Software License (Apache-2.0)",
   "home_page": "https://github.com/gr1336/lt-tensor/",
-  "download_filename": "lt_tensor-0.0.1rc38.tar.gz",
-  "download_time": "2025-09-20T21:15:54.793677",
+  "download_filename": "lt_tensor-0.0.1rc39.tar.gz",
+  "download_time": "2025-09-21T21:17:21.070454",
   "package_url": "https://pypi.org/project/lt-tensor/"
 }
