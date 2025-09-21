@@ -1,11 +1,11 @@
 {
   "name": "as-envhelper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Simple, beginner-friendly Python environment variable loader with Flask & Django support",
   "author": "ASWIN KUMAR K",
   "license": "GPLv3",
   "home_page": "https://github.com/Aswin-Kumar24072003/as_envhelper",
-  "download_filename": "as_envhelper-1.0.2.tar.gz",
-  "download_time": "2025-09-21T09:18:34.642562",
+  "download_filename": "as_envhelper-1.0.3.tar.gz",
+  "download_time": "2025-09-21T12:36:23.879567",
   "package_url": "https://pypi.org/project/as-envhelper/"
 }

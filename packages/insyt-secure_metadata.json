@@ -1,0 +1,11 @@
+{
+  "name": "insyt-secure",
+  "version": "0.4.2",
+  "summary": "A proprietary service for secure database and API interactions",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "insyt_secure-0.4.2.tar.gz",
+  "download_time": "2025-09-21T12:36:58.616971",
+  "package_url": "https://pypi.org/project/insyt-secure/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-favicon",
+  "version": "1.0.0",
+  "summary": "A Python module for automatically rotating website favicons based on time intervals",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dynamic_favicon-1.0.0.tar.gz",
+  "download_time": "2025-09-21T12:36:17.135525",
+  "package_url": "https://pypi.org/project/dynamic-favicon/"
+}

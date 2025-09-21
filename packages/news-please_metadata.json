@@ -1,0 +1,11 @@
+{
+  "name": "news-please",
+  "version": "1.6.16",
+  "summary": "news-please is an open source easy-to-use news extractor that just works.",
+  "author": "Felix Hamborg",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/fhamborg/news-please",
+  "download_filename": "news_please-1.6.16.tar.gz",
+  "download_time": "2025-09-21T12:36:31.046029",
+  "package_url": "https://pypi.org/project/news-please/"
+}

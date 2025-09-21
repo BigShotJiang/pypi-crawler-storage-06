@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-vertexai",
-  "version": "0.47.2",
+  "version": "0.47.3",
   "summary": "OpenTelemetry Vertex AI instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_vertexai-0.47.2.tar.gz",
-  "download_time": "2025-09-17T08:25:26.023766",
+  "download_filename": "opentelemetry_instrumentation_vertexai-0.47.3.tar.gz",
+  "download_time": "2025-09-21T12:36:41.872480",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-vertexai/"
 }

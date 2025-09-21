@@ -1,0 +1,11 @@
+{
+  "name": "lagoon",
+  "version": "62",
+  "summary": "Concise layer on top of subprocess, similar to sh project",
+  "author": "foyono",
+  "license": null,
+  "home_page": "https://pypi.org/project/lagoon/",
+  "download_filename": "lagoon-62.tar.gz",
+  "download_time": "2025-09-21T12:36:36.506253",
+  "package_url": "https://pypi.org/project/lagoon/"
+}

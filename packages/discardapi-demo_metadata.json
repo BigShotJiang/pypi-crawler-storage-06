@@ -1,0 +1,11 @@
+{
+  "name": "discardapi-demo",
+  "version": "0.1.0",
+  "summary": "Python demo client for Discard API",
+  "author": "Qasim Ali",
+  "license": null,
+  "home_page": "https://github.com/GlobalTechInfo/discardapi",
+  "download_filename": "discardapi-demo-0.1.0.tar.gz",
+  "download_time": "2025-09-21T12:36:54.812470",
+  "package_url": "https://pypi.org/project/discardapi-demo/"
+}

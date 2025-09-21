@@ -1,11 +1,11 @@
 {
   "name": "multisocks",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A SOCKS proxy that aggregates multiple remote SOCKS proxies",
   "author": null,
-  "license": "MIT License",
+  "license": "Commercial Restricted License (CRL)",
   "home_page": null,
-  "download_filename": "multisocks-1.0.5.tar.gz",
-  "download_time": "2025-09-18T16:25:00.601900",
+  "download_filename": "multisocks-1.0.6.tar.gz",
+  "download_time": "2025-09-21T12:36:29.937833",
   "package_url": "https://pypi.org/project/multisocks/"
 }

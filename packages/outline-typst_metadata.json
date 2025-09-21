@@ -1,0 +1,11 @@
+{
+  "name": "outline-typst",
+  "version": "0.1.0",
+  "summary": "Convert Outline exports to Typst markup",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "outline_typst-0.1.0.tar.gz",
+  "download_time": "2025-09-21T12:36:37.580835",
+  "package_url": "https://pypi.org/project/outline-typst/"
+}
