@@ -1,0 +1,11 @@
+{
+  "name": "pybreaker",
+  "version": "1.4.1",
+  "summary": "Python implementation of the Circuit Breaker pattern",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybreaker-1.4.1.tar.gz",
+  "download_time": "2025-09-21T15:18:02.988559",
+  "package_url": "https://pypi.org/project/pybreaker/"
+}

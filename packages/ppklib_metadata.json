@@ -1,0 +1,11 @@
+{
+  "name": "ppklib",
+  "version": "0.3.0",
+  "summary": "The core functionality library for the ppk project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ppklib-0.3.0.tar.gz",
+  "download_time": "2025-09-21T15:18:22.221687",
+  "package_url": "https://pypi.org/project/ppklib/"
+}

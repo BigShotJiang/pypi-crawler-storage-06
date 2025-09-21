@@ -1,0 +1,11 @@
+{
+  "name": "bybit-p2p",
+  "version": "1.2.0",
+  "summary": "Official Bybit P2P API integration library written in Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bybit_p2p-1.2.0.tar.gz",
+  "download_time": "2025-09-21T15:18:10.028048",
+  "package_url": "https://pypi.org/project/bybit-p2p/"
+}

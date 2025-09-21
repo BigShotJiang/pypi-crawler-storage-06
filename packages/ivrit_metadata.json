@@ -1,11 +1,11 @@
 {
   "name": "ivrit",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "ivrit.ai helper package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ivrit-0.1.5.tar.gz",
-  "download_time": "2025-09-19T11:52:15.460531",
+  "download_filename": "ivrit-0.1.6.tar.gz",
+  "download_time": "2025-09-21T15:18:12.687036",
   "package_url": "https://pypi.org/project/ivrit/"
 }
