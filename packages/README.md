@@ -1,50 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T10:40:37.819181
-- **Total Packages**: 61
-- **Total Size**: 17.02 MB
+- **Download Time**: 2025-09-21T10:52:32.076268
+- **Total Packages**: 71
+- **Total Size**: 3.4 MB
 
 ## Packages List
-- atomize-py
-- robot_basic
-- authentik-client
-- hive-common
-- django-cfg
-- maleo-infra
-- ollama-fastapi
-- iconipy
-- wlplan
-- duckdb-ext-vss
-- duckdb-ext-ui
-- duckdb-ext-tpch
-- owlsensor
-- duckdb-ext-tpcds
-- tensorpack-f
-- duckdb-ext-sqlite
-- hyperfast-uv-template
-- cryovit
-- maleo-schemas
-- duckdb-ext-postgres
-- tallyfy
-- duckdb-ext-parquet
-- hertz-system-captcha
-- duckdb-ext-json
-- duckdb-ext-inet
-- duckdb-ext-icu
-- duckdb-ext-iceberg
-- duckdb-ext-httpfs
-- dnsdiag
-- duckdb-ext-fts
-- websential
-- robot-hat
-- duckdb-ext-excel
-- aniworld
 - duckdb-ext-azure
 - duckdb-ext-aws
 - duckdb-ext-avro
 - better-jupyter-mcp-server
 - duckdb-ext-autocomplete
+- hertz-system-captcha
 - pyxel-sim
 - prompts-mcp
 - simcalibration
@@ -55,8 +22,10 @@
 - underthesea
 - yeref
 - whyml
+- maleo-infra
 - confluence-syncer
 - tf-keras-nightly
+- maleo-schemas
 - interpretablefa
 - biobuddy
 - odetoolbox
@@ -64,6 +33,47 @@
 - ai-edge-torch-nightly
 - QR-ScanGen
 - jws-algorithms
+- atomize-py
 - phoenix-bot-api
+- owlsensor
 - quick-pp
 - instaui-echarts
+- scaevola
+- openubmc-bingo
+- oqclib
+- happyset
+- pylibbpf
+- master_dac
+- authentik-client
+- lsyflasksdkcore-v0
+- tensorpack-f
+- pika-mq-consumer
+- ppgnss
+- slotlist
+- mangaplus
+- mysingle
+- vprikol
+- mediallm-mcp
+- fastapi-radar
+- paramsx
+- nonebot-plugin-sky
+- aiida-vibroscopy
+- tcg-research-desk
+- ptmultiviews
+- agentrouter
+- python-yarp
+- quokka2s
+- envseal
+- lsyflasksdkcore-v1
+- ctf-orchestrator
+- acb
+- instaui-tdesign
+- storey
+- shakenfist-utilities
+- pyadb-client
+- harish-ai-assist
+- zrb
+- lazy-ninja
+- filoma
+- git-get
+- beswarm
