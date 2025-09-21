@@ -1,11 +1,11 @@
 {
   "name": "hexgraphics",
-  "version": "0.2.55",
+  "version": "0.3.0",
   "summary": "aka 0xg",
   "author": "noobiezt0",
   "license": null,
   "home_page": null,
-  "download_filename": "hexgraphics-0.2.55.tar.gz",
-  "download_time": "2025-09-21T07:17:19.065467",
+  "download_filename": "hexgraphics-0.3.0.tar.gz",
+  "download_time": "2025-09-21T13:43:17.854167",
   "package_url": "https://pypi.org/project/hexgraphics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edtrack",
+  "version": "0.1.0",
+  "summary": "CLI Email & Site Tracker",
+  "author": "qylvrix",
+  "license": null,
+  "home_page": "https://github.com/qylvrix/edtrack",
+  "download_filename": "edtrack-0.1.0.tar.gz",
+  "download_time": "2025-09-21T13:43:21.934692",
+  "package_url": "https://pypi.org/project/edtrack/"
+}
