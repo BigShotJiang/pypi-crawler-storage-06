@@ -1,11 +1,11 @@
 {
   "name": "mimey",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.3",
+  "summary": "A fast and efficient MIME type and file extension detector implemented in Rust, exposed as a Python package.",
   "author": null,
   "license": null,
-  "home_page": null,
-  "download_filename": "mimey-0.1.0.tar.gz",
-  "download_time": "2025-09-21T21:38:34.133274",
+  "home_page": "https://github.com/4thel00z/mimey",
+  "download_filename": "mimey-0.1.3.tar.gz",
+  "download_time": "2025-09-21T21:52:19.716219",
   "package_url": "https://pypi.org/project/mimey/"
 }

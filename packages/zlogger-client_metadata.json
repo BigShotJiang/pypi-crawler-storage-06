@@ -1,11 +1,11 @@
 {
   "name": "zlogger-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Python client for Zlogger logging service",
   "author": "Zlogger Team",
   "license": "MIT",
   "home_page": "https://github.com/your-username/zlogger-python",
-  "download_filename": "zlogger_client-1.0.4.tar.gz",
-  "download_time": "2025-09-21T21:38:33.096900",
+  "download_filename": "zlogger_client-1.0.5.tar.gz",
+  "download_time": "2025-09-21T21:52:26.483820",
   "package_url": "https://pypi.org/project/zlogger-client/"
 }
