@@ -1,0 +1,11 @@
+{
+  "name": "pyhivemetastore",
+  "version": "4.1.0rc7",
+  "summary": "Hive Metastore Standalone",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhivemetastore-4.1.0rc7.tar.gz",
+  "download_time": "2025-09-21T16:53:04.758567",
+  "package_url": "https://pypi.org/project/pyhivemetastore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uncloud-backup",
+  "version": "0.1.1",
+  "summary": "Local backups of your cloudy data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncloud_backup-0.1.1.tar.gz",
+  "download_time": "2025-09-21T16:53:11.747573",
+  "package_url": "https://pypi.org/project/uncloud-backup/"
+}

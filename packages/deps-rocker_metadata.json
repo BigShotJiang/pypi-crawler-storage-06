@@ -1,11 +1,11 @@
 {
   "name": "deps-rocker",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "A rocker plugin to help installing apt and pip dependencies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deps_rocker-0.11.0.tar.gz",
-  "download_time": "2025-09-21T15:38:24.752893",
+  "download_filename": "deps_rocker-0.12.0.tar.gz",
+  "download_time": "2025-09-21T16:53:14.629767",
   "package_url": "https://pypi.org/project/deps-rocker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qdiv",
+  "version": "3.0.2",
+  "summary": "Microbial diversity calculations",
+  "author": "Oskar Modin",
+  "license": "GNU General Public License",
+  "home_page": "https://github.com/omvatten/qdiv",
+  "download_filename": "qdiv-3.0.2.tar.gz",
+  "download_time": "2025-09-21T16:52:57.255970",
+  "package_url": "https://pypi.org/project/qdiv/"
+}

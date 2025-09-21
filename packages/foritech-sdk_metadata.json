@@ -1,11 +1,11 @@
 {
   "name": "foritech-sdk",
-  "version": "0.1.1",
-  "summary": "Foritech Secure System SDK",
-  "author": "Foritech",
+  "version": "0.1.2",
+  "summary": "Python SDK for Foritech Secure System.",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "foritech_sdk-0.1.1.tar.gz",
-  "download_time": "2025-09-21T16:22:04.122967",
+  "download_filename": "foritech_sdk-0.1.2.tar.gz",
+  "download_time": "2025-09-21T16:53:16.228186",
   "package_url": "https://pypi.org/project/foritech-sdk/"
 }

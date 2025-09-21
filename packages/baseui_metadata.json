@@ -1,11 +1,11 @@
 {
   "name": "baseui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "baseui",
   "author": "Abdelmathin Habachi",
   "license": null,
   "home_page": "https://github.com/Abdelmathin/baseui",
-  "download_filename": "baseui-1.0.3.tar.gz",
-  "download_time": "2025-09-21T16:22:12.156638",
+  "download_filename": "baseui-1.0.4.tar.gz",
+  "download_time": "2025-09-21T16:53:08.859399",
   "package_url": "https://pypi.org/project/baseui/"
 }

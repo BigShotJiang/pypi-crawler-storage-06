@@ -1,0 +1,11 @@
+{
+  "name": "style-transfer-ai",
+  "version": "1.0.0",
+  "summary": "Advanced stylometry analysis system with modular architecture",
+  "author": "Alwyn Rejicser",
+  "license": "MIT",
+  "home_page": "https://github.com/alwynrejicser/style-transfer-ai",
+  "download_filename": "style_transfer_ai-1.0.0.tar.gz",
+  "download_time": "2025-09-21T16:53:10.593404",
+  "package_url": "https://pypi.org/project/style-transfer-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scrapy-scraper",
+  "version": "3.7",
+  "summary": "Web crawler and scraper based on Scrapy and Playwright's headless browser.",
+  "author": "Ivan Sincek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scrapy_scraper-3.7.tar.gz",
+  "download_time": "2025-09-21T16:53:26.678358",
+  "package_url": "https://pypi.org/project/scrapy-scraper/"
+}

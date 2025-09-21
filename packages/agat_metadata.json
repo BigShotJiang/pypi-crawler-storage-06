@@ -1,0 +1,11 @@
+{
+  "name": "agat",
+  "version": "9.1.0",
+  "summary": "Atomic Graph ATtention networks for predicting atomic energies and forces.",
+  "author": "ZHANG Jun; ZHAO Shijun",
+  "license": "GPL",
+  "home_page": "https://github.com/jzhang-github/AGAT",
+  "download_filename": "agat-9.1.0.tar.gz",
+  "download_time": "2025-09-21T16:53:22.338085",
+  "package_url": "https://pypi.org/project/agat/"
+}

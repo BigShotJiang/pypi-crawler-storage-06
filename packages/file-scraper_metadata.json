@@ -1,0 +1,11 @@
+{
+  "name": "file-scraper",
+  "version": "4.7",
+  "summary": "Scrape files for sensitive information, and generate an interactive HTML report.",
+  "author": "Ivan Sincek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "file_scraper-4.7.tar.gz",
+  "download_time": "2025-09-21T16:53:23.422136",
+  "package_url": "https://pypi.org/project/file-scraper/"
+}
