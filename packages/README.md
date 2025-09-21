@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T09:18:56.861095
-- **Total Packages**: 76
-- **Total Size**: 36.45 MB
+- **Download Time**: 2025-09-21T09:39:41.370197
+- **Total Packages**: 69
+- **Total Size**: 15.83 MB
 
 ## Packages List
+- reqman4
+- gnoman-cli
+- owlsensor
+- make-colors
+- autogit-ui
+- ut-doa
+- tonydbc
+- upstox-totp
+- authentik-client
+- alphabuilder-signal
+- intelligent-codelens
+- piper-tts-plus
+- xtimeline
+- nakametpy
+- qwak-core
+- git-get
+- flake8-sfs
+- django-w-blog
+- guildbotics
+- better-jupyter-mcp-server
+- kotonebot
+- pika-mq-consumer
+- odoo14-addon-ssi-partner-evaluation
+- tensorpack-f
+- trendsagi
+- pyglet
+- ut-ioc
+- duckdb-ext-vss
+- cryptocoreedu
+- duckdb-ext-ui
+- opera-cloud-mcp
+- duckdb-ext-tpch
+- duckdb-ext-tpcds
+- injx
+- adv-optm
+- duckdb-ext-sqlite
+- QR-ScanGen
+- duckdb-ext-postgres
+- duckdb-ext-parquet
+- mysingle
+- vja
+- hertz-captcha
+- duckdb-ext-json
+- django-cfg
+- duckdb-ext-inet
+- duckdb-ext-icu
+- duckdb-ext-iceberg
+- maleo-security
+- duckdb-ext-httpfs
+- boilerplates
+- duckdb-ext-fts
+- duckdb-ext-excel
+- discohook
+- duckdb-ext-ducklake
+- archipy
 - duckdb-ext-azure
 - duckdb-ext-aws
 - duckdb-ext-avro
@@ -20,65 +75,3 @@
 - legit-api-client
 - aa-mumble-quick-connect
 - tbp-nightly
-- ipilot
-- mysingle
-- listing-tracker
-- syft-hub
-- openfeature-sdk
-- pyloid
-- authentik-client
-- MessageBoxPlus
-- treelang
-- fastapi-repository
-- pylibbpf
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- simcalibration
-- dte-adj
-- mteb
-- psiutils
-- esentity
-- as-envhelper
-- doaa-math-tools
-- rfc3230-digest-headers
-- episode-monitor
-- wagtail-tw-blocks
-- speechshift
-- duckdb-ext-sqlite
-- biliup
-- duckdb-ext-postgres
-- weatheril
-- expression-copilot
-- tidymut
-- prompt-automation
-- ut-dic
-- nautobot-app-livedata
-- manage-django-project
-- fwdi
-- intelligent-codelens
-- django-cfg
-- django-tools
-- aigraphcodescan
-- agentrouter
-- PyTFBS
-- sayancpe586fa25
-- maksim-132-servo
-- whyml
-- tfp-nightly
-- prometheus-mcp-server
-- agentic-kit-common
-- cbz
-- kotonebot
-- finlab-guard
-- cnocr
-- autogit-ui
-- rushclis
-- pyya
-- delta-trace-db
-- tabsmith
-- sw-mc-builder

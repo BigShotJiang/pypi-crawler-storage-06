@@ -1,11 +1,11 @@
 {
   "name": "kotonebot",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Kotonebot is game/app automation library based on computer vision technology, works for Windows and Android.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kotonebot-0.3.0.tar.gz",
-  "download_time": "2025-09-21T08:52:09.269961",
+  "download_filename": "kotonebot-0.3.1.tar.gz",
+  "download_time": "2025-09-21T09:39:14.417826",
   "package_url": "https://pypi.org/project/kotonebot/"
 }

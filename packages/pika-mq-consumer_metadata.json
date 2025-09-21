@@ -1,11 +1,11 @@
 {
   "name": "pika-mq-consumer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "简化的RabbitMQ消费者包装器，提供类似npm包的简洁API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pika_mq_consumer-1.1.0.tar.gz",
-  "download_time": "2025-09-21T07:52:37.033412",
+  "download_filename": "pika_mq_consumer-1.1.1.tar.gz",
+  "download_time": "2025-09-21T09:39:14.927415",
   "package_url": "https://pypi.org/project/pika-mq-consumer/"
 }

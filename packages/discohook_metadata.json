@@ -1,0 +1,11 @@
+{
+  "name": "discohook",
+  "version": "0.1.1",
+  "summary": "discord http api wrapper for serverless apps",
+  "author": "Sougata Jana",
+  "license": "MIT",
+  "home_page": "https://github.com/jnsougata/discohook",
+  "download_filename": "discohook-0.1.1.tar.gz",
+  "download_time": "2025-09-21T09:39:31.738934",
+  "package_url": "https://pypi.org/project/discohook/"
+}

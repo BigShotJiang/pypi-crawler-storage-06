@@ -1,11 +1,11 @@
 {
   "name": "autogit-ui",
-  "version": "0.1.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "一个功能强大的现代工具",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "autogit_ui-0.1.1.tar.gz",
-  "download_time": "2025-09-21T08:41:51.823506",
+  "download_filename": "autogit_ui-0.1.2.tar.gz",
+  "download_time": "2025-09-21T09:39:06.174742",
   "package_url": "https://pypi.org/project/autogit-ui/"
 }

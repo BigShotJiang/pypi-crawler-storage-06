@@ -1,0 +1,11 @@
+{
+  "name": "vja",
+  "version": "4.8.0",
+  "summary": "A simple CLI for Vikunja task manager",
+  "author": "ce72",
+  "license": null,
+  "home_page": "https://gitlab.com/ce72/vja",
+  "download_filename": "vja-4.8.0.tar.gz",
+  "download_time": "2025-09-21T09:39:25.644762",
+  "package_url": "https://pypi.org/project/vja/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "injx",
+  "version": "0.2.0",
+  "summary": "Type-safe dependency injection for Python 3.13+",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "injx-0.2.0.tar.gz",
+  "download_time": "2025-09-21T09:39:21.067078",
+  "package_url": "https://pypi.org/project/injx/"
+}
