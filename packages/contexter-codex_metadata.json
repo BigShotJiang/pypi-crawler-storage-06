@@ -1,0 +1,11 @@
+{
+  "name": "contexter-codex",
+  "version": "0.1.0",
+  "summary": "Prompt-first, Codex-only context pack generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contexter_codex-0.1.0.tar.gz",
+  "download_time": "2025-09-21T22:18:18.012276",
+  "package_url": "https://pypi.org/project/contexter-codex/"
+}

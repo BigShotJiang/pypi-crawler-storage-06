@@ -1,11 +1,11 @@
 {
   "name": "pyedi",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A comprehensive Python package for parsing, transforming, and mapping X12 EDI files",
   "author": "James",
   "license": "MIT",
   "home_page": "https://github.com/jaymd96/pyedi",
-  "download_filename": "pyedi-1.0.6.tar.gz",
-  "download_time": "2025-09-21T16:53:30.512068",
+  "download_filename": "pyedi-1.0.7.tar.gz",
+  "download_time": "2025-09-21T22:18:17.493361",
   "package_url": "https://pypi.org/project/pyedi/"
 }

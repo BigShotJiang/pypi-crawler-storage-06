@@ -1,0 +1,11 @@
+{
+  "name": "cvsim",
+  "version": "1.0.0",
+  "summary": "A package for cyclic voltammetry simulation via the semi-analytical method",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvsim-1.0.0.tar.gz",
+  "download_time": "2025-09-21T22:18:21.748758",
+  "package_url": "https://pypi.org/project/cvsim/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hellorota",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Funzione HelloWorld con effetto typing",
   "author": "Rotafn",
   "license": null,
   "home_page": null,
-  "download_filename": "hellorota-0.1.1.tar.gz",
-  "download_time": "2025-09-21T21:52:20.747530",
+  "download_filename": "hellorota-0.1.2.tar.gz",
+  "download_time": "2025-09-21T22:18:22.820228",
   "package_url": "https://pypi.org/project/hellorota/"
 }

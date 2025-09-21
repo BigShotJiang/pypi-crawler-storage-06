@@ -1,0 +1,11 @@
+{
+  "name": "sai-pg",
+  "version": "1.1.0",
+  "summary": "A Python Package for Statistics for Adaptive Introgression",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "sai_pg-1.1.0.tar.gz",
+  "download_time": "2025-09-21T22:18:15.914301",
+  "package_url": "https://pypi.org/project/sai-pg/"
+}

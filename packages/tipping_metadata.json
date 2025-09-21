@@ -1,0 +1,11 @@
+{
+  "name": "tipping",
+  "version": "0.2.1",
+  "summary": "A python binding for the Rust implementation of Tipping algorithm (tipping-rs)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tipping-0.2.1.tar.gz",
+  "download_time": "2025-09-21T22:18:08.489637",
+  "package_url": "https://pypi.org/project/tipping/"
+}

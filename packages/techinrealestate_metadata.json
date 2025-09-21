@@ -1,11 +1,11 @@
 {
   "name": "techinrealestate",
-  "version": "1.0.0",
-  "summary": "A comprehensive Python package for collecting real estate data from various sources",
+  "version": "1.1.2",
+  "summary": "A comprehensive Python package for collecting and analyzing real estate market data with built-in rate limiting, data cleaning, and batch processing",
   "author": "AnalyticsAriel",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://pypi.org/project/techinrealestate/",
-  "download_filename": "techinrealestate-1.0.0.tar.gz",
-  "download_time": "2025-09-21T21:52:20.229831",
+  "download_filename": "techinrealestate-1.1.2.tar.gz",
+  "download_time": "2025-09-21T22:18:10.123067",
   "package_url": "https://pypi.org/project/techinrealestate/"
 }
