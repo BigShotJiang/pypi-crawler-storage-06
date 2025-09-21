@@ -1,11 +1,11 @@
 {
   "name": "flujograma",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Una librería Python para crear diagramas de arquitectura y flujo con iconos profesionales",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flujograma-1.0.2.tar.gz",
-  "download_time": "2025-09-21T04:43:01.789248",
+  "download_filename": "flujograma-1.0.3.tar.gz",
+  "download_time": "2025-09-21T04:53:35.667463",
   "package_url": "https://pypi.org/project/flujograma/"
 }

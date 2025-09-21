@@ -1,14 +1,14 @@
 {
-  "download_time": "2025-09-21T04:43:41.495752",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 15.18,
+  "download_time": "2025-09-21T04:54:16.505989",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 0.39,
   "packages": [
-    "galapagos-turtle",
     "django-msteams-notify",
     "flujograma",
     "duckdb-ext-azure",
     "library",
     "authentik-client",
+    "galapagos-turtle",
     "pprintx",
     "pycmd2",
     "hwpx-mcp-server",
@@ -78,6 +78,7 @@
     "shell-lib",
     "aind-data-schema-models",
     "omnara",
-    "odoo-addon-l10n-br-base"
+    "odoo-addon-l10n-br-base",
+    "odoo-addon-l10n-br-fiscal"
   ]
 }
