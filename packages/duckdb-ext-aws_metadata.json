@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-ext-aws",
+  "version": "1.4.0.20250921",
+  "summary": "DuckDB extension package for duckdb/core-extensions/aws",
+  "author": "duckdb",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_ext_aws-1.4.0.20250921-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-21T04:43:09.260674",
+  "package_url": "https://pypi.org/project/duckdb-ext-aws/"
+}

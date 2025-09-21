@@ -1,11 +1,11 @@
 {
   "name": "galapagos-turtle",
-  "version": "1.2.1",
+  "version": "2.2.0",
   "summary": "im bored",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "galapagos_turtle-1.2.1.tar.gz",
-  "download_time": "2025-09-21T04:24:25.851884",
+  "download_filename": "galapagos_turtle-2.2.0.tar.gz",
+  "download_time": "2025-09-21T04:43:00.729769",
   "package_url": "https://pypi.org/project/galapagos-turtle/"
 }

@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T04:24:59.113933
-- **Total Packages**: 81
-- **Total Size**: 7.85 MB
+- **Download Time**: 2025-09-21T04:43:41.495752
+- **Total Packages**: 76
+- **Total Size**: 15.18 MB
 
 ## Packages List
+- galapagos-turtle
+- django-msteams-notify
+- flujograma
+- duckdb-ext-azure
+- library
+- authentik-client
+- pprintx
+- pycmd2
+- hwpx-mcp-server
+- stream4py
+- dialectical-framework
+- maleo-mixins
+- gguf-connector
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- duckdb-ext-aws
+- tobiko-cloud-pydantic
 - garb-alarm-clock
 - class-argparse
 - graphs-csirhall
@@ -13,19 +30,15 @@
 - mcp-mesh
 - TraktorBuddy
 - docstring-to-text
-- pprintx
 - quacc
 - pybmoore
 - duckdb-ext-avro
 - pyparsing
-- authentik-client
 - compspec-modules
 - compspec-spack
 - easyscript
 - chromedriver-binary
-- flujograma
 - allianceauth
-- galapagos-turtle
 - ctfutils
 - duckdb-ext-autocomplete
 - keras-nightly
@@ -46,7 +59,6 @@
 - keras-rs-nightly
 - xl-docx
 - pyeasyphd
-- django-msteams-notify
 - TikTor
 - GANDLF
 - djtagspecs
@@ -70,20 +82,3 @@
 - aind-data-schema-models
 - omnara
 - odoo-addon-l10n-br-base
-- odoo-addon-l10n-br-fiscal
-- odoo-addon-l10n-br-nfe-spec
-- heimdall-py
-- pysnowball
-- topax
-- types-regex
-- mcp-servers-auto-test
-- taha
-- pyidh
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- formalpdf
-- robhan-cdk-lib.utils
-- py-lerchs-grossmann
-- TSMasterAPI
-- chainlit-chandru20
-- spex-tools
