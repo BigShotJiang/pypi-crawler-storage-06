@@ -1,0 +1,11 @@
+{
+  "name": "ctf-orchestrator",
+  "version": "0.1.1",
+  "summary": "A CLI for streamlining workflows for Capture-The-Flag players, including tools for file management and environment interaction.",
+  "author": "Owen Tam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctf_orchestrator-0.1.1.tar.gz",
+  "download_time": "2025-09-21T10:18:57.866753",
+  "package_url": "https://pypi.org/project/ctf-orchestrator/"
+}

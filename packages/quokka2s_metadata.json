@@ -1,0 +1,11 @@
+{
+  "name": "quokka2s",
+  "version": "0.1.0",
+  "summary": "A Python Pipeline for Post-processing QUOKKA Radiation-MHD Simulations.",
+  "author": "Baochen Tian, ChongChong He",
+  "license": "MIT License",
+  "home_page": "https://github.com/quokka-astro/quokka  # 您可以换成自己未来的代码库链接",
+  "download_filename": "quokka2s-0.1.0.tar.gz",
+  "download_time": "2025-09-21T10:18:55.506522",
+  "package_url": "https://pypi.org/project/quokka2s/"
+}

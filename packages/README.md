@@ -1,12 +1,19 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-21T09:52:58.007914
-- **Total Packages**: 72
-- **Total Size**: 5.93 MB
+- **Download Time**: 2025-09-21T10:19:36.494515
+- **Total Packages**: 74
+- **Total Size**: 3.53 MB
 
 ## Packages List
+- mysingle
+- agentrouter
+- python-yarp
+- quokka2s
+- envseal
+- lsyflasksdkcore-v1
 - tensorpack-f
+- ctf-orchestrator
 - simcalibration
 - acb
 - authentik-client
@@ -19,7 +26,6 @@
 - pylibbpf
 - zrb
 - lazy-ninja
-- mysingle
 - filoma
 - git-get
 - beswarm
@@ -74,7 +80,3 @@
 - duckdb-ext-iceberg
 - maleo-security
 - duckdb-ext-httpfs
-- boilerplates
-- duckdb-ext-fts
-- duckdb-ext-excel
-- discohook

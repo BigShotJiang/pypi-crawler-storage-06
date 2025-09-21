@@ -1,9 +1,16 @@
 {
-  "download_time": "2025-09-21T09:52:58.007914",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 5.93,
+  "download_time": "2025-09-21T10:19:36.494515",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 3.53,
   "packages": [
+    "mysingle",
+    "agentrouter",
+    "python-yarp",
+    "quokka2s",
+    "envseal",
+    "lsyflasksdkcore-v1",
     "tensorpack-f",
+    "ctf-orchestrator",
     "simcalibration",
     "acb",
     "authentik-client",
@@ -16,7 +23,6 @@
     "pylibbpf",
     "zrb",
     "lazy-ninja",
-    "mysingle",
     "filoma",
     "git-get",
     "beswarm",
@@ -70,10 +76,6 @@
     "duckdb-ext-icu",
     "duckdb-ext-iceberg",
     "maleo-security",
-    "duckdb-ext-httpfs",
-    "boilerplates",
-    "duckdb-ext-fts",
-    "duckdb-ext-excel",
-    "discohook"
+    "duckdb-ext-httpfs"
   ]
 }
