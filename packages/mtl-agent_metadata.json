@@ -1,11 +1,11 @@
 {
   "name": "mtl-agent",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "MTL agent for media processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mtl_agent-0.3.1.tar.gz",
-  "download_time": "2025-09-21T16:53:08.287055",
+  "download_filename": "mtl_agent-0.3.2.tar.gz",
+  "download_time": "2025-09-21T17:16:15.443860",
   "package_url": "https://pypi.org/project/mtl-agent/"
 }

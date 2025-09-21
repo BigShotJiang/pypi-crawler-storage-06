@@ -1,0 +1,11 @@
+{
+  "name": "lems",
+  "version": "0.1.1",
+  "summary": "Large Execution Models",
+  "author": "Rémi Genet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lems-0.1.1.tar.gz",
+  "download_time": "2025-09-21T17:16:20.726444",
+  "package_url": "https://pypi.org/project/lems/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "optima-vis",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "A visualization tool for neural network optimizers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optima_vis-1.4.1.tar.gz",
-  "download_time": "2025-09-21T16:53:21.315164",
+  "download_filename": "optima_vis-1.4.2.tar.gz",
+  "download_time": "2025-09-21T17:16:44.580638",
   "package_url": "https://pypi.org/project/optima-vis/"
 }
