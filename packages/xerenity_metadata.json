@@ -1,0 +1,11 @@
+{
+  "name": "xerenity",
+  "version": "0.1.92",
+  "summary": "Python package for xerenity",
+  "author": "Andres Velez",
+  "license": "MIT",
+  "home_page": "https://xerenity.vercel.app/login",
+  "download_filename": "xerenity-0.1.92.tar.gz",
+  "download_time": "2025-09-22T20:22:53.494802",
+  "package_url": "https://pypi.org/project/xerenity/"
+}

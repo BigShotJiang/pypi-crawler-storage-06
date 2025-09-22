@@ -1,11 +1,11 @@
 {
   "name": "rlviser-py",
-  "version": "0.6.11",
+  "version": "0.6.12",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rlviser_py-0.6.11.tar.gz",
-  "download_time": "2025-09-21T22:40:26.388055",
+  "download_filename": "rlviser_py-0.6.12.tar.gz",
+  "download_time": "2025-09-22T20:22:47.774661",
   "package_url": "https://pypi.org/project/rlviser-py/"
 }

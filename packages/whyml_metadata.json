@@ -1,11 +1,11 @@
 {
   "name": "whyml",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "Advanced YAML-based webpage generator with modular architecture",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "whyml-0.1.25.tar.gz",
-  "download_time": "2025-09-21T17:31:45.783194",
+  "download_filename": "whyml-0.1.26.tar.gz",
+  "download_time": "2025-09-22T20:22:42.092289",
   "package_url": "https://pypi.org/project/whyml/"
 }

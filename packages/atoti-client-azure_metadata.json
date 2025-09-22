@@ -1,0 +1,11 @@
+{
+  "name": "atoti-client-azure",
+  "version": "0.9.9",
+  "summary": "Code to interact with Microsoft Azure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atoti_client_azure-0.9.9-py3-none-any.whl",
+  "download_time": "2025-09-22T20:23:13.624977",
+  "package_url": "https://pypi.org/project/atoti-client-azure/"
+}

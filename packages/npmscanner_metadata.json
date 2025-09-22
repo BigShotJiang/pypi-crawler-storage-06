@@ -1,11 +1,11 @@
 {
   "name": "npmscanner",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Advanced NPM Security Scanner for supply chain analysis",
   "author": "Crimson7 Security",
   "license": null,
   "home_page": "https://crimson7.io",
-  "download_filename": "npmscanner-0.1.1.tar.gz",
-  "download_time": "2025-09-22T11:39:43.091734",
+  "download_filename": "npmscanner-0.1.2.tar.gz",
+  "download_time": "2025-09-22T20:23:17.737466",
   "package_url": "https://pypi.org/project/npmscanner/"
 }
