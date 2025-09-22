@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-book",
+  "version": "0.0.1",
+  "summary": "Lightweight Python package for converting a pdf into a print-ready book format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_to_book-0.0.1.tar.gz",
+  "download_time": "2025-09-22T22:42:02.566492",
+  "package_url": "https://pypi.org/project/pdf-to-book/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snowpipe-streaming",
+  "version": "1.0.1",
+  "summary": "Snowflake Streaming Ingest SDK",
+  "author": null,
+  "license": "MIT or Apache-2.0",
+  "home_page": null,
+  "download_filename": "snowpipe_streaming-1.0.1-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-22T22:42:04.843791",
+  "package_url": "https://pypi.org/project/snowpipe-streaming/"
+}

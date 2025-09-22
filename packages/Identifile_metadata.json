@@ -1,0 +1,11 @@
+{
+  "name": "Identifile",
+  "version": "1.1.0",
+  "summary": "Lightweight Python library to detect common file formats by inspecting signatures and heuristics.",
+  "author": "Sai Niranjan Chitturi, Leela Sai Surya Veer Pedarla, Bhargav Dasari, Kavya Sri Punna, Vinay Appari, Chandralekha Alluri, Eknath Narravula, Pavan, Divya, OpenAI, xAI.",
+  "license": "MIT",
+  "home_page": "https://github.com/SaiNiranjanChitturi/Identifile",
+  "download_filename": "identifile-1.1.0.tar.gz",
+  "download_time": "2025-09-22T22:42:25.575071",
+  "package_url": "https://pypi.org/project/Identifile/"
+}

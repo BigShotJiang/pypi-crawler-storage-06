@@ -1,0 +1,11 @@
+{
+  "name": "slurm-usage",
+  "version": "3.1.0",
+  "summary": "Command to list the current cluster usage per user.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slurm_usage-3.1.0.tar.gz",
+  "download_time": "2025-09-22T22:42:06.444081",
+  "package_url": "https://pypi.org/project/slurm-usage/"
+}
