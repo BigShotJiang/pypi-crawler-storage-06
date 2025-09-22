@@ -1,11 +1,11 @@
 {
   "name": "obx",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Interactive Odoo backup tool for databases and filestore",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "obx-0.2.2.tar.gz",
-  "download_time": "2025-09-22T17:52:25.641509",
+  "download_filename": "obx-0.3.0.tar.gz",
+  "download_time": "2025-09-22T18:28:25.635194",
   "package_url": "https://pypi.org/project/obx/"
 }

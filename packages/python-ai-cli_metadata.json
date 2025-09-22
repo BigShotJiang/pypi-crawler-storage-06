@@ -1,11 +1,11 @@
 {
   "name": "python-ai-cli",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "AI CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_ai_cli-0.0.15.tar.gz",
-  "download_time": "2025-09-18T08:25:16.978776",
+  "download_filename": "python_ai_cli-0.0.16.tar.gz",
+  "download_time": "2025-09-22T18:28:05.857835",
   "package_url": "https://pypi.org/project/python-ai-cli/"
 }

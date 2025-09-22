@@ -1,0 +1,11 @@
+{
+  "name": "c7n-openstack",
+  "version": "0.1.37",
+  "summary": "Cloud Custodian - OpenStack Provider",
+  "author": "Cloud Custodian Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c7n_openstack-0.1.37-py3-none-any.whl",
+  "download_time": "2025-09-22T18:28:15.289211",
+  "package_url": "https://pypi.org/project/c7n-openstack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "piper",
+  "version": "0.14.5",
+  "summary": "A lightweight python toolkit for gluing together restartable, robust command line pipelines",
+  "author": "Nathan Sheffield, Johanna Klughammer, Andre Rendeiro",
+  "license": "BSD2",
+  "home_page": "https://github.com/databio/pypiper/",
+  "download_filename": "piper-0.14.5.tar.gz",
+  "download_time": "2025-09-22T18:27:57.884457",
+  "package_url": "https://pypi.org/project/piper/"
+}

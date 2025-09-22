@@ -1,0 +1,11 @@
+{
+  "name": "QuantumRandomWalks",
+  "version": "0.0.5",
+  "summary": "This package was made to perform continous time quantum random walks on domain-specific networks",
+  "author": "Jose Hernandez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantumrandomwalks-0.0.5.tar.gz",
+  "download_time": "2025-09-22T18:28:36.660369",
+  "package_url": "https://pypi.org/project/QuantumRandomWalks/"
+}

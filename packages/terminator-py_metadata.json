@@ -1,11 +1,11 @@
 {
   "name": "terminator-py",
-  "version": "0.14.7",
+  "version": "0.14.8",
   "summary": "Python bindings for the Terminator Rust library (via PyO3)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminator_py-0.14.7.tar.gz",
-  "download_time": "2025-09-22T17:52:35.853341",
+  "download_filename": "terminator_py-0.14.8.tar.gz",
+  "download_time": "2025-09-22T18:28:09.365512",
   "package_url": "https://pypi.org/project/terminator-py/"
 }

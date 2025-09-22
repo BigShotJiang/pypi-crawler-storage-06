@@ -1,11 +1,11 @@
 {
   "name": "T5SummaryPratik",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A summarization pipeline using T5 with evaluation metrics and utilities.",
   "author": "Pratik Chourasia",
   "license": null,
   "home_page": null,
-  "download_filename": "t5summarypratik-0.1.3.tar.gz",
-  "download_time": "2025-09-20T07:17:34.421350",
+  "download_filename": "t5summarypratik-0.1.4.tar.gz",
+  "download_time": "2025-09-22T18:28:35.568250",
   "package_url": "https://pypi.org/project/T5SummaryPratik/"
 }

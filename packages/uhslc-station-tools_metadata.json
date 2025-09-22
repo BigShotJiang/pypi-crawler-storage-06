@@ -1,0 +1,11 @@
+{
+  "name": "uhslc-station-tools",
+  "version": "0.0.190",
+  "summary": "Set of tools for loading, processing and saving sea level data from tide gauges",
+  "author": "Nemanja Komar",
+  "license": "MIT",
+  "home_page": "https://github.com/uhsealevelcenter/station_tools",
+  "download_filename": "uhslc_station_tools-0.0.190.tar.gz",
+  "download_time": "2025-09-22T18:28:29.930621",
+  "package_url": "https://pypi.org/project/uhslc-station-tools/"
+}

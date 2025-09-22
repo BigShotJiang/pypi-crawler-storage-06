@@ -1,0 +1,11 @@
+{
+  "name": "c7n",
+  "version": "0.9.47",
+  "summary": "Cloud Custodian - Policy Rules Engine",
+  "author": "Cloud Custodian Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c7n-0.9.47-py3-none-any.whl",
+  "download_time": "2025-09-22T18:28:12.649254",
+  "package_url": "https://pypi.org/project/c7n/"
+}

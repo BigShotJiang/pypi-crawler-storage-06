@@ -1,0 +1,11 @@
+{
+  "name": "ticklist",
+  "version": "0.8.0",
+  "summary": "Create textual forms based on Pydantic models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ticklist-0.8.0.tar.gz",
+  "download_time": "2025-09-22T18:28:31.013613",
+  "package_url": "https://pypi.org/project/ticklist/"
+}

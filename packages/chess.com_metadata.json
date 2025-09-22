@@ -1,0 +1,11 @@
+{
+  "name": "chess.com",
+  "version": "3.13.0",
+  "summary": "Python client for Chess.com API",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "chess_com-3.13.0.tar.gz",
+  "download_time": "2025-09-22T18:28:33.391980",
+  "package_url": "https://pypi.org/project/chess.com/"
+}
