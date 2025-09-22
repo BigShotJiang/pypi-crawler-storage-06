@@ -1,0 +1,11 @@
+{
+  "name": "baselmini",
+  "version": "1.0.0",
+  "summary": "Basel III mini engine (credit + liquidity)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baselmini-1.0.0.tar.gz",
+  "download_time": "2025-09-22T13:57:50.996710",
+  "package_url": "https://pypi.org/project/baselmini/"
+}
