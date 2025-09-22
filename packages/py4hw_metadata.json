@@ -1,0 +1,11 @@
+{
+  "name": "py4hw",
+  "version": "2025.5",
+  "summary": "py4hw is a library to model, and simulate digital logic circuits. It promotes the use of structural and behavioural design styles to build hardware.",
+  "author": "David Castells-Rufas",
+  "license": null,
+  "home_page": "https://github.com/davidcastells/py4hw",
+  "download_filename": "py4hw-2025.5.tar.gz",
+  "download_time": "2025-09-22T10:46:00.392577",
+  "package_url": "https://pypi.org/project/py4hw/"
+}

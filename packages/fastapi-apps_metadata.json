@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-apps",
+  "version": "0.0.1",
+  "summary": "Application layer of the FastAPI ecosystem. Provides essential building blocks, utilities, and abstractions that power FastAPI-based projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_apps-0.0.1.tar.gz",
+  "download_time": "2025-09-22T10:46:05.801041",
+  "package_url": "https://pypi.org/project/fastapi-apps/"
+}

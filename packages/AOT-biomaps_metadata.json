@@ -1,11 +1,11 @@
 {
   "name": "AOT-biomaps",
-  "version": "2.9.54",
+  "version": "2.9.57",
   "summary": "Acousto-Optic Tomography",
   "author": "Lucas Duclos",
   "license": null,
   "home_page": "https://github.com/LucasDuclos/AcoustoOpticTomography",
-  "download_filename": "aot_biomaps-2.9.54.tar.gz",
-  "download_time": "2025-09-22T08:50:45.677798",
+  "download_filename": "aot_biomaps-2.9.57.tar.gz",
+  "download_time": "2025-09-22T10:45:58.209314",
   "package_url": "https://pypi.org/project/AOT-biomaps/"
 }

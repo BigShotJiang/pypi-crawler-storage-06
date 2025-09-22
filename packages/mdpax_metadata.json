@@ -1,0 +1,11 @@
+{
+  "name": "mdpax",
+  "version": "0.2.1",
+  "summary": "GPU-accelerated MDP solvers in Python with JAX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdpax-0.2.1.tar.gz",
+  "download_time": "2025-09-22T10:46:30.821230",
+  "package_url": "https://pypi.org/project/mdpax/"
+}
