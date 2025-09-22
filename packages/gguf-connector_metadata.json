@@ -1,11 +1,11 @@
 {
   "name": "gguf-connector",
-  "version": "2.8.6",
+  "version": "2.8.7",
   "summary": "GGUF connector(s) with GUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gguf_connector-2.8.6.tar.gz",
-  "download_time": "2025-09-21T21:38:31.492155",
+  "download_filename": "gguf_connector-2.8.7.tar.gz",
+  "download_time": "2025-09-22T08:50:51.477776",
   "package_url": "https://pypi.org/project/gguf-connector/"
 }

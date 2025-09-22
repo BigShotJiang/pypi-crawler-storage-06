@@ -1,0 +1,11 @@
+{
+  "name": "langvision",
+  "version": "0.1.0",
+  "summary": "Efficient LoRA Fine-Tuning for Vision LLMs with advanced CLI and model zoo",
+  "author": "Pritesh Raj",
+  "license": null,
+  "home_page": "https://github.com/langtrain-ai/langtrain",
+  "download_filename": "langvision-0.1.0.tar.gz",
+  "download_time": "2025-09-22T08:51:18.965674",
+  "package_url": "https://pypi.org/project/langvision/"
+}

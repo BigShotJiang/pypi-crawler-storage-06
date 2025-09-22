@@ -1,0 +1,11 @@
+{
+  "name": "shash",
+  "version": "0.2.0",
+  "summary": "Custom data science utilities for model evaluation and data preparation",
+  "author": "Shashikanth",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shash-0.2.0.tar.gz",
+  "download_time": "2025-09-22T08:50:37.666653",
+  "package_url": "https://pypi.org/project/shash/"
+}

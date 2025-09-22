@@ -1,11 +1,11 @@
 {
   "name": "gllm-pipeline-binary",
-  "version": "0.4.16.post1",
+  "version": "0.4.17",
   "summary": "A library containing components related to Gen AI applications pipeline orchestration.",
   "author": "Dimitrij Ray",
   "license": null,
   "home_page": null,
-  "download_filename": "gllm_pipeline_binary-0.4.16.post1-cp311-cp311-macosx_13_0_x86_64.whl",
-  "download_time": "2025-09-22T07:53:13.138045",
+  "download_filename": "gllm_pipeline_binary-0.4.17-cp311-cp311-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-09-22T08:50:43.027693",
   "package_url": "https://pypi.org/project/gllm-pipeline-binary/"
 }
