@@ -1,11 +1,11 @@
 {
   "name": "sculblog",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "summary": "Super Cool Utility Lightweight Blog - A minimalist blogging framework",
   "author": "Diego Cabello",
   "license": null,
   "home_page": null,
-  "download_filename": "sculblog-0.1.27.tar.gz",
-  "download_time": "2025-09-22T03:43:25.498803",
+  "download_filename": "sculblog-0.1.28.tar.gz",
+  "download_time": "2025-09-22T03:59:05.125097",
   "package_url": "https://pypi.org/project/sculblog/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "libdeye",
+  "version": "2.1.3",
+  "summary": "A Python library to connect to Deye Cloud (德业云) and control Deye (德业) dehumidifier/humidifier devices.",
+  "author": "Stackie Jia",
+  "license": "MIT",
+  "home_page": "https://github.com/stackia/libdeye/",
+  "download_filename": "libdeye-2.1.3.tar.gz",
+  "download_time": "2025-09-22T03:58:48.931144",
+  "package_url": "https://pypi.org/project/libdeye/"
+}

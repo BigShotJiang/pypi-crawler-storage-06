@@ -1,0 +1,11 @@
+{
+  "name": "clipcount",
+  "version": "1.0.2",
+  "summary": "Reads the clipboard and outputs the character count.",
+  "author": "yusu79",
+  "license": "MIT",
+  "home_page": "https://yusu79.com",
+  "download_filename": "clipcount-1.0.2.tar.gz",
+  "download_time": "2025-09-22T03:58:51.039450",
+  "package_url": "https://pypi.org/project/clipcount/"
+}

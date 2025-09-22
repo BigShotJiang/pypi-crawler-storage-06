@@ -1,0 +1,11 @@
+{
+  "name": "literature",
+  "version": "1.0.0",
+  "summary": "Literature card game implementation",
+  "author": "Neel Somani",
+  "license": "MIT",
+  "home_page": "https://github.com/neelsomani/literature",
+  "download_filename": "literature-1.0.0.tar.gz",
+  "download_time": "2025-09-22T03:58:44.593238",
+  "package_url": "https://pypi.org/project/literature/"
+}

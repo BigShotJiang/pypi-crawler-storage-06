@@ -1,0 +1,11 @@
+{
+  "name": "custom-print",
+  "version": "1.1.3",
+  "summary": "Customized Print Style",
+  "author": "Miguel Angel Aguilar Cuesta",
+  "license": "Everyone Can Use It At Their Own Risk",
+  "home_page": "https://github.com/acma82/Custom_Print",
+  "download_filename": "custom_print-1.1.3.tar.gz",
+  "download_time": "2025-09-22T03:58:46.721224",
+  "package_url": "https://pypi.org/project/custom-print/"
+}
