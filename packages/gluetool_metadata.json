@@ -1,0 +1,11 @@
+{
+  "name": "gluetool",
+  "version": "2.18",
+  "summary": "Python framework for constructing command-line pipelines.",
+  "author": "Milos Prchlik",
+  "license": "BSD",
+  "home_page": "https://gluetool.readthedocs.org/",
+  "download_filename": "gluetool-2.18.tar.gz",
+  "download_time": "2025-09-22T14:23:11.026930",
+  "package_url": "https://pypi.org/project/gluetool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sirifi",
+  "version": "0.1.5.2",
+  "summary": "SiriFi: Smart Insights & Research for Investments in Financial Instruments",
+  "author": "Sagar Narwade, Rudra Desai",
+  "license": null,
+  "home_page": "https://github.com/CodeEagle22/SiriFi",
+  "download_filename": "sirifi-0.1.5.2.tar.gz",
+  "download_time": "2025-09-22T14:23:31.618127",
+  "package_url": "https://pypi.org/project/sirifi/"
+}

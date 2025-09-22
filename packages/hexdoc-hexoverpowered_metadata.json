@@ -1,0 +1,11 @@
+{
+  "name": "hexdoc-hexoverpowered",
+  "version": "0.8.2.1.0",
+  "summary": "Python web book docgen and hexdoc plugin for HexOverpowered.",
+  "author": "YukkuriC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexdoc_hexoverpowered-0.8.2.1.0.tar.gz",
+  "download_time": "2025-09-22T14:23:26.835815",
+  "package_url": "https://pypi.org/project/hexdoc-hexoverpowered/"
+}

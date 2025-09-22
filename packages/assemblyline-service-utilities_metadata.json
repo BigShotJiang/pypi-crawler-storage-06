@@ -1,0 +1,11 @@
+{
+  "name": "assemblyline-service-utilities",
+  "version": "4.6.1.0",
+  "summary": "Assemblyline 4 - Service Utilities",
+  "author": "CCCS Assemblyline development team",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/assemblyline-service-utilities/",
+  "download_filename": "assemblyline_service_utilities-4.6.1.0-py3-none-any.whl",
+  "download_time": "2025-09-22T14:23:07.887135",
+  "package_url": "https://pypi.org/project/assemblyline-service-utilities/"
+}

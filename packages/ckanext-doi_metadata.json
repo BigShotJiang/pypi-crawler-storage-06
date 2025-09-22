@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-doi",
+  "version": "4.0.4",
+  "summary": "A CKAN extension for assigning a digital object identifier (DOI) to datasets, using the DataCite DOI service.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ckanext_doi-4.0.4.tar.gz",
+  "download_time": "2025-09-22T14:23:26.310711",
+  "package_url": "https://pypi.org/project/ckanext-doi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iissa-cursofiap-package",
+  "version": "1.0.0",
+  "summary": "Descricao da sua lib cursofiap",
+  "author": "Ivan Alfredo Issa",
+  "license": "MIT",
+  "home_page": "https://github.com/ivanissa/cursofiap",
+  "download_filename": "iissa-cursofiap-package-1.0.0.tar.gz",
+  "download_time": "2025-09-22T14:22:56.180847",
+  "package_url": "https://pypi.org/project/iissa-cursofiap-package/"
+}

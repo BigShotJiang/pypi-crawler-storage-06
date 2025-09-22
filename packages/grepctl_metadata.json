@@ -1,11 +1,11 @@
 {
   "name": "grepctl",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "One-command orchestration for multimodal semantic search in BigQuery",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "grepctl-0.3.1.tar.gz",
-  "download_time": "2025-09-22T12:41:35.102302",
+  "download_filename": "grepctl-0.3.2.tar.gz",
+  "download_time": "2025-09-22T14:23:10.503348",
   "package_url": "https://pypi.org/project/grepctl/"
 }
