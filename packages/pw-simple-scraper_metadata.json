@@ -1,0 +1,11 @@
+{
+  "name": "pw-simple-scraper",
+  "version": "0.1.3",
+  "summary": "A simple and light Playwright-based scraper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pw_simple_scraper-0.1.3.tar.gz",
+  "download_time": "2025-09-22T01:39:30.768263",
+  "package_url": "https://pypi.org/project/pw-simple-scraper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "llun",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "A linter for architecture and abstraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llun-1.1.0.tar.gz",
-  "download_time": "2025-09-19T23:52:05.674658",
+  "download_filename": "llun-1.2.0.tar.gz",
+  "download_time": "2025-09-22T01:39:23.419193",
   "package_url": "https://pypi.org/project/llun/"
 }

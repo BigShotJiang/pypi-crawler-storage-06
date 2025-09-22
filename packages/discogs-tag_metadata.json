@@ -1,11 +1,11 @@
 {
   "name": "discogs-tag",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "An audio tagger based on Discogs metadata.",
   "author": "infojunkie",
   "license": null,
   "home_page": "https://github.com/infojunkie/discogs-tag.py",
-  "download_filename": "discogs_tag-1.6.1.tar.gz",
-  "download_time": "2025-09-21T23:53:05.386170",
+  "download_filename": "discogs_tag-1.6.2.tar.gz",
+  "download_time": "2025-09-22T01:39:28.523639",
   "package_url": "https://pypi.org/project/discogs-tag/"
 }

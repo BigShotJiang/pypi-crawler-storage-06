@@ -1,11 +1,11 @@
 {
   "name": "pyformatjson",
-  "version": "0.0.4",
+  "version": "0.2.0",
   "summary": "pyformatjson",
   "author": "NextAI",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/NextArtifIntell/pyformatjson",
-  "download_filename": "pyformatjson-0.0.4.tar.gz",
-  "download_time": "2025-09-21T03:01:23.559828",
+  "download_filename": "pyformatjson-0.2.0.tar.gz",
+  "download_time": "2025-09-22T01:39:50.139538",
   "package_url": "https://pypi.org/project/pyformatjson/"
 }

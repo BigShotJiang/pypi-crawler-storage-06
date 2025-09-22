@@ -1,11 +1,11 @@
 {
   "name": "pybibtexer",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "pybibtexer",
   "author": "NextAI",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/NextArtifIntell/pybibtexer",
-  "download_filename": "pybibtexer-0.1.6.tar.gz",
-  "download_time": "2025-09-21T01:39:14.610512",
+  "download_filename": "pybibtexer-0.2.0.tar.gz",
+  "download_time": "2025-09-22T01:39:48.969470",
   "package_url": "https://pypi.org/project/pybibtexer/"
 }

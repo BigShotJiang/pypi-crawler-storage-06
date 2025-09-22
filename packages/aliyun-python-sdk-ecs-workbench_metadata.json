@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-ecs-workbench",
+  "version": "1.0.4",
+  "summary": "The ecs-workbench module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-ecs-workbench-1.0.4.tar.gz",
+  "download_time": "2025-09-22T01:39:09.355004",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-ecs-workbench/"
+}

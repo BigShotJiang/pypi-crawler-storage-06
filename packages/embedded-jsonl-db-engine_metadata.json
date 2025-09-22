@@ -1,0 +1,11 @@
+{
+  "name": "embedded-jsonl-db-engine",
+  "version": "0.1.0a7",
+  "summary": "Embedded JSONL DB with strict schema, in-file header (schema+taxonomies), in-memory indexes, and fast regex queries.",
+  "author": "Mykola Rudenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "embedded_jsonl_db_engine-0.1.0a7.tar.gz",
+  "download_time": "2025-09-22T01:39:44.488382",
+  "package_url": "https://pypi.org/project/embedded-jsonl-db-engine/"
+}

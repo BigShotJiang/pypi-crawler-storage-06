@@ -1,0 +1,11 @@
+{
+  "name": "amz-extractor",
+  "version": "1.1.5",
+  "summary": "提取亚马逊详情页和评论信息",
+  "author": "lonely",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amz_extractor-1.1.5.tar.gz",
+  "download_time": "2025-09-22T01:39:15.383678",
+  "package_url": "https://pypi.org/project/amz-extractor/"
+}

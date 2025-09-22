@@ -1,11 +1,11 @@
 {
   "name": "jigsawstack",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "JigsawStack - The AI SDK for Python",
   "author": "JigsawStack",
   "license": null,
   "home_page": "https://github.com/jigsawstack/jigsawstack-python",
-  "download_filename": "jigsawstack-0.3.6.tar.gz",
-  "download_time": "2025-09-17T03:47:27.037901",
+  "download_filename": "jigsawstack-0.3.7.tar.gz",
+  "download_time": "2025-09-22T01:39:22.305880",
   "package_url": "https://pypi.org/project/jigsawstack/"
 }

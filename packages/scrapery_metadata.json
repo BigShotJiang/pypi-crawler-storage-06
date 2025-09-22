@@ -1,11 +1,11 @@
 {
   "name": "scrapery",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Scrapery: A fast, lightweight library to scrape HTML, XML, and JSON using XPath, CSS selectors, and intuitive DOM navigation.",
   "author": "Ramesh Chandra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "scrapery-0.0.6.tar.gz",
-  "download_time": "2025-09-18T18:50:39.214210",
+  "download_filename": "scrapery-0.0.7.tar.gz",
+  "download_time": "2025-09-22T01:39:33.641798",
   "package_url": "https://pypi.org/project/scrapery/"
 }
