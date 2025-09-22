@@ -1,0 +1,11 @@
+{
+  "name": "ostream-manager",
+  "version": "2.0",
+  "summary": "FOR WRITE AND READ FILES, BASE64, CRIPTO, BINARY AND SERVER FILES WITH SOCKET WEB SERVER",
+  "author": "#asytrick",
+  "license": null,
+  "home_page": "https://github.com/ssmool/PyFileManager",
+  "download_filename": "ostream_manager-2.0.tar.gz",
+  "download_time": "2025-09-22T12:41:51.602478",
+  "package_url": "https://pypi.org/project/ostream-manager/"
+}

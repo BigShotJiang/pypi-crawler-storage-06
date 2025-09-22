@@ -1,0 +1,11 @@
+{
+  "name": "various-api-tools",
+  "version": "0.3.1",
+  "summary": "A lightweight utility package for common API-related tasks in Python, including JSON and Pydantic error translators that provide user-friendly Russian messages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "various_api_tools-0.3.1.tar.gz",
+  "download_time": "2025-09-22T12:42:12.596601",
+  "package_url": "https://pypi.org/project/various-api-tools/"
+}

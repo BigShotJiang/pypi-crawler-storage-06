@@ -1,0 +1,11 @@
+{
+  "name": "argus-toolbelt",
+  "version": "6.28.0",
+  "summary": "A framework for creating interactive commands with Argus' APIs",
+  "author": "mnemonic",
+  "license": "ISC",
+  "home_page": "https://mnemonic.io",
+  "download_filename": "argus_toolbelt-6.28.0.tar.gz",
+  "download_time": "2025-09-22T12:41:54.763444",
+  "package_url": "https://pypi.org/project/argus-toolbelt/"
+}
