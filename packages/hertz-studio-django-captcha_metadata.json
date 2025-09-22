@@ -1,11 +1,11 @@
 {
   "name": "hertz-studio-django-captcha",
-  "version": "1.0.0",
+  "version": "1.0.0.2",
   "summary": "一个功能强大的Django验证码应用",
   "author": "yang kunhao",
   "license": "MIT",
   "home_page": "http://hzgit.hzsystems.cn/hertz_studio_django/hertz_studio_django_captcha",
-  "download_filename": "hertz_studio_django_captcha-1.0.0.tar.gz",
-  "download_time": "2025-09-22T09:44:58.838663",
+  "download_filename": "hertz_studio_django_captcha-1.0.0.2.tar.gz",
+  "download_time": "2025-09-22T09:56:19.947588",
   "package_url": "https://pypi.org/project/hertz-studio-django-captcha/"
 }

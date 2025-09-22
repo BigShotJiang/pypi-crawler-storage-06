@@ -1,0 +1,11 @@
+{
+  "name": "HMpTy",
+  "version": "1.7.0",
+  "summary": "Generate Hierarchical Triangular Mesh (HTM) IDs, crossmatch sets of sky-coordinates and more",
+  "author": "David Young",
+  "license": "GNU",
+  "home_page": "https://github.com/thespacedoctor/HMpTy",
+  "download_filename": "hmpty-1.7.0.tar.gz",
+  "download_time": "2025-09-22T09:56:13.776905",
+  "package_url": "https://pypi.org/project/HMpTy/"
+}
