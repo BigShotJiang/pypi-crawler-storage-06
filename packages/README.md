@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T14:47:17.068941
-- **Total Packages**: 97
-- **Total Size**: 57.34 MB
+- **Download Time**: 2025-09-22T14:57:48.147660
+- **Total Packages**: 93
+- **Total Size**: 22.14 MB
 
 ## Packages List
+- nginx-sqlize
+- alidaparse
+- TexTOM
+- ai-parrot
+- tts-webui.songbloom
+- ut-doa
+- zhmiscellany
+- FractalArtMaker
+- SidraDataProductSDK
+- langbot-plugin
+- foundationallm-agent-plugins
+- xautomata-hive
+- lanscape
+- img4it
+- cupylma
+- chain_harvester
+- atlas-consortia-commons
+- akash
+- authentik-client
+- phenodig
+- kaqing
+- uma-pydi
+- pylimer-tools
+- icecap
+- aait
+- agenticle
+- nekro-agent
+- snowflake-connector-python
+- b24api
+- utwrite
+- batchmp
+- io4it
+- sqlmesh-utils
+- syntax-parser-skeleton
+- neuralm
+- oiplot
+- entity-query-language
+- django-bulk-drf
+- arm-pyart
+- unmeshed-sdk
+- mxcubeweb
 - jamlib
 - haystack-ai
 - proqsar
@@ -26,15 +67,12 @@
 - invenio-search-ui
 - cronpulse-lib
 - hhtrade
-- authentik-client
 - tatva
 - invenio-requests
 - turftopic
 - cve-driller
 - portkey-ai
-- lanscape
 - sourcemeta-jsonschema
-- akash
 - teds
 - aiocoap
 - dowker-rips-complex
@@ -61,45 +99,3 @@
 - peek-plugin-livedb
 - gemlite
 - nominal-api-protos
-- nominal-api
-- peek-plugin-inbox
-- peek-plugin-graphdb
-- peek-plugin-gis-diagram
-- peek-plugin-eventdb
-- OASYS1-Elettra-Extensions
-- peek-plugin-docdb-generic-menu
-- xautomata-hive
-- lohas-app-hotel-search-gzp-mcp-server
-- peek-plugin-diagram-trace
-- peek-plugin-diagram
-- nodespecs
-- peek-plugin-chat
-- math-mcp-learning-server
-- peek-plugin-branch
-- synerty-peek
-- peek-worker-service
-- peek-storage-service
-- peek-platform
-- peek-plugin-base
-- peek-office-service
-- peek-office-app
-- peek-office-doc
-- peek-logic-service
-- pmini_sdk
-- peek-field-service
-- peek-field-app
-- mxcubecore
-- bikidata
-- peek-field-doc
-- peek-core-api
-- peek-core-user
-- peek-core-search
-- peek-core-email
-- peek-core-docdb
-- peek-core-device
-- odoo-addon-shopfloor-reception
-- peek-agent-service
-- pysvgenius
-- mqtt-sn-12
-- peek-admin-app
-- peek-admin-doc

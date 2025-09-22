@@ -1,0 +1,11 @@
+{
+  "name": "FractalArtMaker",
+  "version": "0.3.0",
+  "summary": "A module for creating fractal art in Python's turtle module.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractalartmaker-0.3.0.tar.gz",
+  "download_time": "2025-09-22T14:57:01.279629",
+  "package_url": "https://pypi.org/project/FractalArtMaker/"
+}

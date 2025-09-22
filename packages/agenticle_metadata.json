@@ -1,0 +1,11 @@
+{
+  "name": "agenticle",
+  "version": "0.1.0",
+  "summary": "A lightweight, event-driven Python framework for building and orchestrating multi-agent systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agenticle-0.1.0.tar.gz",
+  "download_time": "2025-09-22T14:57:11.748935",
+  "package_url": "https://pypi.org/project/agenticle/"
+}
