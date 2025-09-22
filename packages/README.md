@@ -1,16 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T09:25:37.953638
-- **Total Packages**: 91
-- **Total Size**: 10.99 MB
+- **Download Time**: 2025-09-22T09:45:48.538863
+- **Total Packages**: 93
+- **Total Size**: 25.53 MB
 
 ## Packages List
+- HardwareMonitor
+- shared-exchange-config
+- fundamentals
+- hertz-studio-django-captcha
+- jira-mcp-standalone
+- pulumi-thalassa
+- ydb
+- spotify-confidence-sdk
+- maleo-security
+- ofdcomparer
+- fastapi-ltfi-wsap
+- kontocheck
+- lhs-global-service-django
+- authentik-client
+- calculate-tool-lengyue1084
+- pingera-sdk
+- maleo-crypto
+- sp-obs
+- hyperbolic-optics
+- process-gpt-agent-sdk
+- codemie-sdk-python
+- shotgun-sh
+- engrate-sdk
+- sparkpipelineframework
+- mvv-opentelemetry-instrumentation-playwright
+- mcp-server-starrocks
+- nixscribe
+- microbots
+- canns
+- pixell-kit
+- tencent-wedata-feature-engineering
+- django-cfg
+- odoo-addon-account-invoice-inter-company
+- flask-ltfi-wsap
+- someip-py
+- nwtk
+- more-sso-auth
+- libinephany
+- elide
+- lisien
+- AstrBot
+- arango-cve-processor
+- efootprint
+- legacy-web-mcp
+- bizyui
+- gllm-core-binary
+- kxy-framework
+- brownllama
+- xync-client
+- upplib
+- jsontoggle
+- airbyte-source-notion
+- image2hex
+- seliky
+- microeda
+- django_utility_suite
 - django-htmx
 - mollie-api-python-beta
-- nixscribe
 - arcscript
-- lhs-global-service-django
 - apache-airflow-providers-standard
 - pybldc
 - llmakits
@@ -45,55 +99,3 @@
 - apache-airflow-providers-amazon
 - apache-airflow-providers-alibaba
 - brewinglib-generic
-- brewinglib-db
-- brewinglib-cli
-- brewing
-- mendevi
-- django-ltfi-wsap
-- Geode-Numerics
-- image2hex
-- geotifffile
-- cloudkitty-tempest-plugin
-- pitchoune
-- mcp-oracle-server
-- hyperbolic-optics
-- rustivig
-- gvitest-script
-- ltfi-wsap-sdk
-- ag-ui-langgraph
-- omnidimension
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- Vijay-Package
-- iis-frida
-- lohas-app-hotel-search-gzp-mcp-server
-- iflow-mcp_doubao-mcp-server
-- worldnex
-- mi-maica
-- tbp-nightly
-- dials-data
-- github-ioc-scanner
-- glchat-plugin
-- django-code-audit
-- pyturso
-- deltalake2db
-- authentik-client
-- gadapt
-- project-llm-trainer
-- pypicosdk
-- kreuzberg
-- kuavo-humanoid-sdk-ws
-- kuavo-humanoid-sdk
-- rumdl
-- find-reference-genomes
-- apscale
-- cinder-tempest-plugin
-- nbforager
-- magnum-tempest-plugin
-- remotion-lambda

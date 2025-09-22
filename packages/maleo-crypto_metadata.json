@@ -1,11 +1,11 @@
 {
   "name": "maleo-crypto",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "summary": "Crypto package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_crypto-0.0.9.tar.gz",
-  "download_time": "2025-09-17T05:18:09.024873",
+  "download_filename": "maleo_crypto-0.0.11.tar.gz",
+  "download_time": "2025-09-22T09:45:06.696472",
   "package_url": "https://pypi.org/project/maleo-crypto/"
 }

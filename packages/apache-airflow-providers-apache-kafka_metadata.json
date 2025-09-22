@@ -5,7 +5,7 @@
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_apache_kafka-1.10.4-py3-none-any.whl",
-  "download_time": "2025-09-22T09:25:04.777759",
+  "download_filename": "apache_airflow_providers_apache_kafka-1.10.4.tar.gz",
+  "download_time": "2025-09-22T09:45:44.939138",
   "package_url": "https://pypi.org/project/apache-airflow-providers-apache-kafka/"
 }

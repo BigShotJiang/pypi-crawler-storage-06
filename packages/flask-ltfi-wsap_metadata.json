@@ -1,0 +1,11 @@
+{
+  "name": "flask-ltfi-wsap",
+  "version": "2.0.0",
+  "summary": "Flask extension for LTFI-WSAP (Web System Alignment Protocol) integration",
+  "author": "Kief Studio",
+  "license": "MIT",
+  "home_page": "https://github.com/KiefStudioMA/LTFI-WSAP-Flask",
+  "download_filename": "flask_ltfi_wsap-2.0.0.tar.gz",
+  "download_time": "2025-09-22T09:45:16.456409",
+  "package_url": "https://pypi.org/project/flask-ltfi-wsap/"
+}

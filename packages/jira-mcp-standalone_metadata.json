@@ -1,0 +1,11 @@
+{
+  "name": "jira-mcp-standalone",
+  "version": "1.14.1",
+  "summary": "JIRA MCP Server for AI integration - fetch user stories and issues",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jira_mcp_standalone-1.14.1.tar.gz",
+  "download_time": "2025-09-22T09:44:59.413648",
+  "package_url": "https://pypi.org/project/jira-mcp-standalone/"
+}
