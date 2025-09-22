@@ -1,0 +1,11 @@
+{
+  "name": "nope-gpt",
+  "version": "0.1.1",
+  "summary": "A GPT-style large language model (LLM) with no positional embeddings (NoPE).",
+  "author": "Andrew DalPino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nope_gpt-0.1.1.tar.gz",
+  "download_time": "2025-09-22T19:17:44.123906",
+  "package_url": "https://pypi.org/project/nope-gpt/"
+}

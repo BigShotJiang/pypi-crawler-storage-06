@@ -1,0 +1,11 @@
+{
+  "name": "clue-api",
+  "version": "1.0.0.dev9",
+  "summary": "Clue distributed enrichment service",
+  "author": "Canadian Centre for Cyber Security",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/clue",
+  "download_filename": "clue_api-1.0.0.dev9.tar.gz",
+  "download_time": "2025-09-22T19:17:28.003862",
+  "package_url": "https://pypi.org/project/clue-api/"
+}

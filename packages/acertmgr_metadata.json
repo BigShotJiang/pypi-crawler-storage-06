@@ -1,0 +1,11 @@
+{
+  "name": "acertmgr",
+  "version": "1.0.6",
+  "summary": "An automated certificate manager using ACME/letsencrypt",
+  "author": "Markus Hauschild",
+  "license": "ISC",
+  "home_page": "https://github.com/moepman/acertmgr",
+  "download_filename": "acertmgr-1.0.6.tar.gz",
+  "download_time": "2025-09-22T19:17:55.588318",
+  "package_url": "https://pypi.org/project/acertmgr/"
+}

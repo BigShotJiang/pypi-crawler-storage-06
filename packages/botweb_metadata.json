@@ -1,0 +1,11 @@
+{
+  "name": "botweb",
+  "version": "0.2.6",
+  "summary": "Class to perform web selenium and requests operations on web systems",
+  "author": "Ben-Hur P. B. Santos",
+  "license": null,
+  "home_page": "https://github.com/botlorien/botweb",
+  "download_filename": "botweb-0.2.6.tar.gz",
+  "download_time": "2025-09-22T19:17:48.299755",
+  "package_url": "https://pypi.org/project/botweb/"
+}
