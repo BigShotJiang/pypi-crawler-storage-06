@@ -1,0 +1,11 @@
+{
+  "name": "osinttool",
+  "version": "0.1.0",
+  "summary": "Un outil OSINT qui affiche un message",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "osinttool-0.1.0.tar.gz",
+  "download_time": "2025-09-22T16:26:32.126070",
+  "package_url": "https://pypi.org/project/osinttool/"
+}

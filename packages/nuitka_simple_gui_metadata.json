@@ -1,0 +1,11 @@
+{
+  "name": "nuitka_simple_gui",
+  "version": "2025.9.23",
+  "summary": "A simple GUI application using Nuitka.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nuitka_simple_gui-2025.9.23.tar.gz",
+  "download_time": "2025-09-22T16:26:35.844809",
+  "package_url": "https://pypi.org/project/nuitka_simple_gui/"
+}

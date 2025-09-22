@@ -1,0 +1,11 @@
+{
+  "name": "refire",
+  "version": "0.1.1",
+  "summary": "A flexible Python decorator for retrying functions upon failure with support for exponential backoff, jitter, and configurable retry policies.",
+  "author": "Max Scheijen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "refire-0.1.1.tar.gz",
+  "download_time": "2025-09-22T16:26:35.308796",
+  "package_url": "https://pypi.org/project/refire/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "geo-neural-network",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "This library provides functions for neural network analysis with geodata.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geo_neural_network-1.0.1.tar.gz",
-  "download_time": "2025-09-22T14:23:33.200624",
+  "download_filename": "geo_neural_network-1.0.3.tar.gz",
+  "download_time": "2025-09-22T16:26:22.638081",
   "package_url": "https://pypi.org/project/geo-neural-network/"
 }

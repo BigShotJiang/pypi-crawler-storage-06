@@ -1,11 +1,11 @@
 {
   "name": "aplr",
-  "version": "10.13.0",
+  "version": "10.14.0",
   "summary": "Automatic Piecewise Linear Regression",
   "author": "Mathias von Ottenbreit",
   "license": "MIT",
   "home_page": "https://github.com/ottenbreit-data-science/aplr",
-  "download_filename": "aplr-10.13.0.tar.gz",
-  "download_time": "2025-09-21T19:52:51.674931",
+  "download_filename": "aplr-10.14.0.tar.gz",
+  "download_time": "2025-09-22T16:26:48.725835",
   "package_url": "https://pypi.org/project/aplr/"
 }

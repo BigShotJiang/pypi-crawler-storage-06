@@ -1,0 +1,11 @@
+{
+  "name": "drf-simple-oauth2",
+  "version": "1.0.0",
+  "summary": "Simple OAuth2 client package allowing to define OAuth2 / OpenID providers through settings. ",
+  "author": "Quentin Coumes (Codoc)",
+  "license": null,
+  "home_page": "https://github.com/Codoc-os/drf-simple-oauth2",
+  "download_filename": "drf_simple_oauth2-1.0.0.tar.gz",
+  "download_time": "2025-09-22T16:26:21.099851",
+  "package_url": "https://pypi.org/project/drf-simple-oauth2/"
+}

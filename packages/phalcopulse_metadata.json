@@ -1,11 +1,11 @@
 {
   "name": "phalcopulse",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A real-time 3D visualization engine with PyOpenGL.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phalcopulse-0.1.2.tar.gz",
-  "download_time": "2025-09-21T19:15:25.861718",
+  "download_filename": "phalcopulse-0.1.4.tar.gz",
+  "download_time": "2025-09-22T16:26:50.285949",
   "package_url": "https://pypi.org/project/phalcopulse/"
 }

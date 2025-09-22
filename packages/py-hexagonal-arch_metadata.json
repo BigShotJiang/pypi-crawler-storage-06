@@ -1,0 +1,11 @@
+{
+  "name": "py-hexagonal-arch",
+  "version": "1.0.3",
+  "summary": "A comprehensive Python framework implementing Hexagonal Architecture with multi-framework, multi-database, and multi-messaging support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_hexagonal_arch-1.0.3.tar.gz",
+  "download_time": "2025-09-22T16:26:54.584406",
+  "package_url": "https://pypi.org/project/py-hexagonal-arch/"
+}

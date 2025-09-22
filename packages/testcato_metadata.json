@@ -1,11 +1,11 @@
 {
   "name": "testcato",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "A package for categorizing test results.",
   "author": "Anurag",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "testcato-1.1.8.tar.gz",
-  "download_time": "2025-09-21T18:26:16.068967",
+  "download_filename": "testcato-1.1.9.tar.gz",
+  "download_time": "2025-09-22T16:26:24.693732",
   "package_url": "https://pypi.org/project/testcato/"
 }

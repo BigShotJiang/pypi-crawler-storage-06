@@ -1,0 +1,11 @@
+{
+  "name": "scubatrace",
+  "version": "1.0.5",
+  "summary": "ScubaTrace: A source-level code analysis toolkit for SAST, context engineering, and AI coding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scubatrace-1.0.5.tar.gz",
+  "download_time": "2025-09-22T16:26:55.105695",
+  "package_url": "https://pypi.org/project/scubatrace/"
+}

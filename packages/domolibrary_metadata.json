@@ -1,11 +1,11 @@
 {
   "name": "domolibrary",
-  "version": "4.5.22",
+  "version": "4.5.23",
   "summary": null,
   "author": "Jae Wilson",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/jaewilson07/domo_library",
-  "download_filename": "domolibrary-4.5.22.tar.gz",
-  "download_time": "2025-09-19T19:39:14.441082",
+  "download_filename": "domolibrary-4.5.23.tar.gz",
+  "download_time": "2025-09-22T16:27:04.080134",
   "package_url": "https://pypi.org/project/domolibrary/"
 }
