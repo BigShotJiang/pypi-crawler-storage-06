@@ -1,0 +1,11 @@
+{
+  "name": "nixscribe",
+  "version": "0.1.1",
+  "summary": "A CLI Text Editor that supports Syntax Highlighting for .py, .html, .css and .js files.",
+  "author": "mhasanali2010",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nixscribe-0.1.1.tar.gz",
+  "download_time": "2025-09-22T09:24:48.555237",
+  "package_url": "https://pypi.org/project/nixscribe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rumdl",
-  "version": "0.0.143",
+  "version": "0.0.144",
   "summary": "A fast Markdown linter written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/rvben/rumdl",
-  "download_filename": "rumdl-0.0.143.tar.gz",
-  "download_time": "2025-09-21T14:52:44.160539",
+  "download_filename": "rumdl-0.0.144.tar.gz",
+  "download_time": "2025-09-22T09:25:34.207153",
   "package_url": "https://pypi.org/project/rumdl/"
 }

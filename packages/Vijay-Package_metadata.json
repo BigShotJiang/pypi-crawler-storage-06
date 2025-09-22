@@ -1,11 +1,11 @@
 {
   "name": "Vijay-Package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple printing star toolkit package",
   "author": "Vijay_Kedar",
   "license": null,
   "home_page": "https://github.com/prachikabra121/geometry_toolkit",
-  "download_filename": "vijay_package-0.1.0.tar.gz",
-  "download_time": "2025-09-22T08:28:42.330019",
+  "download_filename": "vijay_package-0.1.1.tar.gz",
+  "download_time": "2025-09-22T09:25:22.433614",
   "package_url": "https://pypi.org/project/Vijay-Package/"
 }

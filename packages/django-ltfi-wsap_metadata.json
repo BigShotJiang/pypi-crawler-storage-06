@@ -1,0 +1,11 @@
+{
+  "name": "django-ltfi-wsap",
+  "version": "2.0.0",
+  "summary": "Django integration for LTFI-WSAP (Layered Transformer Framework Intelligence - Web System Alignment Protocol) by Kief Studio",
+  "author": "Kief Studio",
+  "license": "MIT",
+  "home_page": "https://github.com/KiefStudioMA/ltfi-wsap-django",
+  "download_filename": "django_ltfi_wsap-2.0.0.tar.gz",
+  "download_time": "2025-09-22T09:25:10.705732",
+  "package_url": "https://pypi.org/project/django-ltfi-wsap/"
+}

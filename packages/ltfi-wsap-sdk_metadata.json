@@ -1,0 +1,11 @@
+{
+  "name": "ltfi-wsap-sdk",
+  "version": "2.0.2",
+  "summary": "Official Python SDK for LTFI-WSAP (Web System Alignment Protocol) by Kief Studio - Part of the LTFI ecosystem",
+  "author": "Kief Studio",
+  "license": "MIT",
+  "home_page": "https://github.com/KiefStudioMA/LTFI-WSAP-Python",
+  "download_filename": "ltfi_wsap_sdk-2.0.2.tar.gz",
+  "download_time": "2025-09-22T09:25:16.260548",
+  "package_url": "https://pypi.org/project/ltfi-wsap-sdk/"
+}

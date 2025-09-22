@@ -1,11 +1,11 @@
 {
   "name": "lohas-app-hotel-search-gzp-mcp-server",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "summary": "Add your description here",
   "author": "guzp",
   "license": null,
   "home_page": null,
-  "download_filename": "lohas_app_hotel_search_gzp_mcp_server-0.14.0.tar.gz",
-  "download_time": "2025-09-22T07:40:44.881710",
+  "download_filename": "lohas_app_hotel_search_gzp_mcp_server-0.15.0.tar.gz",
+  "download_time": "2025-09-22T09:25:23.506045",
   "package_url": "https://pypi.org/project/lohas-app-hotel-search-gzp-mcp-server/"
 }

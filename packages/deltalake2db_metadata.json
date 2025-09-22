@@ -1,11 +1,11 @@
 {
   "name": "deltalake2db",
-  "version": "0.10.3",
+  "version": "1.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deltalake2db-0.10.3.tar.gz",
-  "download_time": "2025-09-19T11:51:59.394581",
+  "download_filename": "deltalake2db-1.0.1.tar.gz",
+  "download_time": "2025-09-22T09:25:29.938262",
   "package_url": "https://pypi.org/project/deltalake2db/"
 }

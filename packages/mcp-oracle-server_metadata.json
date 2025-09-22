@@ -1,11 +1,11 @@
 {
   "name": "mcp-oracle-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Model Context Protocol server to access oracle database",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_oracle_server-1.0.0.tar.gz",
-  "download_time": "2025-09-18T12:39:23.472302",
+  "download_filename": "mcp_oracle_server-1.0.1.tar.gz",
+  "download_time": "2025-09-22T09:25:13.964280",
   "package_url": "https://pypi.org/project/mcp-oracle-server/"
 }

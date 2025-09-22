@@ -1,11 +1,11 @@
 {
   "name": "omnidimension",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "SDK and MCP Server for Omni Assistant services",
   "author": "https://www.omnidim.io/",
   "license": null,
   "home_page": "https://github.com/kevin-omnidim/omnidim-sdk",
-  "download_filename": "omnidimension-0.2.16.tar.gz",
-  "download_time": "2025-09-17T15:40:42.152945",
+  "download_filename": "omnidimension-0.2.17.tar.gz",
+  "download_time": "2025-09-22T09:25:17.414961",
   "package_url": "https://pypi.org/project/omnidimension/"
 }
