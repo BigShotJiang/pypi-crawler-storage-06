@@ -1,11 +1,11 @@
 {
   "name": "mipx",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "summary": null,
   "author": "ly",
   "license": null,
   "home_page": null,
-  "download_filename": "mipx-0.7.8.tar.gz",
-  "download_time": "2025-09-22T03:58:53.147845",
+  "download_filename": "mipx-0.7.9.tar.gz",
+  "download_time": "2025-09-22T04:28:54.353130",
   "package_url": "https://pypi.org/project/mipx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "crabparser",
+  "version": "0.1.1",
+  "summary": "🦀 Blazingly fast text parsing library with Rust backend - 10x faster than pure Python with support for PDF, DOCX, CSV and 12+ programming languages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crabparser-0.1.1.tar.gz",
+  "download_time": "2025-09-22T04:28:44.891478",
+  "package_url": "https://pypi.org/project/crabparser/"
+}
