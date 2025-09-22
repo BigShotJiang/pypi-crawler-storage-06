@@ -1,11 +1,11 @@
 {
   "name": "ci-matrix-starter",
-  "version": "0.1.7",
-  "summary": "Reusable CI workflows for Py/TS with SBOM & signatures.",
+  "version": "0.1.10",
+  "summary": "Starter de CI matrix (Poetry + src layout)",
   "author": "CoderDeltaLAN",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "ci_matrix_starter-0.1.7.tar.gz",
-  "download_time": "2025-09-19T05:18:29.929397",
+  "download_filename": "ci_matrix_starter-0.1.10.tar.gz",
+  "download_time": "2025-09-22T20:42:23.031170",
   "package_url": "https://pypi.org/project/ci-matrix-starter/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sentrystr",
+  "version": "0.1.1",
+  "summary": "Python bindings for SentryStr - a decentralized error tracking system using Nostr",
+  "author": "SentryStr Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentrystr-0.1.1.tar.gz",
+  "download_time": "2025-09-22T20:42:28.348143",
+  "package_url": "https://pypi.org/project/sentrystr/"
+}

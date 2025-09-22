@@ -1,0 +1,11 @@
+{
+  "name": "accfg",
+  "version": "0.0.7",
+  "summary": "AccFG: Molecule functional group extraction and comparison",
+  "author": "Xuan Liu",
+  "license": null,
+  "home_page": "https://github.com/xuanliugit/AccFG",
+  "download_filename": "accfg-0.0.7.tar.gz",
+  "download_time": "2025-09-22T20:42:16.304336",
+  "package_url": "https://pypi.org/project/accfg/"
+}

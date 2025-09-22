@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-GradePage",
+  "version": "1.2.5",
+  "summary": "A library for connecting to GradePage services at the University of Washington",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-gradepage",
+  "download_filename": "uw_restclients_gradepage-1.2.5.tar.gz",
+  "download_time": "2025-09-22T20:42:10.910638",
+  "package_url": "https://pypi.org/project/UW-RestClients-GradePage/"
+}

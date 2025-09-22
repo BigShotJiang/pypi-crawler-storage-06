@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-provider-oci",
+  "version": "0.0.0",
+  "summary": "CDKTF bindings for Oracle Cloud Infrastructure",
+  "author": "Suresh Veeragoni<github@veeragoni.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/veeragoni/cdktf-provider-oci.git",
+  "download_filename": "cdktf_provider_oci-0.0.0.tar.gz",
+  "download_time": "2025-09-22T20:42:20.771773",
+  "package_url": "https://pypi.org/project/cdktf-provider-oci/"
+}
