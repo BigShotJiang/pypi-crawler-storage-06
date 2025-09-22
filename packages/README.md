@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T23:39:31.299594
-- **Total Packages**: 76
-- **Total Size**: 4.83 MB
+- **Download Time**: 2025-09-22T23:53:37.664419
+- **Total Packages**: 79
+- **Total Size**: 7.86 MB
 
 ## Packages List
+- my-aws-helpers
+- leggen
+- authentik-client
+- dbcooper
+- openai
+- fusio
+- js-api
+- coiled
+- panqake
+- gapless-crypto-data
+- hexdoc-moreiotas
+- pwntools-util
+- reaktome
+- pulumi-svmkit
+- nominal-api-protos
+- nominal-api
+- pycalypso
+- astrobeckit
+- mlso-api-client
+- omron-sysmac-simulator
+- syft-client
+- baseprinter
+- mgo-prwrkpi
+- tooltree
+- raito
 - aind-metadata-service-async-client
 - aind-metadata-service-client
 - fastloop
@@ -13,15 +38,12 @@
 - inferedge-moss-core
 - moose-lib
 - secure-env
-- authentik-client
-- syft-client
 - hexdoc-hexdebug
 - package-simplecalc
 - yt-dlp
 - sienge-ecbiesek-mcp
 - healthcheck-reporter
 - sqlmesh
-- omron-sysmac-simulator
 - nv-ingest
 - nv-ingest-client
 - nv-ingest-api
@@ -48,7 +70,6 @@
 - anyscale
 - pycircuitkit
 - api-public-nordicite
-- pulumi-svmkit
 - GuardianUnivalle-Benito-Yucra
 - minimal-activitypub
 - bigraph-schema
@@ -64,21 +85,3 @@
 - hecdss
 - vexy-markliff
 - firefly-client
-- multiagent-core
-- grepctl
-- opensearch-optic
-- flwr-nightly
-- pyballistic.exts
-- msal
-- ipykernel-helper
-- persistpg
-- local-deep-research
-- byubit
-- pulumi-xyz
-- uv
-- uv-build
-- victron-mqtt
-- maleo-database
-- eai-sparsify
-- monai-nvflare
-- langgraph-api

@@ -1,0 +1,11 @@
+{
+  "name": "mlso-api-client",
+  "version": "0.3.2",
+  "summary": "Python package providing a client to access MLSO data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlso_api_client-0.3.2.tar.gz",
+  "download_time": "2025-09-22T23:53:04.697102",
+  "package_url": "https://pypi.org/project/mlso-api-client/"
+}
