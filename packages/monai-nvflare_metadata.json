@@ -1,0 +1,11 @@
+{
+  "name": "monai-nvflare",
+  "version": "0.4.0",
+  "summary": "MONAI NVIDIA FLARE integration",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/NVIDIA/NVFlare",
+  "download_filename": "monai_nvflare-0.4.0-py3-none-any.whl",
+  "download_time": "2025-09-22T23:20:19.813744",
+  "package_url": "https://pypi.org/project/monai-nvflare/"
+}

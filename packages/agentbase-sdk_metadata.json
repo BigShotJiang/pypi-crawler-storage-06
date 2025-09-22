@@ -1,11 +1,11 @@
 {
   "name": "agentbase-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "The official Python library for the agentbase API",
   "author": "Agentbase",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentbase_sdk-0.1.0.tar.gz",
-  "download_time": "2025-09-22T22:53:10.780143",
+  "download_filename": "agentbase_sdk-0.1.1.tar.gz",
+  "download_time": "2025-09-22T23:20:23.374091",
   "package_url": "https://pypi.org/project/agentbase-sdk/"
 }

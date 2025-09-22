@@ -1,11 +1,11 @@
 {
   "name": "mlx-genkit",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "MLX generation parity utils with HF/Torch-compatible sampling, processors, and steering hooks",
   "author": "Your Team",
   "license": null,
   "home_page": null,
-  "download_filename": "mlx_genkit-0.3.2.tar.gz",
-  "download_time": "2025-09-22T21:54:03.757445",
+  "download_filename": "mlx_genkit-0.3.3.tar.gz",
+  "download_time": "2025-09-22T23:20:25.959855",
   "package_url": "https://pypi.org/project/mlx-genkit/"
 }
