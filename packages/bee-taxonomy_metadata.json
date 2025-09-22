@@ -1,11 +1,11 @@
 {
   "name": "bee-taxonomy",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "A library for taxonomy management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bee_taxonomy-0.0.10.tar.gz",
-  "download_time": "2025-09-22T09:56:04.528316",
+  "download_filename": "bee_taxonomy-0.0.12.tar.gz",
+  "download_time": "2025-09-22T10:23:29.897344",
   "package_url": "https://pypi.org/project/bee-taxonomy/"
 }

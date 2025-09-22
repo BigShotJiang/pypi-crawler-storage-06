@@ -1,0 +1,11 @@
+{
+  "name": "kuksa-client",
+  "version": "0.5.0",
+  "summary": "KUKSA Python Client and SDK",
+  "author": "Eclipse KUKSA Project",
+  "license": null,
+  "home_page": "https://github.com/eclipse-kuksa/kuksa-python-sdk",
+  "download_filename": "kuksa_client-0.5.0.tar.gz",
+  "download_time": "2025-09-22T10:23:10.978606",
+  "package_url": "https://pypi.org/project/kuksa-client/"
+}

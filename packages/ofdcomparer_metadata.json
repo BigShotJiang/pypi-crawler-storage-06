@@ -1,11 +1,11 @@
 {
   "name": "ofdcomparer",
-  "version": "1.6.8",
+  "version": "1.6.9",
   "summary": "Библиотека для сравнивания ФД из ФН и ОФД",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ofdcomparer-1.6.8.tar.gz",
-  "download_time": "2025-09-22T09:45:02.801495",
+  "download_filename": "ofdcomparer-1.6.9.tar.gz",
+  "download_time": "2025-09-22T10:22:56.651313",
   "package_url": "https://pypi.org/project/ofdcomparer/"
 }

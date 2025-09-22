@@ -1,11 +1,11 @@
 {
   "name": "ctr-datadis",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "SDK completo de Python para la API oficial de Datadis - Acceso programático a datos de consumo eléctrico español",
   "author": "CristianTacoronteRivero",
   "license": null,
   "home_page": "https://github.com/TacoronteRiveroCristian/ctr-datadis",
-  "download_filename": "ctr_datadis-0.4.0.tar.gz",
-  "download_time": "2025-09-22T08:28:59.854113",
+  "download_filename": "ctr_datadis-0.4.1.tar.gz",
+  "download_time": "2025-09-22T10:23:41.362337",
   "package_url": "https://pypi.org/project/ctr-datadis/"
 }

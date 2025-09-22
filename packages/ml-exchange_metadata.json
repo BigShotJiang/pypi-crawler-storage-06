@@ -1,11 +1,11 @@
 {
   "name": "ml-exchange",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "Machine Learning Exchange (MLX) library",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "ml_exchange-0.3.7.tar.gz",
-  "download_time": "2025-09-17T09:40:06.819262",
+  "download_filename": "ml_exchange-0.3.8.tar.gz",
+  "download_time": "2025-09-22T10:23:31.454389",
   "package_url": "https://pypi.org/project/ml-exchange/"
 }

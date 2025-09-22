@@ -1,11 +1,11 @@
 {
   "name": "metbit",
-  "version": "8.7.3",
+  "version": "8.7.5",
   "summary": "Metabolomics data analysis and visualization tools.",
   "author": "aeiwz",
   "license": "MIT",
   "home_page": "https://github.com/aeiwz/metbit.git",
-  "download_filename": "metbit-8.7.3.tar.gz",
-  "download_time": "2025-09-19T10:21:35.154223",
+  "download_filename": "metbit-8.7.5.tar.gz",
+  "download_time": "2025-09-22T10:23:34.066885",
   "package_url": "https://pypi.org/project/metbit/"
 }

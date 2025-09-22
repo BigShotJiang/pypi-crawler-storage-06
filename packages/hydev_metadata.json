@@ -1,0 +1,11 @@
+{
+  "name": "hydev",
+  "version": "4.9.0",
+  "summary": "Common tooling and configuration for pythonic development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydev-4.9.0.tar.gz",
+  "download_time": "2025-09-22T10:23:03.953063",
+  "package_url": "https://pypi.org/project/hydev/"
+}

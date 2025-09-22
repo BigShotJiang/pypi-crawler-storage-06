@@ -1,0 +1,11 @@
+{
+  "name": "france-connect-py",
+  "version": "2.1.1",
+  "summary": "A Python client to handle communication with FranceConnect",
+  "author": "Codoc",
+  "license": "MIT License",
+  "home_page": "https://github.com/Codoc-os/france-connect-py",
+  "download_filename": "france_connect_py-2.1.1.tar.gz",
+  "download_time": "2025-09-22T10:23:03.432827",
+  "package_url": "https://pypi.org/project/france-connect-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "carapis-api",
+  "version": "2.0.3",
+  "summary": "Universal Python client for CARAPIS Vehicles API - Access automotive data from 25+ global marketplaces including Cars.com, AutoScout24, Encar, Auto.ru, and more. Enterprise-grade automotive data extraction with real-time vehicle listings, pricing, and market intelligence.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "carapis_api-2.0.3.tar.gz",
+  "download_time": "2025-09-22T10:23:36.692546",
+  "package_url": "https://pypi.org/project/carapis-api/"
+}

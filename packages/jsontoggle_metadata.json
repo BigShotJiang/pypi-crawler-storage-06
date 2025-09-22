@@ -1,11 +1,11 @@
 {
   "name": "jsontoggle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool for toggling JSON nodes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsontoggle-0.1.1.tar.gz",
-  "download_time": "2025-09-22T09:45:25.935338",
+  "download_filename": "jsontoggle-0.1.2.tar.gz",
+  "download_time": "2025-09-22T10:23:09.418798",
   "package_url": "https://pypi.org/project/jsontoggle/"
 }

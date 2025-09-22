@@ -1,11 +1,11 @@
 {
   "name": "p-template-generator",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "跨平台视频模板生成器 - Python工具端",
   "author": "Guangzhou Zhijian Technology Co., Ltd.",
   "license": null,
   "home_page": null,
-  "download_filename": "p_template_generator-1.0.13.tar.gz",
-  "download_time": "2025-09-22T08:28:59.338330",
+  "download_filename": "p_template_generator-1.0.14.tar.gz",
+  "download_time": "2025-09-22T10:23:19.403070",
   "package_url": "https://pypi.org/project/p-template-generator/"
 }
