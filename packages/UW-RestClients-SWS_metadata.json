@@ -1,0 +1,11 @@
+{
+  "name": "UW-RestClients-SWS",
+  "version": "2.4.17",
+  "summary": "A library for connecting to the SWS at the University of Washington",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-sws",
+  "download_filename": "uw_restclients_sws-2.4.17.tar.gz",
+  "download_time": "2025-09-22T21:53:58.156193",
+  "package_url": "https://pypi.org/project/UW-RestClients-SWS/"
+}

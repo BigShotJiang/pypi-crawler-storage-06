@@ -1,0 +1,11 @@
+{
+  "name": "pat2vec",
+  "version": "0.1.1",
+  "summary": "A comprehensive Python package for healthcare data engineering, designed to extract, transform, and feature engineer patient data from CogStack-based electronic health record (EHR) datalakes. It provides tools for cohort building, batch data processing, clinical note analysis, and creating machine learning-ready datasets.",
+  "author": "Samora Hunter",
+  "license": null,
+  "home_page": "https://github.com/SamoraHunter/pat2vec.git",
+  "download_filename": "pat2vec-0.1.1.tar.gz",
+  "download_time": "2025-09-22T21:54:22.120974",
+  "package_url": "https://pypi.org/project/pat2vec/"
+}
