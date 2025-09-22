@@ -1,0 +1,11 @@
+{
+  "name": "disdat",
+  "version": "1.1.4",
+  "summary": "Disdat: data versioning",
+  "author": "Ken Yocum",
+  "license": "Apache License, version 2.0",
+  "home_page": "https://github.com/kyocum/disdat",
+  "download_filename": "disdat-1.1.4.tar.gz",
+  "download_time": "2025-09-22T17:41:11.068774",
+  "package_url": "https://pypi.org/project/disdat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slack-message",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A flexible and easy-to-use library for creating and sending messages to Slack",
   "author": "Alex",
   "license": null,
   "home_page": null,
-  "download_filename": "slack_message-0.0.1-py3-none-any.whl",
-  "download_time": "2025-09-22T16:26:43.311841",
+  "download_filename": "slack_message-0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-22T17:41:23.955375",
   "package_url": "https://pypi.org/project/slack-message/"
 }

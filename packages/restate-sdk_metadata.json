@@ -1,11 +1,11 @@
 {
   "name": "restate-sdk",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "A Python SDK for Restate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "restate_sdk-0.10.1.tar.gz",
-  "download_time": "2025-09-22T11:18:50.169144",
+  "download_filename": "restate_sdk-0.10.2.tar.gz",
+  "download_time": "2025-09-22T17:40:51.565298",
   "package_url": "https://pypi.org/project/restate-sdk/"
 }

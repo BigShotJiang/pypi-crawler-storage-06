@@ -1,0 +1,11 @@
+{
+  "name": "redun",
+  "version": "0.32.0",
+  "summary": "Yet another redundant workflow engine.",
+  "author": "Matt Rasmussen",
+  "license": null,
+  "home_page": "https://github.com/insitro/redun/",
+  "download_filename": "redun-0.32.0.tar.gz",
+  "download_time": "2025-09-22T17:41:20.017593",
+  "package_url": "https://pypi.org/project/redun/"
+}

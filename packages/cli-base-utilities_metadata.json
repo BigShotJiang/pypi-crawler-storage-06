@@ -1,11 +1,11 @@
 {
   "name": "cli-base-utilities",
-  "version": "0.23.3",
+  "version": "0.24.0",
   "summary": "Helpers to bild a CLI program",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "cli_base_utilities-0.23.3.tar.gz",
-  "download_time": "2025-09-20T18:54:01.025040",
+  "download_filename": "cli_base_utilities-0.24.0.tar.gz",
+  "download_time": "2025-09-22T17:41:12.094032",
   "package_url": "https://pypi.org/project/cli-base-utilities/"
 }

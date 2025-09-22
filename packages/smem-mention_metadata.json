@@ -1,11 +1,11 @@
 {
   "name": "smem-mention",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Shared Memory for AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smem_mention-0.0.8.tar.gz",
-  "download_time": "2025-09-22T17:17:45.744350",
+  "download_filename": "smem_mention-0.0.9.tar.gz",
+  "download_time": "2025-09-22T17:41:25.115945",
   "package_url": "https://pypi.org/project/smem-mention/"
 }

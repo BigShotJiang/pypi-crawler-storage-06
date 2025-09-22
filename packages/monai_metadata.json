@@ -1,0 +1,11 @@
+{
+  "name": "monai",
+  "version": "1.5.1",
+  "summary": "AI Toolkit for Healthcare Imaging",
+  "author": "MONAI Consortium",
+  "license": "Apache License 2.0",
+  "home_page": "https://monai.io/",
+  "download_filename": "monai-1.5.1.tar.gz",
+  "download_time": "2025-09-22T17:40:46.092075",
+  "package_url": "https://pypi.org/project/monai/"
+}
