@@ -1,11 +1,11 @@
 {
   "name": "bowshockpy",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "summary": "A Python package for generating spectral channel maps of a jet-driven bowshock model",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bowshockpy-0.3.1.tar.gz",
-  "download_time": "2025-09-19T10:43:01.121431",
+  "download_filename": "bowshockpy-1.0.0.tar.gz",
+  "download_time": "2025-09-22T22:53:14.566706",
   "package_url": "https://pypi.org/project/bowshockpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fastlisaresponse",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "summary": "GPU-accelerated LISA Response Function",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastlisaresponse-1.1.6-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-09-19T20:40:00.478243",
+  "download_filename": "fastlisaresponse-1.1.8-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-22T22:53:10.266375",
   "package_url": "https://pypi.org/project/fastlisaresponse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "co-gym",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Framework and toolkits for building and evaluating collaborative agents that can work together with humans",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "co_gym-0.1.3.tar.gz",
-  "download_time": "2025-09-22T22:42:00.136595",
+  "download_filename": "co_gym-0.1.5-py3-none-any.whl",
+  "download_time": "2025-09-22T22:53:01.221186",
   "package_url": "https://pypi.org/project/co-gym/"
 }
