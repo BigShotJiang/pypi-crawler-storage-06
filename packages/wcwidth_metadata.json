@@ -1,0 +1,11 @@
+{
+  "name": "wcwidth",
+  "version": "0.2.14",
+  "summary": "Measures the displayed width of unicode strings in a terminal",
+  "author": "Jeff Quast",
+  "license": "MIT",
+  "home_page": "https://github.com/jquast/wcwidth",
+  "download_filename": "wcwidth-0.2.14.tar.gz",
+  "download_time": "2025-09-22T16:46:53.590272",
+  "package_url": "https://pypi.org/project/wcwidth/"
+}

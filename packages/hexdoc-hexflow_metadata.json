@@ -1,11 +1,11 @@
 {
   "name": "hexdoc-hexflow",
-  "version": "0.3.0.1.1.0",
+  "version": "0.3.0.1.1.0.1",
   "summary": "Python web book docgen and hexdoc plugin for HexFlow.",
   "author": "YukkuriC",
   "license": null,
   "home_page": null,
-  "download_filename": "hexdoc_hexflow-0.3.0.1.1.0.tar.gz",
-  "download_time": "2025-09-22T03:01:05.317100",
+  "download_filename": "hexdoc_hexflow-0.3.0.1.1.0.1.tar.gz",
+  "download_time": "2025-09-22T16:46:52.531788",
   "package_url": "https://pypi.org/project/hexdoc-hexflow/"
 }

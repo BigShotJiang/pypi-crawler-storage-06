@@ -1,11 +1,11 @@
 {
   "name": "crackers",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crackers-0.5.4.tar.gz",
-  "download_time": "2025-09-17T19:39:24.416349",
+  "download_filename": "crackers-0.6.0.tar.gz",
+  "download_time": "2025-09-22T16:46:56.299225",
   "package_url": "https://pypi.org/project/crackers/"
 }

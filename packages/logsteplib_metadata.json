@@ -1,11 +1,11 @@
 {
   "name": "logsteplib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Package containing a standard format for the logging module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logsteplib-0.0.3.tar.gz",
-  "download_time": "2025-09-22T16:27:03.552128",
+  "download_filename": "logsteplib-0.0.4.tar.gz",
+  "download_time": "2025-09-22T16:46:47.167638",
   "package_url": "https://pypi.org/project/logsteplib/"
 }

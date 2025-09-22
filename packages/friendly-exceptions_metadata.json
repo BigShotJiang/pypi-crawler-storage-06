@@ -1,0 +1,11 @@
+{
+  "name": "friendly-exceptions",
+  "version": "0.0.1",
+  "summary": "Human-readable exception explanations in Russian and English with smart suggestions",
+  "author": "artemjs",
+  "license": "MIT",
+  "home_page": "https://github.com/artemjs/Pythonlibs/tree/friendly_exceptions/friendly_exceptions%200.0.1",
+  "download_filename": "friendly_exceptions-0.0.1.tar.gz",
+  "download_time": "2025-09-22T16:47:00.043247",
+  "package_url": "https://pypi.org/project/friendly-exceptions/"
+}

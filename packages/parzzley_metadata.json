@@ -1,11 +1,11 @@
 {
   "name": "parzzley",
-  "version": "4.0.2994",
+  "version": "4.0.2995",
   "summary": "a modular Python-based file synchronization tool",
   "author": "Josef Hahn",
   "license": "AGPL 3",
   "home_page": "https://pseudopolis.eu/pino/parzzley",
-  "download_filename": "parzzley-4.0.2994-py3-none-any.whl",
-  "download_time": "2025-09-21T14:52:45.266021",
+  "download_filename": "parzzley-4.0.2995-py3-none-any.whl",
+  "download_time": "2025-09-22T16:46:50.360092",
   "package_url": "https://pypi.org/project/parzzley/"
 }
