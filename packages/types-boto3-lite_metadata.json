@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-lite",
-  "version": "1.40.35",
-  "summary": "Lite type annotations for boto3 1.40.35 generated with mypy-boto3-builder 8.11.0",
+  "version": "1.40.36",
+  "summary": "Lite type annotations for boto3 1.40.36 generated with mypy-boto3-builder 8.11.0",
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_boto3_lite-1.40.35.tar.gz",
-  "download_time": "2025-09-19T19:52:15.995082",
+  "download_filename": "types_boto3_lite-1.40.36.tar.gz",
+  "download_time": "2025-09-22T19:53:29.075291",
   "package_url": "https://pypi.org/project/types-boto3-lite/"
 }

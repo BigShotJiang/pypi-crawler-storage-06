@@ -1,11 +1,11 @@
 {
   "name": "ruamel.yaml.clib",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
   "author": "Anthon van der Neut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ruamel.yaml.clib-0.2.13.tar.gz",
-  "download_time": "2025-09-22T13:48:19.005529",
+  "download_filename": "ruamel.yaml.clib-0.2.14.tar.gz",
+  "download_time": "2025-09-22T19:53:14.683921",
   "package_url": "https://pypi.org/project/ruamel.yaml.clib/"
 }

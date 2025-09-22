@@ -1,0 +1,11 @@
+{
+  "name": "dft2kp",
+  "version": "1.2.0",
+  "summary": "Calculates kp model and coefficients from DFT ab initio data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dft2kp-1.2.0-py3-none-any.whl",
+  "download_time": "2025-09-22T19:53:15.800026",
+  "package_url": "https://pypi.org/project/dft2kp/"
+}
