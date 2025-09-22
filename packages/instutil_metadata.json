@@ -1,11 +1,11 @@
 {
   "name": "instutil",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "tools for data processing and tcp communications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "instutil-0.2.3.tar.gz",
-  "download_time": "2025-09-22T11:52:32.954948",
+  "download_filename": "instutil-0.2.4.tar.gz",
+  "download_time": "2025-09-22T13:48:10.309301",
   "package_url": "https://pypi.org/project/instutil/"
 }

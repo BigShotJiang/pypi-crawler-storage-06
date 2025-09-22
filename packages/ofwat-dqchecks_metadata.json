@@ -1,0 +1,11 @@
+{
+  "name": "ofwat-dqchecks",
+  "version": "0.0.82",
+  "summary": "Excel validations",
+  "author": "Ofwat",
+  "license": null,
+  "home_page": "https://github.com/Ofwat/dqchecks",
+  "download_filename": "ofwat_dqchecks-0.0.82.tar.gz",
+  "download_time": "2025-09-22T13:47:50.450216",
+  "package_url": "https://pypi.org/project/ofwat-dqchecks/"
+}

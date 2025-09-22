@@ -1,11 +1,11 @@
 {
   "name": "django-lookup-property",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Django model properties that are also lookup expressions.",
   "author": "Matti Lamppu",
   "license": "MIT",
   "home_page": "https://mrthearman.github.io/django-lookup-property",
-  "download_filename": "django_lookup_property-0.2.1.tar.gz",
-  "download_time": "2025-09-22T13:20:27.165919",
+  "download_filename": "django_lookup_property-0.2.2.tar.gz",
+  "download_time": "2025-09-22T13:48:28.113498",
   "package_url": "https://pypi.org/project/django-lookup-property/"
 }

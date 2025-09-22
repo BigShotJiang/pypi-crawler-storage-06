@@ -1,0 +1,11 @@
+{
+  "name": "glassalpha",
+  "version": "0.1.0",
+  "summary": "GlassAlpha interpretability tool",
+  "author": "Gabe Mays",
+  "license": null,
+  "home_page": null,
+  "download_filename": "glassalpha-0.1.0.tar.gz",
+  "download_time": "2025-09-22T13:47:49.875752",
+  "package_url": "https://pypi.org/project/glassalpha/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "odp-sdk",
-  "version": "0.27.75",
+  "version": "0.27.76",
   "summary": "ODP Python SDK",
   "author": "Thomas Li Fredriksen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "odp_sdk-0.27.75.tar.gz",
-  "download_time": "2025-09-19T13:55:16.920040",
+  "download_filename": "odp_sdk-0.27.76.tar.gz",
+  "download_time": "2025-09-22T13:48:00.471765",
   "package_url": "https://pypi.org/project/odp-sdk/"
 }

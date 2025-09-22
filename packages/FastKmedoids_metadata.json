@@ -1,0 +1,11 @@
+{
+  "name": "FastKmedoids",
+  "version": "0.0.48",
+  "summary": "For more information, check out the official documentation of `FastKmedoids` at: https://fabioscielzoortiz.github.io/FastKmedoids-book/intro.html",
+  "author": "Fabio Scielzo Ortiz",
+  "license": null,
+  "home_page": "https://github.com/FabioScielzoOrtiz/FastKmedoids-package",
+  "download_filename": "fastkmedoids-0.0.48.tar.gz",
+  "download_time": "2025-09-22T13:48:21.302655",
+  "package_url": "https://pypi.org/project/FastKmedoids/"
+}
