@@ -1,11 +1,11 @@
 {
   "name": "pycircuitkit",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "PyCircuitKit (CAT): Modern, strongly-typed Python toolkit for SPICE circuit definition, simulation and analysis.",
   "author": "Luiz Carlos Gili",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycircuitkit-0.1.0.tar.gz",
-  "download_time": "2025-09-22T23:19:55.545881",
+  "download_filename": "pycircuitkit-0.2.2.tar.gz",
+  "download_time": "2025-09-22T23:39:12.733525",
   "package_url": "https://pypi.org/project/pycircuitkit/"
 }

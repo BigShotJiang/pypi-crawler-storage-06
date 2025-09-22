@@ -1,11 +1,11 @@
 {
   "name": "graphs-AustynGriegoMSU",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python library that implements Dijkstra's shortest path algorithm. ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphs_austyngriegomsu-0.0.2.tar.gz",
-  "download_time": "2025-09-22T22:42:20.544283",
+  "download_filename": "graphs_austyngriegomsu-0.0.3.tar.gz",
+  "download_time": "2025-09-22T23:39:11.162915",
   "package_url": "https://pypi.org/project/graphs-AustynGriegoMSU/"
 }
