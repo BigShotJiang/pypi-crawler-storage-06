@@ -1,0 +1,11 @@
+{
+  "name": "neucodec",
+  "version": "0.0.4",
+  "summary": "A package for NeuCodec, based on xcodec2.",
+  "author": "Neuphonic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neucodec-0.0.4.tar.gz",
+  "download_time": "2025-09-22T15:22:14.086486",
+  "package_url": "https://pypi.org/project/neucodec/"
+}

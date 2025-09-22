@@ -1,0 +1,11 @@
+{
+  "name": "edustudio",
+  "version": "1.1.6",
+  "summary": "a Unified and Templatized Framework for Student Assessment Models",
+  "author": "HFUT-LEC",
+  "license": null,
+  "home_page": "https://github.com/HFUT-LEC/EduStudio",
+  "download_filename": "edustudio-1.1.6.tar.gz",
+  "download_time": "2025-09-22T15:22:11.527492",
+  "package_url": "https://pypi.org/project/edustudio/"
+}

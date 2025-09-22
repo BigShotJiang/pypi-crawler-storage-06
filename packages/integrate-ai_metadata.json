@@ -1,0 +1,11 @@
+{
+  "name": "integrate-ai",
+  "version": "9.22.5",
+  "summary": "integrate.ai",
+  "author": "integrate.ai",
+  "license": "Copyright (C) 2022 integrate.ai, Inc. All rights reserved.",
+  "home_page": null,
+  "download_filename": "integrate_ai-9.22.5.tar.gz",
+  "download_time": "2025-09-22T15:22:25.487873",
+  "package_url": "https://pypi.org/project/integrate-ai/"
+}

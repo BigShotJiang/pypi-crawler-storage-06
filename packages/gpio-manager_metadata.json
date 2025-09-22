@@ -1,0 +1,11 @@
+{
+  "name": "gpio-manager",
+  "version": "3.2.1",
+  "summary": "Rust bindings for the rppal crate to manage GPIO pins on a Raspberry Pi.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpio_manager-3.2.1-cp310-cp310-manylinux_2_31_aarch64.whl",
+  "download_time": "2025-09-22T15:22:04.283960",
+  "package_url": "https://pypi.org/project/gpio-manager/"
+}

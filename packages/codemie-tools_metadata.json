@@ -1,11 +1,11 @@
 {
   "name": "codemie-tools",
-  "version": "0.0.403",
+  "version": "0.0.404",
   "summary": "Package with CodeMie tools for AI Agents",
   "author": "CodeMie Team",
   "license": null,
   "home_page": null,
-  "download_filename": "codemie_tools-0.0.403.tar.gz",
-  "download_time": "2025-09-22T12:41:39.971151",
+  "download_filename": "codemie_tools-0.0.404.tar.gz",
+  "download_time": "2025-09-22T15:22:24.461637",
   "package_url": "https://pypi.org/project/codemie-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "diffractsim",
+  "version": "2.2.13",
+  "summary": "A flexible diffraction simulator for exploring and visualizing physical optics",
+  "author": "Rafael de la Fuente",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/rafael-fuente/Diffraction-Simulations--Angular-Spectrum-Method",
+  "download_filename": "diffractsim-2.2.13.tar.gz",
+  "download_time": "2025-09-22T15:22:40.454401",
+  "package_url": "https://pypi.org/project/diffractsim/"
+}

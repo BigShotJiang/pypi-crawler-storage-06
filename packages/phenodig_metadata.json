@@ -1,11 +1,11 @@
 {
   "name": "phenodig",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": null,
   "author": "Gioele Lazzari",
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "phenodig-0.3.8.tar.gz",
-  "download_time": "2025-09-22T14:57:08.095459",
+  "download_filename": "phenodig-0.3.9.tar.gz",
+  "download_time": "2025-09-22T15:22:00.130318",
   "package_url": "https://pypi.org/project/phenodig/"
 }
