@@ -1,13 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T16:57:27.843645
-- **Total Packages**: 83
-- **Total Size**: 35.36 MB
+- **Download Time**: 2025-09-22T17:18:09.673165
+- **Total Packages**: 85
+- **Total Size**: 35.79 MB
 
 ## Packages List
-- bfg-schemautil
+- rda-python-miscs
+- scythe-ttp
+- deepbridge
+- reyworm
+- reyweb
+- winterrb
+- ncut-pytorch
+- reydb
+- hexdoc-hexflow
+- bedboss
+- foundationallm-agent-plugins
+- bitwarden_workflow_linter
+- odoo-addon-pos-partner-sale-warning
+- llm-venice
+- prime
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- computer-control-mcp
+- booklab
+- tobiko-cloud-helpers
+- extremal-python-dependencies
+- backboard-sdk
+- gadapt
+- mcp-for-code-quality-security
+- authentik-client
+- moose-lib
+- qitesse
+- coralsnake
+- invenio-checks
+- toki
+- removemd
+- rafay-workflow-sdk
+- pyqrackising
+- aind-metadata-mcp
 - ksrpc
+- fsai-proto-specs
+- getBISy
+- netintel-ocr
+- cattle_grid
+- odoo-addon-l10n-br-mdfe
+- odoo-addon-l10n-br-delivery
+- odoo-addon-l10n-br-cnab-structure
+- smem-mention
+- odoo-addon-l10n-br-fiscal
+- sv2svg
+- aiohttp-client-cache
+- hexdoc
+- nci-cidc-cli
+- django-browser-reload
+- typer-group-prefix
+- mcmod-cli
+- gwcelery
+- pych-client
+- maptasker
+- sagemaker-training
+- ptkibana
+- QuasarCode
+- devsecops-engine-tools
+- cvvdp
+- d-back
+- bfg-schemautil
 - pyspector
 - invenio-requests
 - datacommons-mcp
@@ -16,11 +75,9 @@
 - obx
 - assisted-service-client
 - bigwig-io
-- computer-control-mcp
 - PVNet
 - rlbot-flatbuffers
 - snappi-ixnetwork
-- authentik-client
 - terra-scientific-pipelines-service-api-client
 - pyrudof
 - roman-snpit-snappl
@@ -34,58 +91,3 @@
 - google-cloud-compute-v1beta
 - google-cloud-compute
 - google-cloud-cloudsecuritycompliance
-- SHARPlib
-- google-cloud-batch
-- google-cloud-apihub
-- deepbridge
-- reywechat
-- reykit
-- reydb
-- hepai
-- pya5
-- togetfun
-- pulumi-policy
-- neutronapi
-- invenio-communities
-- palettize
-- smem-mention
-- carbonic
-- airbyte-source-pinterest
-- inspect-swe
-- pycopanlpjml
-- typer-group-prefix
-- sqlalchemy-fake-model
-- res-wind-up
-- appium-python-client-shadowstep
-- kapso
-- gmadmin
-- deepview-converter-rtm
-- crc-pulp-service-client
-- crc-pulp-file-client
-- libxr
-- toolbox-llamaindex
-- toolbox-langchain
-- crc-pulp-maven-client
-- toolbox-core
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- crc-pulp-python-client
-- crc-pulpcore-client
-- alglab
-- earthkit-workflows-anemoi
-- arel
-- testcato
-- mapdemo
-- odoo-addon-account-financial-risk
-- ai-model-sentinel
-- langgraph-api
-- aind-dynamic-foraging-basic-analysis
-- inngest
-- abstract-webtools
-- nci-cidc-schemas
-- kattis-tracker-py
-- dioptra-iris-client
-- protai
-- picteus-extension-sdk
-- bioblueprint

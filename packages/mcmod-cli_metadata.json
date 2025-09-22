@@ -1,0 +1,11 @@
+{
+  "name": "mcmod-cli",
+  "version": "1.2.1",
+  "summary": "A CLI tool for generating Minecraft Mod project structure and managing MODSDK development.",
+  "author": "CreatorMC",
+  "license": null,
+  "home_page": "https://github.com/CreatorMC/MODSDKSping",
+  "download_filename": "mcmod-cli-1.2.1.tar.gz",
+  "download_time": "2025-09-22T17:17:49.920593",
+  "package_url": "https://pypi.org/project/mcmod-cli/"
+}

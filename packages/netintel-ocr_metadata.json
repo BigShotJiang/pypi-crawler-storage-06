@@ -1,11 +1,11 @@
 {
   "name": "netintel-ocr",
-  "version": "0.1.17.2",
-  "summary": "Enterprise OCR Platform with Modular Installation - Network & Process Intelligence",
+  "version": "0.1.18.0",
+  "summary": "Enterprise Document Intelligence Platform with Advanced API v2, MCP, and Vector Search",
   "author": "VisionML",
   "license": null,
   "home_page": "https://github.com/VisionMLNet/NetIntelOCR",
-  "download_filename": "netintel_ocr-0.1.17.2-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2025-09-22T03:43:19.145664",
+  "download_filename": "netintel_ocr-0.1.18.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-09-22T17:17:43.021527",
   "package_url": "https://pypi.org/project/netintel-ocr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-browser-reload",
-  "version": "1.20.0",
-  "summary": "Automatically reload your browser in development.",
+  "version": "1.21.0",
+  "summary": "Automatically refresh your browser on changes to Python code, templates, or static files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_browser_reload-1.20.0.tar.gz",
-  "download_time": "2025-09-18T10:41:58.145535",
+  "download_filename": "django_browser_reload-1.21.0.tar.gz",
+  "download_time": "2025-09-22T17:17:48.873888",
   "package_url": "https://pypi.org/project/django-browser-reload/"
 }

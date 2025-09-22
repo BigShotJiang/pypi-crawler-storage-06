@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-partner-sale-warning",
+  "version": "17.0.1.0.0.2",
+  "summary": "Show partner sales warning in POS",
+  "author": "Cetmix, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_partner_sale_warning-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-09-22T17:17:29.843288",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-partner-sale-warning/"
+}

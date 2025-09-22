@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-client-cache",
+  "version": "0.14.0",
+  "summary": "Persistent cache for aiohttp requests",
+  "author": "Jordan Cook",
+  "license": "MIT",
+  "home_page": "https://github.com/requests-cache/aiohttp-client-cache",
+  "download_filename": "aiohttp_client_cache-0.14.0.tar.gz",
+  "download_time": "2025-09-22T17:17:47.314136",
+  "package_url": "https://pypi.org/project/aiohttp-client-cache/"
+}
