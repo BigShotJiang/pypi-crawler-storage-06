@@ -1,0 +1,11 @@
+{
+  "name": "guiml",
+  "version": "0.2.0",
+  "summary": "An xml based GUI framework with property binding and dependency injection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "guiml-0.2.0.tar.gz",
+  "download_time": "2025-09-22T11:39:52.801320",
+  "package_url": "https://pypi.org/project/guiml/"
+}

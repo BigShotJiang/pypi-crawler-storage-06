@@ -1,11 +1,11 @@
 {
   "name": "rana-process-sdk",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "The Software Development Kit for creating Rana processes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rana_process_sdk-0.3.tar.gz",
-  "download_time": "2025-09-18T10:42:29.154098",
+  "download_filename": "rana_process_sdk-0.4.tar.gz",
+  "download_time": "2025-09-22T11:39:51.586181",
   "package_url": "https://pypi.org/project/rana-process-sdk/"
 }

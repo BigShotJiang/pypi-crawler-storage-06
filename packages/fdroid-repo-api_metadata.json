@@ -1,0 +1,11 @@
+{
+  "name": "fdroid-repo-api",
+  "version": "0.1",
+  "summary": "lib for querying F-Droid repositories",
+  "author": "Michael Pöhn",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://codeberg.org/uniqx/fdroid-repo-api",
+  "download_filename": "fdroid_repo_api-0.1.tar.gz",
+  "download_time": "2025-09-22T11:40:07.161865",
+  "package_url": "https://pypi.org/project/fdroid-repo-api/"
+}

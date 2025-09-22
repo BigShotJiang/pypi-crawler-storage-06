@@ -1,11 +1,11 @@
 {
   "name": "gooddata-flight-server",
-  "version": "1.50.0",
+  "version": "1.51.0",
   "summary": "Flight RPC server to host custom functions",
   "author": "GoodData",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gooddata_flight_server-1.50.0.tar.gz",
-  "download_time": "2025-09-19T07:20:05.365247",
+  "download_filename": "gooddata_flight_server-1.51.0.tar.gz",
+  "download_time": "2025-09-22T11:40:21.479036",
   "package_url": "https://pypi.org/project/gooddata-flight-server/"
 }

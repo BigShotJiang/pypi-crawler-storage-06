@@ -1,11 +1,11 @@
 {
   "name": "gooddata-pipelines",
-  "version": "1.50.0",
+  "version": "1.51.0",
   "summary": "GoodData Cloud lifecycle automation pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gooddata_pipelines-1.50.0.tar.gz",
-  "download_time": "2025-09-19T07:20:06.652876",
+  "download_filename": "gooddata_pipelines-1.51.0.tar.gz",
+  "download_time": "2025-09-22T11:40:20.319815",
   "package_url": "https://pypi.org/project/gooddata-pipelines/"
 }
