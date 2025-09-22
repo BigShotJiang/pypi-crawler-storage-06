@@ -1,0 +1,11 @@
+{
+  "name": "django-markdown-html-field",
+  "version": "0.1.3",
+  "summary": "Django Markdown Field",
+  "author": "Evgenii Legotckoi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_markdown_html_field-0.1.3.tar.gz",
+  "download_time": "2025-09-22T21:38:19.573006",
+  "package_url": "https://pypi.org/project/django-markdown-html-field/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "base-loom-server",
-  "version": "0.29",
+  "version": "0.30",
   "summary": "Base package for web servers that control dobby multi-shaft looms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "base_loom_server-0.29.tar.gz",
-  "download_time": "2025-09-22T01:39:31.914320",
+  "download_filename": "base_loom_server-0.30.tar.gz",
+  "download_time": "2025-09-22T21:38:16.953679",
   "package_url": "https://pypi.org/project/base-loom-server/"
 }

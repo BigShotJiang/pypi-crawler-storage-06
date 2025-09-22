@@ -1,11 +1,11 @@
 {
   "name": "ursa-ai",
-  "version": "0.2.13",
+  "version": "0.3.0",
   "summary": "Agents for science at LANL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ursa_ai-0.2.13.tar.gz",
-  "download_time": "2025-09-19T16:45:48.509906",
+  "download_filename": "ursa_ai-0.3.0.tar.gz",
+  "download_time": "2025-09-22T21:38:21.677025",
   "package_url": "https://pypi.org/project/ursa-ai/"
 }

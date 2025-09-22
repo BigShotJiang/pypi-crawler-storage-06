@@ -1,0 +1,11 @@
+{
+  "name": "collaborative-gym",
+  "version": "0.1.1",
+  "summary": "Framework and toolkits for building and evaluating collaborative agents that can work together with humans",
+  "author": "SALT NLP Lab",
+  "license": "MIT",
+  "home_page": "https://github.com/SALT-NLP/collaborative-gym",
+  "download_filename": "collaborative_gym-0.1.1.tar.gz",
+  "download_time": "2025-09-22T21:38:23.162222",
+  "package_url": "https://pypi.org/project/collaborative-gym/"
+}

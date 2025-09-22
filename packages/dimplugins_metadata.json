@@ -1,0 +1,11 @@
+{
+  "name": "dimplugins",
+  "version": "2.3.4",
+  "summary": "Decentralized Instant Messaging (Python Plugins)",
+  "author": "Albert Moky",
+  "license": "MIT",
+  "home_page": "https://github.com/dimchat/sdk-py",
+  "download_filename": "dimplugins-2.3.4.tar.gz",
+  "download_time": "2025-09-22T21:38:32.826656",
+  "package_url": "https://pypi.org/project/dimplugins/"
+}

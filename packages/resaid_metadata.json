@@ -1,11 +1,11 @@
 {
   "name": "resaid",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Comprehensive reservoir engineering tools for decline curve analysis and production forecasting",
   "author": "Greg Easley",
   "license": "MIT",
   "home_page": "https://github.com/gregeasley/resaid",
-  "download_filename": "resaid-0.2.3.tar.gz",
-  "download_time": "2025-09-22T21:18:13.319554",
+  "download_filename": "resaid-0.2.4.tar.gz",
+  "download_time": "2025-09-22T21:38:07.265331",
   "package_url": "https://pypi.org/project/resaid/"
 }

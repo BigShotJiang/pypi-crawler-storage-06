@@ -1,11 +1,11 @@
 {
   "name": "bielik",
-  "version": "0.1.7",
+  "version": "0.1.25",
   "summary": "Bielik — local chat client (CLI + web) with HuggingFace Integration",
   "author": "Tom Sapletta",
   "license": null,
   "home_page": null,
-  "download_filename": "bielik-0.1.7.tar.gz",
-  "download_time": "2025-09-21T14:17:04.293542",
+  "download_filename": "bielik-0.1.25.tar.gz",
+  "download_time": "2025-09-22T21:38:11.622931",
   "package_url": "https://pypi.org/project/bielik/"
 }
