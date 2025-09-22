@@ -1,11 +1,11 @@
 {
   "name": "model-checker",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A hyperintensional theorem prover for developing and and exploring programmatic semantic theories.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "model_checker-1.2.2.tar.gz",
-  "download_time": "2025-09-22T19:53:24.261391",
+  "download_filename": "model_checker-1.2.3.tar.gz",
+  "download_time": "2025-09-22T22:19:34.586162",
   "package_url": "https://pypi.org/project/model-checker/"
 }
