@@ -1,11 +1,11 @@
 {
   "name": "claude-cache",
-  "version": "0.6.0",
-  "summary": "Claude Cache - Intelligent memory system for AI coding with MCP integration, hybrid vector search, and proactive pattern suggestions",
+  "version": "0.6.2",
+  "summary": "Your AI coding assistant now has perfect memory - Never solve the same problem twice with intelligent pattern learning and instant semantic search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_cache-0.6.0.tar.gz",
-  "download_time": "2025-09-22T03:58:49.464715",
+  "download_filename": "claude_cache-0.6.2.tar.gz",
+  "download_time": "2025-09-22T05:42:10.935757",
   "package_url": "https://pypi.org/project/claude-cache/"
 }

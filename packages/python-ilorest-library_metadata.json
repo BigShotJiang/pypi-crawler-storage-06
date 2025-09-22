@@ -1,0 +1,11 @@
+{
+  "name": "python-ilorest-library",
+  "version": "6.3.0.0",
+  "summary": "iLO Rest Python Library",
+  "author": "Hewlett Packard Enterprise",
+  "license": null,
+  "home_page": "https://github.com/HewlettPackard/python-ilorest-library",
+  "download_filename": "python_ilorest_library-6.3.0.0-py3-none-any.whl",
+  "download_time": "2025-09-22T05:42:08.833278",
+  "package_url": "https://pypi.org/project/python-ilorest-library/"
+}

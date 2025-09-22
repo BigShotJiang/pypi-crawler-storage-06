@@ -1,0 +1,11 @@
+{
+  "name": "multimodal-agent-framework",
+  "version": "0.1.7",
+  "summary": "A multi-modal agent framework with unified interfaces for different AI model providers",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/multimodal-agent-framework",
+  "download_filename": "multimodal_agent_framework-0.1.7.tar.gz",
+  "download_time": "2025-09-22T05:42:13.023653",
+  "package_url": "https://pypi.org/project/multimodal-agent-framework/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emerald-hws",
+  "version": "0.0.15",
+  "summary": "A package to manipulate and monitor Emerald Heat Pump Hot Water Systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emerald_hws-0.0.15.tar.gz",
+  "download_time": "2025-09-22T05:42:15.619011",
+  "package_url": "https://pypi.org/project/emerald-hws/"
+}

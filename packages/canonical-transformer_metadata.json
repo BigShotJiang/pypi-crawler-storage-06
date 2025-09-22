@@ -1,0 +1,11 @@
+{
+  "name": "canonical-transformer",
+  "version": "1.0.8",
+  "summary": "A Python module for preserving structural isomorphisms across data transformations, ensuring reversible and type-stable conversions between formats like DataFrame, JSON, and dict.",
+  "author": "June Young Park",
+  "license": null,
+  "home_page": "https://github.com/nailen1/canonical_transformer.git",
+  "download_filename": "canonical_transformer-1.0.8.tar.gz",
+  "download_time": "2025-09-22T05:42:06.752231",
+  "package_url": "https://pypi.org/project/canonical-transformer/"
+}

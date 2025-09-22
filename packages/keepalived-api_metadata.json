@@ -1,0 +1,11 @@
+{
+  "name": "keepalived-api",
+  "version": "0.2.1",
+  "summary": null,
+  "author": "Nils Weyand",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Slinred/keepalived-config",
+  "download_filename": "keepalived_api-0.2.1.tar.gz",
+  "download_time": "2025-09-22T05:41:59.697995",
+  "package_url": "https://pypi.org/project/keepalived-api/"
+}
