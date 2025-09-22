@@ -1,0 +1,11 @@
+{
+  "name": "langchain-valyu",
+  "version": "0.3.4",
+  "summary": "An integration package connecting Valyu and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain",
+  "download_filename": "langchain_valyu-0.3.4.tar.gz",
+  "download_time": "2025-09-22T03:43:15.951969",
+  "package_url": "https://pypi.org/project/langchain-valyu/"
+}

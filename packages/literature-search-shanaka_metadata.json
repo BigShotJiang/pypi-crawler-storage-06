@@ -1,0 +1,11 @@
+{
+  "name": "literature-search-shanaka",
+  "version": "0.0.1",
+  "summary": "This package search for literature on multiple databases and allow uses to filter them using PRISMA method",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "literature_search_shanaka-0.0.1.tar.gz",
+  "download_time": "2025-09-22T03:43:37.062117",
+  "package_url": "https://pypi.org/project/literature-search-shanaka/"
+}

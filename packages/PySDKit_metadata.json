@@ -1,0 +1,11 @@
+{
+  "name": "PySDKit",
+  "version": "0.4.22",
+  "summary": "A Python library for signal decomposition algorithms with a unified interface.",
+  "author": "whenxuan, changewam, josefinez, Yuan Feng",
+  "license": null,
+  "home_page": "https://github.com/wwhenxuan/PySDKit",
+  "download_filename": "pysdkit-0.4.22.tar.gz",
+  "download_time": "2025-09-22T03:43:34.982818",
+  "package_url": "https://pypi.org/project/PySDKit/"
+}

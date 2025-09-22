@@ -1,0 +1,11 @@
+{
+  "name": "stormi",
+  "version": "0.7.0",
+  "summary": "Probabilistic modeling of cellular dynamics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stormi-0.7.0.tar.gz",
+  "download_time": "2025-09-22T03:43:21.793688",
+  "package_url": "https://pypi.org/project/stormi/"
+}

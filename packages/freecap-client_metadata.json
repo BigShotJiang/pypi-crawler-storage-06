@@ -1,0 +1,11 @@
+{
+  "name": "freecap-client",
+  "version": "1.0.2",
+  "summary": "A robust, production-ready async client for the FreeCap captcha solving service",
+  "author": "FreeCap Client",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/freecap-su/Wrappers",
+  "download_filename": "freecap_client-1.0.2.tar.gz",
+  "download_time": "2025-09-22T03:43:29.705781",
+  "package_url": "https://pypi.org/project/freecap-client/"
+}

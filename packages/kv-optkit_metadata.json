@@ -1,0 +1,11 @@
+{
+  "name": "kv-optkit",
+  "version": "0.5.3",
+  "summary": "Optimization layer for LLM inference with KV-cache management",
+  "author": "KV-OptKit Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kv_optkit-0.5.3.tar.gz",
+  "download_time": "2025-09-22T03:43:36.542537",
+  "package_url": "https://pypi.org/project/kv-optkit/"
+}

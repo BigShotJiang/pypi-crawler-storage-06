@@ -1,0 +1,11 @@
+{
+  "name": "tgqSim",
+  "version": "1.6.4",
+  "summary": "TGQ量子模拟器",
+  "author": "tiangongqs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tgqSim-1.6.4.tar.gz",
+  "download_time": "2025-09-22T03:43:32.362807",
+  "package_url": "https://pypi.org/project/tgqSim/"
+}
