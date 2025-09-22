@@ -1,0 +1,11 @@
+{
+  "name": "climg-tools",
+  "version": "0.0.1",
+  "summary": "A personal python package for image processing",
+  "author": "Luiz Carlos Dev",
+  "license": null,
+  "home_page": "https://github.com/milhodroid/climg-tools",
+  "download_filename": "climg_tools-0.0.1.tar.gz",
+  "download_time": "2025-09-22T03:01:00.596719",
+  "package_url": "https://pypi.org/project/climg-tools/"
+}

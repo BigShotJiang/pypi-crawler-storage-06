@@ -1,11 +1,11 @@
 {
   "name": "pyloid-server-adapter",
-  "version": "0.1.6",
+  "version": "0.2.2",
   "summary": "PyLoid Server Adapter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyloid_server_adapter-0.1.6.tar.gz",
-  "download_time": "2025-09-22T01:39:19.998498",
+  "download_filename": "pyloid_server_adapter-0.2.2.tar.gz",
+  "download_time": "2025-09-22T03:01:13.085144",
   "package_url": "https://pypi.org/project/pyloid-server-adapter/"
 }

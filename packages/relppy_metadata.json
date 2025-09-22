@@ -1,0 +1,11 @@
+{
+  "name": "relppy",
+  "version": "0.4",
+  "summary": "RELP protocol server",
+  "author": "Watanabe Takashi",
+  "license": "MIT",
+  "home_page": "https://github.com/wtnb75/relppy",
+  "download_filename": "relppy-0.4-py3-none-any.whl",
+  "download_time": "2025-09-22T03:01:27.177800",
+  "package_url": "https://pypi.org/project/relppy/"
+}

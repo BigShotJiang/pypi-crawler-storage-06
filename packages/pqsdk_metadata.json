@@ -1,11 +1,11 @@
 {
   "name": "pqsdk",
-  "version": "0.0.86",
+  "version": "0.0.87",
   "summary": "SDK for stock analysis and strategy backtest.",
   "author": "PinkQuant",
   "license": null,
   "home_page": "https://www.pinkquant.com",
-  "download_filename": "pqsdk-0.0.86.tar.gz",
-  "download_time": "2025-09-18T04:23:25.167492",
+  "download_filename": "pqsdk-0.0.87.tar.gz",
+  "download_time": "2025-09-22T03:00:58.973408",
   "package_url": "https://pypi.org/project/pqsdk/"
 }
