@@ -1,0 +1,11 @@
+{
+  "name": "lander",
+  "version": "1.1.0",
+  "summary": "HTML landing page generator for LSST PDF documentation deployed from Git to LSST the Docs.",
+  "author": "Association of Universities for Research in Astronomy, Inc. (AURA)",
+  "license": null,
+  "home_page": "https://github.com/lsst-sqre/lander",
+  "download_filename": "lander-1.1.0.tar.gz",
+  "download_time": "2025-09-22T19:40:08.825732",
+  "package_url": "https://pypi.org/project/lander/"
+}

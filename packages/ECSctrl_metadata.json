@@ -1,0 +1,11 @@
+{
+  "name": "ECSctrl",
+  "version": "0.5.0",
+  "summary": "ECSctrl - utility to deploy ECS services for humans",
+  "author": "Wiktor Latanowicz",
+  "license": "MIT",
+  "home_page": "http://github.com/wlatanowicz/ecsctrl",
+  "download_filename": "ecsctrl-0.5.0.tar.gz",
+  "download_time": "2025-09-22T19:40:07.795234",
+  "package_url": "https://pypi.org/project/ECSctrl/"
+}

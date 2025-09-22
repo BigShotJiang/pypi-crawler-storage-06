@@ -1,0 +1,11 @@
+{
+  "name": "clgenomics",
+  "version": "0.1.0",
+  "summary": "Continual learning for genomics AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clgenomics-0.1.0.tar.gz",
+  "download_time": "2025-09-22T19:39:55.264555",
+  "package_url": "https://pypi.org/project/clgenomics/"
+}
