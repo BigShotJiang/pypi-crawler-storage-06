@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-gs",
+  "version": "3.0.1464",
+  "summary": "Tencent Cloud Gs SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-gs-3.0.1464.tar.gz",
+  "download_time": "2025-09-22T21:18:35.497158",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-gs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "abstra",
-  "version": "3.23.9",
+  "version": "3.23.10",
   "summary": "Abstra Lib",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/abstra-app/abstra-lib",
-  "download_filename": "abstra-3.23.9.tar.gz",
-  "download_time": "2025-09-19T18:48:05.701844",
+  "download_filename": "abstra-3.23.10.tar.gz",
+  "download_time": "2025-09-22T21:18:27.598212",
   "package_url": "https://pypi.org/project/abstra/"
 }

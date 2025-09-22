@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-redis",
-  "version": "3.0.1463",
+  "version": "3.0.1464",
   "summary": "Tencent Cloud Redis SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-redis-3.0.1463.tar.gz",
-  "download_time": "2025-09-18T21:18:37.325545",
+  "download_filename": "tencentcloud-sdk-python-redis-3.0.1464.tar.gz",
+  "download_time": "2025-09-22T21:18:32.742735",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-redis/"
 }

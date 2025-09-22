@@ -1,0 +1,11 @@
+{
+  "name": "tmdbapis",
+  "version": "1.2.30",
+  "summary": "A lightweight Python library for The V3 and V4 TMDb APIs.",
+  "author": "Nathan Taggart",
+  "license": "MIT License",
+  "home_page": "https://github.com/Kometa-Team/TMDbAPIs",
+  "download_filename": "tmdbapis-1.2.30.tar.gz",
+  "download_time": "2025-09-22T21:18:21.430365",
+  "package_url": "https://pypi.org/project/tmdbapis/"
+}

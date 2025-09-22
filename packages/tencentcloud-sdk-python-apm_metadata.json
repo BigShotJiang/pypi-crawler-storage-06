@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-apm",
+  "version": "3.0.1464",
+  "summary": "Tencent Cloud Apm SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-apm-3.0.1464.tar.gz",
+  "download_time": "2025-09-22T21:18:40.047047",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-apm/"
+}

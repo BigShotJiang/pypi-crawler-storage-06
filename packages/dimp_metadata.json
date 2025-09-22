@@ -1,0 +1,11 @@
+{
+  "name": "dimp",
+  "version": "2.3.4",
+  "summary": "Decentralized Instant Messaging Protocol",
+  "author": "Albert Moky",
+  "license": "MIT",
+  "home_page": "https://github.com/dimchat/core-py",
+  "download_filename": "dimp-2.3.4.tar.gz",
+  "download_time": "2025-09-22T21:18:19.225707",
+  "package_url": "https://pypi.org/project/dimp/"
+}

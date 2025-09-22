@@ -1,0 +1,11 @@
+{
+  "name": "gearyov-drf-error-formatter",
+  "version": "0.1.2",
+  "summary": "Custom DRF exception handler that formats all exceptions into a consistent JSON payload",
+  "author": "Vladyslav Shesternyov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gearyov_drf_error_formatter-0.1.2.tar.gz",
+  "download_time": "2025-09-22T21:18:13.856952",
+  "package_url": "https://pypi.org/project/gearyov-drf-error-formatter/"
+}

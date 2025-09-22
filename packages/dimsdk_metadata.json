@@ -1,0 +1,11 @@
+{
+  "name": "dimsdk",
+  "version": "2.3.4",
+  "summary": "Decentralized Instant Messaging SDK",
+  "author": "Albert Moky",
+  "license": "MIT",
+  "home_page": "https://github.com/dimchat/sdk-py",
+  "download_filename": "dimsdk-2.3.4.tar.gz",
+  "download_time": "2025-09-22T21:18:04.930546",
+  "package_url": "https://pypi.org/project/dimsdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isotropic",
+  "version": "0.3.0",
+  "summary": "Analysis of isotropic errors in QC algorithms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isotropic-0.3.0.tar.gz",
+  "download_time": "2025-09-22T21:18:07.135350",
+  "package_url": "https://pypi.org/project/isotropic/"
+}
