@@ -1,0 +1,11 @@
+{
+  "name": "mcp-qpython",
+  "version": "1.9.0.1",
+  "summary": "Model Context Protocol SDK",
+  "author": null,
+  "license": "MIT AND (Apache-2.0 OR BSD-2-Clause)",
+  "home_page": null,
+  "download_filename": "mcp_qpython-1.9.0.1.tar.gz",
+  "download_time": "2025-09-22T06:31:57.114848",
+  "package_url": "https://pypi.org/project/mcp-qpython/"
+}

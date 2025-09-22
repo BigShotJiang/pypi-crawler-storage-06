@@ -1,0 +1,11 @@
+{
+  "name": "pytestifyx",
+  "version": "0.9.0",
+  "summary": "pytestifyx is a pytest-based automation testing framework for api, ui, app testing",
+  "author": "luyh",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/jaylu2018/PyTestifyx",
+  "download_filename": "pytestifyx-0.9.0-py2.py3-none-any.whl",
+  "download_time": "2025-09-22T06:32:31.014867",
+  "package_url": "https://pypi.org/project/pytestifyx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "woofipro-api",
-  "version": "0.0.86",
+  "version": "0.0.87",
   "summary": "woofipro crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "woofipro_api-0.0.86.tar.gz",
-  "download_time": "2025-09-17T17:39:12.345402",
+  "download_filename": "woofipro_api-0.0.87.tar.gz",
+  "download_time": "2025-09-22T06:32:14.848599",
   "package_url": "https://pypi.org/project/woofipro-api/"
 }

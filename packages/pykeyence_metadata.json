@@ -1,0 +1,11 @@
+{
+  "name": "pykeyence",
+  "version": "0.1.12",
+  "summary": "Python library for Keyence PLC communication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykeyence-0.1.12.tar.gz",
+  "download_time": "2025-09-22T06:31:53.943072",
+  "package_url": "https://pypi.org/project/pykeyence/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "easyllm-kit",
+  "version": "0.0.9.5",
+  "summary": "An easy recipes of code for large language model",
+  "author": "iLampard",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/iLampard/llm_recipes",
+  "download_filename": "easyllm_kit-0.0.9.5.tar.gz",
+  "download_time": "2025-09-22T06:32:22.702175",
+  "package_url": "https://pypi.org/project/easyllm-kit/"
+}
