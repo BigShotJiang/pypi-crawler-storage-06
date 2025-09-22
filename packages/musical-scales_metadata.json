@@ -1,0 +1,11 @@
+{
+  "name": "musical-scales",
+  "version": "2.0.0",
+  "summary": "Retrieve a scale based on a given mode and starting note.",
+  "author": "Hector Miller-Bakewell",
+  "license": "MIT",
+  "home_page": "https://github.com/hmillerbakewell/musical-scales",
+  "download_filename": "musical_scales-2.0.0.tar.gz",
+  "download_time": "2025-09-22T11:18:52.310761",
+  "package_url": "https://pypi.org/project/musical-scales/"
+}

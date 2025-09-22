@@ -1,0 +1,11 @@
+{
+  "name": "pmini_sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Pmini quadcopter",
+  "author": "RegisLab",
+  "license": "Proprietary",
+  "home_page": "https://github.com/RegisLab/pmini-sdk",
+  "download_filename": "pmini_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-22T11:18:29.353753",
+  "package_url": "https://pypi.org/project/pmini_sdk/"
+}

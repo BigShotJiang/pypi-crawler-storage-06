@@ -1,11 +1,11 @@
 {
   "name": "arcscript",
-  "version": "0.1.1a0",
+  "version": "0.1.3a0",
   "summary": "A simple language that transpiles to JavaScript for easier web development.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "arcscript-0.1.1a0.tar.gz",
-  "download_time": "2025-09-22T09:24:49.091766",
+  "download_filename": "arcscript-0.1.3a0.tar.gz",
+  "download_time": "2025-09-22T11:18:13.473768",
   "package_url": "https://pypi.org/project/arcscript/"
 }

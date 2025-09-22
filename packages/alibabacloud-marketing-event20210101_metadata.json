@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-marketing-event20210101",
+  "version": "1.1.1",
+  "summary": "Alibaba Cloud marketing_event (20210101) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_marketing_event20210101-1.1.1.tar.gz",
+  "download_time": "2025-09-22T11:18:58.133187",
+  "package_url": "https://pypi.org/project/alibabacloud-marketing-event20210101/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "psiconfig",
+  "version": "0.0.16",
+  "summary": "A module to validate and load config files.",
+  "author": "Jeff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "psiconfig-0.0.16.tar.gz",
+  "download_time": "2025-09-22T11:18:42.730156",
+  "package_url": "https://pypi.org/project/psiconfig/"
+}

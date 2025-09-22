@@ -1,0 +1,11 @@
+{
+  "name": "iLCDirac",
+  "version": "35.0.8",
+  "summary": "iLCDirac is the iLC/CLIC/FCC extension of DIRAC",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://gitlab.cern.ch/clicdp/ilcdirac/ilcdirac.git",
+  "download_filename": "ilcdirac-35.0.8-py3-none-any.whl",
+  "download_time": "2025-09-22T11:18:18.442807",
+  "package_url": "https://pypi.org/project/iLCDirac/"
+}
