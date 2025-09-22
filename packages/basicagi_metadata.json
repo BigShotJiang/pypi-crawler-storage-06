@@ -1,0 +1,11 @@
+{
+  "name": "basicagi",
+  "version": "1.0.0",
+  "summary": "A Python library for Asterisk Gateway Interface (AGI) applications",
+  "author": "Andrius Kairiukstis",
+  "license": "MIT",
+  "home_page": "https://github.com/andrius/asterisk-basicagi",
+  "download_filename": "basicagi-1.0.0.tar.gz",
+  "download_time": "2025-09-22T15:54:07.893342",
+  "package_url": "https://pypi.org/project/basicagi/"
+}

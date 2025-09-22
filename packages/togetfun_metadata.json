@@ -1,11 +1,11 @@
 {
   "name": "togetfun",
-  "version": "2.1.3",
+  "version": "2.1.6",
   "summary": "togetfun.top",
   "author": "togetfun.top",
   "license": null,
   "home_page": null,
-  "download_filename": "togetfun-2.1.3-py3-none-any.whl",
-  "download_time": "2025-09-19T09:41:12.899335",
+  "download_filename": "togetfun-2.1.6-py3-none-any.whl",
+  "download_time": "2025-09-22T15:54:35.244019",
   "package_url": "https://pypi.org/project/togetfun/"
 }

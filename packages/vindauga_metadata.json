@@ -1,11 +1,11 @@
 {
   "name": "vindauga",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Cross Platform Text UI library",
   "author": "Andrew Milton",
   "license": "BSD",
   "home_page": "https://github.com/gabbpuy/vindauga",
-  "download_filename": "vindauga-0.5.0.tar.gz",
-  "download_time": "2025-09-21T17:31:41.103854",
+  "download_filename": "vindauga-0.5.1.tar.gz",
+  "download_time": "2025-09-22T15:54:21.984674",
   "package_url": "https://pypi.org/project/vindauga/"
 }

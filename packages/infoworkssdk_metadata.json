@@ -1,11 +1,11 @@
 {
   "name": "infoworkssdk",
-  "version": "5.1.0",
-  "summary": "A package to work with Infoworks via SDK. This library is compatible with Infoworks v6.2.0 onwards. Code can be found in https://github.com/Infoworks/InfoworksPythonSDK branch: release/sdk-5.1",
+  "version": "5.1.1",
+  "summary": "A package to work with Infoworks via SDK. This library is compatible with Infoworks v6.2.0 onwards. Code can be found in https://github.com/Infoworks/InfoworksPythonSDK",
   "author": "Infoworks CE Team",
   "license": null,
   "home_page": "https://github.com/Infoworks/InfoworksPythonSDK",
-  "download_filename": "infoworkssdk-5.1.0.tar.gz",
-  "download_time": "2025-09-17T18:48:16.031683",
+  "download_filename": "infoworkssdk-5.1.1.tar.gz",
+  "download_time": "2025-09-22T15:54:46.817106",
   "package_url": "https://pypi.org/project/infoworkssdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gradupe",
-  "version": "2.2.0",
+  "version": "2.2.3",
   "summary": "Sobel Gradient Image Deduplication",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradupe-2.2.0.tar.gz",
-  "download_time": "2025-09-22T12:41:43.611051",
+  "download_filename": "gradupe-2.2.3.tar.gz",
+  "download_time": "2025-09-22T15:54:25.499757",
   "package_url": "https://pypi.org/project/gradupe/"
 }

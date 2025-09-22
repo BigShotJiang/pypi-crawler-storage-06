@@ -1,0 +1,11 @@
+{
+  "name": "visualize-links",
+  "version": "1.0.2",
+  "summary": "An LLDB plugin and web ui to visualize and debug pointer-based data structure programs written in C/C++.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "visualize_links-1.0.2.tar.gz",
+  "download_time": "2025-09-22T15:54:19.038242",
+  "package_url": "https://pypi.org/project/visualize-links/"
+}
