@@ -1,11 +1,11 @@
 {
   "name": "ofxstatement-upday",
-  "version": "1.0.1",
+  "version": "1.0.1.post1",
   "summary": "Plugin per ofxstatement per importare transazioni buoni pasto UpDay",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "ofxstatement_upday-1.0.1.tar.gz",
-  "download_time": "2025-09-22T12:41:42.044242",
+  "download_filename": "ofxstatement_upday-1.0.1.post1.tar.gz",
+  "download_time": "2025-09-22T13:20:54.136464",
   "package_url": "https://pypi.org/project/ofxstatement-upday/"
 }

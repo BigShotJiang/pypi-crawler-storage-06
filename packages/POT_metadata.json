@@ -1,11 +1,11 @@
 {
   "name": "POT",
-  "version": "0.9.6",
+  "version": "0.9.6.post1",
   "summary": "Python Optimal Transport Library",
   "author": "Remi Flamary, Nicolas Courty, Cédric Vincent-Cuaz, POT Contributors",
   "license": "MIT",
   "home_page": "https://github.com/PythonOT/POT",
-  "download_filename": "pot-0.9.6.tar.gz",
-  "download_time": "2025-09-19T14:54:13.160720",
+  "download_filename": "pot-0.9.6.post1.tar.gz",
+  "download_time": "2025-09-22T13:20:50.938695",
   "package_url": "https://pypi.org/project/POT/"
 }

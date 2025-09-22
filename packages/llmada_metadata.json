@@ -1,11 +1,11 @@
 {
   "name": "llmada",
-  "version": "1.0.7",
+  "version": "1.1.1",
   "summary": "提升了系统",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmada-1.0.7.tar.gz",
-  "download_time": "2025-09-22T06:32:30.498840",
+  "download_filename": "llmada-1.1.1.tar.gz",
+  "download_time": "2025-09-22T13:20:22.828778",
   "package_url": "https://pypi.org/project/llmada/"
 }

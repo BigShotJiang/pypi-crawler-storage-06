@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-green20220302",
-  "version": "2.23.0",
+  "version": "3.0.0",
   "summary": "Alibaba Cloud Green (20220302) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_green20220302-2.23.0.tar.gz",
-  "download_time": "2025-09-22T10:23:02.914500",
+  "download_filename": "alibabacloud_green20220302-3.0.0.tar.gz",
+  "download_time": "2025-09-22T13:20:28.218129",
   "package_url": "https://pypi.org/project/alibabacloud-green20220302/"
 }

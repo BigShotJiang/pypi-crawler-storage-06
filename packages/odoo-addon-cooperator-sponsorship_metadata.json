@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-cooperator-sponsorship",
-  "version": "16.0.1.0.1",
+  "version": "16.0.1.0.2",
   "summary": "Sponsorship module for cooperators in Som Connexió.",
   "author": "Coopdevs Treball SCCL",
   "license": "AGPL-3",
   "home_page": "https://coopdevs.org",
-  "download_filename": "odoo_addon_cooperator_sponsorship-16.0.1.0.1.tar.gz",
-  "download_time": "2025-09-19T12:39:58.998309",
+  "download_filename": "odoo_addon_cooperator_sponsorship-16.0.1.0.2.tar.gz",
+  "download_time": "2025-09-22T13:20:34.162112",
   "package_url": "https://pypi.org/project/odoo-addon-cooperator-sponsorship/"
 }
