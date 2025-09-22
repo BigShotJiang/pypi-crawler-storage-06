@@ -1,37 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T10:46:43.812527
-- **Total Packages**: 83
-- **Total Size**: 13.85 MB
+- **Download Time**: 2025-09-22T10:57:18.562283
+- **Total Packages**: 82
+- **Total Size**: 1.68 MB
 
 ## Packages List
-- swim-p2p
-- robotnikai
-- AOT-biomaps
-- nonebot-plugin-summary-group
-- odoo-addon-mgmtsystem-nonconformity-type
-- protein-detective
-- py4hw
-- meyigi-scripts
-- odoo-addon-mgmtsystem-review-survey
-- odoo-addon-mgmtsystem-review
-- letta-nightly
-- ut-eviq
-- inferencesh
-- core-for-ai
-- huizhi-coupon-lengyue1084
-- abstract-hugpy
-- fastapi-apps
-- power-grid-model
-- appium-python-client-shadowstep
-- deezy
-- authentik-client
-- victron-mqtt
-- nwtk
-- puring
-- pstarbound
-- lupin-sw-ut-report
 - aipscan
 - abstract-webtools
 - pepperize.projen-awscdk-app-ts
@@ -50,6 +24,7 @@
 - sv2svg
 - pyxetabase
 - pyopencga
+- huizhi-coupon-lengyue1084
 - kirk
 - z-zytome
 - qwen3-asr-toolkit
@@ -68,10 +43,12 @@
 - mdpax
 - turbocore
 - elastix-napari
+- authentik-client
 - legit-api-client
 - pdf2
 - web-framework-api
 - pyweclapp
+- nwtk
 - pyzotero
 - jira-mcp-standalone
 - spider-tools-pro
@@ -89,3 +66,25 @@
 - hydev
 - django-bulk-drf
 - luna-quantum
+- tf-keras-nightly
+- contextchain
+- mtcli-trade
+- dara-core
+- create-dara-app
+- dara-components
+- jsontoggle
+- diglife
+- fastrub
+- kuksa-client
+- pydivkit
+- psi-toml
+- ai-edge-torch-nightly
+- hypernegative
+- nebius
+- bfabric-scripts
+- anemoi-utils
+- wideo
+- kuavo-humanoid-sdk-ws
+- kuavo-humanoid-sdk
+- bfabric
+- gesture-blocks
