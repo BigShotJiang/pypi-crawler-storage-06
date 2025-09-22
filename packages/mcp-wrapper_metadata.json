@@ -1,0 +1,11 @@
+{
+  "name": "mcp-wrapper",
+  "version": "0.1.0",
+  "summary": "Akto MCP wrapper for threat detection and discovery",
+  "author": "Akto Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_wrapper-0.1.0.tar.gz",
+  "download_time": "2025-09-22T07:40:52.760365",
+  "package_url": "https://pypi.org/project/mcp-wrapper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "phobius-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Using for me",
   "author": "MetaPhobius",
   "license": "MIT",
   "home_page": "https://tuanca2503.github.io/",
-  "download_filename": "phobius_utils-0.1.0.tar.gz",
-  "download_time": "2025-09-22T07:22:52.742866",
+  "download_filename": "phobius_utils-0.1.1.tar.gz",
+  "download_time": "2025-09-22T07:41:05.780863",
   "package_url": "https://pypi.org/project/phobius-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dispytch",
+  "version": "0.10.1",
+  "summary": "Lightweight Python framework for writing clean and testable event-driven services",
+  "author": "Ivan Mihun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dispytch-0.10.1.tar.gz",
+  "download_time": "2025-09-22T07:41:05.269648",
+  "package_url": "https://pypi.org/project/dispytch/"
+}

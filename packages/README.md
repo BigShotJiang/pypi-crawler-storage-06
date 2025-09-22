@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T07:23:00.187313
+- **Download Time**: 2025-09-22T07:41:25.901169
 - **Total Packages**: 87
-- **Total Size**: 29.29 MB
+- **Total Size**: 15.96 MB
 
 ## Packages List
+- tfc-toolbox-py
+- mstarpy
+- antchain-gesaas
+- easycrystallography
+- svmbolcore
+- lightrag-hku
+- AOT-biomaps
+- monkey.dao
+- lohas-app-hotel-search-gzp-mcp-server
+- zimran-fastapi
+- authentik-client
+- gepa
+- unicex
+- mdxlate
+- chat-export
+- gllm-pipeline-binary
+- cdk-vscode-server
+- landingai-ade
+- wujihandpy
+- napari-convpaint
+- symmetria-core
+- symMaps
+- amazon-bedrock-haystack
+- mcp-wrapper
+- json_2_postgres
+- mscore3
+- physt
+- python-aresti
+- fkin-anfu
+- aleatorik-pycommon
+- pgpack
+- rediskit
+- bizyui
+- simvue
+- aorta-sirius
+- fundrive-ossutil
+- bizydraft
+- ncuhep
+- unitypredict
+- unitypredict-engines
+- robosystems-client
+- pyagenity
+- concurrent-tasks
+- vuecore
+- azure-mgmt-storage
+- cd-connector-hub
+- hexgraphics
+- dispytch
+- phobius-utils
+- etos-client
+- clipdrop
+- ut-doa
+- dispider
+- project-llm-trainer
 - snappi-ixnetwork
 - clear-skies
 - pyrootfinder
@@ -15,14 +69,12 @@
 - oh-my-batch
 - kfactory
 - spotiphy
-- fundrive-ossutil
 - Class163-NexT
 - flexeval
 - tritonparse
 - netztransparenz
 - onesecondtrader
 - visflow
-- clipdrop
 - cognite-extractor-utils
 - jawad-calculator
 - fffio
@@ -31,10 +83,8 @@
 - matrice
 - antback
 - universal-function-zsd
-- authentik-client
 - singleton-base
 - qmake2cmake
-- hexgraphics
 - django-orghierarchy
 - xxiop
 - IservETLLib
@@ -43,53 +93,3 @@
 - sfn-blueprint
 - general-calculator-zsd
 - siat
-- frost-forge
-- svmbolcore
-- param-lsp
-- yta-video-pyav
-- barcadia
-- cloe-nessy
-- bbeval
-- aa-theme-slate
-- pybangla
-- certbot-dns-synergy-wholesale
-- tf-models-nightly
-- dea-tools
-- tablestore
-- mcp-weather-dfcyn
-- netlistx
-- contextchain
-- qpay-client
-- django-bulk-drf
-- marearts-anpr
-- continual-foragax
-- sfn-llm-client
-- any-registries
-- aorta-sirius-dev
-- jeap-pipeline
-- legacy-web-mcp
-- SearchLibrium
-- kyf
-- multiagent-core
-- TyphonBreaker
-- langchain-fastapi-chat-completion
-- py4web
-- ud-co2s
-- lingxingapi
-- pyducc
-- brainary
-- mi-maica
-- llm-hippocampus
-- phobius-utils
-- pyturso
-- alibabacloud-anytrans20250707
-- bingx
-- universal-mcp-agents
-- coinex-api
-- okx-exchange
-- mexc-exchange-api
-- htx
-- woofipro-api
-- bitmex-api
-- woo-api
-- kucoin-api

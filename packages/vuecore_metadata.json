@@ -1,0 +1,11 @@
+{
+  "name": "vuecore",
+  "version": "0.1.1",
+  "summary": "A Python package for creating interactive and static visualizations of multi-omics data",
+  "author": null,
+  "license": "GNU General Public License v3",
+  "home_page": null,
+  "download_filename": "vuecore-0.1.1.tar.gz",
+  "download_time": "2025-09-22T07:41:03.219982",
+  "package_url": "https://pypi.org/project/vuecore/"
+}
