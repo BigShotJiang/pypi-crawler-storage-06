@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T06:32:35.677939
-- **Total Packages**: 83
-- **Total Size**: 40.21 MB
+- **Download Time**: 2025-09-22T06:55:36.756899
+- **Total Packages**: 78
+- **Total Size**: 23.77 MB
 
 ## Packages List
+- alibabacloud-anytrans20250707
+- bingx
+- aorta-sirius-dev
+- universal-mcp-agents
+- Class163-NexT
+- coinex-api
+- okx-exchange
+- mexc-exchange-api
+- htx
+- woofipro-api
+- bitmex-api
+- woo-api
+- kucoin-api
+- kucoin-futures-api
+- gate-io-api
+- binance
+- crypto-com-sdk
+- bitmart
+- bitget
+- bybit-api
+- aser
+- finter
+- aparecium
+- verifiers
+- hduq
+- kisa-utils
+- power-grid-model-io
+- pyeasyphd
+- sapiens-transformers
+- revengai
+- rusty-req
+- django-okta-client
+- mcp-weather-dfcyn
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- better-jupyter-mcp-server
+- aionvk
+- notdiamond
+- spellbot
+- trendify
+- finesql
+- odoo-addon-pos-session-sequence
+- megatron-bridge
+- pytestifyx
+- daffy
 - pywwise
 - matrice
 - ucsmsdk
@@ -16,10 +61,8 @@
 - authentik-client
 - paradex_py
 - mcp-qpython
-- sapiens-transformers
 - upplib
 - youtube-stats
-- finter
 - prompt-writing-assistant
 - anthropic-qpython
 - Whispey
@@ -38,54 +81,6 @@
 - ragbits-chat
 - ragbits-agents
 - ragbits
-- bitmex-api
-- bingx
-- bybit-api
-- binance
-- okx-exchange
-- kucoin-futures-api
-- kucoin-api
-- woo-api
-- coinex-api
-- crypto-com-sdk
-- bitmart
-- woofipro-api
-- mexc-exchange-api
-- gate-io-api
-- bitget
-- htx
 - openai-qpython
 - tortitle
 - hwpx-mcp-server
-- kisa-utils
-- qpay-client
-- fake-bpy-module
-- power-grid-model-io
-- fake-bpy-module-latest
-- mangotools
-- jetson-stats-customized
-- easyllm-kit
-- ai-edge-litert-nightly
-- ai-ebash
-- alibabacloud-anytrans20250707
-- xbitinfo
-- sch-lib
-- odoo-addon-account-invoice-inter-company
-- mcp-weather-dfcyn
-- cluster-pack
-- aipyapp
-- langchain-agb-integration
-- taha
-- githubkit
-- omnata-plugin-runtime
-- maleo-infra
-- llmada
-- pytestifyx
-- nexus_api_client
-- teds
-- wagtail-tw-blocks
-- aliyun-python-sdk-anytrans
-- maleo-schemas
-- machineconfig
-- pyg-nightly
-- azure-mgmt-keyvault

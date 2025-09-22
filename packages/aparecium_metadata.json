@@ -1,0 +1,11 @@
+{
+  "name": "aparecium",
+  "version": "0.3.0",
+  "summary": "Aparecium is a Python package for revealing text from embedding vectors, particularly designed to work with SentiChain embeddings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aparecium-0.3.0.tar.gz",
+  "download_time": "2025-09-22T06:55:06.318207",
+  "package_url": "https://pypi.org/project/aparecium/"
+}
