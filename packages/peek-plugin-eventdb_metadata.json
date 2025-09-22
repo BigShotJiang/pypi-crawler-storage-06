@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-eventdb",
-  "version": "5.1.3",
+  "version": "5.1.4",
   "summary": "Peek Plugin EventDB - storage of the historical and current events and alarms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-eventdb-5.1.3.tar.gz",
-  "download_time": "2025-09-20T11:15:29.825754",
+  "download_filename": "peek-plugin-eventdb-5.1.4.tar.gz",
+  "download_time": "2025-09-22T14:46:56.400632",
   "package_url": "https://pypi.org/project/peek-plugin-eventdb/"
 }

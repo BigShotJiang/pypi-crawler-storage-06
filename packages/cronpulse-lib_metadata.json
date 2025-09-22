@@ -1,11 +1,11 @@
 {
   "name": "cronpulse-lib",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "CronPulse client library for Python",
-  "author": "Your Name",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/yourusername/cronpulse-lib",
-  "download_filename": "cronpulse_lib-0.1.6.tar.gz",
-  "download_time": "2025-09-22T14:22:49.798269",
+  "home_page": null,
+  "download_filename": "cronpulse_lib-0.1.7.tar.gz",
+  "download_time": "2025-09-22T14:46:30.271732",
   "package_url": "https://pypi.org/project/cronpulse-lib/"
 }

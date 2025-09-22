@@ -1,11 +1,11 @@
 {
   "name": "sourcemeta-jsonschema",
-  "version": "11.8.2",
+  "version": "11.8.3",
   "summary": "The CLI for working with JSON Schema. Covers formatting, linting, testing, and much more for both local development and CI/CD pipelines",
   "author": "Sourcemeta",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/sourcemeta/jsonschema",
-  "download_filename": "sourcemeta_jsonschema-11.8.2.tar.gz",
-  "download_time": "2025-09-19T09:40:58.325955",
+  "download_filename": "sourcemeta_jsonschema-11.8.3.tar.gz",
+  "download_time": "2025-09-22T14:46:36.563648",
   "package_url": "https://pypi.org/project/sourcemeta-jsonschema/"
 }

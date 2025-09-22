@@ -1,11 +1,11 @@
 {
   "name": "peek-plugin-diagram-trace",
-  "version": "5.1.3",
+  "version": "5.1.4",
   "summary": "Peek Plugin DiagramTrace - tracing the connectivity from equipments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-plugin-diagram-trace-5.1.3.tar.gz",
-  "download_time": "2025-09-20T10:52:45.821266",
+  "download_filename": "peek-plugin-diagram-trace-5.1.4.tar.gz",
+  "download_time": "2025-09-22T14:46:59.165008",
   "package_url": "https://pypi.org/project/peek-plugin-diagram-trace/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "peek-admin-app",
-  "version": "5.1.3",
+  "version": "5.1.4",
   "summary": "Peek Admin App - the Angular Web build environment for Peek Admin",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek-admin-app-5.1.3.tar.gz",
-  "download_time": "2025-09-20T10:53:05.946310",
+  "download_filename": "peek-admin-app-5.1.4.tar.gz",
+  "download_time": "2025-09-22T14:47:16.057296",
   "package_url": "https://pypi.org/project/peek-admin-app/"
 }
