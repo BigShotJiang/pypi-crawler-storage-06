@@ -1,11 +1,11 @@
 {
   "name": "simacode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Modern AI orchestration workflow framework with intelligent ReAct mechanisms and comprehensive workflow orchestration capabilities",
   "author": "SimaCode Team",
   "license": null,
   "home_page": "https://github.com/QUSEIT/simacode",
-  "download_filename": "simacode-0.1.0.tar.gz",
-  "download_time": "2025-09-22T05:20:32.647482",
+  "download_filename": "simacode-0.1.1.tar.gz",
+  "download_time": "2025-09-22T05:53:22.831241",
   "package_url": "https://pypi.org/project/simacode/"
 }

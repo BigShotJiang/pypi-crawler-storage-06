@@ -1,11 +1,11 @@
 {
-  "download_time": "2025-09-22T05:42:37.627201",
+  "download_time": "2025-09-22T05:53:41.180127",
   "total_packages_downloaded": 74,
-  "total_size_mb": 17.02,
+  "total_size_mb": 7.01,
   "packages": [
+    "sapiens-transformers",
     "agilicus",
     "tooltree",
-    "keepalived-api",
     "azure-mgmt-compute",
     "model-checker",
     "authentik-client",
