@@ -1,11 +1,11 @@
 {
   "name": "methodnetworkscan",
-  "version": "0.0.80",
+  "version": "0.0.81",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "methodnetworkscan-0.0.80.tar.gz",
-  "download_time": "2025-09-18T22:20:15.765439",
+  "download_filename": "methodnetworkscan-0.0.81.tar.gz",
+  "download_time": "2025-09-22T18:50:04.057343",
   "package_url": "https://pypi.org/project/methodnetworkscan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "billi-image",
+  "version": "1.0.2",
+  "summary": "A flexible library for custom image format encoding and decoding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "billi_image-1.0.2.tar.gz",
+  "download_time": "2025-09-22T18:50:01.768670",
+  "package_url": "https://pypi.org/project/billi-image/"
+}

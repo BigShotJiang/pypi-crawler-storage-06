@@ -1,0 +1,11 @@
+{
+  "name": "ms-agent",
+  "version": "1.3.0",
+  "summary": "MS-Agent: Lightweight Framework for Empowering Agents with Autonomous Exploration",
+  "author": "The ModelScope teams",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/modelscope/ms-agent",
+  "download_filename": "ms-agent-1.3.0.tar.gz",
+  "download_time": "2025-09-22T18:49:51.661274",
+  "package_url": "https://pypi.org/project/ms-agent/"
+}
