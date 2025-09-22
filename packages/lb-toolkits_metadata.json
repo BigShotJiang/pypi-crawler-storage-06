@@ -1,0 +1,11 @@
+{
+  "name": "lb-toolkits",
+  "version": "25.9.22",
+  "summary": "lb_toolkits Library for Meteorology and Remote Sensing",
+  "author": "Nanhu Lab(南湖实验室，浙江.嘉兴)",
+  "license": "MIT",
+  "home_page": "https://github.com/libin033/lb_toolkits",
+  "download_filename": "lb_toolkits-25.9.22.tar.gz",
+  "download_time": "2025-09-22T08:28:20.132482",
+  "package_url": "https://pypi.org/project/lb-toolkits/"
+}

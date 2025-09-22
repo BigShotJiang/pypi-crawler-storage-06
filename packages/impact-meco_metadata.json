@@ -1,0 +1,11 @@
+{
+  "name": "impact-meco",
+  "version": "0.5.0",
+  "summary": "DIRAC MPC",
+  "author": "MECO-Group",
+  "license": "LICENSE",
+  "home_page": "https://gitlab.kuleuven.be/meco-software/impact",
+  "download_filename": "impact-meco-0.5.0.tar.gz",
+  "download_time": "2025-09-22T08:29:01.396645",
+  "package_url": "https://pypi.org/project/impact-meco/"
+}

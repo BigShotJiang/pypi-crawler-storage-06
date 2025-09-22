@@ -1,0 +1,11 @@
+{
+  "name": "sfzen",
+  "version": "1.5.1",
+  "summary": "Simple object-oriented SFZ parsing and manipulation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sfzen-1.5.1.tar.gz",
+  "download_time": "2025-09-22T08:28:57.767751",
+  "package_url": "https://pypi.org/project/sfzen/"
+}

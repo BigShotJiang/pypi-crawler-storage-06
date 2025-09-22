@@ -1,0 +1,11 @@
+{
+  "name": "kitbash",
+  "version": "1.2.1",
+  "summary": "kitbash is a program you can use to combine parts of various SFZ files into a",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kitbash-1.2.1.tar.gz",
+  "download_time": "2025-09-22T08:28:49.542286",
+  "package_url": "https://pypi.org/project/kitbash/"
+}

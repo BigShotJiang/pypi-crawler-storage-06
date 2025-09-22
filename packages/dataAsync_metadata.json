@@ -1,0 +1,11 @@
+{
+  "name": "dataAsync",
+  "version": "0.2.0",
+  "summary": "async data to sqlalchemy",
+  "author": "qiaokuoyuan",
+  "license": null,
+  "home_page": "https://github.com/yourusername/your-package",
+  "download_filename": "dataasync-0.2.0.tar.gz",
+  "download_time": "2025-09-22T08:28:18.057946",
+  "package_url": "https://pypi.org/project/dataAsync/"
+}

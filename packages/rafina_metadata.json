@@ -1,0 +1,11 @@
+{
+  "name": "rafina",
+  "version": "0.0.7",
+  "summary": "Read content from RAF files: .raf and .dyn",
+  "author": "('Morten Grova',)",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.sintef.no",
+  "download_filename": "rafina-0.0.7-py310-none-manylinux1_x86_64.whl",
+  "download_time": "2025-09-22T08:28:54.674692",
+  "package_url": "https://pypi.org/project/rafina/"
+}

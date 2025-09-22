@@ -1,11 +1,11 @@
 {
   "name": "ibm-agent-analytics-common",
-  "version": "0.1.1",
-  "summary": null,
-  "author": null,
+  "version": "0.1.3",
+  "summary": "Agent Analytics observability Common package",
+  "author": "Muhammad Kanaan",
   "license": "International License Agreement for Non-Warranted Programs",
   "home_page": null,
-  "download_filename": "ibm_agent_analytics_common-0.1.1-py3-none-any.whl",
-  "download_time": "2025-09-21T11:26:42.159305",
+  "download_filename": "ibm_agent_analytics_common-0.1.3-py3-none-any.whl",
+  "download_time": "2025-09-22T08:28:55.186016",
   "package_url": "https://pypi.org/project/ibm-agent-analytics-common/"
 }

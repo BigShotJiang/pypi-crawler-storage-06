@@ -1,11 +1,11 @@
 {
   "name": "revos",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A Python library for LLM API authentication and LangChain-based LLM tools",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/yourusername/revo",
-  "download_filename": "revos-0.1.7.tar.gz",
-  "download_time": "2025-09-21T18:26:05.691397",
+  "download_filename": "revos-0.1.8.tar.gz",
+  "download_time": "2025-09-22T08:28:58.280730",
   "package_url": "https://pypi.org/project/revos/"
 }
