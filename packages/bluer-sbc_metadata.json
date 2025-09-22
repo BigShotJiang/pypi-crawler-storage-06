@@ -1,0 +1,11 @@
+{
+  "name": "bluer-sbc",
+  "version": "8.188.1",
+  "summary": "🌀 AI for single board computers.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-sbc",
+  "download_filename": "bluer_sbc-8.188.1.tar.gz",
+  "download_time": "2025-09-22T05:20:49.496592",
+  "package_url": "https://pypi.org/project/bluer-sbc/"
+}

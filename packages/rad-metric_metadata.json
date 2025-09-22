@@ -1,11 +1,11 @@
 {
   "name": "rad-metric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Composite metrics for chest X-ray report (CXR) generation.",
   "author": "Guanghui Qin",
   "license": null,
   "home_page": null,
-  "download_filename": "rad_metric-0.1.0.tar.gz",
-  "download_time": "2025-09-19T07:52:18.951016",
+  "download_filename": "rad_metric-0.1.1.tar.gz",
+  "download_time": "2025-09-22T05:20:30.432964",
   "package_url": "https://pypi.org/project/rad-metric/"
 }

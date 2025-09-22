@@ -1,11 +1,11 @@
 {
   "name": "teds",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "TeDS (Test-Driven Schema Development Tool) - CLI for verifying JSON Schema contracts using YAML test specifications",
   "author": "TeDS Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "teds-0.3.0.tar.gz",
-  "download_time": "2025-09-21T08:22:18.989433",
+  "download_filename": "teds-0.3.1.tar.gz",
+  "download_time": "2025-09-22T05:20:26.372469",
   "package_url": "https://pypi.org/project/teds/"
 }

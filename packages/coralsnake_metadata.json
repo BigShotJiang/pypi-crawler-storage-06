@@ -1,11 +1,11 @@
 {
   "name": "coralsnake",
-  "version": "0.0.69",
+  "version": "0.0.71",
   "summary": "Transcriptome mapping utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coralsnake-0.0.69.tar.gz",
-  "download_time": "2025-09-22T03:43:18.614692",
+  "download_filename": "coralsnake-0.0.71.tar.gz",
+  "download_time": "2025-09-22T05:20:29.863311",
   "package_url": "https://pypi.org/project/coralsnake/"
 }

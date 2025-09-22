@@ -1,11 +1,11 @@
 {
   "name": "absd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "testing python library",
   "author": "blank",
   "license": "MIT",
   "home_page": "https://github.com/pacyandrocash/absd",
-  "download_filename": "absd-0.1.1.tar.gz",
-  "download_time": "2025-09-19T13:16:17.759213",
+  "download_filename": "absd-0.1.2.tar.gz",
+  "download_time": "2025-09-22T05:20:31.001293",
   "package_url": "https://pypi.org/project/absd/"
 }
