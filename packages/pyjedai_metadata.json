@@ -1,0 +1,11 @@
+{
+  "name": "pyjedai",
+  "version": "0.3.5",
+  "summary": "An open-source library that builds powerful end-to-end Entity Resolution workflows.",
+  "author": null,
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "pyjedai-0.3.5.tar.gz",
+  "download_time": "2025-09-22T11:52:47.548275",
+  "package_url": "https://pypi.org/project/pyjedai/"
+}

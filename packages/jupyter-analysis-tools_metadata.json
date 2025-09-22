@@ -1,11 +1,11 @@
 {
   "name": "jupyter-analysis-tools",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "summary": "Yet another Python library with helpers and utilities for data analysis and processing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_analysis_tools-1.6.1.tar.gz",
-  "download_time": "2025-09-19T20:21:11.386830",
+  "download_filename": "jupyter_analysis_tools-1.6.2.tar.gz",
+  "download_time": "2025-09-22T11:52:33.984780",
   "package_url": "https://pypi.org/project/jupyter-analysis-tools/"
 }

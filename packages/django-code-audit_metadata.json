@@ -1,11 +1,11 @@
 {
   "name": "django-code-audit",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A Django app for auditing Python code using pylint",
   "author": "Ravi K",
   "license": "MIT",
   "home_page": "https://github.com/ravikempanayaka/Code-Audit#",
-  "download_filename": "django_code_audit-0.2.5.tar.gz",
-  "download_time": "2025-09-22T09:25:28.317844",
+  "download_filename": "django_code_audit-0.2.6.tar.gz",
+  "download_time": "2025-09-22T11:52:47.036763",
   "package_url": "https://pypi.org/project/django-code-audit/"
 }

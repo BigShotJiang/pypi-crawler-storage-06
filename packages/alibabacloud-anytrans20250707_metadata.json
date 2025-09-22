@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-anytrans20250707",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Alibaba Cloud AnyTrans (20250707) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_anytrans20250707-1.1.4.tar.gz",
-  "download_time": "2025-09-22T08:28:22.175169",
+  "download_filename": "alibabacloud_anytrans20250707-1.1.5.tar.gz",
+  "download_time": "2025-09-22T11:52:46.521173",
   "package_url": "https://pypi.org/project/alibabacloud-anytrans20250707/"
 }
