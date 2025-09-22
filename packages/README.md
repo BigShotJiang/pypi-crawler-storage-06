@@ -1,11 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T17:41:36.418104
-- **Total Packages**: 89
-- **Total Size**: 43.36 MB
+- **Download Time**: 2025-09-22T17:53:07.732203
+- **Total Packages**: 85
+- **Total Size**: 17.77 MB
 
 ## Packages List
+- graph-games-proto
+- hedayat-media
+- mapget
+- zampie_utils
+- authentik-client
+- obx
+- mcp-proxy-adapter
+- tce-lib
+- finesql
+- pygeist
+- winterrb
+- osmosis-ai
+- pyrefly
+- sentinelc-appfeed
+- memtab-visualizers
+- hololinked
+- extremal-python-dependencies
+- johnsnowlabs-for-databricks
+- johnsnowlabs
+- esm
+- removemd
+- terminator
+- datarobot-early-access
+- terminator-py
+- inhumate-rti
+- s3-file-downloader
+- sv2svg
 - hiws
 - monai
 - fastapi-testrunner
@@ -18,10 +45,7 @@
 - vrouter-agent
 - molalchemy
 - restate-sdk
-- authentik-client
-- osmosis-ai
 - jjrawlins-cdk-ami-builder
-- obx
 - pulumi-aws-native
 - ncut-pytorch
 - prelude-sdk
@@ -34,18 +58,15 @@
 - alibabacloud-ecd20200930
 - alibabacloud-eds-aic20230930
 - Scikit-longitudinal
-- hedayat-media
 - nci-cidc-schemas
 - alibabacloud-eflo-controller20221215
 - rasa-pro
 - PureCloudPlatformClientV2
 - uipath
 - signalpilot-ai-internal
-- terminator
 - jjrawlins-cdk-iam-policy-builder-helper
 - prelude-cli-beta
 - prelude-sdk-beta
-- terminator-py
 - memtab
 - thds.atacama
 - thds.mops
@@ -70,28 +91,3 @@
 - contxt-sdk
 - ultralytics
 - funcsim
-- redun
-- freshrelease-mcp
-- base-api-utils
-- simplyprint-bambu-lab
-- patroni
-- cli-mon-showdown
-- dv-pipecat-ai
-- slack-message
-- loggy-py
-- smem-mention
-- concurrent-collections
-- backboard-sdk
-- dda
-- pycoupler
-- git-draft
-- davidkhala.ai
-- computer-control-mcp
-- rda-python-miscs
-- scythe-ttp
-- deepbridge
-- reyworm
-- reyweb
-- winterrb
-- reydb
-- hexdoc-hexflow
