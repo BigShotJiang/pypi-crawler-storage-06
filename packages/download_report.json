@@ -1,20 +1,8 @@
 {
-  "download_time": "2025-09-22T15:22:43.016957",
-  "total_packages_downloaded": 88,
-  "total_size_mb": 35.2,
+  "download_time": "2025-09-22T15:43:35.513560",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 2.79,
   "packages": [
-    "Functions-d",
-    "xautomata-hive",
-    "teds",
-    "beeai-framework",
-    "Mypackage-STT",
-    "viur-core",
-    "physical-ai-interpretability",
-    "pyfurnace",
-    "hv-anndata",
-    "flexget",
-    "phenodig",
-    "smem-mention",
     "rasterizer",
     "altamus-pymavlink",
     "pyodide-py",
@@ -90,6 +78,15 @@
     "mne-lsl",
     "MetaRpcMT5",
     "xlin",
-    "django-bulk-drf"
+    "django-bulk-drf",
+    "papr-memory-mcp",
+    "v-magic-code-review",
+    "skypilot-nightly",
+    "pytrivialsql",
+    "agenta",
+    "nginx-sqlize",
+    "alidaparse",
+    "TexTOM",
+    "ai-parrot"
   ]
 }

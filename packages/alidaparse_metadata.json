@@ -1,11 +1,11 @@
 {
   "name": "alidaparse",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A parsing module for ALIDA's services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alidaparse-0.1.6.tar.gz",
-  "download_time": "2025-09-22T14:56:57.331543",
+  "download_filename": "alidaparse-0.1.8.tar.gz",
+  "download_time": "2025-09-22T15:43:33.983079",
   "package_url": "https://pypi.org/project/alidaparse/"
 }

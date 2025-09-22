@@ -1,11 +1,11 @@
 {
   "name": "papr-memory-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Papr Memory API integration for MCP (Model Context Protocol) servers",
   "author": "Papr Team",
   "license": null,
   "home_page": "https://github.com/Papr-ai/papr_mcpserver",
-  "download_filename": "papr_memory_mcp-0.1.1.tar.gz",
-  "download_time": "2025-09-19T16:45:51.142110",
+  "download_filename": "papr_memory_mcp-0.1.2.tar.gz",
+  "download_time": "2025-09-22T15:43:29.807225",
   "package_url": "https://pypi.org/project/papr-memory-mcp/"
 }
