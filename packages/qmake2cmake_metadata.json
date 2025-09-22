@@ -1,0 +1,11 @@
+{
+  "name": "qmake2cmake",
+  "version": "1.0.7",
+  "summary": "QMake to CMake project file converter",
+  "author": "The Qt Company",
+  "license": "GPLv3",
+  "home_page": "https://wiki.qt.io/qmake2cmake",
+  "download_filename": "qmake2cmake-1.0.7.tar.gz",
+  "download_time": "2025-09-22T07:22:23.486332",
+  "package_url": "https://pypi.org/project/qmake2cmake/"
+}

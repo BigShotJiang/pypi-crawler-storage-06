@@ -1,11 +1,11 @@
 {
   "name": "legacy-web-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-powered legacy web application analysis and documentation generation via MCP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "legacy_web_mcp-0.1.1.tar.gz",
-  "download_time": "2025-09-22T03:58:52.101163",
+  "download_filename": "legacy_web_mcp-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-22T07:22:45.156460",
   "package_url": "https://pypi.org/project/legacy-web-mcp/"
 }

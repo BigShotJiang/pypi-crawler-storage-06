@@ -1,0 +1,11 @@
+{
+  "name": "fffio",
+  "version": "0.7.0",
+  "summary": "Python package of FFmpeg Frame Input/Output",
+  "author": "yamakox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fffio-0.7.0.tar.gz",
+  "download_time": "2025-09-22T07:22:18.240963",
+  "package_url": "https://pypi.org/project/fffio/"
+}

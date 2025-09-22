@@ -1,11 +1,11 @@
 {
   "name": "pyducc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python DUCC Client - 用于与DUCC服务通信获取配置并管理配置更新的客户端",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyducc-0.1.0.tar.gz",
-  "download_time": "2025-09-19T09:52:18.321161",
+  "download_filename": "pyducc-0.1.1.tar.gz",
+  "download_time": "2025-09-22T07:22:50.444180",
   "package_url": "https://pypi.org/project/pyducc/"
 }

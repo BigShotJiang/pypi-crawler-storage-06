@@ -1,0 +1,11 @@
+{
+  "name": "brainary",
+  "version": "0.0.11",
+  "summary": "A cognitive architecture framework integrating LLMs, capabilities, and self-regulation.",
+  "author": "NTU Brainary Team",
+  "license": null,
+  "home_page": "https://github.com/cs-wangchong/Promptware",
+  "download_filename": "brainary-0.0.11.tar.gz",
+  "download_time": "2025-09-22T07:22:51.019416",
+  "package_url": "https://pypi.org/project/brainary/"
+}
