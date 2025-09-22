@@ -1,11 +1,11 @@
 {
   "name": "pybangla",
-  "version": "2.11.8",
+  "version": "2.11.9",
   "summary": "pybangla is the bangla text normalizer tool, it use for text normalization like word to number and date formating purposes",
   "author": "saiful",
   "license": "MIT",
   "home_page": "https://github.com/saiful9379/pybangla",
-  "download_filename": "pybangla-2.11.8.tar.gz",
-  "download_time": "2025-09-22T07:22:35.351488",
+  "download_filename": "pybangla-2.11.9.tar.gz",
+  "download_time": "2025-09-22T07:53:02.644241",
   "package_url": "https://pypi.org/project/pybangla/"
 }

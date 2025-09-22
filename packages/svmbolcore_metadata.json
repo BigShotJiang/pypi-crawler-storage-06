@@ -1,11 +1,11 @@
 {
   "name": "svmbolcore",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "symbolic math lib that generates parallel CUDA",
   "author": "codespaceDrifter",
   "license": null,
   "home_page": "https://github.com/yourusername/svmbolcore",
-  "download_filename": "svmbolcore-0.1.13.tar.gz",
-  "download_time": "2025-09-22T07:22:30.751806",
+  "download_filename": "svmbolcore-0.1.14.tar.gz",
+  "download_time": "2025-09-22T07:53:06.834086",
   "package_url": "https://pypi.org/project/svmbolcore/"
 }

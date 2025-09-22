@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-22T07:41:25.901169
-- **Total Packages**: 87
-- **Total Size**: 15.96 MB
+- **Download Time**: 2025-09-22T07:53:40.443050
+- **Total Packages**: 90
+- **Total Size**: 4.39 MB
 
 ## Packages List
+- pytest-html5
+- jupyterlab-h5web
+- fastapi-rtk
+- era5epw
+- taku-cli
+- equos
+- awscostexport
+- seliky
+- jaxdecomp
+- gondola-cxx
+- quantecon-book-theme
+- enelyzer-api-client
+- stackit-stackitmarketplace
+- sfn-llm-client
+- cloudoll
+- cwl2nx
+- passive_equipment
+- ofxstatement-upday
+- neuroglia-python
+- pybangla
+- aleatorik-pycommon
+- jyhelper
 - tfc-toolbox-py
 - mstarpy
 - antchain-gesaas
@@ -35,7 +57,6 @@
 - physt
 - python-aresti
 - fkin-anfu
-- aleatorik-pycommon
 - pgpack
 - rediskit
 - bizyui
@@ -75,21 +96,3 @@
 - netztransparenz
 - onesecondtrader
 - visflow
-- cognite-extractor-utils
-- jawad-calculator
-- fffio
-- claude-cache
-- mlhelper-stark
-- matrice
-- antback
-- universal-function-zsd
-- singleton-base
-- qmake2cmake
-- django-orghierarchy
-- xxiop
-- IservETLLib
-- omnata-plugin-runtime
-- zenx
-- sfn-blueprint
-- general-calculator-zsd
-- siat
