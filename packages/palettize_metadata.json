@@ -1,0 +1,11 @@
+{
+  "name": "palettize",
+  "version": "0.0.1a3",
+  "summary": "A Python CLI tool for creating and exporting colormaps for data visualization and mapping applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "palettize-0.0.1a3.tar.gz",
+  "download_time": "2025-09-22T16:57:05.180847",
+  "package_url": "https://pypi.org/project/palettize/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "earthkit-workflows-anemoi",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "An earthkit-workflows interface to anemoi inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "earthkit_workflows_anemoi-0.3.5.tar.gz",
-  "download_time": "2025-09-22T15:54:21.408100",
+  "download_filename": "earthkit_workflows_anemoi-0.3.6.tar.gz",
+  "download_time": "2025-09-22T16:57:19.545148",
   "package_url": "https://pypi.org/project/earthkit-workflows-anemoi/"
 }

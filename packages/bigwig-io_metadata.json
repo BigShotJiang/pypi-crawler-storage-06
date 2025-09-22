@@ -1,11 +1,11 @@
 {
   "name": "bigwig-io",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Read and write bigwig/bigbed files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bigwig_io-0.0.6.tar.gz",
-  "download_time": "2025-09-21T19:15:34.097655",
+  "download_filename": "bigwig_io-0.0.7.tar.gz",
+  "download_time": "2025-09-22T16:56:48.168862",
   "package_url": "https://pypi.org/project/bigwig-io/"
 }

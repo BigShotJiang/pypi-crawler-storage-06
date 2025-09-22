@@ -1,0 +1,11 @@
+{
+  "name": "bfg-schemautil",
+  "version": "0.2.0",
+  "summary": "A set of utilities to generate JSON Schema from simple JSON objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bfg_schemautil-0.2.0.tar.gz",
+  "download_time": "2025-09-22T16:56:42.428661",
+  "package_url": "https://pypi.org/project/bfg-schemautil/"
+}

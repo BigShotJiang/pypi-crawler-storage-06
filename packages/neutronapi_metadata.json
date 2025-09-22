@@ -1,11 +1,11 @@
 {
   "name": "neutronapi",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "summary": "A modern, high-performance ASGI-based Python web framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neutronapi-0.4.8.tar.gz",
-  "download_time": "2025-09-22T16:26:24.181223",
+  "download_filename": "neutronapi-0.4.9.tar.gz",
+  "download_time": "2025-09-22T16:57:04.124298",
   "package_url": "https://pypi.org/project/neutronapi/"
 }

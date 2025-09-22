@@ -1,0 +1,11 @@
+{
+  "name": "kapso",
+  "version": "0.3.2",
+  "summary": "WhatsApp AI Agents",
+  "author": "Kapso AI",
+  "license": null,
+  "home_page": "https://kapso.ai",
+  "download_filename": "kapso-0.3.2-py3-none-any.whl",
+  "download_time": "2025-09-22T16:57:11.032492",
+  "package_url": "https://pypi.org/project/kapso/"
+}
