@@ -1,21 +1,15 @@
 {
-  "download_time": "2025-09-22T20:42:54.767949",
-  "total_packages_downloaded": 90,
-  "total_size_mb": 45.73,
+  "download_time": "2025-09-22T20:58:46.223866",
+  "total_packages_downloaded": 88,
+  "total_size_mb": 1.07,
   "packages": [
-    "dadosic-zenlenium",
-    "splight-lib",
-    "tombi",
-    "abstract-webtools",
-    "mouse-tracking",
-    "datatailr",
-    "cloneholio",
     "dash-sortable-tree",
     "mkm",
     "UW-RestClients-GradePage",
     "tccli-intl-en",
     "krita",
     "authentik-client",
+    "dadosic-zenlenium",
     "mc-netease-sdk-nyrev",
     "dsperse",
     "isweep",
@@ -92,6 +86,10 @@
     "bsk-rl",
     "daksh",
     "PressProof",
-    "sigmaker"
+    "sigmaker",
+    "cribl-control-plane",
+    "gh-reader",
+    "zlang",
+    "xerenity"
   ]
 }
