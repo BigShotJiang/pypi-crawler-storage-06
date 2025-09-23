@@ -1,11 +1,11 @@
 {
   "name": "mail-mcp",
-  "version": "0.1.0",
-  "summary": "A powerful MCP server for email operations with IMAP and SMTP support, featuring automatic Claude Code integration",
+  "version": "2.1.0",
+  "summary": "High-performance MCP server for enterprise email management with trusted sender filtering, connection pooling, and intelligent caching",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mail_mcp-0.1.0.tar.gz",
-  "download_time": "2025-09-21T12:36:41.343487",
+  "download_filename": "mail_mcp-2.1.0.tar.gz",
+  "download_time": "2025-09-23T03:49:02.574889",
   "package_url": "https://pypi.org/project/mail-mcp/"
 }

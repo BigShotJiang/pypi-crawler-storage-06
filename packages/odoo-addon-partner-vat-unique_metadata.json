@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-vat-unique",
+  "version": "18.0.1.0.0.6",
+  "summary": "Module to make the VAT number unique for customers and suppliers.",
+  "author": "Grant Thornton S.L.P, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_vat_unique-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-09-23T03:49:01.497569",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-vat-unique/"
+}

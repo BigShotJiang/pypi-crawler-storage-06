@@ -1,11 +1,11 @@
 {
   "name": "pyscut",
-  "version": "0.2",
+  "version": "0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyscut-0.2.tar.gz",
-  "download_time": "2025-09-23T03:23:54.420680",
+  "download_filename": "pyscut-0.3.tar.gz",
+  "download_time": "2025-09-23T03:48:59.379189",
   "package_url": "https://pypi.org/project/pyscut/"
 }

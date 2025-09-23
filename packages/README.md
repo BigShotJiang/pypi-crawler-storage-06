@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T03:24:22.324744
-- **Total Packages**: 84
-- **Total Size**: 32.54 MB
+- **Download Time**: 2025-09-23T03:49:19.028852
+- **Total Packages**: 79
+- **Total Size**: 12.05 MB
 
 ## Packages List
+- odoo-addon-multi-step-wizard
+- Bible9000
+- video-content-extractor-mcp
+- bear-utils
+- pytest-mongodb-ry
+- bilichat-request
+- pulumi-confluentcloud
+- authentik-client
+- evdevremapkeys
+- odoo-addon-sale-order-type
+- pulumi-kafka
+- svc-infra
+- odoo-addon-sale-order-line-input
+- deezy
+- novita-sandbox
+- abhi77
+- easyrip
+- devstack-cli
+- ctstruct
+- cdktf-cdktf-provider-hcp
+- thesis-py
+- odoo-addon-kpi
+- hiws
+- lovely-numpy
+- publicsuffixlist
+- jsoncompat
+- simcalibration
+- iranetf
+- database-common-tools
+- sphinxcontrib-typer
+- trops
+- wujing
+- dyff-schema
+- leo-packer
+- rusty-req
+- smalldog
+- api-validator-sdk
+- neonunicorn
+- package-gen
+- pg-provision
+- sqlmesh
+- pyscut
+- odoo-addon-payroll
+- keras-rs-nightly
+- odoo-addon-payroll-contract-advantages
+- odoo-addon-partner-vat-unique
+- tencent-wedata-feature-engineering
+- mail-mcp
 - writer-pdf
 - rubka-webapi
 - GANDLF
@@ -22,12 +70,9 @@
 - sienge-ecbiesek-mcp
 - spec-dev
 - yamldataclassconfig
-- sqlmesh
 - pyfory
-- PyDManager
 - supernet-duo
 - moreblocks
-- video-content-extractor-mcp
 - nexaai
 - odoo-addons-oca-l10n-spain
 - viyv-mcp
@@ -36,57 +81,7 @@
 - py-expression-calculator-ltcsz
 - crawlo
 - technical-analysis-mcp
-- pyscut
 - vios
 - pyqrackising
 - kittylog
 - tigeropen
-- authentik-client
-- fred-oss
-- spark-nlp
-- syft-client
-- pytest-mongodb-ry
-- gac
-- decline-curve
-- mwfilter
-- llmasajudge
-- rag-document-viewer
-- dew-gwdata
-- fastcodedog
-- neonunicorn
-- ultrasphere
-- kxy-framework
-- threepio-test-runner
-- asv-rich-api-flask
-- coco-core
-- cccc-pair
-- odoo-addon-fieldservice-recurring
-- bmtool
-- odoo-addon-fieldservice-route
-- odoo-addon-fieldservice-account
-- meenpy
-- mcp-evaluation-server
-- odoo-addon-edi-oca
-- tree-sitter-ghactions
-- pms-tensorrt
-- anyon
-- phu
-- types-gunicorn
-- types-django-filter
-- types-reportlab
-- types-docutils
-- drf-simple-oauth2
-- litdata
-- lybase
-- symbol-shoestring
-- PyAbel
-- odoo14-addon-delivery-schenker
-- ndx-franklab-novela
-- bigwig-io
-- termprofiles
-- mix-python-sdk
-- odoo-addon-account-financial-risk
-- ekuiper
-- naif-eop-high-prec
-- triplethreading
-- lfss
