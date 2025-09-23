@@ -1,0 +1,11 @@
+{
+  "name": "automarkdown",
+  "version": "1.0.0",
+  "summary": "Intelligently convert codebases into markdown for LLMs to process and provide optimal insights",
+  "author": "harshpreet931",
+  "license": null,
+  "home_page": "https://github.com/harshpreet931/autoMarkdown",
+  "download_filename": "automarkdown-1.0.0.tar.gz",
+  "download_time": "2025-09-23T09:22:20.240356",
+  "package_url": "https://pypi.org/project/automarkdown/"
+}

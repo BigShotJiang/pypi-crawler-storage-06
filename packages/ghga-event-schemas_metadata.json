@@ -1,11 +1,11 @@
 {
   "name": "ghga-event-schemas",
-  "version": "10.1.1",
+  "version": "10.1.2",
   "summary": "GHGA Event Schemas: A package that collects schemas used for events exchanged between GHGA service.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "ghga_event_schemas-10.1.1.tar.gz",
-  "download_time": "2025-09-23T07:22:42.622918",
+  "download_filename": "ghga_event_schemas-10.1.2.tar.gz",
+  "download_time": "2025-09-23T09:22:41.154068",
   "package_url": "https://pypi.org/project/ghga-event-schemas/"
 }

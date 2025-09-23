@@ -1,0 +1,11 @@
+{
+  "name": "muko",
+  "version": "4.63",
+  "summary": "加速实现AIGC、自动办公的中文编程工具",
+  "author": "Milk",
+  "license": "The MIT License",
+  "home_page": "https://www.mikooo.cn",
+  "download_filename": "muko-4.63-py3-none-any.whl",
+  "download_time": "2025-09-23T09:22:48.104753",
+  "package_url": "https://pypi.org/project/muko/"
+}

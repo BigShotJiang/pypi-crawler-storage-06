@@ -1,0 +1,11 @@
+{
+  "name": "vuegen",
+  "version": "0.5.1",
+  "summary": "VueGen automates the creation of reports from bioinformatics outputs, supporting formats like PDF, HTML, DOCX, ODT, PPTX, Reveal.js, Jupyter notebooks, and Streamlit web applications. Users simply provide a directory with output files and VueGen compiles them into a structured report.",
+  "author": "MoNA group",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vuegen-0.5.1.tar.gz",
+  "download_time": "2025-09-23T09:22:58.546260",
+  "package_url": "https://pypi.org/project/vuegen/"
+}

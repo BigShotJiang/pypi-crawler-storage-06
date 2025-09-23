@@ -1,0 +1,11 @@
+{
+  "name": "problog",
+  "version": "2.2.9",
+  "summary": "ProbLog2: Probabilistic Logic Programming toolbox",
+  "author": "ProbLog team",
+  "license": "Apache Software License",
+  "home_page": "https://dtai.cs.kuleuven.be/problog",
+  "download_filename": "problog-2.2.9.tar.gz",
+  "download_time": "2025-09-23T09:22:27.001281",
+  "package_url": "https://pypi.org/project/problog/"
+}

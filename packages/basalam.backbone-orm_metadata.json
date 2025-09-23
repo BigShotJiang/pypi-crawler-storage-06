@@ -1,0 +1,11 @@
+{
+  "name": "basalam.backbone-orm",
+  "version": "2.2.8",
+  "summary": "Python Utilities & Basalam Micro-Services SDK",
+  "author": "Mojtabaa Habibain",
+  "license": null,
+  "home_page": "https://github.com/basalam/backbone-orm",
+  "download_filename": "basalam_backbone_orm-2.2.8.tar.gz",
+  "download_time": "2025-09-23T09:22:43.306235",
+  "package_url": "https://pypi.org/project/basalam.backbone-orm/"
+}

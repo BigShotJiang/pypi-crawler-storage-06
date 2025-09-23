@@ -1,0 +1,11 @@
+{
+  "name": "django-privacy-policy-tools",
+  "version": "0.2.0",
+  "summary": "This is a highly configurable Django app to manage privacy policies and confirmations.",
+  "author": "Josef Wachtler",
+  "license": null,
+  "home_page": "https://github.com/wachjose88/django-privacy-policy-tools",
+  "download_filename": "django_privacy_policy_tools-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-23T09:22:52.850839",
+  "package_url": "https://pypi.org/project/django-privacy-policy-tools/"
+}

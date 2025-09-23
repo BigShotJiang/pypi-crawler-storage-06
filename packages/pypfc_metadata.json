@@ -1,11 +1,11 @@
 {
   "name": "pypfc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Python Package for Phase Field Crystal (PFC) Simulations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypfc-0.0.2.tar.gz",
-  "download_time": "2025-09-23T07:53:08.327658",
+  "download_filename": "pypfc-0.0.3.tar.gz",
+  "download_time": "2025-09-23T09:22:58.034487",
   "package_url": "https://pypi.org/project/pypfc/"
 }

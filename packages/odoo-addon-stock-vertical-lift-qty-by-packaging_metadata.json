@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-vertical-lift-qty-by-packaging",
+  "version": "18.0.1.0.0.3",
+  "summary": "Glue module for `stock_product_qty_by_packaging` and `stock_vertical_lift`.",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-warehouse",
+  "download_filename": "odoo_addon_stock_vertical_lift_qty_by_packaging-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-23T09:22:16.100737",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-vertical-lift-qty-by-packaging/"
+}

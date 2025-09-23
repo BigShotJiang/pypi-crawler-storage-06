@@ -1,0 +1,11 @@
+{
+  "name": "testrail-reporter-tool",
+  "version": "1.4.0",
+  "summary": "TestRail reporter tool",
+  "author": "Ilya Bumarskov",
+  "license": null,
+  "home_page": "https://github.com/ibumarskov/testrail-reporter",
+  "download_filename": "testrail-reporter-tool-1.4.0.tar.gz",
+  "download_time": "2025-09-23T09:22:23.344486",
+  "package_url": "https://pypi.org/project/testrail-reporter-tool/"
+}
