@@ -1,0 +1,11 @@
+{
+  "name": "aind-behavior-video-transformation",
+  "version": "0.2.0",
+  "summary": "Handles behavior modality folder",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_behavior_video_transformation-0.2.0.tar.gz",
+  "download_time": "2025-09-23T20:23:19.052551",
+  "package_url": "https://pypi.org/project/aind-behavior-video-transformation/"
+}

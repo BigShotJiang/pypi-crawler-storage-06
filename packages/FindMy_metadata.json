@@ -1,0 +1,11 @@
+{
+  "name": "FindMy",
+  "version": "0.9.0",
+  "summary": "Everything you need to work with Apple's Find My network!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "findmy-0.9.0.tar.gz",
+  "download_time": "2025-09-23T20:23:21.667688",
+  "package_url": "https://pypi.org/project/FindMy/"
+}
