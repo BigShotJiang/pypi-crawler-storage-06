@@ -1,0 +1,11 @@
+{
+  "name": "atmos-validation",
+  "version": "2.0.4",
+  "summary": "A python library containing automated data validation tools for the Atmos Data Service",
+  "author": "Team Atmos (Equinor)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atmos_validation-2.0.4.tar.gz",
+  "download_time": "2025-09-23T07:53:12.447658",
+  "package_url": "https://pypi.org/project/atmos-validation/"
+}
