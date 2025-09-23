@@ -1,11 +1,11 @@
 {
   "name": "uv-ship",
-  "version": "0.1.1",
-  "summary": "A light tag and release tool for uv managed python projects",
+  "version": "0.1.2",
+  "summary": "a release workflow streamliner for uv managed python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uv_ship-0.1.1.tar.gz",
-  "download_time": "2025-09-23T05:42:26.403364",
+  "download_filename": "uv_ship-0.1.2.tar.gz",
+  "download_time": "2025-09-23T17:31:11.420741",
   "package_url": "https://pypi.org/project/uv-ship/"
 }

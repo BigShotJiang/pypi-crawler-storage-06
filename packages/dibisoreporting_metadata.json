@@ -1,11 +1,11 @@
 {
   "name": "dibisoreporting",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "A Python library for generating bibliometric reports, developed at the DiBISO.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dibisoreporting-0.3.tar.gz",
-  "download_time": "2025-09-17T18:48:30.425725",
+  "download_filename": "dibisoreporting-0.4.tar.gz",
+  "download_time": "2025-09-23T17:31:10.394731",
   "package_url": "https://pypi.org/project/dibisoreporting/"
 }

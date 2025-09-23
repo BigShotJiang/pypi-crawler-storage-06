@@ -1,11 +1,11 @@
 {
   "name": "pyudon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Unsupervised Discovery of Novel Disease Programs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyudon-0.0.2.tar.gz",
-  "download_time": "2025-09-19T18:27:03.811611",
+  "download_filename": "pyudon-0.0.3.tar.gz",
+  "download_time": "2025-09-23T17:30:54.864961",
   "package_url": "https://pypi.org/project/pyudon/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flatten-anything",
+  "version": "1.1.0",
+  "summary": "Stop writing custom parsers for every data format. Flatten anything.",
+  "author": "Evan Cline",
+  "license": null,
+  "home_page": "https://github.com/BudLight-Year/flatten-anything",
+  "download_filename": "flatten_anything-1.1.0.tar.gz",
+  "download_time": "2025-09-23T17:30:41.887794",
+  "package_url": "https://pypi.org/project/flatten-anything/"
+}

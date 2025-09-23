@@ -1,11 +1,11 @@
 {
   "name": "imgquad",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "IMaGe QUality Assessment for Digitisation batches",
   "author": "Johan van der Knijff",
   "license": "Apache License (https://www.apache.org/licenses/LICENSE-2.0)",
   "home_page": "https://github.com/KBNLresearch/imgquad",
-  "download_filename": "imgquad-0.1.1.tar.gz",
-  "download_time": "2025-09-17T16:24:17.515806",
+  "download_filename": "imgquad-0.1.2.tar.gz",
+  "download_time": "2025-09-23T17:30:52.790607",
   "package_url": "https://pypi.org/project/imgquad/"
 }

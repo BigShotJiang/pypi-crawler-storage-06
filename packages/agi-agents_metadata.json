@@ -1,0 +1,11 @@
+{
+  "name": "agi-agents",
+  "version": "0.2.1",
+  "summary": "A streamlined interface for LangChain based AI agent creation with multi-modal support",
+  "author": "YvonneYS-Du",
+  "license": "MIT",
+  "home_page": "https://github.com/YvonneYS-DU/agi_agents",
+  "download_filename": "agi_agents-0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-23T17:30:49.646381",
+  "package_url": "https://pypi.org/project/agi-agents/"
+}
