@@ -1,11 +1,11 @@
 {
   "name": "streamlit-pianoroll",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Streamlit component that allows you to play piano",
   "author": "Bathilda Bagshot",
   "license": null,
   "home_page": "https://github.com/Nospoko/streamlit-pianoroll",
-  "download_filename": "streamlit-pianoroll-0.7.3.tar.gz",
-  "download_time": "2025-09-17T19:51:17.354963",
+  "download_filename": "streamlit-pianoroll-0.7.4.tar.gz",
+  "download_time": "2025-09-23T06:00:44.892628",
   "package_url": "https://pypi.org/project/streamlit-pianoroll/"
 }

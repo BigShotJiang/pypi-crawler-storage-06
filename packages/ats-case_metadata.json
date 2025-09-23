@@ -1,0 +1,11 @@
+{
+  "name": "ats-case",
+  "version": "2.1.82",
+  "summary": "Test Script Development Library",
+  "author": "zhangyue",
+  "license": null,
+  "home_page": "https://gitee.com/henry9000/ats_case",
+  "download_filename": "ats_case-2.1.82.tar.gz",
+  "download_time": "2025-09-23T06:00:46.694420",
+  "package_url": "https://pypi.org/project/ats-case/"
+}
