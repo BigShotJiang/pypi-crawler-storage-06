@@ -1,11 +1,11 @@
 {
   "name": "metaxuda",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "CUDA→Metal universal backend shim (MetaXuda)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metaxuda-0.1.1.tar.gz",
-  "download_time": "2025-09-22T20:22:36.901023",
+  "download_filename": "metaxuda-0.1.6.tar.gz",
+  "download_time": "2025-09-23T01:24:02.095798",
   "package_url": "https://pypi.org/project/metaxuda/"
 }

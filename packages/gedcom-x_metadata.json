@@ -1,0 +1,11 @@
+{
+  "name": "gedcom-x",
+  "version": "0.5.14",
+  "summary": "Python implimentation of gedcom-x standard",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gedcom_x-0.5.14.tar.gz",
+  "download_time": "2025-09-23T01:24:00.913807",
+  "package_url": "https://pypi.org/project/gedcom-x/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fosslight-dependency",
+  "version": "4.1.21",
+  "summary": "FOSSLight Dependency Scanner",
+  "author": "LG Electronics",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/fosslight/fosslight_dependency_scanner",
+  "download_filename": "fosslight_dependency-4.1.21.tar.gz",
+  "download_time": "2025-09-23T01:24:46.461382",
+  "package_url": "https://pypi.org/project/fosslight-dependency/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fcm-receiver",
+  "version": "0.1.1",
+  "summary": "A Python library for receiving Firebase Cloud Messages",
+  "author": "Agus Ibrahim",
+  "license": "MIT",
+  "home_page": "https://github.com/agusibrahim/pyfcm-receiver",
+  "download_filename": "fcm_receiver-0.1.1.tar.gz",
+  "download_time": "2025-09-23T01:24:13.722530",
+  "package_url": "https://pypi.org/project/fcm-receiver/"
+}

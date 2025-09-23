@@ -1,11 +1,11 @@
 {
   "name": "maleo-mixins",
-  "version": "0.0.31",
+  "version": "0.0.33",
   "summary": "Mixins package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_mixins-0.0.31.tar.gz",
-  "download_time": "2025-09-22T19:17:42.562355",
+  "download_filename": "maleo_mixins-0.0.33.tar.gz",
+  "download_time": "2025-09-23T01:24:41.302628",
   "package_url": "https://pypi.org/project/maleo-mixins/"
 }
