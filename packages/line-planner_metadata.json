@@ -1,11 +1,11 @@
 {
   "name": "line-planner",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "通用航线拐点规划器",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "line_planner-1.0.0.tar.gz",
-  "download_time": "2025-09-22T03:43:41.780832",
+  "download_filename": "line_planner-1.1.2.tar.gz",
+  "download_time": "2025-09-23T14:21:44.298671",
   "package_url": "https://pypi.org/project/line-planner/"
 }

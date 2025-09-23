@@ -1,11 +1,11 @@
 {
   "name": "mcp-evaluation-server",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "summary": "MCP工具评估助手服务器",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_evaluation_server-0.2.8.tar.gz",
-  "download_time": "2025-09-23T13:48:02.178805",
+  "download_filename": "mcp_evaluation_server-0.2.10.tar.gz",
+  "download_time": "2025-09-23T14:21:51.596453",
   "package_url": "https://pypi.org/project/mcp-evaluation-server/"
 }
