@@ -1,0 +1,11 @@
+{
+  "name": "stpipe",
+  "version": "0.11.0",
+  "summary": "Framework for calibration pipeline software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stpipe-0.11.0.tar.gz",
+  "download_time": "2025-09-23T19:30:51.839796",
+  "package_url": "https://pypi.org/project/stpipe/"
+}

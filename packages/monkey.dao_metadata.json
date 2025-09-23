@@ -1,11 +1,11 @@
 {
   "name": "monkey.dao",
-  "version": "2.0.0.dev2",
+  "version": "2.0.0.dev4",
   "summary": "Simple Data Access Object pattern implementation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "monkey_dao-2.0.0.dev2.tar.gz",
-  "download_time": "2025-09-22T07:40:44.352816",
+  "download_filename": "monkey_dao-2.0.0.dev4.tar.gz",
+  "download_time": "2025-09-23T19:30:45.959439",
   "package_url": "https://pypi.org/project/monkey.dao/"
 }

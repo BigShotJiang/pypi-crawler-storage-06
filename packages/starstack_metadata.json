@@ -1,0 +1,11 @@
+{
+  "name": "starstack",
+  "version": "0.2.11",
+  "summary": "A relion star mrcs stack class",
+  "author": "Ruben Sanchez Garcia",
+  "license": null,
+  "home_page": "https://github.com/rsanchezgarc/starstack",
+  "download_filename": "starstack-0.2.11.tar.gz",
+  "download_time": "2025-09-23T19:30:32.078179",
+  "package_url": "https://pypi.org/project/starstack/"
+}
