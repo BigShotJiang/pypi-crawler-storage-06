@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T11:19:15.350156
-- **Total Packages**: 84
-- **Total Size**: 10.82 MB
+- **Download Time**: 2025-09-23T11:31:24.641260
+- **Total Packages**: 82
+- **Total Size**: 14.62 MB
 
 ## Packages List
+- athena-intelligence
+- unique_web_search
+- jacksung
+- django-rapid
+- yeref
+- torchx-nightly
+- mc-netease-sdk-nyrev
+- univllm
+- comet-ml
+- mix-python-sdk
+- great-components
+- osc-transformers
+- scc-firewall-manager-sdk
+- sgu-client
+- django-bulk-drf
+- altan
+- sudorouter
+- canns
+- HaloPSA
+- mimo-llm
+- mcp-ambari-api
+- upgini
+- threedidepth
+- aixtools
+- authentik-client
+- pycopancore
+- laam
+- plantsimpath
+- devdox-ai-locust
+- captcha-ocr-devkit
+- quantreo
+- kannolo
+- mangopaysdk
+- docmind-parser-mcp
+- genebot
 - DesmosKiller
 - NaaVRE-workflow-jupyterlab
 - AOT-biomaps
@@ -24,7 +59,6 @@
 - sqlrooms-duckdb-server
 - scruby
 - ufaas
-- django-bulk-drf
 - man2text
 - bizydraft
 - foundationallm-agent-plugins
@@ -34,18 +68,14 @@
 - detdevlib
 - ewox
 - afromessage
-- yeref
 - ewoxservicefastapi
-- authentik-client
 - django-mail-auth
 - sparkpipelineframework
-- inception-fid-weights-zst
 - ewoxcore
 - credmodex
 - virtualinput
 - climdata
 - duck_client
-- aixtools
 - gerrit-clone
 - factorylint
 - SpatialPerturb
@@ -53,40 +83,8 @@
 - aspire-gw
 - cadence-sdk
 - easy-cos
-- univllm
 - huizhi-coupon-lengyue1084
 - MyCommonLib
 - chartspy
 - reait
 - django-project-base
-- safe-cli
-- jamlib
-- polypart
-- OASYS1-Elettra-Extensions
-- inventree-ss-batch-number-generator
-- IBB-Helper
-- VegZ
-- cycode
-- directory-sso-api-client
-- vulnebify
-- genebot
-- django-rapid
-- proqub
-- thingsboard-gateway
-- directory-forms-api-client
-- superai-langchain
-- mgnify-pipelines-toolkit
-- package-main
-- datafusion
-- directory-ch-client
-- alm-mcp
-- data-science-document-ai
-- hgraph
-- rte-python-api
-- dw-ai-x
-- fhir-cda
-- ccs-digitalmarketplace-apiclient
-- process-gpt-agent-sdk
-- directory-client-core
-- video-content-extractor-mcp
-- directory-components

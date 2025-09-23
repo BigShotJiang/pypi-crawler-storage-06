@@ -1,11 +1,11 @@
 {
   "name": "mimo-llm",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A language model fine-tuned for code and conversation.",
-  "author": "ABDESSEMED Mohamed",
+  "author": "ABDESSEMED Mohamed Redha",
   "license": null,
   "home_page": "https://github.com/eurocybersecurite/Mimo-llm",
-  "download_filename": "mimo_llm-0.1.3.tar.gz",
-  "download_time": "2025-09-22T19:17:35.578400",
+  "download_filename": "mimo_llm-0.1.4.tar.gz",
+  "download_time": "2025-09-23T11:30:51.612606",
   "package_url": "https://pypi.org/project/mimo-llm/"
 }

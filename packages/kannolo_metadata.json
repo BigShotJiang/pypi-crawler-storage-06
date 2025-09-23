@@ -1,11 +1,11 @@
 {
   "name": "kannolo",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Python interface for the kANNolo library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kannolo-0.3.3.tar.gz",
-  "download_time": "2025-09-19T13:44:48.000357",
+  "download_filename": "kannolo-0.3.4.tar.gz",
+  "download_time": "2025-09-23T11:30:57.972588",
   "package_url": "https://pypi.org/project/kannolo/"
 }

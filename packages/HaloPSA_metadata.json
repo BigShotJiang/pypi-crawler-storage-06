@@ -1,0 +1,11 @@
+{
+  "name": "HaloPSA",
+  "version": "2.0.0",
+  "summary": "Python wrapper for the HaloPSA API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "halopsa-2.0.0.tar.gz",
+  "download_time": "2025-09-23T11:30:51.094281",
+  "package_url": "https://pypi.org/project/HaloPSA/"
+}

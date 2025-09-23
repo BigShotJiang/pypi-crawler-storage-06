@@ -1,0 +1,11 @@
+{
+  "name": "threedidepth",
+  "version": "0.7.0",
+  "summary": "Calculate waterdepths for 3Di results.",
+  "author": "Arjan Verkerk",
+  "license": "BSD license",
+  "home_page": "https://github.com/nens/threedidepth",
+  "download_filename": "threedidepth-0.7.0.tar.gz",
+  "download_time": "2025-09-23T11:30:53.198491",
+  "package_url": "https://pypi.org/project/threedidepth/"
+}
