@@ -1,0 +1,11 @@
+{
+  "name": "astrocalc",
+  "version": "0.4.6",
+  "summary": "perform common astronomy-related calculations, conversions and measurements within python scripts or from the command-line",
+  "author": "David Young",
+  "license": "MIT",
+  "home_page": "https://github.com/thespacedoctor/astrocalc",
+  "download_filename": "astrocalc-0.4.6.tar.gz",
+  "download_time": "2025-09-23T14:56:37.221321",
+  "package_url": "https://pypi.org/project/astrocalc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "imagecraft",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Easy image resizing, cropping, and converting for Python and Django projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "imagecraft-0.2.1.tar.gz",
-  "download_time": "2025-09-21T18:26:00.502184",
+  "download_filename": "imagecraft-0.2.4.tar.gz",
+  "download_time": "2025-09-23T14:57:09.438891",
   "package_url": "https://pypi.org/project/imagecraft/"
 }

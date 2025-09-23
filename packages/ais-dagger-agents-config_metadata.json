@@ -1,11 +1,11 @@
 {
   "name": "ais-dagger-agents-config",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "Shared configuration models for Dagger Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ais_dagger_agents_config-0.1.21.tar.gz",
-  "download_time": "2025-09-20T20:38:03.739924",
+  "download_filename": "ais_dagger_agents_config-0.1.22.tar.gz",
+  "download_time": "2025-09-23T14:56:57.718395",
   "package_url": "https://pypi.org/project/ais-dagger-agents-config/"
 }

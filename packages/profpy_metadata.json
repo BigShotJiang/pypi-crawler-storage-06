@@ -1,0 +1,11 @@
+{
+  "name": "profpy",
+  "version": "3.2.1",
+  "summary": null,
+  "author": "Connor Hornibrook",
+  "license": "MIT",
+  "home_page": "https://github.com/rowanuniversity/profpy/",
+  "download_filename": "profpy-3.2.1.tar.gz",
+  "download_time": "2025-09-23T14:56:41.355316",
+  "package_url": "https://pypi.org/project/profpy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "certbot-dns-abion",
-  "version": "0.1.94",
+  "version": "0.1.96",
   "summary": "Certbot DNS authenticator for Abion DNS API (community maintained, not affiliated with Abion)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "certbot_dns_abion-0.1.94.tar.gz",
-  "download_time": "2025-09-23T13:47:47.733531",
+  "download_filename": "certbot_dns_abion-0.1.96.tar.gz",
+  "download_time": "2025-09-23T14:56:40.760778",
   "package_url": "https://pypi.org/project/certbot-dns-abion/"
 }
