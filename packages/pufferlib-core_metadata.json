@@ -1,11 +1,11 @@
 {
   "name": "pufferlib-core",
-  "version": "3.0.7",
-  "summary": "Minimal PufferLib core functionality with vectorized environments",
+  "version": "3.0.8",
+  "summary": "PufferLib core functionality with vectorized environments and reinforcement learning",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pufferlib_core-3.0.7.tar.gz",
-  "download_time": "2025-09-23T18:30:52.614539",
+  "download_filename": "pufferlib_core-3.0.8.tar.gz",
+  "download_time": "2025-09-23T19:41:50.734153",
   "package_url": "https://pypi.org/project/pufferlib-core/"
 }

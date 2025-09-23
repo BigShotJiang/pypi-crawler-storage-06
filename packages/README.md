@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T19:31:14.768117
-- **Total Packages**: 81
-- **Total Size**: 27.16 MB
+- **Download Time**: 2025-09-23T19:42:32.761660
+- **Total Packages**: 84
+- **Total Size**: 12.86 MB
 
 ## Packages List
+- aind-dynamic-foraging-data-utils
+- mst-authsrv
+- turboxl
+- kibreabpdf
+- geepers
+- napari-mAIcrobe
+- satori-ci
+- pufferlib-core
+- text2qna
+- gamdl
+- pipeline-eds
+- docsmakerpy
+- ethyca-fides
+- bafser
+- aircheck-test-model
+- authentik-client
+- vior-sdk
+- how2validate
+- Django-local-lib-pycon2025
+- pycarlo
+- unique_toolkit
+- gabriel-server
+- vital
+- firstmail
+- gabriel-client
+- pydepm
+- clifpy
+- agilicus
+- vector-vault
+- xarray-beam
 - MaxBridge
 - boto3
 - awscli
@@ -20,14 +50,12 @@
 - tesswcs
 - pysparks
 - rapporteur
-- turboxl
 - airflow-laminar
 - foundationallm-agent-plugins
 - inventree-dymo-plugin
 - head-hunter-job-bot-auth-tool
 - streamlit
 - graphs-jackWheelerEng
-- authentik-client
 - goblintools
 - nubrain
 - lesson-7-1-plugin
@@ -37,7 +65,6 @@
 - sapiens-transformers
 - shadecrypt
 - vlmrun
-- pydepm
 - trading-common
 - pulumi
 - cohens-d-effect-size
@@ -50,7 +77,6 @@
 - quantconnect-stubs
 - test-mcp-server-ap25092201
 - supervisor-pydantic
-- bafser
 - kryptools
 - pysma-plus
 - pywwa
@@ -64,26 +90,3 @@
 - terminator-py
 - inventree-cups-plugin
 - inventree-bulk-plugin
-- arthur-client
-- how2validate
-- ai-ebash
-- thds.atacama
-- thds.mops
-- thds.humenc
-- thds.core
-- thds.adls
-- falcon-helpers
-- heros
-- cmdstyler
-- pytest-stf
-- TelegramTextApp
-- flucoma-torch
-- codearkt
-- django-oidc-provider
-- dgpy
-- spreadconnect-python-sdk
-- multi-agent-generator
-- aioesphomeapi
-- bigwig-io
-- dbt-mcp
-- skyter

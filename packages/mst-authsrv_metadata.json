@@ -1,0 +1,11 @@
+{
+  "name": "mst-authsrv",
+  "version": "1.3.0",
+  "summary": "An interface for authsrv",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mst_authsrv-1.3.0-py3-none-any.whl",
+  "download_time": "2025-09-23T19:41:47.503300",
+  "package_url": "https://pypi.org/project/mst-authsrv/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "docsmakerpy",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "summary": "Generate static documentation sites from Markdown files with theming and plugins.",
   "author": "Othmane BLIAL",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docsmakerpy-1.2.3.tar.gz",
-  "download_time": "2025-09-23T19:18:22.160231",
+  "download_filename": "docsmakerpy-1.2.5.tar.gz",
+  "download_time": "2025-09-23T19:41:52.829129",
   "package_url": "https://pypi.org/project/docsmakerpy/"
 }
