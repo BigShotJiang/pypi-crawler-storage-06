@@ -1,11 +1,11 @@
 {
   "name": "inferedge-moss-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Proprietary core index logic for InferEdge Moss",
   "author": "InferEdge, Inc.",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "inferedge_moss_core-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-09-22T23:38:53.689118",
+  "download_filename": "inferedge_moss_core-0.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-23T05:42:09.992382",
   "package_url": "https://pypi.org/project/inferedge-moss-core/"
 }

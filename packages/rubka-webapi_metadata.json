@@ -1,11 +1,11 @@
 {
   "name": "rubka-webapi",
-  "version": "3.7.6",
+  "version": "3.7.9",
   "summary": "یک کتابخانه قدرتمند و آسان برای ساخت ربات‌های خودکار در روبیکا.",
   "author": "httex",
   "license": null,
   "home_page": "https://github.com/xetay12/rubka_webapi",
-  "download_filename": "rubka_webapi-3.7.6.tar.gz",
-  "download_time": "2025-09-23T04:44:51.270659",
+  "download_filename": "rubka_webapi-3.7.9.tar.gz",
+  "download_time": "2025-09-23T05:42:21.234875",
   "package_url": "https://pypi.org/project/rubka-webapi/"
 }

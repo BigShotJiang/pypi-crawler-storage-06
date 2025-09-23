@@ -1,0 +1,11 @@
+{
+  "name": "BraTS-Toolkit",
+  "version": "1.0.18",
+  "summary": "BraTS Toolkit is a holistic approach to brain tumor segmentation allowing to build modular pipeliens for preprocessing, segmentation and fusion of segmentations.",
+  "author": "Florian Kofler",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "brats_toolkit-1.0.18-py3-none-any.whl",
+  "download_time": "2025-09-23T05:42:31.080559",
+  "package_url": "https://pypi.org/project/BraTS-Toolkit/"
+}

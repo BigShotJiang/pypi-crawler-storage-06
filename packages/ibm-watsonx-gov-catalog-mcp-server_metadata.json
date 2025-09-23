@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watsonx-gov-catalog-mcp-server",
+  "version": "1.0.0",
+  "summary": "An IBM watsonx.governance mcp server that connects AI agents with marketplace of tools available on governance catalog ",
+  "author": "IBM watsonx.governance",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ibm_watsonx_gov_catalog_mcp_server-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-23T05:42:30.044475",
+  "package_url": "https://pypi.org/project/ibm-watsonx-gov-catalog-mcp-server/"
+}

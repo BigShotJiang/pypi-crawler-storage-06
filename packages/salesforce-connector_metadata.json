@@ -1,11 +1,11 @@
 {
   "name": "salesforce-connector",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A utility class to interact with SalesForce using OAuth 2.0 credentials.",
   "author": "Mukhtar",
   "license": null,
   "home_page": null,
-  "download_filename": "salesforce_connector-0.0.4-py3-none-any.whl",
-  "download_time": "2025-09-22T10:22:57.169186",
+  "download_filename": "salesforce_connector-0.0.5-py3-none-any.whl",
+  "download_time": "2025-09-23T05:42:12.617844",
   "package_url": "https://pypi.org/project/salesforce-connector/"
 }

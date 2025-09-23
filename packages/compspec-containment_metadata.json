@@ -1,11 +1,11 @@
 {
   "name": "compspec-containment",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Subsystem graph generation for the Flux containment subsystem",
   "author": "Vanessa Sochat",
   "license": "LICENSE",
   "home_page": "https://github.com/compspec/compspec-containment",
-  "download_filename": "compspec_containment-0.0.13-py3-none-any.whl",
-  "download_time": "2025-09-21T22:52:04.549968",
+  "download_filename": "compspec_containment-0.0.14.tar.gz",
+  "download_time": "2025-09-23T05:42:16.823614",
   "package_url": "https://pypi.org/project/compspec-containment/"
 }
