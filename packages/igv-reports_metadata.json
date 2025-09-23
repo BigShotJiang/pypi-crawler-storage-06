@@ -1,0 +1,11 @@
+{
+  "name": "igv-reports",
+  "version": "1.16.0",
+  "summary": "Creates self-contained html pages for visual variant review with IGV (igv.js).",
+  "author": "Jim Robinson",
+  "license": "MIT",
+  "home_page": "https://github.com/igvteam/igv-reports",
+  "download_filename": "igv-reports-1.16.0.tar.gz",
+  "download_time": "2025-09-23T23:53:40.190437",
+  "package_url": "https://pypi.org/project/igv-reports/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "passagemath-cmr",
-  "version": "10.6.27",
+  "version": "10.6.28",
   "summary": "passagemath: Combinatorial matrix recognition",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_cmr-10.6.27-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-09-22T11:18:45.509893",
+  "download_filename": "passagemath_cmr-10.6.28-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-09-23T23:53:53.257669",
   "package_url": "https://pypi.org/project/passagemath-cmr/"
 }
