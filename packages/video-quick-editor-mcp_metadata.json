@@ -1,11 +1,11 @@
 {
   "name": "video-quick-editor-mcp",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "MCP server for advanced video editing: aspect ratio adjustment, subtitles, overlays, concatenation, speed changes, and transitions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "video_quick_editor_mcp-0.1.9.tar.gz",
-  "download_time": "2025-09-23T06:53:45.117351",
+  "download_filename": "video_quick_editor_mcp-0.2.1.tar.gz",
+  "download_time": "2025-09-23T07:22:23.111424",
   "package_url": "https://pypi.org/project/video-quick-editor-mcp/"
 }

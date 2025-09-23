@@ -1,11 +1,11 @@
 {
   "name": "xync-schema",
-  "version": "0.0.44",
+  "version": "0.0.45",
   "summary": "XyncNet project database model schema",
   "author": null,
   "license": "EULA",
   "home_page": null,
-  "download_filename": "xync_schema-0.0.44.tar.gz",
-  "download_time": "2025-09-23T06:31:33.471108",
+  "download_filename": "xync_schema-0.0.45.tar.gz",
+  "download_time": "2025-09-23T07:22:15.543147",
   "package_url": "https://pypi.org/project/xync-schema/"
 }

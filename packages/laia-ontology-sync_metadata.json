@@ -1,0 +1,11 @@
+{
+  "name": "laia-ontology-sync",
+  "version": "0.1.2",
+  "summary": "Librería para sincronizar MongoDB con Apache Jena Fuseki usando RDF.",
+  "author": "Itziar Mensa Minguito",
+  "license": null,
+  "home_page": null,
+  "download_filename": "laia_ontology_sync-0.1.2.tar.gz",
+  "download_time": "2025-09-23T07:22:38.985424",
+  "package_url": "https://pypi.org/project/laia-ontology-sync/"
+}

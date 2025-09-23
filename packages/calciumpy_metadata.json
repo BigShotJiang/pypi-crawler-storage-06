@@ -1,11 +1,11 @@
 {
   "name": "calciumpy",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A Calcium language interpreter",
   "author": "Roki Turner",
   "license": null,
   "home_page": null,
-  "download_filename": "calciumpy-0.4.0.tar.gz",
-  "download_time": "2025-09-23T06:00:49.561015",
+  "download_filename": "calciumpy-0.4.1.tar.gz",
+  "download_time": "2025-09-23T07:22:49.063506",
   "package_url": "https://pypi.org/project/calciumpy/"
 }
