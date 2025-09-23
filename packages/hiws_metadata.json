@@ -1,11 +1,11 @@
 {
   "name": "hiws",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A wrapper for WhatsApp's Cloud API",
   "author": "Tomas Santana",
   "license": "MIT",
   "home_page": "https://github.com/cervant-ai/hiws",
-  "download_filename": "hiws-0.2.1.tar.gz",
-  "download_time": "2025-09-23T05:20:15.735814",
+  "download_filename": "hiws-0.3.0.tar.gz",
+  "download_time": "2025-09-23T16:49:09.026893",
   "package_url": "https://pypi.org/project/hiws/"
 }

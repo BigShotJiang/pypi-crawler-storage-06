@@ -1,0 +1,11 @@
+{
+  "name": "ncbitax2lin",
+  "version": "3.0.0",
+  "summary": "A tool that converts NCBI taxonomy dump into lineages",
+  "author": "Zhuyi Xue",
+  "license": "MIT",
+  "home_page": "https://github.com/zyxue/ncbitax2lin",
+  "download_filename": "ncbitax2lin-3.0.0.tar.gz",
+  "download_time": "2025-09-23T16:48:58.545437",
+  "package_url": "https://pypi.org/project/ncbitax2lin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vserial",
+  "version": "0.1.2",
+  "summary": "Virtual serial device library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vserial-0.1.2.tar.gz",
+  "download_time": "2025-09-23T16:49:11.732268",
+  "package_url": "https://pypi.org/project/vserial/"
+}

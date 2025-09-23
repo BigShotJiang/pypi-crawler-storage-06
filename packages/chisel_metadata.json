@@ -1,11 +1,11 @@
 {
   "name": "chisel",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "summary": "Lightweight WSGI application framework, schema-validated JSON APIs, and API documentation",
   "author": "Craig A. Hobbs",
   "license": "MIT",
   "home_page": "https://github.com/craigahobbs/chisel",
-  "download_filename": "chisel-1.6.7.tar.gz",
-  "download_time": "2025-09-17T19:51:14.737035",
+  "download_filename": "chisel-1.6.8.tar.gz",
+  "download_time": "2025-09-23T16:49:07.455509",
   "package_url": "https://pypi.org/project/chisel/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "omero-adi",
-  "version": "1.0.0b3",
+  "version": "1.0.0b4",
   "summary": "OMERO Automated Data Import (ADI) System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omero_adi-1.0.0b3.tar.gz",
-  "download_time": "2025-09-22T15:54:28.976905",
+  "download_filename": "omero_adi-1.0.0b4.tar.gz",
+  "download_time": "2025-09-23T16:48:50.146415",
   "package_url": "https://pypi.org/project/omero-adi/"
 }

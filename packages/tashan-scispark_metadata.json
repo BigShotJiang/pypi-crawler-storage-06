@@ -1,11 +1,11 @@
 {
   "name": "tashan-scispark",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "TaShan SciSpark - Academic Research Assistant MCP Server",
   "author": "TaShan SciSpark Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tashan_scispark-1.0.4.tar.gz",
-  "download_time": "2025-09-23T16:26:18.229565",
+  "download_filename": "tashan_scispark-1.0.5.tar.gz",
+  "download_time": "2025-09-23T16:48:49.071334",
   "package_url": "https://pypi.org/project/tashan-scispark/"
 }
