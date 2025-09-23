@@ -1,0 +1,11 @@
+{
+  "name": "xlcalcmodel",
+  "version": "3.5.36",
+  "summary": "A Python-based Excel calculation engine with advanced function support",
+  "author": "Derek Pierson",
+  "license": null,
+  "home_page": "https://github.com/mustseetv314/xlcalcmodel",
+  "download_filename": "xlcalcmodel-3.5.36.tar.gz",
+  "download_time": "2025-09-23T15:43:42.640920",
+  "package_url": "https://pypi.org/project/xlcalcmodel/"
+}

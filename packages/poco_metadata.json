@@ -1,0 +1,11 @@
+{
+  "name": "poco",
+  "version": "0.99.3",
+  "summary": "poco lets you catalogue and manage your Docker projects using simple YAML files to shorten the route from finding your project to initialising it in your environment.",
+  "author": "Shiwaforce.com",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.shiwaforce.com",
+  "download_filename": "poco-0.99.3.tar.gz",
+  "download_time": "2025-09-23T15:44:00.043016",
+  "package_url": "https://pypi.org/project/poco/"
+}

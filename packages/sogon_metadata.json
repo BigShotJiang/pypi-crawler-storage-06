@@ -1,0 +1,11 @@
+{
+  "name": "sogon",
+  "version": "0.1.2",
+  "summary": "AI-powered subtitle generator from YouTube URLs or local media files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sogon-0.1.2-py3-none-any.whl",
+  "download_time": "2025-09-23T15:44:09.478116",
+  "package_url": "https://pypi.org/project/sogon/"
+}

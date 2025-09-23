@@ -1,0 +1,11 @@
+{
+  "name": "magneto-python",
+  "version": "0.2.0",
+  "summary": "Magneto Python library",
+  "author": "Yurong Liu, Eduardo Pena, Eden Wu, Aécio Santos, Roque Lopez",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/VIDA-NYU/data-integration-eval/tree/main/algorithms/magneto",
+  "download_filename": "magneto_python-0.2.0.tar.gz",
+  "download_time": "2025-09-23T15:43:45.297635",
+  "package_url": "https://pypi.org/project/magneto-python/"
+}

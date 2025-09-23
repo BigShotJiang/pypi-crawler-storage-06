@@ -1,11 +1,11 @@
 {
   "name": "tashan-scispark",
-  "version": "0.1.0",
-  "summary": "TaShan SciSpark - A hypothesis generation framework based on MCP protocol",
-  "author": null,
+  "version": "1.0.1",
+  "summary": "TaShan SciSpark - Academic Research Assistant MCP Server",
+  "author": "TaShan SciSpark Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tashan_scispark-0.1.0.tar.gz",
-  "download_time": "2025-09-22T16:26:30.536538",
+  "download_filename": "tashan_scispark-1.0.1.tar.gz",
+  "download_time": "2025-09-23T15:44:01.083977",
   "package_url": "https://pypi.org/project/tashan-scispark/"
 }

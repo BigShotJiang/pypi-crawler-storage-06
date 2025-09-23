@@ -1,0 +1,11 @@
+{
+  "name": "booleangene",
+  "version": "0.0.3",
+  "summary": "Analysis of Boolean gene networks",
+  "author": "Chris Viets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "booleangene-0.0.3.tar.gz",
+  "download_time": "2025-09-23T15:44:08.957365",
+  "package_url": "https://pypi.org/project/booleangene/"
+}

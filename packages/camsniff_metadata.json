@@ -1,0 +1,11 @@
+{
+  "name": "camsniff",
+  "version": "1.0.5",
+  "summary": "IP camera reconnaissance toolkit: Python core + web backend",
+  "author": "CamSniff Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "camsniff-1.0.5.tar.gz",
+  "download_time": "2025-09-23T15:43:38.932457",
+  "package_url": "https://pypi.org/project/camsniff/"
+}

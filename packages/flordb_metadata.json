@@ -1,0 +1,11 @@
+{
+  "name": "flordb",
+  "version": "3.4.10",
+  "summary": "Fast Low-Overhead Recovery",
+  "author": "Rolando Garcia",
+  "license": null,
+  "home_page": "https://github.com/ucbrise/flor",
+  "download_filename": "flordb-3.4.10.tar.gz",
+  "download_time": "2025-09-23T15:43:44.233090",
+  "package_url": "https://pypi.org/project/flordb/"
+}

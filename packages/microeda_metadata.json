@@ -1,11 +1,11 @@
 {
   "name": "microeda",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Ultra-lightweight micro EDA (exploratory data analysis) tool for small datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microeda-0.3.0.tar.gz",
-  "download_time": "2025-09-22T15:22:07.428462",
+  "download_filename": "microeda-0.4.0.tar.gz",
+  "download_time": "2025-09-23T15:44:06.341464",
   "package_url": "https://pypi.org/project/microeda/"
 }

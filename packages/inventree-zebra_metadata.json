@@ -1,0 +1,11 @@
+{
+  "name": "inventree-zebra",
+  "version": "0.1.0",
+  "summary": "InvenTree Zebra driver for label printing support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inventree_zebra-0.1.0.tar.gz",
+  "download_time": "2025-09-23T15:43:56.340323",
+  "package_url": "https://pypi.org/project/inventree-zebra/"
+}
