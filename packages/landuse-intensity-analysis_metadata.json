@@ -1,0 +1,11 @@
+{
+  "name": "landuse-intensity-analysis",
+  "version": "2.0.0a7",
+  "summary": "Comprehensive LULC change analysis with Pontius-Aldwaik intensity methodology. Generate 24+ types of publication-ready scientific visualizations from raw raster data in minutes. Complete workflow automation with memory optimization for large datasets. Perfect for researchers, environmental scientists, and GIS analysts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "landuse_intensity_analysis-2.0.0a7.tar.gz",
+  "download_time": "2025-09-23T18:30:47.259173",
+  "package_url": "https://pypi.org/project/landuse-intensity-analysis/"
+}

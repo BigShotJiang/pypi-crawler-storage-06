@@ -1,0 +1,11 @@
+{
+  "name": "snake-in-terminal-bashar",
+  "version": "0.1.0",
+  "summary": "لعبة ثعبان نصية تعمل في الطرفية (curses)",
+  "author": "بشار نشوان",
+  "license": "MIT",
+  "home_page": "https://example.com/snake_in_terminal_bashar",
+  "download_filename": "snake_in_terminal_bashar-0.1.0.tar.gz",
+  "download_time": "2025-09-23T18:30:45.629837",
+  "package_url": "https://pypi.org/project/snake-in-terminal-bashar/"
+}

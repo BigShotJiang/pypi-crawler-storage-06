@@ -1,11 +1,11 @@
 {
   "name": "yamlgator",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A macro language for yaml documents.",
   "author": "jeff",
   "license": null,
   "home_page": null,
-  "download_filename": "yamlgator-0.2.4.tar.gz",
-  "download_time": "2025-09-17T15:20:24.919777",
+  "download_filename": "yamlgator-0.2.5.tar.gz",
+  "download_time": "2025-09-23T18:30:29.748585",
   "package_url": "https://pypi.org/project/yamlgator/"
 }

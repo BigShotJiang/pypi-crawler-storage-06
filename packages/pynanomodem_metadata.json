@@ -1,11 +1,11 @@
 {
   "name": "pynanomodem",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "A Python implementation for Viasat IoT Nano modems.",
   "author": "Your Name",
   "license": "Apache2.0",
   "home_page": null,
-  "download_filename": "pynanomodem-0.2.8.tar.gz",
-  "download_time": "2025-09-23T17:43:20.848770",
+  "download_filename": "pynanomodem-0.2.9.tar.gz",
+  "download_time": "2025-09-23T18:30:38.652509",
   "package_url": "https://pypi.org/project/pynanomodem/"
 }

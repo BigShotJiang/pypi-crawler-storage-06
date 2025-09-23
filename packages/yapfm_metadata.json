@@ -1,0 +1,11 @@
+{
+  "name": "yapfm",
+  "version": "0.4.0",
+  "summary": "Yet Another Python File Manager",
+  "author": "Ephraim Seddor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yapfm-0.4.0.tar.gz",
+  "download_time": "2025-09-23T18:31:14.338561",
+  "package_url": "https://pypi.org/project/yapfm/"
+}
