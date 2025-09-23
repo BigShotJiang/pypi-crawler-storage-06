@@ -1,0 +1,11 @@
+{
+  "name": "Mastodon.py",
+  "version": "2.1.4",
+  "summary": "Python wrapper for the Mastodon API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mastodon_py-2.1.4-py3-none-any.whl",
+  "download_time": "2025-09-23T09:43:01.075193",
+  "package_url": "https://pypi.org/project/Mastodon.py/"
+}

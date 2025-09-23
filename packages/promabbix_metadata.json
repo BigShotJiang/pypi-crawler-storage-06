@@ -1,0 +1,11 @@
+{
+  "name": "promabbix",
+  "version": "0.0.3",
+  "summary": "Tool for connecting Prometheus to Zabbix monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promabbix-0.0.3.tar.gz",
+  "download_time": "2025-09-23T09:42:48.802493",
+  "package_url": "https://pypi.org/project/promabbix/"
+}

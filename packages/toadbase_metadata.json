@@ -1,11 +1,11 @@
 {
   "name": "toadbase",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Welcome to Toadbase, I love you",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toadbase-0.0.2.tar.gz",
-  "download_time": "2025-09-23T09:22:27.511598",
+  "download_filename": "toadbase-0.0.4.tar.gz",
+  "download_time": "2025-09-23T09:43:03.658025",
   "package_url": "https://pypi.org/project/toadbase/"
 }

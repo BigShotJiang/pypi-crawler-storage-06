@@ -1,0 +1,11 @@
+{
+  "name": "refactoroscope",
+  "version": "0.4.1",
+  "summary": "A Python-based command-line tool that provides comprehensive analysis of source code repositories",
+  "author": "Moinsen Dev",
+  "license": "MIT",
+  "home_page": "https://github.com/moinsen-dev/refactoroscope",
+  "download_filename": "refactoroscope-0.4.1.tar.gz",
+  "download_time": "2025-09-23T09:43:13.468833",
+  "package_url": "https://pypi.org/project/refactoroscope/"
+}
