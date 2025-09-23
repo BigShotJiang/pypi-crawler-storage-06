@@ -1,11 +1,11 @@
 {
   "name": "muse-lang",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Mini language for data analysis of asset management.",
   "author": "Brooks Lu",
   "license": null,
   "home_page": "https://e.coding.net/brookslu/muse/muse.git",
-  "download_filename": "muse_lang-0.6.0.tar.gz",
-  "download_time": "2025-09-22T03:58:51.569782",
+  "download_filename": "muse_lang-0.6.1.tar.gz",
+  "download_time": "2025-09-23T05:20:21.621868",
   "package_url": "https://pypi.org/project/muse-lang/"
 }

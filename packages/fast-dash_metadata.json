@@ -1,0 +1,11 @@
+{
+  "name": "fast-dash",
+  "version": "0.2.14",
+  "summary": "Turn your Python functions into interactive web applications. Fast Dash is an innovative way to build and deploy your Python code as interactive apps with minimal changes to your original code.",
+  "author": "Kedar Dabhadkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_dash-0.2.14.tar.gz",
+  "download_time": "2025-09-23T05:20:10.458188",
+  "package_url": "https://pypi.org/project/fast-dash/"
+}
