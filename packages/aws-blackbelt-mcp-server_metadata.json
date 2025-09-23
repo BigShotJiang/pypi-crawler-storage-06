@@ -1,0 +1,11 @@
+{
+  "name": "aws-blackbelt-mcp-server",
+  "version": "0.1.0rc1",
+  "summary": "Model Context Protocol (MCP) server for AWS Black Belt Online Seminar",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aws_blackbelt_mcp_server-0.1.0rc1.tar.gz",
+  "download_time": "2025-09-23T07:42:30.032930",
+  "package_url": "https://pypi.org/project/aws-blackbelt-mcp-server/"
+}

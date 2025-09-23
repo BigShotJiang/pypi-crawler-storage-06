@@ -1,0 +1,11 @@
+{
+  "name": "xnat4tests",
+  "version": "0.3.15",
+  "summary": "Creates basic XNAT instance for API tests",
+  "author": "Thomas G. Close",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/australian-imaging-service/xnat4tests",
+  "download_filename": "xnat4tests-0.3.15-py3-none-any.whl",
+  "download_time": "2025-09-23T07:42:17.899756",
+  "package_url": "https://pypi.org/project/xnat4tests/"
+}

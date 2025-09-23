@@ -1,0 +1,11 @@
+{
+  "name": "nifpga-fast-fifo-recv",
+  "version": "0.101.7",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nifpga_fast_fifo_recv-0.101.7.tar.gz",
+  "download_time": "2025-09-23T07:42:37.298379",
+  "package_url": "https://pypi.org/project/nifpga-fast-fifo-recv/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "heysol-api-client",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A comprehensive Python client for the HeySol API with MCP protocol support",
   "author": "HeySol API Client Development Team",
   "license": "MIT",
   "home_page": "https://github.com/heysol/heysol-python-client",
-  "download_filename": "heysol_api_client-1.1.0.tar.gz",
-  "download_time": "2025-09-22T21:54:00.552989",
+  "download_filename": "heysol_api_client-1.1.1.tar.gz",
+  "download_time": "2025-09-23T07:42:19.049955",
   "package_url": "https://pypi.org/project/heysol-api-client/"
 }

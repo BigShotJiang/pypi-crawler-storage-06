@@ -1,0 +1,11 @@
+{
+  "name": "xcube-eopf",
+  "version": "0.3.0",
+  "summary": "xcube datastore for accessing datasets of ESA EOPF data products.",
+  "author": "Konstantin Ntokas (Brockmann Consult GmbH), Norman Fomferra (Brockmann Consult GmbH)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xcube_eopf-0.3.0.tar.gz",
+  "download_time": "2025-09-23T07:42:29.011281",
+  "package_url": "https://pypi.org/project/xcube-eopf/"
+}
