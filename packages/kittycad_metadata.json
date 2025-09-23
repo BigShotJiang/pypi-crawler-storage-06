@@ -1,11 +1,11 @@
 {
   "name": "kittycad",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A client library for accessing KittyCAD",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kittycad-1.2.2.tar.gz",
-  "download_time": "2025-09-22T21:18:06.070706",
+  "download_filename": "kittycad-1.2.3.tar.gz",
+  "download_time": "2025-09-23T22:19:59.889331",
   "package_url": "https://pypi.org/project/kittycad/"
 }

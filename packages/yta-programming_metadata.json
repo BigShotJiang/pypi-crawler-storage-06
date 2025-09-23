@@ -1,11 +1,11 @@
 {
   "name": "yta-programming",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "Youtube Autonomous Programming Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_programming-0.0.12.tar.gz",
-  "download_time": "2025-09-23T21:18:49.085794",
+  "download_filename": "yta_programming-0.0.13.tar.gz",
+  "download_time": "2025-09-23T22:20:02.530231",
   "package_url": "https://pypi.org/project/yta-programming/"
 }
