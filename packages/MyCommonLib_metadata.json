@@ -1,11 +1,11 @@
 {
   "name": "MyCommonLib",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "Common library",
   "author": "Romolo Politi",
-  "license": "GPL-3.0-or-later",
-  "home_page": "https://github.com/RomoloPoliti-INAF/myCommonLib",
-  "download_filename": "mycommonlib-0.8.2.tar.gz",
-  "download_time": "2025-09-23T09:43:27.286940",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mycommonlib-0.8.3.tar.gz",
+  "download_time": "2025-09-23T11:18:56.823783",
   "package_url": "https://pypi.org/project/MyCommonLib/"
 }

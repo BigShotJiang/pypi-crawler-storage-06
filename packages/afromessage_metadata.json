@@ -1,0 +1,11 @@
+{
+  "name": "afromessage",
+  "version": "0.1.1",
+  "summary": "Python SDK for AfroMessage API to send SMS and OTP",
+  "author": "Yonas Fikadie",
+  "license": null,
+  "home_page": "https://github.com/yonas8989/afromessage-python-sdk",
+  "download_filename": "afromessage-0.1.1.tar.gz",
+  "download_time": "2025-09-23T11:18:43.890714",
+  "package_url": "https://pypi.org/project/afromessage/"
+}

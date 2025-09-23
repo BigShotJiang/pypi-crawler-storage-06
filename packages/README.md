@@ -1,12 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T10:56:06.853934
-- **Total Packages**: 80
-- **Total Size**: 50.43 MB
+- **Download Time**: 2025-09-23T11:19:15.350156
+- **Total Packages**: 84
+- **Total Size**: 10.82 MB
 
 ## Packages List
+- DesmosKiller
+- NaaVRE-workflow-jupyterlab
+- AOT-biomaps
+- franc
+- ai-ebash
+- edawishlist
+- worker-automate-hub
+- meili-ros-lib
+- lesscode-flask
+- matrixutils-example-pkg
+- essdiffraction
+- oagi
+- llwp
+- StereoMolGraph
+- tb-nightly
+- sqlrooms-duckdb-server
+- scruby
+- ufaas
+- django-bulk-drf
+- man2text
+- bizydraft
+- foundationallm-agent-plugins
+- mkdocs-decodiff-plugin
+- AutoInspection
+- pyckett
+- detdevlib
+- ewox
+- afromessage
+- yeref
+- ewoxservicefastapi
+- authentik-client
+- django-mail-auth
+- sparkpipelineframework
+- inception-fid-weights-zst
+- ewoxcore
+- credmodex
+- virtualinput
+- climdata
+- duck_client
+- aixtools
+- gerrit-clone
+- factorylint
+- SpatialPerturb
+- BackcastPro
+- aspire-gw
+- cadence-sdk
 - easy-cos
+- univllm
+- huizhi-coupon-lengyue1084
+- MyCommonLib
+- chartspy
+- reait
+- django-project-base
+- safe-cli
+- jamlib
+- polypart
+- OASYS1-Elettra-Extensions
+- inventree-ss-batch-number-generator
 - IBB-Helper
 - VegZ
 - cycode
@@ -17,7 +74,6 @@
 - proqub
 - thingsboard-gateway
 - directory-forms-api-client
-- authentik-client
 - superai-langchain
 - mgnify-pipelines-toolkit
 - package-main
@@ -26,7 +82,6 @@
 - alm-mcp
 - data-science-document-ai
 - hgraph
-- AOT-biomaps
 - rte-python-api
 - dw-ai-x
 - fhir-cda
@@ -34,55 +89,4 @@
 - process-gpt-agent-sdk
 - directory-client-core
 - video-content-extractor-mcp
-- man2text
 - directory-components
-- leetcode-py-sdk
-- aiobitrix24
-- rfc3161-client
-- vkbottle-types-vkru
-- aliceio
-- konduktor-nightly
-- vkbottle-vkru
-- PyCaucTile
-- fds.sdk.VectorData
-- fds.sdk.UniversalScreening
-- fds.sdk.ProcuretoPayAPISCIM
-- trainy-policy-nightly
-- fds.sdk.FactSetMergersandAcquisitions
-- fds.sdk.FactSetFunds
-- django-bulk-drf
-- modulitiz-micro
-- foundationallm-agent-plugins
-- ECSctrl
-- yirgacheffe
-- letta-nightly
-- biblemate
-- sqla-filter
-- datahub_binary
-- OuterRail
-- seven-cloudapp-frame
-- stacklet-mcp
-- utilskit
-- ai-ebash
-- MeUtils
-- PyMieSim
-- guillotina-ldap
-- shell-lib
-- datamarket
-- cloudbeds-pms-v1-3
-- tessdb-api
-- arcticdb
-- typed_classproperties
-- snakemake
-- huscy.project-design
-- cwl2puml
-- betterKickAPI
-- nucliadb-admin-assets
-- kxy-framework
-- agenta
-- sqlrooms-duckdb-server
-- inception-fid-weights-zst
-- gufo-snmp
-- maleo-metadata
-- mentai-cli
-- chargebee

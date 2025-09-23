@@ -1,0 +1,11 @@
+{
+  "name": "credmodex",
+  "version": "0.2.7",
+  "summary": "A Python library for credit risk modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "credmodex-0.2.7.tar.gz",
+  "download_time": "2025-09-23T11:18:49.576188",
+  "package_url": "https://pypi.org/project/credmodex/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chartspy",
+  "version": "2.2.7",
+  "summary": "echarts g2plot klinechart highcharts tabulator python wrapper",
+  "author": "yiliuyan",
+  "license": null,
+  "home_page": "https://chartspy.icopy.site/",
+  "download_filename": "chartspy-2.2.7.tar.gz",
+  "download_time": "2025-09-23T11:18:57.376171",
+  "package_url": "https://pypi.org/project/chartspy/"
+}

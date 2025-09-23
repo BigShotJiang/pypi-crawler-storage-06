@@ -1,0 +1,11 @@
+{
+  "name": "SpatialPerturb",
+  "version": "0.1.0",
+  "summary": "Spatial transcriptomics × Perturb-seq toolkit: signatures, label transfer, spatial scoring, and graph-based modeling.",
+  "author": "Taobo Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spatialperturb-0.1.0.tar.gz",
+  "download_time": "2025-09-23T11:18:53.231417",
+  "package_url": "https://pypi.org/project/SpatialPerturb/"
+}
