@@ -1,0 +1,11 @@
+{
+  "name": "mokupdf",
+  "version": "1.0.1",
+  "summary": "MCP-compatible PDF reading server with intelligent file search and extraction",
+  "author": "MokuPDF Team",
+  "license": "MIT",
+  "home_page": "https://github.com/jameslovespancakes/mokupdf",
+  "download_filename": "mokupdf-1.0.1.tar.gz",
+  "download_time": "2025-09-23T15:54:50.185953",
+  "package_url": "https://pypi.org/project/mokupdf/"
+}

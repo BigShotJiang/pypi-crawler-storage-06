@@ -1,11 +1,11 @@
 {
   "name": "api-validator-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Intelligent API request validation using adaptive scoring",
-  "author": "Your Name",
+  "author": "Jaime Jimenez",
   "license": null,
-  "home_page": "https://github.com/yourusername/api-validator",
-  "download_filename": "api_validator_sdk-1.0.0-cp38-cp38-win_amd64.whl",
-  "download_time": "2025-09-23T03:48:56.738549",
+  "home_page": "https://github.com/jaimeajl/api-validator",
+  "download_filename": "api-validator-sdk-1.0.1.tar.gz",
+  "download_time": "2025-09-23T15:54:57.883833",
   "package_url": "https://pypi.org/project/api-validator-sdk/"
 }

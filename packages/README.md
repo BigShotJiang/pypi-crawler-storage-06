@@ -1,18 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T15:44:20.537605
-- **Total Packages**: 79
-- **Total Size**: 41.06 MB
+- **Download Time**: 2025-09-23T15:55:25.911856
+- **Total Packages**: 86
+- **Total Size**: 16.97 MB
 
 ## Packages List
+- HMpTy
+- grand-cypher
+- uvicorn-hmr
+- tenetan
+- ndx-optogenetics
+- Encryptors
+- yta-constants
+- vivarium-cluster-tools
+- galileo
+- graphs-wendyhielo
+- braindrop
+- meteoplots
+- woolworm
+- api-foundry-query-engine
+- automation-ide-dev
+- zacro
+- Vease-Viewer
+- doordeck-headless-sdk
+- authentik-client
+- turbopdf
+- tashan-scispark
+- foundationallm-agent-plugins
+- meshtagsplot
+- mokupdf
+- vease-back
+- drsai-ui
+- mbo_suite3d
+- svc-infra
+- res-wind-up
+- pyodide-mkdocs-theme
+- can-i-park
+- localstack-core
+- django-tenant-users
+- odoo14-addon-ssi-partner-evaluation
+- yta-colors
+- loro
+- OpenGeodeWeb-Viewer
+- api-validator-sdk
+- OpenGeodeWeb-Back
+- vivarium-build-utils
+- je-editor
+- fglatch
+- datamint
+- ScandEval
+- alita-mcp
+- EuroEval
+- regscale-cli
 - pysparks
 - setdoc
 - medimgkit
 - space-defender-hamza
 - camsniff
-- alita-mcp
-- yta-colors
 - alidaparse
 - oxasl-multite
 - qSide
@@ -22,7 +67,6 @@
 - hcsegment
 - flordb
 - magneto-python
-- api-foundry-query-engine
 - dash-spread-grid
 - pdd-cli
 - pygrestqlambda
@@ -35,7 +79,6 @@
 - hydroserverpy
 - multimodal-sdk
 - gradient-agents
-- authentik-client
 - abcfold
 - nexaai
 - naas-models
@@ -49,39 +92,3 @@
 - Montreal-Forced-Aligner
 - sqlglot
 - poco
-- mcp-evaluation-server
-- tashan-scispark
-- fast-plaid
-- ts-scan
-- mathInterval
-- ccs-digitalmarketplace-utils
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- nonebot-plugin-mcmotd
-- xwr
-- microeda
-- pyweclapp
-- rockface
-- scc-firewall-manager-sdk
-- pytomosaic
-- booleangene
-- sogon
-- SwiftGUI
-- OpenGeodeWeb-Microservice
-- tatva
-- fromager
-- eis-insurance
-- kartverkets-api
-- aiohasupervisor
-- rapidnbt
-- plua
-- llama-index-tools-valyu
-- PYield
-- redmine-mcp-server
-- polars-genson
-- inopyutils
-- entangle-matrix
-- uipath-langchain
-- lusid-sdk
-- sienge-ecbiesek-mcp
-- xarray-katdal
