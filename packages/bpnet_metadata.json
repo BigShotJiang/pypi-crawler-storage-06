@@ -1,0 +1,11 @@
+{
+  "name": "bpnet",
+  "version": "2.0.0",
+  "summary": "BPNet: toolkit to learn motif synthax from high-resolution functional genomics data using convolutional neural networks",
+  "author": "Vivekanandan Ramalingam, Ziga Avsec, Surag Nair, Zahoor Zafrulla",
+  "license": "MIT license",
+  "home_page": "https://github.com/kundajelab/bpnet",
+  "download_filename": "bpnet-2.0.0.tar.gz",
+  "download_time": "2025-09-23T21:53:45.163546",
+  "package_url": "https://pypi.org/project/bpnet/"
+}

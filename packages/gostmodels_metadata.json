@@ -1,0 +1,11 @@
+{
+  "name": "gostmodels",
+  "version": "0.2.4",
+  "summary": "ElasticModel: a thin Pydantic v2 BaseModel wrapper for partial/nested data with lazy access—unloaded fields raise NotLoadedFieldError.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gostmodels-0.2.4.tar.gz",
+  "download_time": "2025-09-23T21:53:35.011469",
+  "package_url": "https://pypi.org/project/gostmodels/"
+}

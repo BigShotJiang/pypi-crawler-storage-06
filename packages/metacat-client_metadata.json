@@ -1,0 +1,11 @@
+{
+  "name": "metacat-client",
+  "version": "4.1.2",
+  "summary": "MetaCat is a general purpose metadata database. This package is the client side portion of the product.",
+  "author": "Marc Mengel, Igor Mandrichenko",
+  "license": "BSD 3-clause",
+  "home_page": "https://github.com/fermitools/metacat",
+  "download_filename": "metacat_client-4.1.2.tar.gz",
+  "download_time": "2025-09-23T21:53:44.643326",
+  "package_url": "https://pypi.org/project/metacat-client/"
+}

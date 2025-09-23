@@ -1,0 +1,11 @@
+{
+  "name": "turnwise",
+  "version": "0.1.0",
+  "summary": "A modern Python library for evaluating multi-turn chatbot conversations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "turnwise-0.1.0.tar.gz",
+  "download_time": "2025-09-23T21:53:37.170875",
+  "package_url": "https://pypi.org/project/turnwise/"
+}
