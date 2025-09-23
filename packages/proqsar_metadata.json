@@ -1,11 +1,11 @@
 {
   "name": "proqsar",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "summary": "ProQSAR — automation utilities for QSAR workflows (standardization, featurization, model building & evaluation).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "proqsar-0.0.2.tar.gz",
-  "download_time": "2025-09-22T14:46:21.733801",
+  "download_filename": "proqsar-0.0.5.tar.gz",
+  "download_time": "2025-09-23T15:22:50.479646",
   "package_url": "https://pypi.org/project/proqsar/"
 }

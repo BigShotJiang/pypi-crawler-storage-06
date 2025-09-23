@@ -1,11 +1,11 @@
 {
   "name": "healthcheck-reporter",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A health checker package to report using MQTT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "healthcheck_reporter-0.2.2.tar.gz",
-  "download_time": "2025-09-23T09:43:17.560418",
+  "download_filename": "healthcheck_reporter-0.2.3.tar.gz",
+  "download_time": "2025-09-23T15:22:57.186736",
   "package_url": "https://pypi.org/project/healthcheck-reporter/"
 }

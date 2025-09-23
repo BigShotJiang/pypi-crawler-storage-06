@@ -1,11 +1,11 @@
 {
   "name": "python-nicepay",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "This is the Official Python API client / library for NICEPAY Payment API",
   "author": "Harfa Thandila",
   "license": null,
-  "home_page": "https://github.com/nicepay-dev/python-nicepay",
-  "download_filename": "python-nicepay-1.1.0.tar.gz",
-  "download_time": "2025-09-17T13:44:06.709873",
+  "home_page": "https://nicepay.co.id",
+  "download_filename": "python-nicepay-1.1.1.tar.gz",
+  "download_time": "2025-09-23T15:22:04.449414",
   "package_url": "https://pypi.org/project/python-nicepay/"
 }

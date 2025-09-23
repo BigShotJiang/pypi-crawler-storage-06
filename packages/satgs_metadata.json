@@ -1,0 +1,11 @@
+{
+  "name": "satgs",
+  "version": "0.4.5",
+  "summary": "A command line tool that controls radios and rotors for amateur satellite operation.",
+  "author": "DB8LE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "satgs-0.4.5.tar.gz",
+  "download_time": "2025-09-23T15:22:13.526342",
+  "package_url": "https://pypi.org/project/satgs/"
+}

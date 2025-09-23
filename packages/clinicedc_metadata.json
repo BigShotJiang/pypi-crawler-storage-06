@@ -1,11 +1,11 @@
 {
   "name": "clinicedc",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "summary": "A clinical trials data management framework built on Django",
   "author": "Erik van Widenfelt, Jonathan Willitts",
   "license": null,
   "home_page": null,
-  "download_filename": "clinicedc-2.0.9.tar.gz",
-  "download_time": "2025-09-22T16:26:20.069722",
+  "download_filename": "clinicedc-2.0.10.tar.gz",
+  "download_time": "2025-09-23T15:22:08.356801",
   "package_url": "https://pypi.org/project/clinicedc/"
 }

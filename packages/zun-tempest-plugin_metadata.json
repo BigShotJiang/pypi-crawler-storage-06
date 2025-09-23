@@ -1,0 +1,11 @@
+{
+  "name": "zun-tempest-plugin",
+  "version": "4.12.0",
+  "summary": "Tempest plugin zun_tempest_plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/zun-tempest-plugin/latest/",
+  "download_filename": "zun_tempest_plugin-4.12.0.tar.gz",
+  "download_time": "2025-09-23T15:22:47.579614",
+  "package_url": "https://pypi.org/project/zun-tempest-plugin/"
+}

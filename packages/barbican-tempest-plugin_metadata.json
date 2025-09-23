@@ -1,0 +1,11 @@
+{
+  "name": "barbican-tempest-plugin",
+  "version": "4.4.0",
+  "summary": "OpenStack barbican tempest tests.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://www.openstack.org/",
+  "download_filename": "barbican_tempest_plugin-4.4.0.tar.gz",
+  "download_time": "2025-09-23T15:22:36.318572",
+  "package_url": "https://pypi.org/project/barbican-tempest-plugin/"
+}

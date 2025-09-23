@@ -1,11 +1,11 @@
 {
   "name": "PyAFBFdb",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Generation of texture database from the package PyAFBF",
   "author": "Frédéric Richard",
   "license": "GPLv3",
   "home_page": "https://github.com/fjprichard/PyAFBFdb/",
-  "download_filename": "pyafbfdb-0.1.2.tar.gz",
-  "download_time": "2025-09-18T14:53:18.707446",
+  "download_filename": "pyafbfdb-0.1.4.tar.gz",
+  "download_time": "2025-09-23T15:22:21.255357",
   "package_url": "https://pypi.org/project/PyAFBFdb/"
 }

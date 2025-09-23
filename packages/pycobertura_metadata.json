@@ -1,0 +1,11 @@
+{
+  "name": "pycobertura",
+  "version": "4.1.0",
+  "summary": "\"A Cobertura coverage parser that can diff reports and show coverage progress.\"",
+  "author": "\"Alex Conrad\"",
+  "license": null,
+  "home_page": "https://github.com/aconrad/pycobertura",
+  "download_filename": "pycobertura-4.1.0.tar.gz",
+  "download_time": "2025-09-23T15:22:17.031519",
+  "package_url": "https://pypi.org/project/pycobertura/"
+}

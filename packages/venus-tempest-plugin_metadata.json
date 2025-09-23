@@ -1,0 +1,11 @@
+{
+  "name": "venus-tempest-plugin",
+  "version": "3.5.0",
+  "summary": "OpenStack Log Management Service Tempest Plugin",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "http://www.openstack.org/",
+  "download_filename": "venus_tempest_plugin-3.5.0.tar.gz",
+  "download_time": "2025-09-23T15:22:10.605218",
+  "package_url": "https://pypi.org/project/venus-tempest-plugin/"
+}
