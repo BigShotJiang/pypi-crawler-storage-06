@@ -1,11 +1,11 @@
 {
   "name": "pynexitec",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A mini terminal game package with Tic-Tac-Toe",
   "author": "Aayush B",
   "license": null,
-  "home_page": "https://github.com/yourusername/pynexitec",
-  "download_filename": "pynexitec-0.1.0.tar.gz",
-  "download_time": "2025-09-23T15:21:57.998069",
+  "home_page": "https://github.com/Aayushbohora/pynexitec.git",
+  "download_filename": "pynexitec-0.2.0.tar.gz",
+  "download_time": "2025-09-23T16:26:25.237204",
   "package_url": "https://pypi.org/project/pynexitec/"
 }

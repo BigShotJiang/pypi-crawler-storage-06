@@ -1,0 +1,11 @@
+{
+  "name": "fideslog",
+  "version": "1.2.14",
+  "summary": "The fideslog analytics collection mechanism",
+  "author": "Ethyca, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ethyca/fideslog",
+  "download_filename": "fideslog-1.2.14.tar.gz",
+  "download_time": "2025-09-23T16:26:33.125492",
+  "package_url": "https://pypi.org/project/fideslog/"
+}

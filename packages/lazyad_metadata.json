@@ -1,0 +1,11 @@
+{
+  "name": "lazyad",
+  "version": "0.0.73",
+  "summary": "基于Python的懒人包-适用于广告投放模块",
+  "author": "ZeroSeeker",
+  "license": null,
+  "home_page": "https://gitee.com/ZeroSeeker/lazyad",
+  "download_filename": "lazyad-0.0.73.tar.gz",
+  "download_time": "2025-09-23T16:26:52.502405",
+  "package_url": "https://pypi.org/project/lazyad/"
+}

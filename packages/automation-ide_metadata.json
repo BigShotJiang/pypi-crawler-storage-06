@@ -1,11 +1,11 @@
 {
   "name": "automation-ide",
-  "version": "0.0.45",
+  "version": "0.0.46",
   "summary": "AutomationEditor for multi automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "automation_ide-0.0.45.tar.gz",
-  "download_time": "2025-09-23T02:45:04.635731",
+  "download_filename": "automation_ide-0.0.46.tar.gz",
+  "download_time": "2025-09-23T16:26:26.276087",
   "package_url": "https://pypi.org/project/automation-ide/"
 }

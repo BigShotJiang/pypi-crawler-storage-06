@@ -1,0 +1,11 @@
+{
+  "name": "brainforge-tokenizer",
+  "version": "1.0.0",
+  "summary": "BrainForge custom tokenizer with tiktoken",
+  "author": "Mayur Kalekar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainforge_tokenizer-1.0.0.tar.gz",
+  "download_time": "2025-09-23T16:26:43.631801",
+  "package_url": "https://pypi.org/project/brainforge-tokenizer/"
+}
