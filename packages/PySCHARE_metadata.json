@@ -1,11 +1,11 @@
 {
   "name": "PySCHARE",
-  "version": "0.0.7.8",
+  "version": "0.0.7.9",
   "summary": "PySCHARE Python package",
   "author": "Elif Dede Yildirim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyschare-0.0.7.8.tar.gz",
-  "download_time": "2025-09-18T22:20:28.356638",
+  "download_filename": "pyschare-0.0.7.9.tar.gz",
+  "download_time": "2025-09-23T22:41:56.710079",
   "package_url": "https://pypi.org/project/PySCHARE/"
 }

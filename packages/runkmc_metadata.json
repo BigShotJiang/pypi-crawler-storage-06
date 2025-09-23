@@ -1,11 +1,11 @@
 {
   "name": "runkmc",
-  "version": "0.1.0a11",
+  "version": "0.1.0a12",
   "summary": "Kinetic Monte Carlo Simulator for Polymerization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "runkmc-0.1.0a11.tar.gz",
-  "download_time": "2025-09-23T21:18:54.930521",
+  "download_filename": "runkmc-0.1.0a12.tar.gz",
+  "download_time": "2025-09-23T22:41:55.650063",
   "package_url": "https://pypi.org/project/runkmc/"
 }

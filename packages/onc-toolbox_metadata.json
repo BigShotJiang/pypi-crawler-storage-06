@@ -1,11 +1,11 @@
 {
   "name": "onc-toolbox",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A toolbox for exploring Ocean Networks Canada data for the adventuring scientist.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "onc_toolbox-0.0.4.tar.gz",
-  "download_time": "2025-09-17T21:17:11.921654",
+  "download_filename": "onc_toolbox-0.0.6.tar.gz",
+  "download_time": "2025-09-23T22:41:55.091040",
   "package_url": "https://pypi.org/project/onc-toolbox/"
 }

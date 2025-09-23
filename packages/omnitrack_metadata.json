@@ -1,0 +1,11 @@
+{
+  "name": "omnitrack",
+  "version": "0.1.0",
+  "summary": "Unified logging and experiment tracking for research workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnitrack-0.1.0.tar.gz",
+  "download_time": "2025-09-23T22:41:48.395328",
+  "package_url": "https://pypi.org/project/omnitrack/"
+}

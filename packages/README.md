@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T22:20:18.244716
-- **Total Packages**: 83
-- **Total Size**: 12.88 MB
+- **Download Time**: 2025-09-23T22:42:24.198568
+- **Total Packages**: 78
+- **Total Size**: 5.59 MB
 
 ## Packages List
+- coorx
+- vivarium-public-health
+- v440
+- KAlignedoscope
+- agent-cli
+- authentik-client
+- epoch-protos
+- claude-cache
+- langflow-nightly
+- lfx-nightly
+- oakfs
+- mcc-api
+- omnitrack
+- parzzley
+- pydepends
+- pysparks
+- gpg-keyring
+- osc-transformers
+- sqlite-mcp-server-enhanced
+- pygator
+- assistant-stream
+- prowlpy
+- pylemetry
+- pyoso
+- onc-toolbox
+- runkmc
+- svc-infra
+- PySCHARE
+- cdp-ninja
+- torch-code-tracing
+- terminator-py
 - trustgraph-vertexai
 - trustgraph-ocr
 - trustgraph-mcp
@@ -31,14 +62,12 @@
 - edc-mnsi
 - illumo-flow
 - airbyte-source-surveymonkey
-- terminator-py
 - jinja-layout
 - creditpulse
 - sequins-inventory-tool
 - edc-csf
 - regula-documentreader-webclient
 - django-spire
-- authentik-client
 - python4mini
 - phenoml
 - py-termio
@@ -48,7 +77,6 @@
 - pymongo-search-utils
 - sapiens-transformers
 - quant1x
-- oakfs
 - async-substrate-interface
 - mettagrid
 - flask-sqlorm
@@ -56,36 +84,3 @@
 - nci-cidc-api-modules
 - kittycad
 - aiq-platform-api
-- nexaai
-- vector-bridge
-- pufferlib-core
-- yta-programming
-- KAlignedoscope
-- sqlorm-py
-- gbq-connector
-- futurehouse-client
-- adafruit-circuitpython-usb-host-mouse
-- coiled
-- genebot
-- graphiti-core
-- yta-programming-dependencies
-- nubrain
-- api-foundry-query-engine
-- pyjwt-tspspi
-- flask-mercure-sse
-- gostmodels
-- oldaplib
-- flask-file-routes
-- turnwise
-- yta-programming-path
-- ros2-tui
-- flask-assets-pipeline
-- adafruit-circuitpython-spa06-003
-- moondream-station
-- fountain-life-service-clients
-- letschatty
-- llamactl
-- llama-deploy-core
-- llama-deploy-appserver
-- pynvl-lib
-- flowtask

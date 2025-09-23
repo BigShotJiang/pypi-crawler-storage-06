@@ -1,11 +1,11 @@
 {
   "name": "cdp-ninja",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "🥷 Lightweight Chrome DevTools Protocol bridge for browser debugging and security testing",
   "author": "CDP Ninja Contributors",
   "license": "MIT",
   "home_page": "https://github.com/travofoz/cdp-ninja",
-  "download_filename": "cdp_ninja-1.0.3.tar.gz",
-  "download_time": "2025-09-23T21:39:35.553901",
+  "download_filename": "cdp_ninja-1.0.4.tar.gz",
+  "download_time": "2025-09-23T22:41:57.225053",
   "package_url": "https://pypi.org/project/cdp-ninja/"
 }

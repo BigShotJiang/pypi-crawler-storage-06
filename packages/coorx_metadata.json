@@ -1,0 +1,11 @@
+{
+  "name": "coorx",
+  "version": "1.2.0",
+  "summary": "Object-oriented linear and nonlinear coordinate system transforms, plus coordinate system graphs.",
+  "author": "Luke Campagnola",
+  "license": "BSD",
+  "home_page": "http://github.com/campagnola/coorx",
+  "download_filename": "coorx-1.2.0.tar.gz",
+  "download_time": "2025-09-23T22:41:41.126055",
+  "package_url": "https://pypi.org/project/coorx/"
+}
