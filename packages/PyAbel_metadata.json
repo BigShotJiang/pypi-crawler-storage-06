@@ -1,0 +1,11 @@
+{
+  "name": "PyAbel",
+  "version": "0.9.1",
+  "summary": "A Python package for forward and inverse Abel transforms",
+  "author": "The PyAbel Team",
+  "license": "MIT",
+  "home_page": "https://github.com/PyAbel/PyAbel",
+  "download_filename": "pyabel-0.9.1.tar.gz",
+  "download_time": "2025-09-23T03:24:16.713029",
+  "package_url": "https://pypi.org/project/PyAbel/"
+}

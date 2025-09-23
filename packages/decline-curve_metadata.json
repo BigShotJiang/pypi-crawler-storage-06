@@ -1,0 +1,11 @@
+{
+  "name": "decline-curve",
+  "version": "0.1.2",
+  "summary": "Decline curve analysis for oil well production using with Arps and LLM-based models",
+  "author": "Kyle T. Jones",
+  "license": null,
+  "home_page": null,
+  "download_filename": "decline_curve-0.1.2.tar.gz",
+  "download_time": "2025-09-23T03:24:00.098433",
+  "package_url": "https://pypi.org/project/decline-curve/"
+}

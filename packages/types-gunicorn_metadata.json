@@ -1,0 +1,11 @@
+{
+  "name": "types-gunicorn",
+  "version": "23.0.0.20250923",
+  "summary": "Typing stubs for gunicorn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_gunicorn-23.0.0.20250923.tar.gz",
+  "download_time": "2025-09-23T03:24:12.596844",
+  "package_url": "https://pypi.org/project/types-gunicorn/"
+}

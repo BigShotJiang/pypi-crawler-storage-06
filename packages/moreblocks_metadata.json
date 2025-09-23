@@ -1,0 +1,11 @@
+{
+  "name": "moreblocks",
+  "version": "0.0.2",
+  "summary": ":game_die: Python API for Building Messages Using the Slack Block Kit API",
+  "author": "Cooper Richason, Nicholas Lambourne",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cooper-richason/slackblocks",
+  "download_filename": "moreblocks-0.0.2.tar.gz",
+  "download_time": "2025-09-23T03:23:49.291237",
+  "package_url": "https://pypi.org/project/moreblocks/"
+}

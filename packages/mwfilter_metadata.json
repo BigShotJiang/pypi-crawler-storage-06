@@ -1,0 +1,11 @@
+{
+  "name": "mwfilter",
+  "version": "1.0.2",
+  "summary": "MediaWiki Filter",
+  "author": "zer0",
+  "license": "MIT License",
+  "home_page": "https://github.com/osom8979/mwfilter",
+  "download_filename": "mwfilter-1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-23T03:24:00.609930",
+  "package_url": "https://pypi.org/project/mwfilter/"
+}
