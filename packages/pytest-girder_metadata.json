@@ -1,0 +1,11 @@
+{
+  "name": "pytest-girder",
+  "version": "3.2.9",
+  "summary": "A set of pytest fixtures for testing Girder applications.",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "pytest_girder-3.2.9.tar.gz",
+  "download_time": "2025-09-23T13:48:21.334964",
+  "package_url": "https://pypi.org/project/pytest-girder/"
+}

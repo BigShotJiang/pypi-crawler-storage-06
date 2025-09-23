@@ -1,0 +1,11 @@
+{
+  "name": "dlrepo",
+  "version": "0.44",
+  "summary": "Artifact repository",
+  "author": "Robin Jarry",
+  "license": "BSD-3-Clause",
+  "home_page": "https://sr.ht/~rjarry/dlrepo/",
+  "download_filename": "dlrepo-0.44.tar.gz",
+  "download_time": "2025-09-23T13:47:50.842072",
+  "package_url": "https://pypi.org/project/dlrepo/"
+}

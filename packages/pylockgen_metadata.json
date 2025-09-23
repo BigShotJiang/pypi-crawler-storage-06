@@ -1,0 +1,11 @@
+{
+  "name": "pylockgen",
+  "version": "1.6.0",
+  "summary": "Secure password generator and strength checker",
+  "author": "Hadi Reza",
+  "license": "MIT",
+  "home_page": "https://github.com/unknownmeovo/pylockgen",
+  "download_filename": "pylockgen-1.6.0.tar.gz",
+  "download_time": "2025-09-23T13:47:56.496255",
+  "package_url": "https://pypi.org/project/pylockgen/"
+}

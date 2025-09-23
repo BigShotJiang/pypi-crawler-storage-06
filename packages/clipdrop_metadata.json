@@ -1,11 +1,11 @@
 {
   "name": "clipdrop",
-  "version": "1.5",
+  "version": "1.5.2",
   "summary": "Save clipboard content (text and images) to files with smart format detection",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clipdrop-1.5.tar.gz",
-  "download_time": "2025-09-23T13:20:11.747949",
+  "download_filename": "clipdrop-1.5.2.tar.gz",
+  "download_time": "2025-09-23T13:48:12.623294",
   "package_url": "https://pypi.org/project/clipdrop/"
 }

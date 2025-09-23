@@ -1,0 +1,11 @@
+{
+  "name": "educode",
+  "version": "1.0.0",
+  "summary": "Système interactif de 100 exercices pour apprendre Python",
+  "author": "Mohamed Ndiaye",
+  "license": null,
+  "home_page": "https://github.com/Moesthetics-code/educode",
+  "download_filename": "educode-1.0.0.tar.gz",
+  "download_time": "2025-09-23T13:47:51.353278",
+  "package_url": "https://pypi.org/project/educode/"
+}

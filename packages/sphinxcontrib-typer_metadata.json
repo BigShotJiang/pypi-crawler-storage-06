@@ -1,11 +1,11 @@
 {
   "name": "sphinxcontrib-typer",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Auto generate docs for typer commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sphinxcontrib_typer-0.6.1.tar.gz",
-  "download_time": "2025-09-23T05:42:23.818169",
+  "download_filename": "sphinxcontrib_typer-0.6.2.tar.gz",
+  "download_time": "2025-09-23T13:48:11.599786",
   "package_url": "https://pypi.org/project/sphinxcontrib-typer/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "onnxruntime-genai-winml",
+  "version": "0.10.0",
+  "summary": "ONNX Runtime GenAI",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "onnxruntime_genai_winml-0.10.0-cp311-cp311-win_arm64.whl",
+  "download_time": "2025-09-23T13:47:48.277810",
+  "package_url": "https://pypi.org/project/onnxruntime-genai-winml/"
+}
