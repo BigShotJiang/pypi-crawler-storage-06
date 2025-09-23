@@ -1,0 +1,11 @@
+{
+  "name": "skale-watchdog-client",
+  "version": "3.0.1",
+  "summary": "SKALE Watchdog Client - SKALE and FAIR Nodes Health Checks",
+  "author": "SKALE Labs",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/skalenetwork/skale-watchdog",
+  "download_filename": "skale-watchdog-client-3.0.1.tar.gz",
+  "download_time": "2025-09-23T18:53:42.949148",
+  "package_url": "https://pypi.org/project/skale-watchdog-client/"
+}

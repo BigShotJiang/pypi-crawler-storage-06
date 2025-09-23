@@ -1,11 +1,11 @@
 {
   "name": "synth-crunch",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "synth-crunch - Utility package for the Synth competition on CrunchDAO!",
   "author": "Enzo CACERES",
   "license": null,
   "home_page": "https://github.com/crunchdao/synth-crunch",
-  "download_filename": "synth_crunch-0.3.0.tar.gz",
-  "download_time": "2025-09-18T20:21:18.513737",
+  "download_filename": "synth_crunch-0.3.1.tar.gz",
+  "download_time": "2025-09-23T18:53:18.022073",
   "package_url": "https://pypi.org/project/synth-crunch/"
 }

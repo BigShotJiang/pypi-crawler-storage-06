@@ -1,0 +1,11 @@
+{
+  "name": "arcade-github",
+  "version": "1.1.0",
+  "summary": "Arcade.dev LLM tools for Github",
+  "author": null,
+  "license": "Proprietary - Arcade Software License Agreement v1.0",
+  "home_page": null,
+  "download_filename": "arcade_github-1.1.0-py3-none-any.whl",
+  "download_time": "2025-09-23T18:53:41.296798",
+  "package_url": "https://pypi.org/project/arcade-github/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aioscraper",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Async framework for building modular and scalable web scrapers.",
   "author": "darkstussy",
   "license": null,
   "home_page": null,
-  "download_filename": "aioscraper-0.4.0.tar.gz",
-  "download_time": "2025-09-21T08:22:12.958538",
+  "download_filename": "aioscraper-0.4.1.tar.gz",
+  "download_time": "2025-09-23T18:53:18.576079",
   "package_url": "https://pypi.org/project/aioscraper/"
 }

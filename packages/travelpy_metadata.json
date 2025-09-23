@@ -1,0 +1,11 @@
+{
+  "name": "travelpy",
+  "version": "0.1.0",
+  "summary": "Python wrapper for TRAVEL particle tracking simulations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "travelpy-0.1.0.tar.gz",
+  "download_time": "2025-09-23T18:53:38.033817",
+  "package_url": "https://pypi.org/project/travelpy/"
+}

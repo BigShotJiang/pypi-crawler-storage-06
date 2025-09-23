@@ -1,11 +1,11 @@
 {
   "name": "fglatch",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "CLI and Python extensions for the LatchBio platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fglatch-0.3.0.tar.gz",
-  "download_time": "2025-09-23T15:55:00.121718",
+  "download_filename": "fglatch-0.3.1.tar.gz",
+  "download_time": "2025-09-23T18:53:46.328123",
   "package_url": "https://pypi.org/project/fglatch/"
 }

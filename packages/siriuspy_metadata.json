@@ -1,0 +1,11 @@
+{
+  "name": "siriuspy",
+  "version": "2.98.0",
+  "summary": "Development packages for Sirius",
+  "author": "lnls-sirius",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/lnls-sirius/dev-packages",
+  "download_filename": "siriuspy-2.98.0.tar.gz",
+  "download_time": "2025-09-23T18:53:01.469738",
+  "package_url": "https://pypi.org/project/siriuspy/"
+}

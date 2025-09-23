@@ -1,11 +1,11 @@
 {
   "name": "icmd-python",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "summary": "Python client app for ICMD®",
   "author": "QuesTek Innovations LLC",
   "license": null,
   "home_page": null,
-  "download_filename": "icmd_python-1.3.1-py3-none-any.whl",
-  "download_time": "2025-09-23T17:31:03.629310",
+  "download_filename": "icmd_python-1.3.2-py3-none-any.whl",
+  "download_time": "2025-09-23T18:53:39.666511",
   "package_url": "https://pypi.org/project/icmd-python/"
 }
