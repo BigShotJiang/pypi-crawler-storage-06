@@ -1,11 +1,11 @@
 {
   "name": "gpg-keyring",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Simple keyring backend using the file system and GPG to store credentials",
   "author": "Manuel Huber",
   "license": null,
   "home_page": null,
-  "download_filename": "gpg_keyring-0.1.0.tar.gz",
-  "download_time": "2025-09-23T22:41:50.456764",
+  "download_filename": "gpg_keyring-0.1.1.tar.gz",
+  "download_time": "2025-09-23T22:53:04.444218",
   "package_url": "https://pypi.org/project/gpg-keyring/"
 }
