@@ -1,11 +1,11 @@
 {
   "name": "django-revision",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "Track the git revision with every model instance saved",
   "author": "Erik van Widenfelt",
   "license": null,
   "home_page": null,
-  "download_filename": "django_revision-2.0.1.tar.gz",
-  "download_time": "2025-09-22T16:46:56.823574",
+  "download_filename": "django_revision-2.0.3.tar.gz",
+  "download_time": "2025-09-23T23:19:32.198580",
   "package_url": "https://pypi.org/project/django-revision/"
 }

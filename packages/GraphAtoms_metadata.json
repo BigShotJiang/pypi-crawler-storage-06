@@ -1,0 +1,11 @@
+{
+  "name": "GraphAtoms",
+  "version": "1.0.0",
+  "summary": "The Chemical Core Class for Graph Theory Analysis & Graph Neural Network.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphatoms-1.0.0.tar.gz",
+  "download_time": "2025-09-23T23:19:37.601777",
+  "package_url": "https://pypi.org/project/GraphAtoms/"
+}

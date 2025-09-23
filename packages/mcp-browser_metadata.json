@@ -1,0 +1,11 @@
+{
+  "name": "mcp-browser",
+  "version": "1.0.1",
+  "summary": "Browser console log capture and control via MCP for Claude Code",
+  "author": "MCP Browser Team",
+  "license": "MIT",
+  "home_page": "https://github.com/browserpymcp/mcp-browser",
+  "download_filename": "mcp_browser-1.0.1.tar.gz",
+  "download_time": "2025-09-23T23:19:47.275398",
+  "package_url": "https://pypi.org/project/mcp-browser/"
+}

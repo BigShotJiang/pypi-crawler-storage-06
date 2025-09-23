@@ -1,11 +1,11 @@
 {
   "name": "AbstractMemory",
-  "version": "0.0.1",
-  "summary": "PLACEHOLDER: Memory system for transforming stateless LLMs into stateful LLMs - primarily designed for AbstractLLM integration",
+  "version": "0.1.0",
+  "summary": "Intelligent memory system for LLM agents with two-tier architecture - temporal knowledge graph memory for sophisticated AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abstractmemory-0.0.1.tar.gz",
-  "download_time": "2025-09-19T10:43:34.129729",
+  "download_filename": "abstractmemory-0.1.0.tar.gz",
+  "download_time": "2025-09-23T23:19:31.119177",
   "package_url": "https://pypi.org/project/AbstractMemory/"
 }

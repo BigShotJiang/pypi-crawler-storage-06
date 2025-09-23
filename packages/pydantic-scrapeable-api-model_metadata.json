@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-scrapeable-api-model",
+  "version": "3.1.0",
+  "summary": "Minimal utilities to build scrapeable API models on top of Pydantic with simple caching and async HTTP.",
+  "author": "J.I. Cruz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_scrapeable_api_model-3.1.0.tar.gz",
+  "download_time": "2025-09-23T23:19:44.623478",
+  "package_url": "https://pypi.org/project/pydantic-scrapeable-api-model/"
+}

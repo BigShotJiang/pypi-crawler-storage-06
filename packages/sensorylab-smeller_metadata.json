@@ -1,11 +1,11 @@
 {
   "name": "sensorylab-smeller",
-  "version": "0.1.8",
+  "version": "0.1.81",
   "summary": "Python library for Neuroair device control",
   "author": "SensoryLAB",
   "license": "MIT",
   "home_page": "http://10.10.0.20:3000/SensoryLAB/smeller",
-  "download_filename": "sensorylab_smeller-0.1.8-py3-none-any.whl",
-  "download_time": "2025-09-23T22:53:03.904591",
+  "download_filename": "sensorylab_smeller-0.1.81.tar.gz",
+  "download_time": "2025-09-23T23:19:58.147321",
   "package_url": "https://pypi.org/project/sensorylab-smeller/"
 }
