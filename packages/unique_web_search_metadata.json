@@ -1,11 +1,11 @@
 {
   "name": "unique_web_search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": "Andreas Hauri",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_web_search-1.0.0.tar.gz",
-  "download_time": "2025-09-18T15:40:38.412257",
+  "download_filename": "unique_web_search-1.0.1.tar.gz",
+  "download_time": "2025-09-23T10:21:54.795160",
   "package_url": "https://pypi.org/project/unique_web_search/"
 }

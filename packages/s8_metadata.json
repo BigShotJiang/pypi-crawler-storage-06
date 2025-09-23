@@ -1,0 +1,11 @@
+{
+  "name": "s8",
+  "version": "0.2.0",
+  "summary": "Shared code and utils for backend and worker",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "s8-0.2.0.tar.gz",
+  "download_time": "2025-09-23T10:22:16.372301",
+  "package_url": "https://pypi.org/project/s8/"
+}

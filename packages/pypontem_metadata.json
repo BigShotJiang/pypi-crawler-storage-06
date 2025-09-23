@@ -1,0 +1,11 @@
+{
+  "name": "pypontem",
+  "version": "1.1.5",
+  "summary": "The one-stop python toolkit for Flow Assurance workflows",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Pontem-Analytics/pypontem_public/tree/main",
+  "download_filename": "pypontem-1.1.5.tar.gz",
+  "download_time": "2025-09-23T10:22:18.102767",
+  "package_url": "https://pypi.org/project/pypontem/"
+}

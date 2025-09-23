@@ -1,0 +1,11 @@
+{
+  "name": "MDInteractions",
+  "version": "1.1.0",
+  "summary": "A python package for the distance-based analysis of intra- and inter-protein interactions",
+  "author": "Anjani Fowdar and Darren P Martin",
+  "license": null,
+  "home_page": "https://github.com/afowdar/MDInteractions",
+  "download_filename": "MDInteractions-1.1.0.tar.gz",
+  "download_time": "2025-09-23T10:22:11.695562",
+  "package_url": "https://pypi.org/project/MDInteractions/"
+}

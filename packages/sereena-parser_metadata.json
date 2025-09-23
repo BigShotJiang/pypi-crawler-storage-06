@@ -1,0 +1,11 @@
+{
+  "name": "sereena-parser",
+  "version": "1.0.0",
+  "summary": "Production-ready resume parser with multi-threading support for PDF and DOCX files",
+  "author": "Sereena Thomas",
+  "license": "MIT",
+  "home_page": "https://github.com/joelpawar08/sereena-parser",
+  "download_filename": "sereena_parser-1.0.0.tar.gz",
+  "download_time": "2025-09-23T10:22:08.160492",
+  "package_url": "https://pypi.org/project/sereena-parser/"
+}

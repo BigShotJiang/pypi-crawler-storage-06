@@ -1,11 +1,11 @@
 {
   "name": "liulianmao",
-  "version": "2.3.1.post1",
+  "version": "2.3.1.post2",
   "summary": "A LLM client for use from the command line or IDE.",
   "author": "快乐的老鼠宝宝",
   "license": "MIT",
   "home_page": "https://github.com/LaoshuBaby/liulianmao",
-  "download_filename": "liulianmao-2.3.1.post1.tar.gz",
-  "download_time": "2025-09-23T09:53:26.095184",
+  "download_filename": "liulianmao-2.3.1.post2.tar.gz",
+  "download_time": "2025-09-23T10:22:27.492566",
   "package_url": "https://pypi.org/project/liulianmao/"
 }
