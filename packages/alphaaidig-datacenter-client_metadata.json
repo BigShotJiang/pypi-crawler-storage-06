@@ -1,11 +1,11 @@
 {
   "name": "alphaaidig-datacenter-client",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alphaaidig_datacenter_client-0.1.6.tar.gz",
-  "download_time": "2025-09-23T06:00:48.414804",
+  "download_filename": "alphaaidig_datacenter_client-0.1.9.tar.gz",
+  "download_time": "2025-09-23T06:31:30.347914",
   "package_url": "https://pypi.org/project/alphaaidig-datacenter-client/"
 }

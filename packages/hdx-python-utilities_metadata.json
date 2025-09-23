@@ -1,11 +1,11 @@
 {
   "name": "hdx-python-utilities",
-  "version": "3.9.2",
+  "version": "3.9.3",
   "summary": "HDX Python Utilities for streaming tabular data, date and time handling and other helpful functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hdx_python_utilities-3.9.2.tar.gz",
-  "download_time": "2025-09-21T23:38:41.914660",
+  "download_filename": "hdx_python_utilities-3.9.3.tar.gz",
+  "download_time": "2025-09-23T06:31:39.758544",
   "package_url": "https://pypi.org/project/hdx-python-utilities/"
 }

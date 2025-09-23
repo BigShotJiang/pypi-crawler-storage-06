@@ -1,0 +1,11 @@
+{
+  "name": "PyPetaKit5D",
+  "version": "1.4.6",
+  "summary": "A Python wrapper for PetaKit5D",
+  "author": "Matthew Mueller",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/abcucberkeley/PyPetaKit5D",
+  "download_filename": "pypetakit5d-1.4.6.tar.gz",
+  "download_time": "2025-09-23T06:30:59.656563",
+  "package_url": "https://pypi.org/project/PyPetaKit5D/"
+}

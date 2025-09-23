@@ -1,0 +1,11 @@
+{
+  "name": "huangjb-charset-normalizer",
+  "version": "3.4.2",
+  "summary": "Custom build of charset_normalizer for linux_armv7l",
+  "author": "Wecon",
+  "license": null,
+  "home_page": "https://github.com/wecon/custom_packages",
+  "download_filename": "huangjb_charset_normalizer-3.4.2-cp313-cp313t-linux_armv7l.whl",
+  "download_time": "2025-09-23T06:31:19.895764",
+  "package_url": "https://pypi.org/project/huangjb-charset-normalizer/"
+}

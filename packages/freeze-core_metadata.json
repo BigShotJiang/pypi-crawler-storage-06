@@ -1,11 +1,11 @@
 {
   "name": "freeze-core",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Create standalone executables from Python scripts",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "freeze_core-0.1.1.tar.gz",
-  "download_time": "2025-09-21T07:17:21.382130",
+  "download_filename": "freeze_core-0.2.0.tar.gz",
+  "download_time": "2025-09-23T06:31:24.578705",
   "package_url": "https://pypi.org/project/freeze-core/"
 }

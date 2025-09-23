@@ -1,0 +1,11 @@
+{
+  "name": "MCMarkerMaker",
+  "version": "0.1.0",
+  "summary": "A simple utility to create Avid Media Composer marker import files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcmarkermaker-0.1.0.tar.gz",
+  "download_time": "2025-09-23T06:31:09.795959",
+  "package_url": "https://pypi.org/project/MCMarkerMaker/"
+}

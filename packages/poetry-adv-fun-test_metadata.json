@@ -1,11 +1,11 @@
 {
   "name": "poetry-adv-fun-test",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Python library for modeling active and passive electronic components with test coverage.",
   "author": "Sailesh Mishra",
   "license": "MIT",
   "home_page": "https://github.com/saileshmishraindia/poetry-device-lib-testing",
-  "download_filename": "poetry_adv_fun_test-0.1.5.tar.gz",
-  "download_time": "2025-09-23T06:00:33.322525",
+  "download_filename": "poetry_adv_fun_test-0.1.6.tar.gz",
+  "download_time": "2025-09-23T06:31:13.071187",
   "package_url": "https://pypi.org/project/poetry-adv-fun-test/"
 }

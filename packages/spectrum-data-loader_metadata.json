@@ -1,0 +1,11 @@
+{
+  "name": "spectrum-data-loader",
+  "version": "0.1.2",
+  "summary": "A library to easily load spectral data from text files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectrum_data_loader-0.1.2.tar.gz",
+  "download_time": "2025-09-23T06:31:02.971307",
+  "package_url": "https://pypi.org/project/spectrum-data-loader/"
+}
