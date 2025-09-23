@@ -1,0 +1,11 @@
+{
+  "name": "gabriel-protocol",
+  "version": "4.0",
+  "summary": "Protocol for the Gabriel framework",
+  "author": "Aditya Chanana",
+  "license": "Apache",
+  "home_page": "http://gabriel.cs.cmu.edu",
+  "download_filename": "gabriel_protocol-4.0-py3-none-any.whl",
+  "download_time": "2025-09-23T13:20:16.121073",
+  "package_url": "https://pypi.org/project/gabriel-protocol/"
+}

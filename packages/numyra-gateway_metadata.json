@@ -1,0 +1,11 @@
+{
+  "name": "numyra-gateway",
+  "version": "0.1.0",
+  "summary": "A proxy gateway for intercepting and analyzing Anthropic Claude API streaming responses",
+  "author": "simone",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "numyra_gateway-0.1.0.tar.gz",
+  "download_time": "2025-09-23T13:19:58.462539",
+  "package_url": "https://pypi.org/project/numyra-gateway/"
+}

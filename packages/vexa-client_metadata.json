@@ -1,0 +1,11 @@
+{
+  "name": "vexa-client",
+  "version": "0.5.2",
+  "summary": "Python client library for Vexa - privacy-first, open-source API for real-time meeting transcription",
+  "author": "Vexa Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Vexa-ai/vexa",
+  "download_filename": "vexa_client-0.5.2.tar.gz",
+  "download_time": "2025-09-23T13:20:43.450951",
+  "package_url": "https://pypi.org/project/vexa-client/"
+}

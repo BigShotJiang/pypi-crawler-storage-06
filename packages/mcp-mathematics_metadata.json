@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mathematics",
+  "version": "1.0.0",
+  "summary": "Production-ready Model Context Protocol server for mathematical operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_mathematics-1.0.0.tar.gz",
+  "download_time": "2025-09-23T13:20:36.852654",
+  "package_url": "https://pypi.org/project/mcp-mathematics/"
+}

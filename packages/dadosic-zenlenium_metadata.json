@@ -1,11 +1,11 @@
 {
   "name": "dadosic-zenlenium",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "Automação do zendesk com selenium e zenpy",
   "author": "Gustavo Sartorio",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "dadosic_zenlenium-0.1.8.tar.gz",
-  "download_time": "2025-09-22T21:18:26.373068",
+  "download_filename": "dadosic_zenlenium-0.2.0.tar.gz",
+  "download_time": "2025-09-23T13:19:59.554159",
   "package_url": "https://pypi.org/project/dadosic-zenlenium/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "youtube-audio-extractor",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "summary": "Extract audio from YouTube videos and playlists, convert to MP3 format",
   "author": "KetchaLegend",
   "license": null,
   "home_page": "https://github.com/ketchalegend/youtube-extractor",
-  "download_filename": "youtube_audio_extractor-1.1.2.tar.gz",
-  "download_time": "2025-09-23T12:51:48.384552",
+  "download_filename": "youtube_audio_extractor-1.1.4.tar.gz",
+  "download_time": "2025-09-23T13:20:36.331422",
   "package_url": "https://pypi.org/project/youtube-audio-extractor/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eml-to-pdf",
+  "version": "1.0.0",
+  "summary": "A professional Python package for converting EML email files to PDF format",
+  "author": "Abdullah Zaki",
+  "license": "MIT",
+  "home_page": "https://github.com/AlienZaki/eml-to-pdf",
+  "download_filename": "eml_to_pdf-1.0.0.tar.gz",
+  "download_time": "2025-09-23T13:20:14.537253",
+  "package_url": "https://pypi.org/project/eml-to-pdf/"
+}

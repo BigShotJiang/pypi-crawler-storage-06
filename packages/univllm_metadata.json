@@ -1,11 +1,11 @@
 {
   "name": "univllm",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Universal interface for different LLM providers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "univllm-0.1.7.tar.gz",
-  "download_time": "2025-09-23T11:30:45.232557",
+  "download_filename": "univllm-0.1.8.tar.gz",
+  "download_time": "2025-09-23T13:20:34.198752",
   "package_url": "https://pypi.org/project/univllm/"
 }

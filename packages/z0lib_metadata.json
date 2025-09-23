@@ -1,0 +1,11 @@
+{
+  "name": "z0lib",
+  "version": "2.1.1",
+  "summary": "Bash zeroincombenze lib",
+  "author": "Antonio Maria Vigliotti",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/zeroincombenze/tools",
+  "download_filename": "z0lib-2.1.1.tar.gz",
+  "download_time": "2025-09-23T13:20:10.660206",
+  "package_url": "https://pypi.org/project/z0lib/"
+}

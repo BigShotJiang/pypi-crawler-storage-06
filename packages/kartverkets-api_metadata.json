@@ -1,11 +1,11 @@
 {
   "name": "kartverkets-api",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Unofficial client for Kartverket's API for property data (Grunnboken and Matrikkelen).",
   "author": "sigvardbratlie",
   "license": null,
   "home_page": null,
-  "download_filename": "kartverkets_api-0.1.12.tar.gz",
-  "download_time": "2025-09-20T14:16:43.665953",
+  "download_filename": "kartverkets_api-0.1.13.tar.gz",
+  "download_time": "2025-09-23T13:19:56.824592",
   "package_url": "https://pypi.org/project/kartverkets-api/"
 }
