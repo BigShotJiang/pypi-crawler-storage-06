@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-commission-oca",
+  "version": "18.0.1.0.0.4",
+  "summary": "HR commissions OCA",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/commission",
+  "download_filename": "odoo_addon_hr_commission_oca-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-09-23T02:44:55.740099",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-commission-oca/"
+}

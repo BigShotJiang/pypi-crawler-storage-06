@@ -1,0 +1,11 @@
+{
+  "name": "bisc-algorithm",
+  "version": "1.0.1",
+  "summary": "Implementation of the BiSC pattern discovery algorithm for permutations",
+  "author": "BiSC Implementation Team",
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2024 BiSC Algorithm Implementation Team\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction, including without limitation the rights\r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\n        copies of the Software, and to permit persons to whom the Software is\r\n        furnished to do so, subject to the following conditions:\r\n        \r\n        The above copyright notice and this permission notice shall be included in all\r\n        copies or substantial portions of the Software.\r\n        \r\n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\n        SOFTWARE.\r\n        \r\n        ---\r\n        \r\n        This implementation is based on the research paper:\r\n        \"BiSC: An algorithm for discovering generalized permutation patterns\"\r\n        by Henning Ulfarsson\r\n        \r\n        The original algorithm and theoretical foundations are credited to the author.\r\n        This implementation is provided for educational and research purposes.",
+  "home_page": "https://github.com/AcraeaTerpsicore/bisc-python",
+  "download_filename": "bisc_algorithm-1.0.1.tar.gz",
+  "download_time": "2025-09-23T02:45:07.805843",
+  "package_url": "https://pypi.org/project/bisc-algorithm/"
+}

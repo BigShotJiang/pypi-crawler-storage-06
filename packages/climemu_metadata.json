@@ -1,0 +1,11 @@
+{
+  "name": "climemu",
+  "version": "0.1.8",
+  "summary": "Score-based generative emulation of impact-relevant earth system model outputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "climemu-0.1.8.tar.gz",
+  "download_time": "2025-09-23T02:45:12.012089",
+  "package_url": "https://pypi.org/project/climemu/"
+}

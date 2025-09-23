@@ -1,11 +1,11 @@
 {
   "name": "langgraph-executor",
-  "version": "0.0.1a15",
+  "version": "0.0.1a16",
   "summary": "LangGraph python RPC server executable by the langgraph-go orchestrator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_executor-0.0.1a15.tar.gz",
-  "download_time": "2025-09-22T19:17:44.644157",
+  "download_filename": "langgraph_executor-0.0.1a16.tar.gz",
+  "download_time": "2025-09-23T02:45:30.357581",
   "package_url": "https://pypi.org/project/langgraph-executor/"
 }

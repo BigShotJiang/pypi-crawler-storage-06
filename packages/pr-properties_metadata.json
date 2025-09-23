@@ -1,0 +1,11 @@
+{
+  "name": "pr-properties",
+  "version": "1.8.7",
+  "summary": "A Python library for reading, writing and managing .properties configuration files with file lock support.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pr_properties-1.8.7.tar.gz",
+  "download_time": "2025-09-23T02:45:20.387518",
+  "package_url": "https://pypi.org/project/pr-properties/"
+}

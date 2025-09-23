@@ -1,11 +1,11 @@
 {
   "name": "rickdex",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Uma biblioteca Python para interagir com a API Rick and Morty.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rickdex-0.3.0.tar.gz",
-  "download_time": "2025-09-21T17:32:11.606670",
+  "download_filename": "rickdex-0.3.1.tar.gz",
+  "download_time": "2025-09-23T02:45:30.876398",
   "package_url": "https://pypi.org/project/rickdex/"
 }
