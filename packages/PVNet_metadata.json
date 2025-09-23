@@ -1,11 +1,11 @@
 {
   "name": "PVNet",
-  "version": "5.0.23",
+  "version": "5.0.24",
   "summary": "PVNet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pvnet-5.0.23.tar.gz",
-  "download_time": "2025-09-22T16:56:49.209309",
+  "download_filename": "pvnet-5.0.24.tar.gz",
+  "download_time": "2025-09-23T09:53:33.141397",
   "package_url": "https://pypi.org/project/PVNet/"
 }

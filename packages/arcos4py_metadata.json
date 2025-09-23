@@ -1,0 +1,11 @@
+{
+  "name": "arcos4py",
+  "version": "0.3.3",
+  "summary": "A python package to detect collective spatio-temporal phenomena.",
+  "author": "Benjamin Graedel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arcos4py-0.3.3.tar.gz",
+  "download_time": "2025-09-23T09:53:26.607848",
+  "package_url": "https://pypi.org/project/arcos4py/"
+}

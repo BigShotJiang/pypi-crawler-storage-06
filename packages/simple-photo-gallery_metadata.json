@@ -1,0 +1,11 @@
+{
+  "name": "simple-photo-gallery",
+  "version": "1.5.7",
+  "summary": "Pretty and simple HTML photo galleries you can host yourself.",
+  "author": "Vladimir Haltakov",
+  "license": "MIT",
+  "home_page": "https://haltakov.net/simple-photo-gallery",
+  "download_filename": "simple_photo_gallery-1.5.7.tar.gz",
+  "download_time": "2025-09-23T09:53:32.619160",
+  "package_url": "https://pypi.org/project/simple-photo-gallery/"
+}

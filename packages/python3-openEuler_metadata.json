@@ -1,0 +1,11 @@
+{
+  "name": "python3-openEuler",
+  "version": "0.0.1",
+  "summary": "used to get and deal information about openEuler os",
+  "author": "redrose2100",
+  "license": "MIT",
+  "home_page": "https://gitee.com/devops_dev/openEuler",
+  "download_filename": "python3_openeuler-0.0.1.tar.gz",
+  "download_time": "2025-09-23T09:53:33.651721",
+  "package_url": "https://pypi.org/project/python3-openEuler/"
+}
