@@ -1,0 +1,11 @@
+{
+  "name": "directory-healthcheck",
+  "version": "3.8",
+  "summary": "Library to streamline healthchecks for Directory apps.",
+  "author": "Department for International Trade",
+  "license": "MIT",
+  "home_page": "https://github.com/uktrade/directory-healthcheck",
+  "download_filename": "directory_healthcheck-3.8-py3-none-any.whl",
+  "download_time": "2025-09-23T08:48:56.179948",
+  "package_url": "https://pypi.org/project/directory-healthcheck/"
+}

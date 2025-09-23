@@ -1,11 +1,11 @@
 {
   "name": "openapi-python-generator",
-  "version": "2.0.0",
+  "version": "2.1.1",
   "summary": "Openapi Python Generator",
   "author": "Marco Müllner",
   "license": "MIT",
   "home_page": "https://github.com/MarcoMuellner/openapi-python-generator",
-  "download_filename": "openapi_python_generator-2.0.0.tar.gz",
-  "download_time": "2025-09-20T09:52:07.551174",
+  "download_filename": "openapi_python_generator-2.1.1.tar.gz",
+  "download_time": "2025-09-23T08:49:25.750617",
   "package_url": "https://pypi.org/project/openapi-python-generator/"
 }

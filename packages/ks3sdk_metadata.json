@@ -1,0 +1,11 @@
+{
+  "name": "ks3sdk",
+  "version": "1.15.0",
+  "summary": "Ksyun KS3 SDK",
+  "author": "ksc_ks3",
+  "license": "MIT",
+  "home_page": "https://gitee.com/ks3sdk/ks3-python-sdk",
+  "download_filename": "ks3sdk-1.15.0.tar.gz",
+  "download_time": "2025-09-23T08:48:49.641288",
+  "package_url": "https://pypi.org/project/ks3sdk/"
+}

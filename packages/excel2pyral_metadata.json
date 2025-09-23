@@ -1,0 +1,11 @@
+{
+  "name": "excel2pyral",
+  "version": "1.1.6",
+  "summary": "Convert Excel register specifications to PyUVM RAL models via SystemRDL",
+  "author": "Sanjay Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/SanCodex/excel2pyral",
+  "download_filename": "excel2pyral-1.1.6.tar.gz",
+  "download_time": "2025-09-23T08:49:15.298091",
+  "package_url": "https://pypi.org/project/excel2pyral/"
+}

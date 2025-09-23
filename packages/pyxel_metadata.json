@@ -1,11 +1,11 @@
 {
   "name": "pyxel",
-  "version": "2.5.6",
+  "version": "2.5.7",
   "summary": "A retro game engine for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyxel-2.5.6-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-09-20T04:22:38.933898",
+  "download_filename": "pyxel-2.5.7-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-09-23T08:49:06.630917",
   "package_url": "https://pypi.org/project/pyxel/"
 }

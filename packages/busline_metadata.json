@@ -1,11 +1,11 @@
 {
   "name": "busline",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Agnostic Eventbus for Python",
-  "author": null,
+  "author": "Marco Picone",
   "license": null,
   "home_page": null,
-  "download_filename": "busline-1.0.3.tar.gz",
-  "download_time": "2025-09-20T14:32:55.915051",
+  "download_filename": "busline-1.0.4.tar.gz",
+  "download_time": "2025-09-23T08:49:03.341806",
   "package_url": "https://pypi.org/project/busline/"
 }

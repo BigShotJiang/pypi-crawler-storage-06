@@ -1,0 +1,11 @@
+{
+  "name": "aecg",
+  "version": "0.1.1",
+  "summary": "Python parser and viewer for Annotated ECG HL7 files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aecg-0.1.1.tar.gz",
+  "download_time": "2025-09-23T08:48:46.334045",
+  "package_url": "https://pypi.org/project/aecg/"
+}
