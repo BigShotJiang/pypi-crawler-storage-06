@@ -1,0 +1,11 @@
+{
+  "name": "pycurl-requests",
+  "version": "0.5.1",
+  "summary": "A Requests-compatible interface for pycURL",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/dcoles/pycurl-requests",
+  "download_filename": "pycurl_requests-0.5.1.tar.gz",
+  "download_time": "2025-09-23T04:24:39.414020",
+  "package_url": "https://pypi.org/project/pycurl-requests/"
+}

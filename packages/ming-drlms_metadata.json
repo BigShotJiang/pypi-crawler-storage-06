@@ -1,11 +1,11 @@
 {
   "name": "ming-drlms",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "CLI wrapper for DRLMS server/agent with pretty UX",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ming_drlms-0.2.1.tar.gz",
-  "download_time": "2025-09-22T15:22:10.506553",
+  "download_filename": "ming_drlms-0.2.2.tar.gz",
+  "download_time": "2025-09-23T04:24:25.741952",
   "package_url": "https://pypi.org/project/ming-drlms/"
 }

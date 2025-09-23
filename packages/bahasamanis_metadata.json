@@ -1,11 +1,11 @@
 {
   "name": "bahasamanis",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Bahasa Manis (BM): Bahasa pemrograman berbahasa Indonesia dengan interpreter, transpiler, dan playground.",
   "author": "M. Samjaya",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bahasamanis-0.1.10.tar.gz",
-  "download_time": "2025-09-18T06:28:32.957428",
+  "download_filename": "bahasamanis-0.1.11.tar.gz",
+  "download_time": "2025-09-23T04:24:21.967178",
   "package_url": "https://pypi.org/project/bahasamanis/"
 }

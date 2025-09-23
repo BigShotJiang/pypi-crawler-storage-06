@@ -1,0 +1,11 @@
+{
+  "name": "koda-validate",
+  "version": "5.0.2",
+  "summary": "Typesafe, composable validation",
+  "author": "Keith Philpott",
+  "license": "MIT",
+  "home_page": "https://github.com/keithasaurus/koda-validate",
+  "download_filename": "koda_validate-5.0.2.tar.gz",
+  "download_time": "2025-09-23T04:24:15.810841",
+  "package_url": "https://pypi.org/project/koda-validate/"
+}

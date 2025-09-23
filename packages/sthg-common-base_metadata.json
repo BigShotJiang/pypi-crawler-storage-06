@@ -1,11 +1,11 @@
 {
   "name": "sthg-common-base",
-  "version": "0.4.8.6",
+  "version": "0.4.8.7",
   "summary": "Python FastApi logs",
   "author": "DongQing",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/yourusername/your_package_name",
-  "download_filename": "sthg_common_base-0.4.8.6.tar.gz",
-  "download_time": "2025-09-17T12:38:54.854141",
+  "download_filename": "sthg_common_base-0.4.8.7.tar.gz",
+  "download_time": "2025-09-23T04:24:30.186775",
   "package_url": "https://pypi.org/project/sthg-common-base/"
 }

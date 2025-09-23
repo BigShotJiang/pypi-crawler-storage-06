@@ -1,11 +1,11 @@
 {
   "name": "termprofiles",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Per-project terminal profiles for iTerm2 (macOS) and Windows Terminal (Windows), safely via per-file JSON.",
-  "author": "yaioyaio",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "termprofiles-0.1.2.tar.gz",
-  "download_time": "2025-09-23T03:24:18.755560",
+  "download_filename": "termprofiles-0.1.3.tar.gz",
+  "download_time": "2025-09-23T04:24:18.575618",
   "package_url": "https://pypi.org/project/termprofiles/"
 }

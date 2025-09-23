@@ -1,11 +1,11 @@
 {
   "name": "deepbridge",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "summary": null,
   "author": "Team DeepBridge",
   "license": null,
   "home_page": null,
-  "download_filename": "deepbridge-0.1.44.tar.gz",
-  "download_time": "2025-09-23T03:23:51.850203",
+  "download_filename": "deepbridge-0.1.45.tar.gz",
+  "download_time": "2025-09-23T04:24:38.865324",
   "package_url": "https://pypi.org/project/deepbridge/"
 }

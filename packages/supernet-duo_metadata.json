@@ -1,11 +1,11 @@
 {
   "name": "supernet-duo",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Supernet_Duo: A extremley quick and simple neural network classifier.",
   "author": null,
   "license": "MIT License\r\n        ",
   "home_page": null,
-  "download_filename": "supernet_duo-0.1.2.tar.gz",
-  "download_time": "2025-09-23T03:23:48.777123",
+  "download_filename": "supernet_duo-0.1.4-py3-none-any.whl",
+  "download_time": "2025-09-23T04:24:25.214963",
   "package_url": "https://pypi.org/project/supernet-duo/"
 }
