@@ -1,0 +1,11 @@
+{
+  "name": "rust-add-pyo3",
+  "version": "0.1.0",
+  "summary": "Minimal PyO3 example that adds two numbers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_add_pyo3-0.1.0-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-09-23T20:42:44.667718",
+  "package_url": "https://pypi.org/project/rust-add-pyo3/"
+}

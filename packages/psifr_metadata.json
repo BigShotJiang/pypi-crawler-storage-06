@@ -1,0 +1,11 @@
+{
+  "name": "psifr",
+  "version": "0.10.1",
+  "summary": "Psifr: Analysis and visualization of free recall data",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "psifr-0.10.1.tar.gz",
+  "download_time": "2025-09-23T20:42:34.882186",
+  "package_url": "https://pypi.org/project/psifr/"
+}
