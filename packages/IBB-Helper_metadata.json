@@ -1,0 +1,11 @@
+{
+  "name": "IBB-Helper",
+  "version": "0.1.2",
+  "summary": "helper functions",
+  "author": "IBB",
+  "license": "custom",
+  "home_page": "https://github.tik.uni-stuttgart.de/st193984/IBB_helper.git",
+  "download_filename": "ibb_helper-0.1.2.tar.gz",
+  "download_time": "2025-09-23T10:55:19.672506",
+  "package_url": "https://pypi.org/project/IBB-Helper/"
+}

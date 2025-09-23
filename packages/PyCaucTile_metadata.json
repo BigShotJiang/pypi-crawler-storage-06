@@ -1,0 +1,11 @@
+{
+  "name": "PyCaucTile",
+  "version": "1.0.0",
+  "summary": "A package for generating tile grid maps of East Caucasian languages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycauctile-1.0.0.tar.gz",
+  "download_time": "2025-09-23T10:55:40.823375",
+  "package_url": "https://pypi.org/project/PyCaucTile/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sqlrooms-duckdb-server",
+  "version": "0.2.0",
+  "summary": "A DuckDB server for SQLRooms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlrooms_duckdb_server-0.2.0.tar.gz",
+  "download_time": "2025-09-23T10:56:02.662309",
+  "package_url": "https://pypi.org/project/sqlrooms-duckdb-server/"
+}

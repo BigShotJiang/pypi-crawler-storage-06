@@ -1,0 +1,11 @@
+{
+  "name": "vulnebify",
+  "version": "1.0.4",
+  "summary": "Python library for the Vulnebify API. Run scans, inspect hosts/domains, and fetch results with real-time updates and JSON output.",
+  "author": "Alex @ Vulnebify",
+  "license": null,
+  "home_page": "https://github.com/vulnebify/vulnebify-python",
+  "download_filename": "vulnebify-1.0.4.tar.gz",
+  "download_time": "2025-09-23T10:55:21.876640",
+  "package_url": "https://pypi.org/project/vulnebify/"
+}

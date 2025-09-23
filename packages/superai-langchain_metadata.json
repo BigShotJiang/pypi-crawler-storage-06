@@ -1,11 +1,11 @@
 {
   "name": "superai-langchain",
-  "version": "122.1.1.4",
+  "version": "122.1.1.5",
   "summary": "superai langchain modules",
   "author": "Owen",
   "license": "Apache 2.0",
   "home_page": "https://github.com/xxx/superai",
-  "download_filename": "superai_langchain-122.1.1.4-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-09-23T10:22:02.303176",
+  "download_filename": "superai_langchain-122.1.1.5-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-09-23T10:55:26.253846",
   "package_url": "https://pypi.org/project/superai-langchain/"
 }

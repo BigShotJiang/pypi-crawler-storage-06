@@ -1,0 +1,11 @@
+{
+  "name": "betterKickAPI",
+  "version": "0.2.1",
+  "summary": "A Python 3.9+ implementation of the Kick API and Webhook. Highly inspired on twitchAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterkickapi-0.2.1.tar.gz",
+  "download_time": "2025-09-23T10:56:00.504475",
+  "package_url": "https://pypi.org/project/betterKickAPI/"
+}
