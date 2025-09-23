@@ -1,0 +1,11 @@
+{
+  "name": "dogecloud-uploader",
+  "version": "1.0.0",
+  "summary": "多吉云上传工具 - 支持图片和文件上传到多吉云存储",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dogecloud_uploader-1.0.0.tar.gz",
+  "download_time": "2025-09-23T04:55:02.709514",
+  "package_url": "https://pypi.org/project/dogecloud-uploader/"
+}

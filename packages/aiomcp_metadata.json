@@ -1,11 +1,11 @@
 {
   "name": "aiomcp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Simple Python MCP Solution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiomcp-0.0.2.tar.gz",
-  "download_time": "2025-09-22T22:52:59.619510",
+  "download_filename": "aiomcp-0.0.3.tar.gz",
+  "download_time": "2025-09-23T04:55:03.258442",
   "package_url": "https://pypi.org/project/aiomcp/"
 }
