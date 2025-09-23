@@ -1,0 +1,11 @@
+{
+  "name": "fsl-sub",
+  "version": "2.9.1",
+  "summary": "FSL Cluster Submission Script",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "fsl_sub-2.9.1.tar.gz",
+  "download_time": "2025-09-23T12:52:05.376453",
+  "package_url": "https://pypi.org/project/fsl-sub/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "geo-features-generator",
+  "version": "0.1.5",
+  "summary": "Sklearn-style generator of geo features: distances, angles, cosine similarity, KMeans, NN, polar features",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_features_generator-0.1.5.tar.gz",
+  "download_time": "2025-09-23T12:52:01.244971",
+  "package_url": "https://pypi.org/project/geo-features-generator/"
+}

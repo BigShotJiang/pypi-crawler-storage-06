@@ -1,11 +1,11 @@
 {
   "name": "RanjeetTrial",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Just for trial - convert CSV/TSV to XLSX",
   "author": "Ranjeet Aloriya",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ranjeettrial-0.0.3.tar.gz",
-  "download_time": "2025-09-20T11:52:20.172163",
+  "download_filename": "ranjeettrial-0.0.5.tar.gz",
+  "download_time": "2025-09-23T12:52:25.646103",
   "package_url": "https://pypi.org/project/RanjeetTrial/"
 }

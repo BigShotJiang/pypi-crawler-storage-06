@@ -1,0 +1,11 @@
+{
+  "name": "petprep-extract-tacs",
+  "version": "0.0.6",
+  "summary": "PETPrep Extract Time Activity Curves Workflow",
+  "author": "Martin Norgaard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "petprep_extract_tacs-0.0.6.tar.gz",
+  "download_time": "2025-09-23T12:52:23.922484",
+  "package_url": "https://pypi.org/project/petprep-extract-tacs/"
+}

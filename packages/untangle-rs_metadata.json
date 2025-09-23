@@ -1,11 +1,11 @@
 {
   "name": "untangle-rs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Library that minimises edge crossings in a hierarchical multipartite graph",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "untangle_rs-0.1.0.tar.gz",
-  "download_time": "2025-09-18T21:38:44.383340",
+  "download_filename": "untangle_rs-0.2.0.tar.gz",
+  "download_time": "2025-09-23T12:52:20.443076",
   "package_url": "https://pypi.org/project/untangle-rs/"
 }

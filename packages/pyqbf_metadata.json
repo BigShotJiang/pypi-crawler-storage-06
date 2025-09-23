@@ -1,0 +1,11 @@
+{
+  "name": "pyqbf",
+  "version": "1.1.1",
+  "summary": "A Python Framework for Solving Quantfied Boolean Formulas",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.sai.jku.at/qbf/pyqbf",
+  "download_filename": "pyqbf-1.1.1.tar.gz",
+  "download_time": "2025-09-23T12:51:42.558134",
+  "package_url": "https://pypi.org/project/pyqbf/"
+}

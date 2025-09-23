@@ -1,0 +1,11 @@
+{
+  "name": "c2hunt",
+  "version": "0.0.8",
+  "summary": "Hunting Potential C2 Commands in Android Malware via Smali String Comparison and Control Flow Analysis",
+  "author": "JunWei Song",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c2hunt-0.0.8.tar.gz",
+  "download_time": "2025-09-23T12:51:46.620748",
+  "package_url": "https://pypi.org/project/c2hunt/"
+}

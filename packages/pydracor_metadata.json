@@ -1,0 +1,11 @@
+{
+  "name": "pydracor",
+  "version": "3.0.2",
+  "summary": "Python package which wraps methods from pydracor-base to interact with the DraCor API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydracor-3.0.2.tar.gz",
+  "download_time": "2025-09-23T12:51:58.333781",
+  "package_url": "https://pypi.org/project/pydracor/"
+}

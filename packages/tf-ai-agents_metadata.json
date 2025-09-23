@@ -1,0 +1,11 @@
+{
+  "name": "tf-ai-agents",
+  "version": "0.1.0a1",
+  "summary": "A Python package for AI agent functionality",
+  "author": "Sonu Kumar TF",
+  "license": "MIT",
+  "home_page": "https://github.com/sonukumar-tf/tf-ai-agents",
+  "download_filename": "tf_ai_agents-0.1.0a1.tar.gz",
+  "download_time": "2025-09-23T12:52:27.948988",
+  "package_url": "https://pypi.org/project/tf-ai-agents/"
+}

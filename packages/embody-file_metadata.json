@@ -1,11 +1,11 @@
 {
   "name": "embody-file",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "summary": "Embody file converter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embody_file-1.0.32.tar.gz",
-  "download_time": "2025-09-23T06:31:25.616970",
+  "download_filename": "embody_file-1.0.33.tar.gz",
+  "download_time": "2025-09-23T12:52:05.953622",
   "package_url": "https://pypi.org/project/embody-file/"
 }

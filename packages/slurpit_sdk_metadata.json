@@ -1,0 +1,11 @@
+{
+  "name": "slurpit_sdk",
+  "version": "0.9.119",
+  "summary": "A robust Python SDK for slurpit",
+  "author": "Slurp'it",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurpit_sdk-0.9.119.tar.gz",
+  "download_time": "2025-09-23T12:52:09.459320",
+  "package_url": "https://pypi.org/project/slurpit_sdk/"
+}

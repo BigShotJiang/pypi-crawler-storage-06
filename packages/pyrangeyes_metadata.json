@@ -1,0 +1,11 @@
+{
+  "name": "pyrangeyes",
+  "version": "0.1.8",
+  "summary": "'Genomic intervals data visualization package for dataframe objects generated with PyRanges.'",
+  "author": "Ester Muñoz del Campo, Max Ticó, Marco Mariotti",
+  "license": null,
+  "home_page": "https://github.com/pyranges/pyrangeyes",
+  "download_filename": "pyrangeyes-0.1.8.tar.gz",
+  "download_time": "2025-09-23T12:52:34.043653",
+  "package_url": "https://pypi.org/project/pyrangeyes/"
+}

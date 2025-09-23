@@ -1,0 +1,11 @@
+{
+  "name": "pachcalib",
+  "version": "0.1.0",
+  "summary": "This library has been done for easy interaction with Pachca Messenger",
+  "author": "Владислав Кузнецов",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pachcalib-0.1.0.tar.gz",
+  "download_time": "2025-09-23T12:52:25.073404",
+  "package_url": "https://pypi.org/project/pachcalib/"
+}
