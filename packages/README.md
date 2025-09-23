@@ -1,14 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T19:42:32.761660
-- **Total Packages**: 84
-- **Total Size**: 12.86 MB
+- **Download Time**: 2025-09-23T19:53:55.603391
+- **Total Packages**: 90
+- **Total Size**: 5.66 MB
 
 ## Packages List
+- hud-python
+- romatch
+- telegram-multi-account-sender
+- dify_plugin_dongjak
+- assistants-framework
+- authentik-client
+- turboxl
+- inteligenciartificial
+- resaid
+- py-dependency-mapper
+- types-boto3
+- types-boto3-lite
+- spgci
+- betty
+- swapdog
+- bigwig-io
+- svc-infra
+- rxfoundry.clients.swifty_api
+- rxfoundry.clients.swifty_oauth_api
+- d-back
+- runkmc
+- vss-cli
+- graphs-jenninekk
+- gr4vy
+- stinger-ipc
+- univllm
+- boto3-stubs-lite
+- boto3-stubs
+- sirifi
+- mypy-boto3-sso-oidc
+- galmex
+- mypy-boto3-sso-admin
+- types-boto3-sso-oidc
+- mypy-boto3-ssm
+- types-boto3-sso-admin
+- mypy-boto3-ec2
+- types-boto3-ssm
+- mypy-boto3-cleanrooms
+- mypy-boto3-entityresolution
+- types-boto3-ec2
+- types-boto3-entityresolution
+- types-boto3-cleanrooms
+- localstack-core
 - aind-dynamic-foraging-data-utils
 - mst-authsrv
-- turboxl
 - kibreabpdf
 - geepers
 - napari-mAIcrobe
@@ -21,7 +63,6 @@
 - ethyca-fides
 - bafser
 - aircheck-test-model
-- authentik-client
 - vior-sdk
 - how2validate
 - Django-local-lib-pycon2025
@@ -55,38 +96,3 @@
 - inventree-dymo-plugin
 - head-hunter-job-bot-auth-tool
 - streamlit
-- graphs-jackWheelerEng
-- goblintools
-- nubrain
-- lesson-7-1-plugin
-- stcal
-- streamlit-custom-api-grid
-- monkey.dao
-- sapiens-transformers
-- shadecrypt
-- vlmrun
-- trading-common
-- pulumi
-- cohens-d-effect-size
-- stdatamodels
-- meta-agents-research-environments
-- stpipe
-- gammarers.aws-frontend-web-app-deploy-stack
-- pkywebdriver
-- sunwaee
-- quantconnect-stubs
-- test-mcp-server-ap25092201
-- supervisor-pydantic
-- kryptools
-- pysma-plus
-- pywwa
-- rxfoundry.clients.swifty_api
-- rxfoundry.clients.swifty_oauth_api
-- siotls
-- water-column-sonar-resampling
-- lookahead-keys-attention
-- crc-bonfire
-- sysnet-pyutils
-- terminator-py
-- inventree-cups-plugin
-- inventree-bulk-plugin
