@@ -1,11 +1,11 @@
 {
   "name": "sqlite3-to-mysql",
-  "version": "2.4.6",
+  "version": "2.5.0",
   "summary": "A simple Python tool to transfer data from SQLite 3 to MySQL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlite3_to_mysql-2.4.6.tar.gz",
-  "download_time": "2025-09-17T09:20:25.141611",
+  "download_filename": "sqlite3_to_mysql-2.5.0.tar.gz",
+  "download_time": "2025-09-23T21:18:58.142259",
   "package_url": "https://pypi.org/project/sqlite3-to-mysql/"
 }

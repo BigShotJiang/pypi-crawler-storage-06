@@ -1,0 +1,11 @@
+{
+  "name": "auth-control-sdk",
+  "version": "1.0.0",
+  "summary": "Intelligent authorization and access control using adaptive scoring",
+  "author": "Jaime Jimenez",
+  "license": null,
+  "home_page": "https://github.com/jaimeajl/auth-control",
+  "download_filename": "auth-control-sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-23T21:19:03.923277",
+  "package_url": "https://pypi.org/project/auth-control-sdk/"
+}

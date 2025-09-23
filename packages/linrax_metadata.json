@@ -1,11 +1,11 @@
 {
   "name": "linrax",
-  "version": "1!0.1.0",
+  "version": "0.1.0",
   "summary": "A JAX-compatible, simplex method-based linear program solver",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "linrax-1!0.1.0.tar.gz",
-  "download_time": "2025-09-23T20:54:38.171667",
+  "download_filename": "linrax-0.1.0.tar.gz",
+  "download_time": "2025-09-23T21:19:22.674068",
   "package_url": "https://pypi.org/project/linrax/"
 }

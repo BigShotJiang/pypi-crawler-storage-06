@@ -1,0 +1,11 @@
+{
+  "name": "jqai",
+  "version": "0.1.5",
+  "summary": "Generate and execute jq programs using LLMs",
+  "author": "Mason Hall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jqai-0.1.5.tar.gz",
+  "download_time": "2025-09-23T21:18:52.270985",
+  "package_url": "https://pypi.org/project/jqai/"
+}
