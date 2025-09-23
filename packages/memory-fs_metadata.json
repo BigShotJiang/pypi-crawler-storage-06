@@ -1,11 +1,11 @@
 {
   "name": "memory-fs",
-  "version": "0.31.0",
+  "version": "0.32.0",
   "summary": "Memory-FS",
   "author": "Dinis Cruz",
   "license": "Apache 2.0",
   "home_page": "https://github.com/owasp-sbot/Memory-FS",
-  "download_filename": "memory_fs-0.31.0.tar.gz",
-  "download_time": "2025-09-23T11:53:38.130055",
+  "download_filename": "memory_fs-0.32.0.tar.gz",
+  "download_time": "2025-09-23T23:40:02.256875",
   "package_url": "https://pypi.org/project/memory-fs/"
 }

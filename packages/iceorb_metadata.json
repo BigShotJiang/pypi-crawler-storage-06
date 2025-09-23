@@ -1,0 +1,11 @@
+{
+  "name": "iceorb",
+  "version": "1.1.0",
+  "summary": "Ice Orb multi-agent system for open-ended wargames with large language models",
+  "author": "Daniel Hogan",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iceorb-1.1.0.tar.gz",
+  "download_time": "2025-09-23T23:39:55.903548",
+  "package_url": "https://pypi.org/project/iceorb/"
+}

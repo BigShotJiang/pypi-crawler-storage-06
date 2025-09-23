@@ -1,11 +1,11 @@
 {
   "name": "rda-python-common",
-  "version": "1.0.46",
+  "version": "1.0.47",
   "summary": "RDA Python common library codes shared by other RDA python packages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rda_python_common-1.0.46.tar.gz",
-  "download_time": "2025-09-17T18:27:37.511705",
+  "download_filename": "rda_python_common-1.0.47.tar.gz",
+  "download_time": "2025-09-23T23:39:46.788461",
   "package_url": "https://pypi.org/project/rda-python-common/"
 }

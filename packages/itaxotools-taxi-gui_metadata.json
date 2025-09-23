@@ -1,0 +1,11 @@
+{
+  "name": "itaxotools-taxi-gui",
+  "version": "0.2.5",
+  "summary": "A Qt GUI for Taxi2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itaxotools_taxi_gui-0.2.5.tar.gz",
+  "download_time": "2025-09-23T23:39:46.254916",
+  "package_url": "https://pypi.org/project/itaxotools-taxi-gui/"
+}
