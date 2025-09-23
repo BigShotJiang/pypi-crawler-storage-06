@@ -1,0 +1,11 @@
+{
+  "name": "singlestoredb",
+  "version": "1.15.7",
+  "summary": "Interface to the SingleStoreDB database and workspace management APIs",
+  "author": "SingleStore",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/singlestore-labs/singlestoredb-python",
+  "download_filename": "singlestoredb-1.15.7.tar.gz",
+  "download_time": "2025-09-23T17:54:26.007463",
+  "package_url": "https://pypi.org/project/singlestoredb/"
+}

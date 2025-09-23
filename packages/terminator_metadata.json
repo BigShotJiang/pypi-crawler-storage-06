@@ -1,11 +1,11 @@
 {
   "name": "terminator",
-  "version": "0.14.10",
+  "version": "0.15.0",
   "summary": "Python bindings for the Terminator Rust library (via PyO3)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminator-0.14.10-cp310-abi3-macosx_13_0_arm64.whl",
-  "download_time": "2025-09-22T19:17:56.650539",
+  "download_filename": "terminator-0.15.0-cp310-abi3-macosx_13_0_arm64.whl",
+  "download_time": "2025-09-23T17:54:12.513162",
   "package_url": "https://pypi.org/project/terminator/"
 }

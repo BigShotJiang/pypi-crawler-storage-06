@@ -1,11 +1,11 @@
 {
   "name": "honeybee-radiance-postprocess",
-  "version": "0.4.560",
+  "version": "0.4.561",
   "summary": "Postprocessing of Radiance results and matrices",
   "author": "Ladybug Tools",
   "license": "GPLv3",
   "home_page": "https://github.com/ladybug-tools/honeybee-radiance-postprocess",
-  "download_filename": "honeybee_radiance_postprocess-0.4.560.tar.gz",
-  "download_time": "2025-09-18T21:38:20.071352",
+  "download_filename": "honeybee_radiance_postprocess-0.4.561.tar.gz",
+  "download_time": "2025-09-23T17:54:36.941868",
   "package_url": "https://pypi.org/project/honeybee-radiance-postprocess/"
 }
