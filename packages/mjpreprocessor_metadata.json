@@ -1,11 +1,11 @@
 {
   "name": "mjpreprocessor",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Fast PDF/DOCX preprocessor with Rust + PyO3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mjpreprocessor-0.1.5-cp38-abi3-win_amd64.whl",
-  "download_time": "2025-09-22T21:38:32.285108",
+  "download_filename": "mjpreprocessor-0.1.6-cp38-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-09-23T21:39:47.713038",
   "package_url": "https://pypi.org/project/mjpreprocessor/"
 }

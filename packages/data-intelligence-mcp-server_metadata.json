@@ -1,11 +1,11 @@
 {
   "name": "data-intelligence-mcp-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "MCP Server implementation for IBM Data Intelligence",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "data_intelligence_mcp_server-0.0.2.tar.gz",
-  "download_time": "2025-09-23T09:43:23.186168",
+  "download_filename": "data_intelligence_mcp_server-0.0.3.tar.gz",
+  "download_time": "2025-09-23T21:39:34.375898",
   "package_url": "https://pypi.org/project/data-intelligence-mcp-server/"
 }

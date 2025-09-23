@@ -1,0 +1,11 @@
+{
+  "name": "bfg-maputil",
+  "version": "0.5.3",
+  "summary": "Threaded map for lists, pandas Series/DataFrames with index and progress",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bfg_maputil-0.5.3.tar.gz",
+  "download_time": "2025-09-23T21:39:46.995006",
+  "package_url": "https://pypi.org/project/bfg-maputil/"
+}

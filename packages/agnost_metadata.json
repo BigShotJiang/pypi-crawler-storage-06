@@ -1,0 +1,11 @@
+{
+  "name": "agnost",
+  "version": "0.1.4",
+  "summary": "Analytics SDK for Model Context Protocol Servers",
+  "author": "Agnost AI",
+  "license": "MIT",
+  "home_page": "https://github.com/agnost-ai/analytics-sdk",
+  "download_filename": "agnost-0.1.4.tar.gz",
+  "download_time": "2025-09-23T21:39:36.732722",
+  "package_url": "https://pypi.org/project/agnost/"
+}

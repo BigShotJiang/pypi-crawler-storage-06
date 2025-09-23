@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T21:19:28.354838
-- **Total Packages**: 78
-- **Total Size**: 10.55 MB
+- **Download Time**: 2025-09-23T21:40:16.732748
+- **Total Packages**: 83
+- **Total Size**: 8.63 MB
 
 ## Packages List
+- mrx-runway
+- mixam-sdk
+- pyqrackising
+- authentik-client
+- satviz
+- datahold
+- beekeeper-ai
+- cogsworth
+- pipeline-eds
+- rms-pdstable
+- flucoma-torch
+- bbperf
+- web-framework-api
+- gradnet
+- KAlignedoscope
+- beekeeper-core
+- data-intelligence-mcp-server
+- nubrain
+- cdp-ninja
+- moondream-station
+- agnost
+- civicstream
+- ibarrow
+- flasca
+- fleet-python
+- pysparks
+- nexaai
+- inteligenciartificial
+- copyparty
+- glpi-provider
+- coiled
+- netbox-routing-complex
+- cinetica
+- mccoygroup-mcutils
+- vital
+- langchain-callback-parquet-logger
+- isapilib
+- bfg-maputil
+- mjpreprocessor
+- OpenFisca-Core
+- fastgraphFPMS
+- moodle-to-vikwikiquiz
+- silverback
+- amazon-braket-default-simulator
+- imandrax-api
 - calitp-data-analysis
 - claude-cache
 - thds.atacama
@@ -18,7 +63,6 @@
 - albert
 - yta-programming
 - augint-org
-- ibarrow
 - geneva
 - satcat
 - jqai
@@ -29,7 +73,6 @@
 - runkmc
 - ptetools
 - Django-local-lib-pycon2025
-- authentik-client
 - teds
 - yta-testing
 - sqlite3-to-mysql
@@ -37,50 +80,12 @@
 - arcade-clickup
 - arcade-asana
 - arcade-notion-toolkit
-- netbox-routing-complex
-- nubrain
 - test-mcp-server-ap25092201
 - micantis
 - auth-control-sdk
 - NsgOrcFx
 - blendsql
-- flasca
 - eval-protocol
 - codeflash
 - graphs-benicioayala
 - buddybet-i18n
-- edgeimpulse-api
-- minicypher
-- tencentcloud-sdk-python-vpc
-- studenttmixture
-- tencentcloud-sdk-python-redis
-- tencentcloud-sdk-python-organization
-- tencentcloud-sdk-python-lkeap
-- cycls
-- tencentcloud-sdk-python-lighthouse
-- tencentcloud-sdk-python-iotexplorer
-- opencos-eda
-- dbos
-- tencentcloud-sdk-python-essbasic
-- tencentcloud-sdk-python-ess
-- tencentcloud-sdk-python-emr
-- tencentcloud-sdk-python-ctem
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-ckafka
-- django-spire
-- tencentcloud-sdk-python-cfw
-- tencentcloud-sdk-python-ccc
-- tencentcloud-sdk-python-billing
-- mb-mercately-client
-- gh_release_tools
-- linrax
-- unique_toolkit
-- evnex
-- mccoygroup-psience
-- tencentcloud-sdk-python-intl-en
-- mccoygroup-mcutils
-- localfinder
-- aioesphomeapi
-- genebot
-- geodesk
-- dspy-profiles

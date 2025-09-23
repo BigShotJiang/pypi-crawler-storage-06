@@ -1,0 +1,11 @@
+{
+  "name": "silverback",
+  "version": "0.7.29",
+  "summary": "Ape SDK for the Silverback platform",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/silverback",
+  "download_filename": "silverback-0.7.29.tar.gz",
+  "download_time": "2025-09-23T21:39:50.069635",
+  "package_url": "https://pypi.org/project/silverback/"
+}

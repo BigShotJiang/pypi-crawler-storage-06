@@ -1,11 +1,11 @@
 {
   "name": "fastgraphFPMS",
-  "version": "0.1.1",
-  "summary": "Librairie python codé en C pour le cours de graph et optimisation combinatoire",
+  "version": "0.1.3",
+  "summary": "Fast Graph Algorithms Library implemented in C++",
   "author": "Flavio D.",
-  "license": "/",
+  "license": null,
   "home_page": null,
-  "download_filename": "fastgraphfpms-0.1.1.tar.gz",
-  "download_time": "2025-09-20T09:19:03.390683",
+  "download_filename": "fastgraphfpms-0.1.3.tar.gz",
+  "download_time": "2025-09-23T21:39:48.894713",
   "package_url": "https://pypi.org/project/fastgraphFPMS/"
 }
