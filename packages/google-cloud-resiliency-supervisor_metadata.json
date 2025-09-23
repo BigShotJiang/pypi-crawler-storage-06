@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-resiliency-supervisor",
+  "version": "1.0.5",
+  "summary": "Google Cloud Resiliency Supervisor",
+  "author": "Google Cloud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_cloud_resiliency_supervisor-1.0.5-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-09-23T04:44:50.077659",
+  "package_url": "https://pypi.org/project/google-cloud-resiliency-supervisor/"
+}
