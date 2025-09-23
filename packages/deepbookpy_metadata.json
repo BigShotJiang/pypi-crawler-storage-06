@@ -1,0 +1,11 @@
+{
+  "name": "deepbookpy",
+  "version": "0.7.1",
+  "summary": "Sui Deepbook Python SDK",
+  "author": "Andrei",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deepbookpy-0.7.1.tar.gz",
+  "download_time": "2025-09-23T19:18:27.773147",
+  "package_url": "https://pypi.org/project/deepbookpy/"
+}

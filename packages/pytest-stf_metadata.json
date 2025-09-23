@@ -1,0 +1,11 @@
+{
+  "name": "pytest-stf",
+  "version": "0.8.0",
+  "summary": "pytest plugin for openSTF",
+  "author": "Jussi Vatjus-Anttila",
+  "license": "Mozilla Public License 2.0 (MPL 2.0)",
+  "home_page": "https://github.com/opentmi/pytest-stf",
+  "download_filename": "pytest-stf-0.8.0.tar.gz",
+  "download_time": "2025-09-23T19:18:11.567898",
+  "package_url": "https://pypi.org/project/pytest-stf/"
+}

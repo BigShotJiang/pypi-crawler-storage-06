@@ -1,11 +1,11 @@
 {
   "name": "monarchmoney-enhanced",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "summary": "Enhanced Monarch Money API with bulk transaction operations, GraphQL optimizations, intelligent caching, query variants, and service-oriented architecture",
   "author": "keithah",
   "license": "MIT",
   "home_page": "https://github.com/keithah/monarchmoney-enhanced",
-  "download_filename": "monarchmoney_enhanced-0.10.0.tar.gz",
-  "download_time": "2025-09-20T23:38:21.003621",
+  "download_filename": "monarchmoney_enhanced-0.11.0.tar.gz",
+  "download_time": "2025-09-23T19:18:33.252181",
   "package_url": "https://pypi.org/project/monarchmoney-enhanced/"
 }

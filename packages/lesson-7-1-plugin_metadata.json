@@ -1,11 +1,11 @@
 {
   "name": "lesson-7-1-plugin",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": null,
   "author": "Алексей Романов",
   "license": null,
   "home_page": null,
-  "download_filename": "lesson_7_1_plugin-0.1.1.tar.gz",
-  "download_time": "2025-09-23T18:53:07.110708",
+  "download_filename": "lesson_7_1_plugin-0.1.4.tar.gz",
+  "download_time": "2025-09-23T19:17:58.134799",
   "package_url": "https://pypi.org/project/lesson-7-1-plugin/"
 }

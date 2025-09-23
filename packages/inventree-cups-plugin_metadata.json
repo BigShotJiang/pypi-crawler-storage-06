@@ -1,0 +1,11 @@
+{
+  "name": "inventree-cups-plugin",
+  "version": "1.1.1",
+  "summary": "Cups label printer plugin for InvenTree",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inventree_cups_plugin-1.1.1.tar.gz",
+  "download_time": "2025-09-23T19:18:04.844981",
+  "package_url": "https://pypi.org/project/inventree-cups-plugin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-lamina",
+  "version": "6.0.0",
+  "summary": "Add a new layer (\"lâmina\") to AWS lambda functions",
+  "author": "Chris Maillefaud",
+  "license": "MIT",
+  "home_page": "https://github.com/megalus/lamina",
+  "download_filename": "py_lamina-6.0.0.tar.gz",
+  "download_time": "2025-09-23T19:18:24.366165",
+  "package_url": "https://pypi.org/project/py-lamina/"
+}
