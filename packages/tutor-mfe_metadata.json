@@ -1,0 +1,11 @@
+{
+  "name": "tutor-mfe",
+  "version": "20.1.0",
+  "summary": "mfe plugin for Tutor",
+  "author": "Edly",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tutor_mfe-20.1.0.tar.gz",
+  "download_time": "2025-09-23T06:53:59.792693",
+  "package_url": "https://pypi.org/project/tutor-mfe/"
+}

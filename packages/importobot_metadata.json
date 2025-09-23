@@ -1,0 +1,11 @@
+{
+  "name": "importobot",
+  "version": "0.1.0",
+  "summary": "Automated test framework converter for migrating test cases from Zephyr, JIRA/Xray, and TestLink to Robot Framework format with bulk processing capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "importobot-0.1.0.tar.gz",
+  "download_time": "2025-09-23T06:53:50.568994",
+  "package_url": "https://pypi.org/project/importobot/"
+}

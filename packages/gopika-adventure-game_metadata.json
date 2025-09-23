@@ -1,0 +1,11 @@
+{
+  "name": "gopika-adventure-game",
+  "version": "0.1.0",
+  "summary": "A text based adventure game using Rich and Questionary",
+  "author": "Gopika Gopalakrishnan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gopika_adventure_game-0.1.0.tar.gz",
+  "download_time": "2025-09-23T06:54:02.810464",
+  "package_url": "https://pypi.org/project/gopika-adventure-game/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cellection",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Predicting emergent phenotypes from single cell populations using CELLECTION",
   "author": "Hongru Hu",
   "license": "MIT",
   "home_page": "https://github.com/quon-titative-biology/CELLECTION",
-  "download_filename": "cellection-0.1.2.tar.gz",
-  "download_time": "2025-09-23T06:31:16.797737",
+  "download_filename": "cellection-0.1.3.tar.gz",
+  "download_time": "2025-09-23T06:54:06.617686",
   "package_url": "https://pypi.org/project/cellection/"
 }
