@@ -1,14 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T11:31:24.641260
-- **Total Packages**: 82
-- **Total Size**: 14.62 MB
+- **Download Time**: 2025-09-23T11:43:49.882226
+- **Total Packages**: 83
+- **Total Size**: 15.36 MB
 
 ## Packages List
+- fastwoe
+- NaaVRE-containerizer-jupyterlab
+- jobqueues
+- finlab-guard
+- conson-xp
+- genebot
+- orq-ai-sdk
+- agentscope-runtime
+- part-of-day
+- prava
+- afp-sdk
+- investing-algorithm-framework
+- ostorlab
+- jacksung
+- shudaodao
+- bluer-ugv
+- django-bulk-drf
+- deltaglider
+- wut-is-luv
+- authentik-client
+- CodeVideoRenderer
+- lupin-sw-ut-report
+- gdsfactoryplus
+- django-htmx-okayjack
+- albi0
+- pycoupler
+- mlx.jira-traceability
+- m269-25j-marking-tool
+- python-cq
+- fbnconfig
+- onedl-mim
+- osc-transformers
+- bmsdna-lakeapi
+- docuvert
 - athena-intelligence
 - unique_web_search
-- jacksung
 - django-rapid
 - yeref
 - torchx-nightly
@@ -17,10 +50,8 @@
 - comet-ml
 - mix-python-sdk
 - great-components
-- osc-transformers
 - scc-firewall-manager-sdk
 - sgu-client
-- django-bulk-drf
 - altan
 - sudorouter
 - canns
@@ -30,7 +61,6 @@
 - upgini
 - threedidepth
 - aixtools
-- authentik-client
 - pycopancore
 - laam
 - plantsimpath
@@ -40,7 +70,6 @@
 - kannolo
 - mangopaysdk
 - docmind-parser-mcp
-- genebot
 - DesmosKiller
 - NaaVRE-workflow-jupyterlab
 - AOT-biomaps
@@ -60,31 +89,3 @@
 - scruby
 - ufaas
 - man2text
-- bizydraft
-- foundationallm-agent-plugins
-- mkdocs-decodiff-plugin
-- AutoInspection
-- pyckett
-- detdevlib
-- ewox
-- afromessage
-- ewoxservicefastapi
-- django-mail-auth
-- sparkpipelineframework
-- ewoxcore
-- credmodex
-- virtualinput
-- climdata
-- duck_client
-- gerrit-clone
-- factorylint
-- SpatialPerturb
-- BackcastPro
-- aspire-gw
-- cadence-sdk
-- easy-cos
-- huizhi-coupon-lengyue1084
-- MyCommonLib
-- chartspy
-- reait
-- django-project-base

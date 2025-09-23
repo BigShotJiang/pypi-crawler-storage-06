@@ -1,0 +1,11 @@
+{
+  "name": "jobqueues",
+  "version": "1.0.8",
+  "summary": "Wrappers for various queueing systems in python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jobqueues-1.0.8.tar.gz",
+  "download_time": "2025-09-23T11:43:05.980172",
+  "package_url": "https://pypi.org/project/jobqueues/"
+}
