@@ -1,11 +1,11 @@
 {
   "name": "abil",
-  "version": "25.9.18",
+  "version": "25.9.23",
   "summary": "Aquatic Biogeochemical Interpolation Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abil-25.9.18.tar.gz",
-  "download_time": "2025-09-18T14:19:29.126560",
+  "download_filename": "abil-25.9.23.tar.gz",
+  "download_time": "2025-09-23T11:53:41.465127",
   "package_url": "https://pypi.org/project/abil/"
 }

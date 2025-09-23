@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-23T11:43:49.882226
-- **Total Packages**: 83
-- **Total Size**: 15.36 MB
+- **Download Time**: 2025-09-23T11:54:12.294967
+- **Total Packages**: 79
+- **Total Size**: 20.44 MB
 
 ## Packages List
+- vantage6-algorithm-store
+- vantage6-server
+- vantage6-backend-common
+- purplepy
+- vantage6-node
+- m269-25j-marking-tool
+- vantage6
+- vantage6-algorithm-tools
+- vantage6-client
+- vantage6-common
+- fw-meta
+- docuvert
+- tapm-instrumentation-langchain
+- jacksung
+- aioacaia
+- memory-fs
+- AOT-biomaps
+- csu
+- authentik-client
+- moduvent
+- neops_remote_lab
+- abil
+- robotframework-selfhealing-agents
+- prava
+- power-grid-model
+- prompt_bottle
+- langchain-memgraph
+- part-of-day
+- pydevd-pycharm
+- deploy-skipper
+- opik
 - fastwoe
 - NaaVRE-containerizer-jupyterlab
 - jobqueues
@@ -14,18 +45,14 @@
 - genebot
 - orq-ai-sdk
 - agentscope-runtime
-- part-of-day
-- prava
 - afp-sdk
 - investing-algorithm-framework
 - ostorlab
-- jacksung
 - shudaodao
 - bluer-ugv
 - django-bulk-drf
 - deltaglider
 - wut-is-luv
-- authentik-client
 - CodeVideoRenderer
 - lupin-sw-ut-report
 - gdsfactoryplus
@@ -33,13 +60,11 @@
 - albi0
 - pycoupler
 - mlx.jira-traceability
-- m269-25j-marking-tool
 - python-cq
 - fbnconfig
 - onedl-mim
 - osc-transformers
 - bmsdna-lakeapi
-- docuvert
 - athena-intelligence
 - unique_web_search
 - django-rapid
@@ -60,32 +85,3 @@
 - mcp-ambari-api
 - upgini
 - threedidepth
-- aixtools
-- pycopancore
-- laam
-- plantsimpath
-- devdox-ai-locust
-- captcha-ocr-devkit
-- quantreo
-- kannolo
-- mangopaysdk
-- docmind-parser-mcp
-- DesmosKiller
-- NaaVRE-workflow-jupyterlab
-- AOT-biomaps
-- franc
-- ai-ebash
-- edawishlist
-- worker-automate-hub
-- meili-ros-lib
-- lesscode-flask
-- matrixutils-example-pkg
-- essdiffraction
-- oagi
-- llwp
-- StereoMolGraph
-- tb-nightly
-- sqlrooms-duckdb-server
-- scruby
-- ufaas
-- man2text
