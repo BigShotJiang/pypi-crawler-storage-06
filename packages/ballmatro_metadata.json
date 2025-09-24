@@ -1,0 +1,11 @@
+{
+  "name": "ballmatro",
+  "version": "0.2.0",
+  "summary": "A challenging task for LLMs in which they need to create high-scoring Ballatro-like hands",
+  "author": "Álvaro Barbero Jiménez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ballmatro-0.2.0.tar.gz",
+  "download_time": "2025-09-24T20:41:28.514090",
+  "package_url": "https://pypi.org/project/ballmatro/"
+}

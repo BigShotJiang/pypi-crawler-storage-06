@@ -1,0 +1,11 @@
+{
+  "name": "google-apitools",
+  "version": "0.5.35",
+  "summary": "client libraries for humans",
+  "author": "Craig Citro",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/google/apitools",
+  "download_filename": "google-apitools-0.5.35.tar.gz",
+  "download_time": "2025-09-24T20:41:58.914756",
+  "package_url": "https://pypi.org/project/google-apitools/"
+}

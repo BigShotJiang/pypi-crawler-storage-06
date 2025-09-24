@@ -1,11 +1,11 @@
 {
   "name": "gophr-bridge-sdk",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": "A simple SDK for interacting with the Gophr Bridge API",
   "author": "Gophr Inc.",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "gophr_bridge_sdk-1.0.8.tar.gz",
-  "download_time": "2025-09-24T20:24:14.152780",
+  "download_filename": "gophr_bridge_sdk-1.0.10.tar.gz",
+  "download_time": "2025-09-24T20:41:41.434705",
   "package_url": "https://pypi.org/project/gophr-bridge-sdk/"
 }

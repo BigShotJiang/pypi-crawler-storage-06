@@ -1,0 +1,11 @@
+{
+  "name": "pagerduty",
+  "version": "5.0.0",
+  "summary": "Clients for PagerDuty's Public APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pagerduty-5.0.0.tar.gz",
+  "download_time": "2025-09-24T20:41:57.844531",
+  "package_url": "https://pypi.org/project/pagerduty/"
+}

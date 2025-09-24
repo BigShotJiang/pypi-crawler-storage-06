@@ -1,0 +1,11 @@
+{
+  "name": "eeglabio",
+  "version": "0.1.2",
+  "summary": "I/O support for EEGLAB files in Python",
+  "author": "Jack Zhang",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/jackz314/eeglabio",
+  "download_filename": "eeglabio-0.1.2.tar.gz",
+  "download_time": "2025-09-24T20:41:37.719839",
+  "package_url": "https://pypi.org/project/eeglabio/"
+}
