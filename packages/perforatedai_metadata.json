@@ -1,11 +1,11 @@
 {
   "name": "perforatedai",
-  "version": "1.2.5",
-  "summary": "perforatedai premium",
+  "version": "2.0.0",
+  "summary": "perforatedai perforatedai package",
   "author": "PerforatedAI",
-  "license": "This software may only be used by getting a license from PerforatedAI.com and agreeing to the terms and conditions",
+  "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "perforatedai-1.2.5-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-09-17T04:22:51.671047",
+  "download_filename": "perforatedai-2.0.0-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-09-24T02:47:50.960194",
   "package_url": "https://pypi.org/project/perforatedai/"
 }

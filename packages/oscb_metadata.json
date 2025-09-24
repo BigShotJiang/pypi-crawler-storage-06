@@ -1,0 +1,11 @@
+{
+  "name": "oscb",
+  "version": "0.1.1",
+  "summary": "OSCB aims to provide automated end-to-end single-cell analyses ML pipelines to simplify and standardize the process of single-cell data formatting, quality control, loading, model development, and model evaluation. ",
+  "author": "Lei Jiang",
+  "license": "MIT",
+  "home_page": "https://github.com/cirisjl/Machine-learning-development-environment-for-single-cell-sequencing-data-analyses",
+  "download_filename": "oscb-0.1.1.tar.gz",
+  "download_time": "2025-09-24T02:48:20.533517",
+  "package_url": "https://pypi.org/project/oscb/"
+}

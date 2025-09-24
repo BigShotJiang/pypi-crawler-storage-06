@@ -1,0 +1,11 @@
+{
+  "name": "pygdsm",
+  "version": "1.6.4",
+  "summary": "Python Global Sky Model of diffuse Galactic radio emission",
+  "author": "Danny C. Price",
+  "license": "MIT",
+  "home_page": "https://github.com/telegraphic/pygdsm",
+  "download_filename": "pygdsm-1.6.4.tar.gz",
+  "download_time": "2025-09-24T02:47:56.940219",
+  "package_url": "https://pypi.org/project/pygdsm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unimol-tools",
+  "version": "0.1.5",
+  "summary": "unimol_tools is a Python package for property prediction with Uni-Mol in molecule, materials and protein.",
+  "author": "DP Technology",
+  "license": "The MIT License",
+  "home_page": "https://github.com/deepmodeling/unimol_tools",
+  "download_filename": "unimol_tools-0.1.5.tar.gz",
+  "download_time": "2025-09-24T02:48:12.413501",
+  "package_url": "https://pypi.org/project/unimol-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scorecardpipeline",
+  "version": "0.1.38.7",
+  "summary": "评分卡pipeline建模包，封装toad、scorecardpy、optbinning等评分卡建模相关组件，API风格与sklearn高度一致，自持自定义模型报告输出",
+  "author": "itlubber",
+  "license": "MIT",
+  "home_page": "https://github.com/itlubber/scorecardpipeline",
+  "download_filename": "scorecardpipeline-0.1.38.7.tar.gz",
+  "download_time": "2025-09-24T02:48:16.742164",
+  "package_url": "https://pypi.org/project/scorecardpipeline/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-evaluation-server",
-  "version": "0.2.13",
-  "summary": "MCP工具评估助手服务器",
+  "version": "0.3.0",
+  "summary": "MCP工具评估助手服务器 - 优化Cherry Studio兼容性",
   "author": "gqy20",
   "license": "MIT",
   "home_page": "https://github.com/gqy20/mcp-evaluation-server",
-  "download_filename": "mcp_evaluation_server-0.2.13.tar.gz",
-  "download_time": "2025-09-23T15:44:00.563782",
+  "download_filename": "mcp_evaluation_server-0.3.0.tar.gz",
+  "download_time": "2025-09-24T02:48:09.764281",
   "package_url": "https://pypi.org/project/mcp-evaluation-server/"
 }

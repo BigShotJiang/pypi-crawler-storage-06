@@ -1,11 +1,11 @@
 {
   "name": "valar",
-  "version": "1.3.12",
+  "version": "1.3.13",
   "summary": "valar for morghulis",
   "author": "LYP",
   "license": null,
   "home_page": "https://gitee.com/GRIFFIN120/valar_dev",
-  "download_filename": "valar-1.3.12.tar.gz",
-  "download_time": "2025-09-19T08:26:18.017165",
+  "download_filename": "valar-1.3.13.tar.gz",
+  "download_time": "2025-09-24T02:48:11.885879",
   "package_url": "https://pypi.org/project/valar/"
 }
