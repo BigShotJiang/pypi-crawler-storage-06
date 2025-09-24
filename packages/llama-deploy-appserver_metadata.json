@@ -1,11 +1,11 @@
 {
   "name": "llama-deploy-appserver",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Application server components for LlamaDeploy",
   "author": "Massimiliano Pippi, Adrian Lyjak",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_deploy_appserver-0.3.6.tar.gz",
-  "download_time": "2025-09-23T21:53:43.006352",
+  "download_filename": "llama_deploy_appserver-0.3.7.tar.gz",
+  "download_time": "2025-09-24T17:43:42.842338",
   "package_url": "https://pypi.org/project/llama-deploy-appserver/"
 }

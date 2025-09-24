@@ -1,11 +1,11 @@
 {
   "name": "accurpy",
-  "version": "0.1.0",
-  "summary": null,
-  "author": null,
+  "version": "0.1.3",
+  "summary": "Ultra-accurate and fast double-double FM_new approximation with ≤1 ULP guarantees",
+  "author": "AccurPy Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "accurpy-0.1.0.tar.gz",
-  "download_time": "2025-09-24T16:29:47.902456",
+  "download_filename": "accurpy-0.1.3.tar.gz",
+  "download_time": "2025-09-24T17:44:02.295958",
   "package_url": "https://pypi.org/project/accurpy/"
 }

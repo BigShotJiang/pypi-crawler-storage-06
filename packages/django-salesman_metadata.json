@@ -1,0 +1,11 @@
+{
+  "name": "django-salesman",
+  "version": "1.3.0",
+  "summary": "Headless e-commerce framework for Django and Wagtail.",
+  "author": "Dino Perovic",
+  "license": "BSD-3-Clause",
+  "home_page": "https://pypi.org/project/django-salesman/",
+  "download_filename": "django_salesman-1.3.0.tar.gz",
+  "download_time": "2025-09-24T17:43:36.559833",
+  "package_url": "https://pypi.org/project/django-salesman/"
+}

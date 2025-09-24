@@ -1,11 +1,11 @@
 {
   "name": "pandas-match-recognize",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "SQL MATCH_RECOGNIZE for Pandas DataFrames",
   "author": "MonierAshraf",
   "license": "MIT",
   "home_page": "https://github.com/MonierAshraf/Row_match_recognize",
-  "download_filename": "pandas_match_recognize-0.1.5.tar.gz",
-  "download_time": "2025-09-24T17:21:27.492875",
+  "download_filename": "pandas_match_recognize-0.1.7.tar.gz",
+  "download_time": "2025-09-24T17:43:43.420485",
   "package_url": "https://pypi.org/project/pandas-match-recognize/"
 }

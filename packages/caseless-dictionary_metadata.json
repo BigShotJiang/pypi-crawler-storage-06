@@ -1,0 +1,11 @@
+{
+  "name": "caseless-dictionary",
+  "version": "2.0.2",
+  "summary": "Typed and Tested Case Insensitive Dictionary which was inspired by Raymond Hettinger",
+  "author": "Tyler Bruno",
+  "license": "MIT",
+  "home_page": "https://github.com/tybruno/caseless-dictionary",
+  "download_filename": "caseless_dictionary-2.0.2.tar.gz",
+  "download_time": "2025-09-24T17:43:57.824260",
+  "package_url": "https://pypi.org/project/caseless-dictionary/"
+}
