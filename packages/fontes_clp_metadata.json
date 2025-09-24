@@ -1,11 +1,11 @@
 {
   "name": "fontes_clp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pacote com maneiras simplificadas de extrair dados das fontes do CLP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fontes_clp-0.1.1.tar.gz",
-  "download_time": "2025-09-19T15:41:11.559466",
+  "download_filename": "fontes_clp-0.1.2.tar.gz",
+  "download_time": "2025-09-24T13:58:11.155334",
   "package_url": "https://pypi.org/project/fontes_clp/"
 }

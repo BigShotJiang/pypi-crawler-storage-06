@@ -1,11 +1,11 @@
 {
   "name": "ud-co2s",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "summary": "Python package for reading sensor data from IODATA UD-CO2S or Pocket CO2 Sensor",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ud_co2s-0.4.0.tar.gz",
-  "download_time": "2025-09-22T07:22:49.296447",
+  "download_filename": "ud_co2s-1.0.0.tar.gz",
+  "download_time": "2025-09-24T13:58:00.635467",
   "package_url": "https://pypi.org/project/ud-co2s/"
 }
