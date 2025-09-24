@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-bedrock",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_bedrock-1.4.10.tar.gz",
-  "download_time": "2025-09-23T22:19:34.766181",
+  "download_filename": "trustgraph_bedrock-1.4.11.tar.gz",
+  "download_time": "2025-09-24T15:44:39.349551",
   "package_url": "https://pypi.org/project/trustgraph-bedrock/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mcap-data-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "MCAP Data Loader",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcap_data_loader-0.0.1.tar.gz",
-  "download_time": "2025-09-24T03:27:04.752690",
+  "download_filename": "mcap_data_loader-0.0.2.tar.gz",
+  "download_time": "2025-09-24T15:44:56.643558",
   "package_url": "https://pypi.org/project/mcap-data-loader/"
 }

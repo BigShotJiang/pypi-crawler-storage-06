@@ -1,0 +1,11 @@
+{
+  "name": "jumpstarter-driver-shell",
+  "version": "0.7.1",
+  "summary": "Jumpstarter shell driver, for running controlled shell commands on the exporter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jumpstarter_driver_shell-0.7.1.tar.gz",
+  "download_time": "2025-09-24T15:44:32.584446",
+  "package_url": "https://pypi.org/project/jumpstarter-driver-shell/"
+}

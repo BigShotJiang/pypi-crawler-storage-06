@@ -1,0 +1,11 @@
+{
+  "name": "jumpstarter-driver-qemu",
+  "version": "0.7.1",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jumpstarter_driver_qemu-0.7.1.tar.gz",
+  "download_time": "2025-09-24T15:44:34.144104",
+  "package_url": "https://pypi.org/project/jumpstarter-driver-qemu/"
+}

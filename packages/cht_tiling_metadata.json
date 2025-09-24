@@ -1,0 +1,11 @@
+{
+  "name": "cht_tiling",
+  "version": "0.1.2",
+  "summary": "CHT Tiling is a package to create and use slippy tiles (xyz)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cht_tiling-0.1.2.tar.gz",
+  "download_time": "2025-09-24T15:44:54.013732",
+  "package_url": "https://pypi.org/project/cht_tiling/"
+}

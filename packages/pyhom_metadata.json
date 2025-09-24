@@ -1,11 +1,11 @@
 {
   "name": "pyhom",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "summary": "PyHom: a Python library for homogenization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhom-1.0.2.tar.gz",
-  "download_time": "2025-09-24T15:23:15.417821",
+  "download_filename": "pyhom-1.0.5.tar.gz",
+  "download_time": "2025-09-24T15:44:17.382530",
   "package_url": "https://pypi.org/project/pyhom/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ebbe",
+  "version": "1.15.0",
+  "summary": "Collection of typical helper functions for python.",
+  "author": "Guillaume Plique",
+  "license": "MIT",
+  "home_page": "http://github.com/Yomguithereal/ebbe",
+  "download_filename": "ebbe-1.15.0.tar.gz",
+  "download_time": "2025-09-24T15:44:16.857598",
+  "package_url": "https://pypi.org/project/ebbe/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goad-py",
+  "version": "0.5.1",
+  "summary": "Physical optics light scattering computation",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/hballington12/goad",
+  "download_filename": "goad_py-0.5.1.tar.gz",
+  "download_time": "2025-09-24T15:44:23.138402",
+  "package_url": "https://pypi.org/project/goad-py/"
+}

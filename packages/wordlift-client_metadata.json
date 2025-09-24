@@ -1,11 +1,11 @@
 {
   "name": "wordlift-client",
-  "version": "1.120.0",
+  "version": "1.121.0",
   "summary": "WordLift API",
   "author": "WordLift",
   "license": "(c) copyright 2022-present WordLift",
   "home_page": null,
-  "download_filename": "wordlift_client-1.120.0.tar.gz",
-  "download_time": "2025-09-18T13:16:43.034766",
+  "download_filename": "wordlift_client-1.121.0.tar.gz",
+  "download_time": "2025-09-24T15:45:02.819290",
   "package_url": "https://pypi.org/project/wordlift-client/"
 }
