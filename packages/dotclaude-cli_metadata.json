@@ -1,0 +1,11 @@
+{
+  "name": "dotclaude-cli",
+  "version": "0.1.1",
+  "summary": "Universal CLI tool for managing AI agent configurations across different platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotclaude_cli-0.1.1.tar.gz",
+  "download_time": "2025-09-24T07:21:49.440904",
+  "package_url": "https://pypi.org/project/dotclaude-cli/"
+}

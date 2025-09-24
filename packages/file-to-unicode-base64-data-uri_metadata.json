@@ -1,0 +1,11 @@
+{
+  "name": "file-to-unicode-base64-data-uri",
+  "version": "0.1.0a0",
+  "summary": "A simple, efficient utility for converting files to Unicode base64-encoded data URIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "file_to_unicode_base64_data_uri-0.1.0a0.tar.gz",
+  "download_time": "2025-09-24T07:21:41.532829",
+  "package_url": "https://pypi.org/project/file-to-unicode-base64-data-uri/"
+}

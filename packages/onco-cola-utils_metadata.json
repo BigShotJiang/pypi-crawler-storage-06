@@ -1,11 +1,11 @@
 {
   "name": "onco-cola-utils",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Мои общие утилиты для работы с Excel",
   "author": "Volodin Alexandr Sergeevich",
   "license": "MIT",
   "home_page": "https://t.me/hitomamoru",
-  "download_filename": "onco_cola_utils-0.5.0.tar.gz",
-  "download_time": "2025-09-24T02:48:22.171626",
+  "download_filename": "onco_cola_utils-0.5.1.tar.gz",
+  "download_time": "2025-09-24T07:21:24.355442",
   "package_url": "https://pypi.org/project/onco-cola-utils/"
 }

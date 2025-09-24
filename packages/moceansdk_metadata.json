@@ -1,0 +1,11 @@
+{
+  "name": "moceansdk",
+  "version": "1.2.0",
+  "summary": "Mocean Client Library for Python",
+  "author": "Micro Ocean Technologies Sdn Bhd",
+  "license": "MIT",
+  "home_page": "https://github.com/MoceanAPI/mocean-sdk-python",
+  "download_filename": "moceansdk-1.2.0.tar.gz",
+  "download_time": "2025-09-24T07:21:36.338062",
+  "package_url": "https://pypi.org/project/moceansdk/"
+}
