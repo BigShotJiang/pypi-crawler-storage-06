@@ -1,0 +1,11 @@
+{
+  "name": "yellowstone-fumarole-client",
+  "version": "0.3.2",
+  "summary": "Yellowstone Fumarole Python Client",
+  "author": "Louis-Vincent",
+  "license": null,
+  "home_page": "https://github.com/rpcpool/yellowstone-fumarole",
+  "download_filename": "yellowstone_fumarole_client-0.3.2.tar.gz",
+  "download_time": "2025-09-24T17:55:42.500607",
+  "package_url": "https://pypi.org/project/yellowstone-fumarole-client/"
+}

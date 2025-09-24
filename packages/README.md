@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T17:44:23.993311
-- **Total Packages**: 83
-- **Total Size**: 41.69 MB
+- **Download Time**: 2025-09-24T17:56:21.766174
+- **Total Packages**: 82
+- **Total Size**: 5.65 MB
 
 ## Packages List
+- kernel
+- spreadsheet-handling
+- scruby
+- kv-store-adapter
+- vellum-ai
+- geff
+- llama-index-protocols-ag-ui
+- imbi
+- edat-utils
+- neofin-toolbox
+- hallunox
+- pandorasat
+- robora
+- yellowstone-fumarole-client
+- authentik-client
+- hat-drivers
+- SwiftGUI
+- gnobjects
+- moose-lib
 - pyclsp
 - eigen-robotics
 - modelswrkpi
@@ -43,7 +62,6 @@
 - emojify-asid
 - cerebrate-file
 - slack-message
-- authentik-client
 - local-deep-research
 - netbox-routing-complex
 - galaxy-py-app
@@ -55,7 +73,6 @@
 - dash
 - accurpy
 - dococtopy
-- kv-store-adapter
 - galaxy-py-proc
 - tileable
 - MemoryOS
@@ -71,21 +88,3 @@
 - parastat
 - vatify
 - pyfaust-torch
-- galaxy-py-www
-- pyfaust
-- odoo-addon-auditlog
-- papr-memory-mcp
-- ibbi
-- galaxy-py-comm
-- tushare-mcp-server
-- pyTEMlib
-- logfire-mcp
-- invenio-rdm-records
-- guidelight
-- cirrocumulus
-- kawapythonserver
-- pyray-tompy
-- csc-cia-stne
-- data-intelligence-mcp-server
-- biopipen
-- galaxy-py-net
