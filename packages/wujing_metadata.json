@@ -1,11 +1,11 @@
 {
   "name": "wujing",
-  "version": "3.8.0",
+  "version": "3.8.1",
   "summary": "py-kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wujing-3.8.0.tar.gz",
-  "download_time": "2025-09-23T03:48:53.524902",
+  "download_filename": "wujing-3.8.1.tar.gz",
+  "download_time": "2025-09-24T09:22:52.703264",
   "package_url": "https://pypi.org/project/wujing/"
 }

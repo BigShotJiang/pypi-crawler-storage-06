@@ -1,11 +1,11 @@
 {
   "name": "HowdenLLM",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "A simple configuration manager with Pydantic and JSON export.",
   "author": "JesperThoftIllemannJ",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/config",
-  "download_filename": "howdenllm-0.1.32.tar.gz",
-  "download_time": "2025-09-24T07:21:57.266465",
+  "download_filename": "howdenllm-0.1.33.tar.gz",
+  "download_time": "2025-09-24T09:23:02.148961",
   "package_url": "https://pypi.org/project/HowdenLLM/"
 }

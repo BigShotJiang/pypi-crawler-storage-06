@@ -1,11 +1,11 @@
 {
   "name": "thisisneat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Knowledge graph transformation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thisisneat-0.2.0-py3-none-any.whl",
-  "download_time": "2025-09-22T12:41:34.579911",
+  "download_filename": "thisisneat-0.2.1-py3-none-any.whl",
+  "download_time": "2025-09-24T09:23:31.518324",
   "package_url": "https://pypi.org/project/thisisneat/"
 }

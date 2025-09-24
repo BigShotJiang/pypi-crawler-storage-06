@@ -1,0 +1,11 @@
+{
+  "name": "vvdutils",
+  "version": "0.1.54",
+  "summary": "Commonly used function library by VVD",
+  "author": "zywvvd",
+  "license": "MIT",
+  "home_page": "https://github.com/zywvvd/utils_vvd",
+  "download_filename": "vvdutils-0.1.54.tar.gz",
+  "download_time": "2025-09-24T09:22:59.542733",
+  "package_url": "https://pypi.org/project/vvdutils/"
+}

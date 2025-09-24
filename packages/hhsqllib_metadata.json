@@ -1,11 +1,11 @@
 {
   "name": "hhsqllib",
-  "version": "0.57",
+  "version": "0.58",
   "summary": "sqllib",
   "author": "hh",
   "license": null,
   "home_page": "https://your.project.url",
-  "download_filename": "hhsqllib-0.57.tar.gz",
-  "download_time": "2025-09-21T15:18:15.313282",
+  "download_filename": "hhsqllib-0.58.tar.gz",
+  "download_time": "2025-09-24T09:23:26.820379",
   "package_url": "https://pypi.org/project/hhsqllib/"
 }

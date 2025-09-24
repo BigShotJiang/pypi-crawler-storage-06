@@ -1,11 +1,11 @@
 {
   "name": "neops_remote_lab",
-  "version": "0.0.0",
-  "summary": null,
+  "version": "1.0.0",
+  "summary": "FastAPI-based Remote Lab Manager for Netlab topologies to enable remote testing of Neops Function Blocks against virtual networking labs",
   "author": "zebbra AG",
-  "license": null,
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "neops_remote_lab-0.0.0.tar.gz",
-  "download_time": "2025-09-17T09:20:30.776776",
+  "download_filename": "neops_remote_lab-1.0.0.tar.gz",
+  "download_time": "2025-09-24T09:23:11.124823",
   "package_url": "https://pypi.org/project/neops_remote_lab/"
 }

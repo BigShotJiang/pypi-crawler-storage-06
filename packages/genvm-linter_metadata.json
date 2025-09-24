@@ -1,0 +1,11 @@
+{
+  "name": "genvm-linter",
+  "version": "0.0.1",
+  "summary": "GenVM Linter - placeholder package",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/genvm-linter",
+  "download_filename": "genvm_linter-0.0.1.tar.gz",
+  "download_time": "2025-09-24T09:23:15.832259",
+  "package_url": "https://pypi.org/project/genvm-linter/"
+}

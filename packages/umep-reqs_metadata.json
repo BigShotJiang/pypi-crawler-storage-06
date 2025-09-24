@@ -1,11 +1,11 @@
 {
   "name": "umep-reqs",
-  "version": "2.6.2",
+  "version": "2.7",
   "summary": "UMEP requirements package",
   "author": "UMEP dev team",
   "license": null,
   "home_page": null,
-  "download_filename": "umep_reqs-2.6.2.tar.gz",
-  "download_time": "2025-09-23T10:22:22.274208",
+  "download_filename": "umep_reqs-2.7.tar.gz",
+  "download_time": "2025-09-24T09:23:00.065633",
   "package_url": "https://pypi.org/project/umep-reqs/"
 }

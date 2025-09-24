@@ -1,11 +1,11 @@
 {
   "name": "perceptic-core-client",
-  "version": "0.42.0",
+  "version": "0.42.1",
   "summary": "Python client for Perceptic Core",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "perceptic_core_client-0.42.0.tar.gz",
-  "download_time": "2025-09-17T16:56:12.882512",
+  "download_filename": "perceptic_core_client-0.42.1.tar.gz",
+  "download_time": "2025-09-24T09:23:01.625898",
   "package_url": "https://pypi.org/project/perceptic-core-client/"
 }
