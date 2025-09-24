@@ -1,0 +1,11 @@
+{
+  "name": "espy-contact",
+  "version": "2.2.2",
+  "summary": "ESSL users management",
+  "author": "Femi Adigun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "espy_contact-2.2.2.tar.gz",
+  "download_time": "2025-09-24T20:56:06.454393",
+  "package_url": "https://pypi.org/project/espy-contact/"
+}

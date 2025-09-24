@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-cdn",
-  "version": "3.0.1463",
+  "version": "3.0.1466",
   "summary": "Tencent Cloud Cdn SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-cdn-3.0.1463.tar.gz",
-  "download_time": "2025-09-18T21:18:49.559072",
+  "download_filename": "tencentcloud-sdk-python-cdn-3.0.1466.tar.gz",
+  "download_time": "2025-09-24T20:55:54.891905",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cdn/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-lcic",
-  "version": "3.0.1463",
+  "version": "3.0.1466",
   "summary": "Tencent Cloud Lcic SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-lcic-3.0.1463.tar.gz",
-  "download_time": "2025-09-18T21:18:41.484221",
+  "download_filename": "tencentcloud-sdk-python-lcic-3.0.1466.tar.gz",
+  "download_time": "2025-09-24T20:55:50.706262",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-lcic/"
 }
