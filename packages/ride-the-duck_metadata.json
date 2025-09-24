@@ -1,11 +1,11 @@
 {
   "name": "ride-the-duck",
-  "version": "1.0.5",
+  "version": "1.0.6.1",
   "summary": "A terminal-based gambling card game inspired by 'Ride The Bus'",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ride_the_duck-1.0.5-py3-none-any.whl",
-  "download_time": "2025-09-24T10:56:50.044254",
+  "download_filename": "ride_the_duck-1.0.6.1.tar.gz",
+  "download_time": "2025-09-24T11:28:25.865138",
   "package_url": "https://pypi.org/project/ride-the-duck/"
 }

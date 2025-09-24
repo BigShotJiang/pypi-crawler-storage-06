@@ -1,0 +1,11 @@
+{
+  "name": "simplematchcalc",
+  "version": "0.1.0",
+  "summary": "A simple calculator SDK for add, sub, mul, div, mod",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simplematchcalc-0.1.0.tar.gz",
+  "download_time": "2025-09-24T11:28:45.757933",
+  "package_url": "https://pypi.org/project/simplematchcalc/"
+}

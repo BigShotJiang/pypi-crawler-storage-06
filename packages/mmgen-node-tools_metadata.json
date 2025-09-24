@@ -1,0 +1,11 @@
+{
+  "name": "mmgen-node-tools",
+  "version": "3.5.0",
+  "summary": "Optional online tools for the MMGen wallet suite",
+  "author": "The MMGen Project",
+  "license": "GNU GPL v3",
+  "home_page": "https://github.com/mmgen/mmgen-node-tools",
+  "download_filename": "mmgen_node_tools-3.5.0.tar.gz",
+  "download_time": "2025-09-24T11:29:02.313724",
+  "package_url": "https://pypi.org/project/mmgen-node-tools/"
+}

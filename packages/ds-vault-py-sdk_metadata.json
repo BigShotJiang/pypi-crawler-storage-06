@@ -1,0 +1,11 @@
+{
+  "name": "ds-vault-py-sdk",
+  "version": "1.0.0a1",
+  "summary": "Python SDK for DS Vault - (envelope pattern)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ds_vault_py_sdk-1.0.0a1.tar.gz",
+  "download_time": "2025-09-24T11:29:01.271722",
+  "package_url": "https://pypi.org/project/ds-vault-py-sdk/"
+}

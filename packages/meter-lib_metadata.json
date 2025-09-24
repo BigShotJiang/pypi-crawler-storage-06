@@ -1,0 +1,11 @@
+{
+  "name": "meter-lib",
+  "version": "0.0.2",
+  "summary": "A litewave library to collect the customer credit usage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meter_lib-0.0.2.tar.gz",
+  "download_time": "2025-09-24T11:28:20.683935",
+  "package_url": "https://pypi.org/project/meter-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "myldapsync",
+  "version": "1.0.10",
+  "summary": "Synchronise LDAP users to MySQL and MariaDB",
+  "author": "Artur Lebedev",
+  "license": "MySQL",
+  "home_page": "https://github.com/6eh01der/myldapsync",
+  "download_filename": "myldapsync-1.0.10.tar.gz",
+  "download_time": "2025-09-24T11:28:26.375537",
+  "package_url": "https://pypi.org/project/myldapsync/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "i2dgraph",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "simple 2d graph with dragable points",
   "author": "Lasse Bohlen <emil.bohlen@gmail.com>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "i2dgraph-0.0.5.tar.gz",
-  "download_time": "2025-09-24T07:21:46.254741",
+  "download_filename": "i2dgraph-0.0.6.tar.gz",
+  "download_time": "2025-09-24T11:28:57.370658",
   "package_url": "https://pypi.org/project/i2dgraph/"
 }

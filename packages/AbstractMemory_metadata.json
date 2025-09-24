@@ -1,11 +1,11 @@
 {
   "name": "AbstractMemory",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Production-ready memory system for LLM agents - NO MOCKS, real semantic search, clear LLM vs embedding provider separation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abstractmemory-0.2.2.tar.gz",
-  "download_time": "2025-09-24T09:44:44.640676",
+  "download_filename": "abstractmemory-0.2.3.tar.gz",
+  "download_time": "2025-09-24T11:28:30.473288",
   "package_url": "https://pypi.org/project/AbstractMemory/"
 }
