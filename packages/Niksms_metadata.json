@@ -1,11 +1,11 @@
 {
   "name": "Niksms",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "niksms webservice",
   "author": "Kendez",
   "license": null,
   "home_page": "https://webservice.niksms.com",
-  "download_filename": "niksms-1.1.0.tar.gz",
-  "download_time": "2025-09-24T08:51:44.417285",
+  "download_filename": "niksms-1.2.0.tar.gz",
+  "download_time": "2025-09-24T18:28:45.272640",
   "package_url": "https://pypi.org/project/Niksms/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-project-starter",
+  "version": "1.2.0",
+  "summary": "Fastgen - FastAPI Project Generator & Scaffolder. Create production-ready FastAPI projects with modern features.",
+  "author": "Devesh Shrestha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_project_starter-1.2.0.tar.gz",
+  "download_time": "2025-09-24T18:29:11.200154",
+  "package_url": "https://pypi.org/project/fastapi-project-starter/"
+}
