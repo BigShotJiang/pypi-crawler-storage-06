@@ -1,0 +1,11 @@
+{
+  "name": "kairoz",
+  "version": "0.1.3",
+  "summary": "SDK for the Kairoz API",
+  "author": "Felipe Cañas, Francisco Giovanni Borgogno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kairoz-0.1.3.tar.gz",
+  "download_time": "2025-09-24T23:20:21.639267",
+  "package_url": "https://pypi.org/project/kairoz/"
+}

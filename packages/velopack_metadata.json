@@ -1,0 +1,11 @@
+{
+  "name": "velopack",
+  "version": "0.0.1369.dev7516",
+  "summary": "Installer and automatic update framework for cross-platform desktop applications",
+  "author": "Velopack Ltd, Caelan Sayler <git@caesay.com>",
+  "license": "MIT",
+  "home_page": "https://velopack.io",
+  "download_filename": "velopack-0.0.1369.dev7516.tar.gz",
+  "download_time": "2025-09-24T23:20:29.189321",
+  "package_url": "https://pypi.org/project/velopack/"
+}

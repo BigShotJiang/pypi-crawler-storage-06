@@ -1,0 +1,11 @@
+{
+  "name": "PCILeechFWGenerator",
+  "version": "0.13.33",
+  "summary": "Generate spoofed PCIe DMA firmware from real donor hardware",
+  "author": "Ramsey McGrath",
+  "license": "MIT",
+  "home_page": "https://pcileechfwgenerator.voltcyclone.info",
+  "download_filename": "pcileechfwgenerator-0.13.33.tar.gz",
+  "download_time": "2025-09-24T23:20:40.820424",
+  "package_url": "https://pypi.org/project/PCILeechFWGenerator/"
+}

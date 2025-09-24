@@ -1,11 +1,11 @@
 {
   "name": "figpack",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "summary": "A Python package for creating shareable, interactive visualizations in the browser",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "figpack-0.2.21.tar.gz",
-  "download_time": "2025-09-17T21:51:08.536880",
+  "download_filename": "figpack-0.2.22.tar.gz",
+  "download_time": "2025-09-24T23:20:42.988254",
   "package_url": "https://pypi.org/project/figpack/"
 }

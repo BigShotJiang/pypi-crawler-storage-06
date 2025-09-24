@@ -1,11 +1,11 @@
 {
   "name": "alawymdb",
-  "version": "0.2.24",
+  "version": "0.2.25",
   "summary": "Linear-scaling in-memory database optimized for ML workloads",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alawymdb-0.2.24-cp311-cp311-manylinux_2_35_x86_64.whl",
-  "download_time": "2025-09-21T07:17:06.183826",
+  "download_filename": "alawymdb-0.2.25-cp311-cp311-manylinux_2_35_x86_64.whl",
+  "download_time": "2025-09-24T23:20:34.877402",
   "package_url": "https://pypi.org/project/alawymdb/"
 }

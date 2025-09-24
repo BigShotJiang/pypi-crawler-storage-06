@@ -1,11 +1,11 @@
 {
   "name": "gdex-api-client",
-  "version": "2.0.2",
+  "version": "2.0.7",
   "summary": "CLI and library for calling GDEX API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gdex_api_client-2.0.2.tar.gz",
-  "download_time": "2025-09-24T22:54:39.663191",
+  "download_filename": "gdex_api_client-2.0.7.tar.gz",
+  "download_time": "2025-09-24T23:20:19.985914",
   "package_url": "https://pypi.org/project/gdex-api-client/"
 }

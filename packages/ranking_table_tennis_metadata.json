@@ -1,0 +1,11 @@
+{
+  "name": "ranking_table_tennis",
+  "version": "2025.9.24",
+  "summary": "A ranking table tennis system",
+  "author": "Sebastian Vanrell srvanrell_gmail_com",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://srvanrell.github.io/ranking-table-tennis/",
+  "download_filename": "ranking_table_tennis-2025.9.24.tar.gz",
+  "download_time": "2025-09-24T23:20:21.080691",
+  "package_url": "https://pypi.org/project/ranking_table_tennis/"
+}
