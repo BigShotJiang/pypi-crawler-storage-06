@@ -1,0 +1,11 @@
+{
+  "name": "manim-web",
+  "version": "0.1.8.post0",
+  "summary": "Animation engine for explanatory math videos, for the web.",
+  "author": "Benjamín Ubilla",
+  "license": null,
+  "home_page": "https://www.manim.community/",
+  "download_filename": "manim_web-0.1.8.post0.tar.gz",
+  "download_time": "2025-09-24T13:21:24.062237",
+  "package_url": "https://pypi.org/project/manim-web/"
+}

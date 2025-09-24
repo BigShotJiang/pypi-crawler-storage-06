@@ -1,0 +1,11 @@
+{
+  "name": "lxpyodbc",
+  "version": "2.7.202509241259",
+  "summary": "DB API module for ODBC (LX fork)",
+  "author": null,
+  "license": "MIT-0 License",
+  "home_page": "https://gitlab.leanxcale.com",
+  "download_filename": "lxpyodbc-2.7.202509241259.tar.gz",
+  "download_time": "2025-09-24T13:21:36.084053",
+  "package_url": "https://pypi.org/project/lxpyodbc/"
+}

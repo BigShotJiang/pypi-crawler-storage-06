@@ -1,11 +1,11 @@
 {
   "name": "etos-client",
-  "version": "7.2.3",
+  "version": "7.2.4",
   "summary": "Test suite execution client for ETOS.",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "etos_client-7.2.3.tar.gz",
-  "download_time": "2025-09-22T07:41:06.310773",
+  "download_filename": "etos_client-7.2.4.tar.gz",
+  "download_time": "2025-09-24T13:21:35.046592",
   "package_url": "https://pypi.org/project/etos-client/"
 }

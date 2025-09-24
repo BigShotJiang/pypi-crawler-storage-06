@@ -1,0 +1,11 @@
+{
+  "name": "stadata-x",
+  "version": "0.1.7",
+  "summary": "Terminal UI untuk menjelajahi dan mengunduh data BPS Indonesia secara interaktif",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stadata_x-0.1.7.tar.gz",
+  "download_time": "2025-09-24T13:21:48.107170",
+  "package_url": "https://pypi.org/project/stadata-x/"
+}

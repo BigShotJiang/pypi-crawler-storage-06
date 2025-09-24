@@ -1,11 +1,11 @@
 {
   "name": "maleo-infra",
-  "version": "0.0.52",
+  "version": "0.0.53",
   "summary": "Infra package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_infra-0.0.52.tar.gz",
-  "download_time": "2025-09-24T08:29:00.817240",
+  "download_filename": "maleo_infra-0.0.53.tar.gz",
+  "download_time": "2025-09-24T13:21:04.461635",
   "package_url": "https://pypi.org/project/maleo-infra/"
 }

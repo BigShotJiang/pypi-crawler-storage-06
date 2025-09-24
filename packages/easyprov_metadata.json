@@ -1,0 +1,11 @@
+{
+  "name": "easyprov",
+  "version": "1.1.0",
+  "summary": "Simply store provenance in data produced by python scripts",
+  "author": null,
+  "license": "cc_by_nc",
+  "home_page": null,
+  "download_filename": "easyprov-1.1.0.tar.gz",
+  "download_time": "2025-09-24T13:21:05.496798",
+  "package_url": "https://pypi.org/project/easyprov/"
+}

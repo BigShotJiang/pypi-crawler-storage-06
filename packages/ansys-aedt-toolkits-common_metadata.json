@@ -1,0 +1,11 @@
+{
+  "name": "ansys-aedt-toolkits-common",
+  "version": "0.14.1",
+  "summary": "User interface example repository to create your toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_aedt_toolkits_common-0.14.1.tar.gz",
+  "download_time": "2025-09-24T13:21:11.283591",
+  "package_url": "https://pypi.org/project/ansys-aedt-toolkits-common/"
+}

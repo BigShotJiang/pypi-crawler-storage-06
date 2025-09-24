@@ -1,0 +1,11 @@
+{
+  "name": "synthetick",
+  "version": "0.2.0",
+  "summary": "Synthetic price production utility for historical and live data (WIP).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synthetick-0.2.0.tar.gz",
+  "download_time": "2025-09-24T13:21:08.115833",
+  "package_url": "https://pypi.org/project/synthetick/"
+}

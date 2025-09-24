@@ -1,11 +1,11 @@
 {
   "name": "iboxstacksops",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "AWS Infrastructure in a Box - Stacks management program",
   "author": "Mello",
   "license": "OSI Approved :: Open Software License 3.0 (OSL-3.0)",
   "home_page": "https://github.com/mello7tre/AwsIBoxStackOps",
-  "download_filename": "iboxstacksops-1.1.2.tar.gz",
-  "download_time": "2025-09-24T10:45:43.523182",
+  "download_filename": "iboxstacksops-1.1.3.tar.gz",
+  "download_time": "2025-09-24T13:21:28.226205",
   "package_url": "https://pypi.org/project/iboxstacksops/"
 }
