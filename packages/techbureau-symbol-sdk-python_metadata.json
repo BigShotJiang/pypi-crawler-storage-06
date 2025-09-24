@@ -1,0 +1,11 @@
+{
+  "name": "techbureau-symbol-sdk-python",
+  "version": "3.3.0.dev0",
+  "summary": "Symbol SDK",
+  "author": "Techbureau Contributors",
+  "license": null,
+  "home_page": "https://github.com/tech-bureau-jp/symbol/tree/dev/sdk/python",
+  "download_filename": "techbureau_symbol_sdk_python-3.3.0.dev0.tar.gz",
+  "download_time": "2025-09-24T04:46:01.352691",
+  "package_url": "https://pypi.org/project/techbureau-symbol-sdk-python/"
+}

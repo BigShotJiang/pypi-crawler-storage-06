@@ -1,11 +1,11 @@
 {
   "name": "zvtk",
-  "version": "0.1.dev0",
+  "version": "0.1.0",
   "summary": "VTK zstandard compression library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zvtk-0.1.dev0.tar.gz",
-  "download_time": "2025-09-23T23:19:34.911861",
+  "download_filename": "zvtk-0.1.0.tar.gz",
+  "download_time": "2025-09-24T04:46:06.482627",
   "package_url": "https://pypi.org/project/zvtk/"
 }
