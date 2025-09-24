@@ -1,11 +1,11 @@
 {
   "name": "ut-tod",
-  "version": "1.4.0.20250919",
+  "version": "1.4.0.20250924",
   "summary": "Utilities for Dictionaries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ut_tod-1.4.0.20250919.tar.gz",
-  "download_time": "2025-09-19T18:48:35.879412",
+  "download_filename": "ut_tod-1.4.0.20250924.tar.gz",
+  "download_time": "2025-09-24T07:54:15.416315",
   "package_url": "https://pypi.org/project/ut-tod/"
 }

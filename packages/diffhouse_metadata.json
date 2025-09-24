@@ -1,11 +1,11 @@
 {
   "name": "diffhouse",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Metadata extraction tool for git repositories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diffhouse-0.2.5.tar.gz",
-  "download_time": "2025-09-24T06:53:19.869837",
+  "download_filename": "diffhouse-0.2.6.tar.gz",
+  "download_time": "2025-09-24T07:53:49.093350",
   "package_url": "https://pypi.org/project/diffhouse/"
 }
