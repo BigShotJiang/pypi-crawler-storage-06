@@ -1,11 +1,11 @@
 {
   "name": "edtrace",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Library for tracing through Python programs for educational presentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edtrace-0.1.5.tar.gz",
-  "download_time": "2025-09-21T21:17:18.927306",
+  "download_filename": "edtrace-0.1.7.tar.gz",
+  "download_time": "2025-09-24T04:24:42.669865",
   "package_url": "https://pypi.org/project/edtrace/"
 }
