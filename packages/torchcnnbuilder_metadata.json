@@ -1,0 +1,11 @@
+{
+  "name": "torchcnnbuilder",
+  "version": "0.1.5",
+  "summary": "Framework for the automatic creation of CNN architectures",
+  "author": "Andrew Kuznetsov, Julia Borisova, Nikolay O. Nikitin",
+  "license": null,
+  "home_page": "https://github.com/ChrisLisbon/TorchCNNBuilder",
+  "download_filename": "torchcnnbuilder-0.1.5.tar.gz",
+  "download_time": "2025-09-24T09:44:57.007277",
+  "package_url": "https://pypi.org/project/torchcnnbuilder/"
+}

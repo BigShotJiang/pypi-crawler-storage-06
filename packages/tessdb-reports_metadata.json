@@ -1,11 +1,11 @@
 {
   "name": "tessdb-reports",
-  "version": "1.3.10",
+  "version": "3.1.13",
   "summary": "TESS datadabase report tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tessdb_reports-1.3.10.tar.gz",
-  "download_time": "2025-09-18T07:51:58.479674",
+  "download_filename": "tessdb_reports-3.1.13.tar.gz",
+  "download_time": "2025-09-24T09:44:53.362987",
   "package_url": "https://pypi.org/project/tessdb-reports/"
 }

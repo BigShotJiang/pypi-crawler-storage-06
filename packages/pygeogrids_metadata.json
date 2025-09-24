@@ -1,0 +1,11 @@
+{
+  "name": "pygeogrids",
+  "version": "0.5.3",
+  "summary": "Module for creation and handling of discrete global grids",
+  "author": "TU Wien",
+  "license": "mit",
+  "home_page": "https://github.com/TUW-GEO/pygeogrids/",
+  "download_filename": "pygeogrids-0.5.3.tar.gz",
+  "download_time": "2025-09-24T09:44:54.515737",
+  "package_url": "https://pypi.org/project/pygeogrids/"
+}

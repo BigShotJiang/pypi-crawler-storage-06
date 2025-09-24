@@ -1,0 +1,11 @@
+{
+  "name": "finbourne-identity-sdk",
+  "version": "2.1.151",
+  "summary": "FINBOURNE Identity Service API",
+  "author": "FINBOURNE Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/finbourne/finbourne-identity-sdk-python",
+  "download_filename": "finbourne_identity_sdk-2.1.151.tar.gz",
+  "download_time": "2025-09-24T09:44:48.695538",
+  "package_url": "https://pypi.org/project/finbourne-identity-sdk/"
+}

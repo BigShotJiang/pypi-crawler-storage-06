@@ -1,11 +1,11 @@
 {
   "name": "harry-test-sdk-mamotion",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A simple math SDK (add, sub, mul, div)",
   "author": "Harry",
   "license": null,
   "home_page": null,
-  "download_filename": "harry_test_sdk_mamotion-0.0.4-cp313-cp313-win_amd64.whl",
-  "download_time": "2025-09-24T09:23:15.312162",
+  "download_filename": "harry_test_sdk_mamotion-0.0.5-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-09-24T09:44:55.181211",
   "package_url": "https://pypi.org/project/harry-test-sdk-mamotion/"
 }

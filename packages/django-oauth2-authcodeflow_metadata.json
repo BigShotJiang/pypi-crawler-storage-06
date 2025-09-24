@@ -1,0 +1,11 @@
+{
+  "name": "django-oauth2-authcodeflow",
+  "version": "1.3.1",
+  "summary": "Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported.",
+  "author": "Cyrille Pontvieux",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/systra/qeto/lib/django-oauth2-authcodeflow",
+  "download_filename": "django_oauth2_authcodeflow-1.3.1.tar.gz",
+  "download_time": "2025-09-24T09:44:30.590824",
+  "package_url": "https://pypi.org/project/django-oauth2-authcodeflow/"
+}
