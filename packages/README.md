@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T10:45:59.781375
-- **Total Packages**: 86
-- **Total Size**: 22.29 MB
+- **Download Time**: 2025-09-24T10:57:39.958118
+- **Total Packages**: 92
+- **Total Size**: 25.41 MB
 
 ## Packages List
+- ppca-py
+- projective-simulation
+- vcf2seq
+- fractal-feature-explorer
+- ride-the-duck
+- point-topic-mcp
+- fastapi-bgtasks-dashboard
+- cleopy
+- dlt
+- PVNet
+- ocf-data-sampler
+- easyreflectometry
+- data-driven-test-input-generator
+- prefect-slurm
+- zy-gs
+- xtgeo
+- mdmodels-core
+- tkinter-videoplayer
+- assisted-service-client
+- dorothy-cci
+- authentik-client
+- orange-biosci
+- codearkt
+- fast-mu-builder
+- mlx.warnings
+- teds
+- mspileup
+- fractal-healthcheck
+- aicodetools
+- wmglobalqueue
+- wmagent
+- msoutput
+- msrulecleaner
+- msunmerged
+- wmcore
+- acdcserver
+- id-recognizer
+- konduktor-nightly
+- reqmon
+- mstransferor
+- msmonitor
+- reqmgr2
+- yellowdog-python-examples
+- bioregistry
+- wypp
+- rusty-req
+- observeLLM
 - evonet
 - StructResult
 - autotwin_pmswsgi
@@ -44,51 +91,10 @@
 - sekoia-automation-sdk
 - quick-pp
 - isl-python
-- authentik-client
 - mlx.jira-traceability
-- dorothy-cci
 - steampunk-spotter
 - django-jaeger-middleware-plus
 - tonpy
 - xmlplot
 - caffa
 - paylink
-- datapress
-- neptune-scale
-- Brevia
-- je-editor-dev
-- je-editor
-- latqcdtools
-- hmcis-packs
-- harry-test-sdk-mamotion
-- maleo-middlewares
-- pycoupler
-- iboxstacksops
-- xmlstore
-- unquotemail
-- jjrawlins-cdk-iam-policy-builder-helper
-- video-representations-extractor
-- jobtty
-- pep440-version-utils
-- ppca-py
-- togo
-- ming-drlms
-- fastapi-bgtasks-dashboard
-- cfn-inline-lambda-linter
-- AOT-biomaps
-- esp-test-utils
-- pypaimon-beta
-- sampleproject-rs
-- couleuvre
-- pycactus
-- django-cfg
-- review-tally
-- ojin-client
-- ferromic
-- data-driven-test-input-generator
-- torch-ms-adapter
-- c2cgeoportal-admin
-- c2cgeoportal-geoportal
-- wypp
-- c2cgeoportal-commons
-- ubox-py-sdk

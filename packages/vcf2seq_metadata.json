@@ -1,0 +1,11 @@
+{
+  "name": "vcf2seq",
+  "version": "0.9.0",
+  "summary": "Inputing a VCF file, it returns the genomic sequence at the specified length (31 by default).",
+  "author": "Benoit Guibert",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bio2m/vcf2seq",
+  "download_filename": "vcf2seq-0.9.0.tar.gz",
+  "download_time": "2025-09-24T10:56:48.917141",
+  "package_url": "https://pypi.org/project/vcf2seq/"
+}

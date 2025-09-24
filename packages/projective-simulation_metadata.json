@@ -1,0 +1,11 @@
+{
+  "name": "projective-simulation",
+  "version": "0.0.2",
+  "summary": "Library for Projective Simulation",
+  "author": "QIC-UIBK",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/{user}/projective_simulation/",
+  "download_filename": "projective_simulation-0.0.2.tar.gz",
+  "download_time": "2025-09-24T10:56:48.358723",
+  "package_url": "https://pypi.org/project/projective-simulation/"
+}
