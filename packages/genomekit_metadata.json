@@ -1,0 +1,11 @@
+{
+  "name": "genomekit",
+  "version": "7.2.1",
+  "summary": "GenomeKit is a Python library for fast and easy access to genomic resources such as sequence, data tracks, and annotations.",
+  "author": "Deep Genomics",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/deepgenomics/GenomeKit",
+  "download_filename": "genomekit-7.2.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-24T21:41:13.455472",
+  "package_url": "https://pypi.org/project/genomekit/"
+}

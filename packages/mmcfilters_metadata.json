@@ -1,11 +1,11 @@
 {
   "name": "mmcfilters",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Library for connected image filtering based on morphological trees",
   "author": "Wonder Alexandre Luz Alves",
   "license": "GPL-3.0",
   "home_page": "https://github.com/wonderalexandre/ComponentTreeLearn",
-  "download_filename": "mmcfilters-0.1.1.tar.gz",
-  "download_time": "2025-09-24T20:24:45.595334",
+  "download_filename": "mmcfilters-0.1.4.tar.gz",
+  "download_time": "2025-09-24T21:40:51.336923",
   "package_url": "https://pypi.org/project/mmcfilters/"
 }

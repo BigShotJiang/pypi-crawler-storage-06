@@ -1,11 +1,11 @@
 {
   "name": "FindMy",
-  "version": "0.9.0",
-  "summary": "Everything you need to work with Apple's Find My network!",
+  "version": "0.9.2",
+  "summary": "Query the location of your FindMy devices with Python!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "findmy-0.9.0.tar.gz",
-  "download_time": "2025-09-23T20:23:21.667688",
+  "download_filename": "findmy-0.9.2.tar.gz",
+  "download_time": "2025-09-24T21:41:04.911590",
   "package_url": "https://pypi.org/project/FindMy/"
 }

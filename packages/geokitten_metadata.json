@@ -1,11 +1,11 @@
 {
   "name": "geokitten",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tools for geospatial data processing and visualization",
   "author": "sape94",
   "license": null,
   "home_page": "https://github.com/sape94/GeoKitten",
-  "download_filename": "geokitten-0.1.1.tar.gz",
-  "download_time": "2025-09-24T20:41:39.143620",
+  "download_filename": "geokitten-0.1.2.tar.gz",
+  "download_time": "2025-09-24T21:41:01.065091",
   "package_url": "https://pypi.org/project/geokitten/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mgo-prwrkpi",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "summary": null,
   "author": "Kelly Kapowski",
   "license": null,
   "home_page": null,
-  "download_filename": "mgo_prwrkpi-5.3.0.tar.gz",
-  "download_time": "2025-09-22T23:53:06.937646",
+  "download_filename": "mgo_prwrkpi-5.4.0.tar.gz",
+  "download_time": "2025-09-24T21:41:15.607974",
   "package_url": "https://pypi.org/project/mgo-prwrkpi/"
 }
