@@ -1,0 +1,11 @@
+{
+  "name": "ITS-CLI",
+  "version": "0.9.4",
+  "summary": "SMARTC&S Co., Ltd is a Korean company that produces and supplies various sensor equipment and provides the ITS (IoT Total Solution) service, which allows real-time monitoring and data analysis of sensor equipment data. The ITS_CLI provides a Python API that allows ITS users to directly access ITS data.",
+  "author": "SMARTC&S Co.,Ltd",
+  "license": null,
+  "home_page": "https://github.com/bkchae/ITS_CLI",
+  "download_filename": "its_cli-0.9.4-py3-none-any.whl",
+  "download_time": "2025-09-24T08:51:40.367651",
+  "package_url": "https://pypi.org/project/ITS-CLI/"
+}

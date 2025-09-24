@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-oceanbase",
+  "version": "2.0.18",
+  "summary": "Library with a OceanBase MySQL Mode implementation of LangGraph checkpoint saver.",
+  "author": "David Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_checkpoint_oceanbase-2.0.18.tar.gz",
+  "download_time": "2025-09-24T08:51:56.004125",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-oceanbase/"
+}

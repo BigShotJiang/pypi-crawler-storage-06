@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-request-tags",
+  "version": "18.0.1.0.0.1",
+  "summary": "Adds tags to Maintenance Requests",
+  "author": "Dixmit,CreuBlanca,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_request_tags-18.0.1.0.0.1-py3-none-any.whl",
+  "download_time": "2025-09-24T08:51:23.354319",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-request-tags/"
+}

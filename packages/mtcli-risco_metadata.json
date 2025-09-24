@@ -1,11 +1,11 @@
 {
   "name": "mtcli-risco",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Plugin mtcli para controle de loss diário",
   "author": "Valmir França da Silva",
   "license": "GPL-3.0",
   "home_page": "https://github.com/vfranca/mtcli-risco",
-  "download_filename": "mtcli_risco-2.1.1.tar.gz",
-  "download_time": "2025-09-24T07:21:26.978349",
+  "download_filename": "mtcli_risco-2.1.2.tar.gz",
+  "download_time": "2025-09-24T08:51:28.536607",
   "package_url": "https://pypi.org/project/mtcli-risco/"
 }

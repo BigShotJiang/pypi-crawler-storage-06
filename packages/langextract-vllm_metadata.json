@@ -1,0 +1,11 @@
+{
+  "name": "langextract-vllm",
+  "version": "0.2.0",
+  "summary": "LangExtract provider plugin for VLLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langextract_vllm-0.2.0.tar.gz",
+  "download_time": "2025-09-24T08:51:23.928684",
+  "package_url": "https://pypi.org/project/langextract-vllm/"
+}

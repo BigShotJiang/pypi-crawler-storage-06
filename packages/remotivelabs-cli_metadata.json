@@ -1,0 +1,11 @@
+{
+  "name": "remotivelabs-cli",
+  "version": "0.3.5",
+  "summary": "CLI for operating RemotiveCloud and RemotiveBroker",
+  "author": "Johan Rask",
+  "license": null,
+  "home_page": null,
+  "download_filename": "remotivelabs_cli-0.3.5.tar.gz",
+  "download_time": "2025-09-24T08:51:49.613852",
+  "package_url": "https://pypi.org/project/remotivelabs-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "graia-amnesia",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "a collection of shared components for graia",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graia_amnesia-0.11.1.tar.gz",
-  "download_time": "2025-09-24T08:29:06.673977",
+  "download_filename": "graia_amnesia-0.11.2.tar.gz",
+  "download_time": "2025-09-24T08:52:02.033110",
   "package_url": "https://pypi.org/project/graia-amnesia/"
 }
