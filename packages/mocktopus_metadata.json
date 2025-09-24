@@ -1,0 +1,11 @@
+{
+  "name": "mocktopus",
+  "version": "0.1.3",
+  "summary": "🐙 Multi-armed mocks for LLM apps - Drop-in replacement for OpenAI/Anthropic APIs for deterministic testing",
+  "author": "Jonathan Haas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mocktopus-0.1.3.tar.gz",
+  "download_time": "2025-09-24T03:26:59.345671",
+  "package_url": "https://pypi.org/project/mocktopus/"
+}

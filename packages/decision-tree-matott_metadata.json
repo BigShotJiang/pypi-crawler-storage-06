@@ -1,11 +1,11 @@
 {
   "name": "decision-tree-matott",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A functional implementation of a decision tree implementing the ID3, C4.5 and CART alghoritms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "decision_tree_matott-0.2.0.tar.gz",
-  "download_time": "2025-09-23T09:43:02.095863",
+  "download_filename": "decision_tree_matott-0.2.1.tar.gz",
+  "download_time": "2025-09-24T03:27:22.813272",
   "package_url": "https://pypi.org/project/decision-tree-matott/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "blog-uploader",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A command-line tool to manage Hugo blog posts.",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/your-username/blog-uploader",
-  "download_filename": "blog_uploader-0.1.0.tar.gz",
-  "download_time": "2025-09-24T02:48:14.031749",
+  "download_filename": "blog_uploader-0.1.2.tar.gz",
+  "download_time": "2025-09-24T03:27:15.754320",
   "package_url": "https://pypi.org/project/blog-uploader/"
 }

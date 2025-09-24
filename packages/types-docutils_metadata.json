@@ -1,11 +1,11 @@
 {
   "name": "types-docutils",
-  "version": "0.22.1.20250923",
+  "version": "0.22.2.20250924",
   "summary": "Typing stubs for docutils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_docutils-0.22.1.20250923.tar.gz",
-  "download_time": "2025-09-23T03:24:14.132688",
+  "download_filename": "types_docutils-0.22.2.20250924.tar.gz",
+  "download_time": "2025-09-24T03:27:28.528308",
   "package_url": "https://pypi.org/project/types-docutils/"
 }

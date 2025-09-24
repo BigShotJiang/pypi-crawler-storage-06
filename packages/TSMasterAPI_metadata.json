@@ -1,11 +1,11 @@
 {
   "name": "TSMasterAPI",
-  "version": "2025.9.23.1654",
+  "version": "2025.9.24.1655",
   "summary": "Use TSMaster hardware",
   "author": "seven",
   "license": "Apache License",
   "home_page": null,
-  "download_filename": "TSMasterAPI-2025.9.23.1654.tar.gz",
-  "download_time": "2025-09-23T08:49:26.296213",
+  "download_filename": "TSMasterAPI-2025.9.24.1655.tar.gz",
+  "download_time": "2025-09-24T03:27:18.709208",
   "package_url": "https://pypi.org/project/TSMasterAPI/"
 }
