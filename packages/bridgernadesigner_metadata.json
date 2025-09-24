@@ -1,0 +1,11 @@
+{
+  "name": "bridgernadesigner",
+  "version": "0.0.2",
+  "summary": "Software package to design bridge RNAs as described by Durrant & Perry et al. 2024 and Perry et al. 2025",
+  "author": "Matt Durrant",
+  "license": "MIT",
+  "home_page": "https://github.com/hsulab-arc/BridgeRNADesigner",
+  "download_filename": "bridgernadesigner-0.0.2.tar.gz",
+  "download_time": "2025-09-24T20:24:42.960977",
+  "package_url": "https://pypi.org/project/bridgernadesigner/"
+}

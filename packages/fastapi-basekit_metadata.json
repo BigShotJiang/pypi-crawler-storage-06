@@ -1,11 +1,11 @@
 {
   "name": "fastapi-basekit",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "Utilities and base classes for FastAPI async projects (Beanie or SQLAlchemy)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_basekit-0.1.12.tar.gz",
-  "download_time": "2025-09-24T19:33:30.976140",
+  "download_filename": "fastapi_basekit-0.1.13.tar.gz",
+  "download_time": "2025-09-24T20:24:44.534981",
   "package_url": "https://pypi.org/project/fastapi-basekit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claude-cache",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "summary": "Perfect memory for Claude - Never solve the same coding problem twice",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_cache-0.8.2.tar.gz",
-  "download_time": "2025-09-23T22:41:45.290013",
+  "download_filename": "claude_cache-0.9.0.tar.gz",
+  "download_time": "2025-09-24T20:24:31.732853",
   "package_url": "https://pypi.org/project/claude-cache/"
 }

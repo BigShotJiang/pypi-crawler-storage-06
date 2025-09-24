@@ -1,11 +1,11 @@
 {
   "name": "metaflow",
-  "version": "2.18.8",
+  "version": "2.18.9",
   "summary": "Metaflow: More AI and ML, Less Engineering",
   "author": "Metaflow Developers",
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "metaflow-2.18.8.tar.gz",
-  "download_time": "2025-09-22T21:54:04.472239",
+  "download_filename": "metaflow-2.18.9.tar.gz",
+  "download_time": "2025-09-24T20:24:23.624350",
   "package_url": "https://pypi.org/project/metaflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "django-prbac",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Parameterized Role-Based Access Control for Django",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_prbac-1.1.1.tar.gz",
-  "download_time": "2025-09-23T17:43:28.469932",
+  "download_filename": "django_prbac-1.1.2.tar.gz",
+  "download_time": "2025-09-24T20:24:29.039604",
   "package_url": "https://pypi.org/project/django-prbac/"
 }

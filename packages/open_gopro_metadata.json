@@ -1,0 +1,11 @@
+{
+  "name": "open_gopro",
+  "version": "0.22.0",
+  "summary": "Open GoPro API and Examples",
+  "author": "Tim Camise",
+  "license": "MIT",
+  "home_page": "https://github.com/gopro/OpenGoPro/tree/main/demos/python/sdk_wireless_camera_control",
+  "download_filename": "open_gopro-0.22.0.tar.gz",
+  "download_time": "2025-09-24T20:24:17.307913",
+  "package_url": "https://pypi.org/project/open_gopro/"
+}

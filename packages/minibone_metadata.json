@@ -1,11 +1,11 @@
 {
   "name": "minibone",
-  "version": "0.8.0",
-  "summary": "Small boiler plate with tools for multithreading.",
+  "version": "0.9.0",
+  "summary": "Small boilerplate with tools for concurrent/parallel processing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minibone-0.8.0.tar.gz",
-  "download_time": "2025-09-17T05:18:11.297757",
+  "download_filename": "minibone-0.9.0.tar.gz",
+  "download_time": "2025-09-24T20:24:05.692661",
   "package_url": "https://pypi.org/project/minibone/"
 }

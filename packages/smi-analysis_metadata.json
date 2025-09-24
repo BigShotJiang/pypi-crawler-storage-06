@@ -1,0 +1,11 @@
+{
+  "name": "smi-analysis",
+  "version": "0.2.2",
+  "summary": "Scientific Python for data analysis at the Soft Matter Interface (SMI) beamline at NSLS-II",
+  "author": "Brokhaven National Laboratory",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NSLS-II-SMI/smi-analysis",
+  "download_filename": "smi_analysis-0.2.2.tar.gz",
+  "download_time": "2025-09-24T20:24:09.926711",
+  "package_url": "https://pypi.org/project/smi-analysis/"
+}

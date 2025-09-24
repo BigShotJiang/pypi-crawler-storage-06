@@ -1,11 +1,11 @@
 {
   "name": "astodojo",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "ASTODOJO: Intelligent TODO scanner for Python codebases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astodojo-0.1.0.tar.gz",
-  "download_time": "2025-09-24T19:53:34.661242",
+  "download_filename": "astodojo-0.2.1.tar.gz",
+  "download_time": "2025-09-24T20:24:21.495395",
   "package_url": "https://pypi.org/project/astodojo/"
 }

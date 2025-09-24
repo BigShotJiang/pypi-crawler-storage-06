@@ -1,0 +1,11 @@
+{
+  "name": "colomoto-docker",
+  "version": "9.3",
+  "summary": "Helper script to run docker image colomoto/colomoto-docker",
+  "author": "Loïc Paulevé",
+  "license": null,
+  "home_page": "https://github.com/colomoto/colomoto-docker-py",
+  "download_filename": "colomoto_docker-9.3.tar.gz",
+  "download_time": "2025-09-24T20:24:13.628942",
+  "package_url": "https://pypi.org/project/colomoto-docker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sqlorm-py",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A new kind or ORM that do not abstract away your database or SQL queries.",
   "author": "Maxime Bouroumeau-Fuseau",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlorm_py-0.4.0.tar.gz",
-  "download_time": "2025-09-23T22:20:03.587436",
+  "download_filename": "sqlorm_py-0.4.1.tar.gz",
+  "download_time": "2025-09-24T20:24:30.636920",
   "package_url": "https://pypi.org/project/sqlorm-py/"
 }

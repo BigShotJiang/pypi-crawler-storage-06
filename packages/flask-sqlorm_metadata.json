@@ -1,11 +1,11 @@
 {
   "name": "flask-sqlorm",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Flask integration for sqlorm",
   "author": "Maxime Bouroumeau-Fuseau",
   "license": null,
   "home_page": null,
-  "download_filename": "flask_sqlorm-0.3.0.tar.gz",
-  "download_time": "2025-09-23T22:19:58.284422",
+  "download_filename": "flask_sqlorm-0.3.1.tar.gz",
+  "download_time": "2025-09-24T20:24:25.843237",
   "package_url": "https://pypi.org/project/flask-sqlorm/"
 }
