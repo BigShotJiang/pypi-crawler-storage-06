@@ -1,0 +1,11 @@
+{
+  "name": "grades",
+  "version": "1.0.2",
+  "summary": "Gradient-based Early Stopping for Efficient Fine-tuning of Large Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/IXZZZ9/GradES",
+  "download_filename": "grades-1.0.2.tar.gz",
+  "download_time": "2025-09-24T05:42:57.028300",
+  "package_url": "https://pypi.org/project/grades/"
+}
