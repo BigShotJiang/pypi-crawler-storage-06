@@ -1,25 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T11:29:02.814582
-- **Total Packages**: 79
-- **Total Size**: 37.03 MB
+- **Download Time**: 2025-09-24T11:41:17.197162
+- **Total Packages**: 86
+- **Total Size**: 19.44 MB
 
 ## Packages List
+- mcp-airflow-api
+- fromager
+- elody
+- pyrudof
+- ai-ebash
+- nemorosa
+- ida-hcli
+- abstract-hugpy
+- MeUtils
+- ssh-mcp-server
+- times-ctr-optimizer
+- aws-cdk.cloud-assembly-schema
+- mcp-ambari-api
+- auth-gateway-serverkit
+- ezRay
+- authentik-client
+- cleanote
+- evol-aiq
+- digimat.mbio
+- fractal-task-tools
+- pyiron-base
+- mttf
+- mcp-instana
+- red-tidegear
+- glpi-provider
+- mal-gui
+- sqler
+- mbu-msoffice-integration
+- mtbase
+- tuspyserver
+- python-magic-standalone
+- robosandbox
+- libmdbx
+- pepsipy
+- py2jupyter
+- mcp-mysql-ops
+- arclet-entari
+- pyeasyphd
+- torchx-nightly
 - airbyte-source-notion
 - xfem
 - point-topic-mcp
 - m269-25j-marking-tool
 - odoo-addon-stock-picking-group-by-partner-by-carrier
 - meter-lib
-- auth-gateway-serverkit
 - pycsbwrapper
 - tencent-wedata-feature-engineering
-- authentik-client
 - howlongtobeat-scraper
 - id-recognizer
 - data-driven-test-input-generator
-- red-tidegear
 - utilskit
 - ride-the-duck
 - myldapsync
@@ -56,32 +92,3 @@
 - pypaimon-beta
 - apis-acdhch-default-settings
 - simplematchcalc
-- digimat.mbio
-- extralo
-- lambda-otel-logging
-- cartagon-monday-client
-- udlai
-- renault-api
-- scorebook
-- haiway
-- fsspec-utils
-- gpframe
-- steampunk-spotter
-- code-review-plus
-- upas
-- ocf-data-sampler
-- neops_graphql
-- pyx-poetry
-- hmcis-packs
-- dotagent-cli
-- faster-app
-- i2dgraph
-- asmu
-- eventiq
-- ida-hcli
-- sheetrika
-- nova-cli-ai
-- wypp
-- ds-vault-py-sdk
-- jua
-- mmgen-node-tools

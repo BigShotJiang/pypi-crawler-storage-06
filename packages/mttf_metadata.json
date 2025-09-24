@@ -1,0 +1,11 @@
+{
+  "name": "mttf",
+  "version": "1.2.28",
+  "summary": "A package to detect and monkey-patch TensorFlow and Keras, for Minh-Tri Pham",
+  "author": "['Minh-Tri Pham']",
+  "license": null,
+  "home_page": "https://github.com/inteplus/mttf",
+  "download_filename": "mttf-1.2.28-py3-none-any.whl",
+  "download_time": "2025-09-24T11:40:42.223381",
+  "package_url": "https://pypi.org/project/mttf/"
+}

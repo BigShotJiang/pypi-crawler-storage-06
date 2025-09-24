@@ -1,11 +1,11 @@
 {
   "name": "arclet-entari",
-  "version": "0.15.1",
+  "version": "0.16.1",
   "summary": "Simple IM Framework based on satori-python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arclet_entari-0.15.1.tar.gz",
-  "download_time": "2025-09-19T07:20:17.007970",
+  "download_filename": "arclet_entari-0.16.1.tar.gz",
+  "download_time": "2025-09-24T11:40:50.591564",
   "package_url": "https://pypi.org/project/arclet-entari/"
 }

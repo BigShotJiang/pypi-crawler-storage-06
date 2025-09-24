@@ -1,0 +1,11 @@
+{
+  "name": "python-magic-standalone",
+  "version": "0.4.28",
+  "summary": "File type identification using libmagic",
+  "author": "Adam Hupp",
+  "license": "MIT",
+  "home_page": "http://github.com/ahupp/python-magic",
+  "download_filename": "python_magic_standalone-0.4.28-py2.py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-09-24T11:40:47.217292",
+  "package_url": "https://pypi.org/project/python-magic-standalone/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tuspyserver",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "summary": "A Python tus server implementation as a FastAPI router",
   "author": "Edi Hasaj",
   "license": null,
   "home_page": null,
-  "download_filename": "tuspyserver-4.1.4.tar.gz",
-  "download_time": "2025-09-22T19:17:30.130920",
+  "download_filename": "tuspyserver-4.1.5.tar.gz",
+  "download_time": "2025-09-24T11:40:46.656736",
   "package_url": "https://pypi.org/project/tuspyserver/"
 }
