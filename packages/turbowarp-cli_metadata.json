@@ -1,11 +1,11 @@
 {
   "name": "turbowarp-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Run scratch projects in your terminal using turbowarp scaffolding",
   "author": "faretek1",
   "license": null,
   "home_page": null,
-  "download_filename": "turbowarp_cli-1.0.1.tar.gz",
-  "download_time": "2025-09-24T15:55:31.527752",
+  "download_filename": "turbowarp_cli-1.0.2.tar.gz",
+  "download_time": "2025-09-24T16:52:06.991615",
   "package_url": "https://pypi.org/project/turbowarp-cli/"
 }

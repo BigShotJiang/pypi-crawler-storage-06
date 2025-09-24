@@ -1,0 +1,11 @@
+{
+  "name": "mlable-torch",
+  "version": "0.2.9",
+  "summary": "PyTorch libs: layers, blocks, optimizers, etc.",
+  "author": "apehex",
+  "license": ".github/LICENSE.md",
+  "home_page": null,
+  "download_filename": "mlable_torch-0.2.9.tar.gz",
+  "download_time": "2025-09-24T16:52:09.929677",
+  "package_url": "https://pypi.org/project/mlable-torch/"
+}
