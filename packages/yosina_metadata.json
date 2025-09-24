@@ -1,0 +1,11 @@
+{
+  "name": "yosina",
+  "version": "1.0.0",
+  "summary": "Japanese text transliteration library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yosina-1.0.0.tar.gz",
+  "download_time": "2025-09-24T05:53:52.457790",
+  "package_url": "https://pypi.org/project/yosina/"
+}

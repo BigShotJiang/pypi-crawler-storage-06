@@ -1,11 +1,11 @@
 {
   "name": "diag-pythoncode",
-  "version": "0.0.2",
-  "summary": null,
-  "author": null,
+  "version": "1.0.0",
+  "summary": "基于DiagProxy架构的ECU诊断刷写框架",
+  "author": "DiagProxy Framework",
   "license": null,
-  "home_page": null,
-  "download_filename": "diag_pythoncode-0.0.2.tar.gz",
-  "download_time": "2025-09-24T05:20:35.001219",
+  "home_page": "https://github.com/yourusername/diag-pythoncode",
+  "download_filename": "diag_pythoncode-1.0.0.tar.gz",
+  "download_time": "2025-09-24T05:53:29.946398",
   "package_url": "https://pypi.org/project/diag-pythoncode/"
 }

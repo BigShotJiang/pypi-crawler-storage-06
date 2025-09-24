@@ -1,0 +1,11 @@
+{
+  "name": "braintools",
+  "version": "0.0.12",
+  "summary": "Modeling tools for brain simulation.",
+  "author": "BrainTools Developers",
+  "license": "Apache-2.0 license",
+  "home_page": "https://github.com/chaobrain/braintools",
+  "download_filename": "braintools-0.0.12.tar.gz",
+  "download_time": "2025-09-24T05:53:31.546761",
+  "package_url": "https://pypi.org/project/braintools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "xarray-katdal",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Add your description here",
   "author": "Simon Perkins",
   "license": null,
   "home_page": null,
-  "download_filename": "xarray_katdal-0.0.2.tar.gz",
-  "download_time": "2025-09-23T15:44:20.036734",
+  "download_filename": "xarray_katdal-0.0.3.tar.gz",
+  "download_time": "2025-09-24T05:53:34.211995",
   "package_url": "https://pypi.org/project/xarray-katdal/"
 }

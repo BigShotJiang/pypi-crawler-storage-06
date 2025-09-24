@@ -1,11 +1,11 @@
 {
   "name": "passagemath-pari-nftables",
-  "version": "10.6.25",
+  "version": "10.6.28",
   "summary": "passagemath: Computational Number Theory with PARI/GP: Galois group data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_pari_nftables-10.6.25.tar.gz",
-  "download_time": "2025-09-19T19:22:54.062159",
+  "download_filename": "passagemath_pari_nftables-10.6.28-py3-none-any.whl",
+  "download_time": "2025-09-24T05:53:48.840893",
   "package_url": "https://pypi.org/project/passagemath-pari-nftables/"
 }

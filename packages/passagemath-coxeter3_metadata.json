@@ -1,11 +1,11 @@
 {
   "name": "passagemath-coxeter3",
-  "version": "10.6.24",
+  "version": "10.6.28",
   "summary": "passagemath: Coxeter groups, Bruhat ordering, Kazhdan-Lusztig polynomials with coxeter3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_coxeter3-10.6.24.tar.gz",
-  "download_time": "2025-09-17T05:40:52.922624",
+  "download_filename": "passagemath_coxeter3-10.6.28-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-24T05:53:42.564945",
   "package_url": "https://pypi.org/project/passagemath-coxeter3/"
 }

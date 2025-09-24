@@ -1,11 +1,11 @@
 {
   "name": "passagemath-gap-pkg-sonata-data",
-  "version": "10.6.25",
+  "version": "10.6.28",
   "summary": "passagemath: Computational Group Theory with GAP: sonata data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_gap_pkg_sonata_data-10.6.25.tar.gz",
-  "download_time": "2025-09-19T19:23:16.414073",
+  "download_filename": "passagemath_gap_pkg_sonata_data-10.6.28-py3-none-any.whl",
+  "download_time": "2025-09-24T05:53:54.000893",
   "package_url": "https://pypi.org/project/passagemath-gap-pkg-sonata-data/"
 }

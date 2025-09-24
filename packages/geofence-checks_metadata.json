@@ -1,0 +1,11 @@
+{
+  "name": "geofence-checks",
+  "version": "0.1.1",
+  "summary": "A package for detecting geofence entry and exit events for trucks",
+  "author": "chandra shekhar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geofence_checks-0.1.1.tar.gz",
+  "download_time": "2025-09-24T05:53:10.419194",
+  "package_url": "https://pypi.org/project/geofence-checks/"
+}
