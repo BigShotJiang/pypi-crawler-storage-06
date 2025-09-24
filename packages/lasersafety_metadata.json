@@ -1,0 +1,11 @@
+{
+  "name": "lasersafety",
+  "version": "0.10.1",
+  "summary": "A package for the computations of EN207 and EN208",
+  "author": "Yoann Piétri",
+  "license": "MIT",
+  "home_page": "https://github.com/nanoy42/lasersafety/",
+  "download_filename": "lasersafety-0.10.1.tar.gz",
+  "download_time": "2025-09-24T21:19:51.991716",
+  "package_url": "https://pypi.org/project/lasersafety/"
+}

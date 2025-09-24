@@ -1,11 +1,11 @@
 {
   "name": "fpm",
-  "version": "0.11.0",
+  "version": "0.12.0",
   "summary": "Fortran package manager",
   "author": "fpm maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "fpm-0.11.0.tar.gz",
-  "download_time": "2025-09-24T20:41:54.441767",
+  "download_filename": "fpm-0.12.0.tar.gz",
+  "download_time": "2025-09-24T21:19:48.844127",
   "package_url": "https://pypi.org/project/fpm/"
 }

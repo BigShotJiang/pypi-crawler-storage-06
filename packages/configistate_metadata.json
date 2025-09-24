@@ -1,0 +1,11 @@
+{
+  "name": "configistate",
+  "version": "1.0.0",
+  "summary": "Consistent, robust TOML config management with a friendly CLI",
+  "author": "Roger Trimble",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "configistate-1.0.0.tar.gz",
+  "download_time": "2025-09-24T21:19:29.912923",
+  "package_url": "https://pypi.org/project/configistate/"
+}
