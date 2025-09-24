@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-oca-purchase-workflow",
+  "version": "16.0.20250923.0",
+  "summary": "Meta package for oca-purchase-workflow Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_oca_purchase_workflow-16.0.20250923.0-py3-none-any.whl",
+  "download_time": "2025-09-24T03:50:13.417020",
+  "package_url": "https://pypi.org/project/odoo-addons-oca-purchase-workflow/"
+}

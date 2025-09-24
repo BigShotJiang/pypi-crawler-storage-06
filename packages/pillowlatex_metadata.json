@@ -1,0 +1,11 @@
+{
+  "name": "pillowlatex",
+  "version": "0.1.4",
+  "summary": "基于 Pillow 的简易 LaTeX 渲染库，用于快速渲染大模型返回的 LaTeX 公式为图片。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pillowlatex-0.1.4.tar.gz",
+  "download_time": "2025-09-24T03:50:20.801751",
+  "package_url": "https://pypi.org/project/pillowlatex/"
+}

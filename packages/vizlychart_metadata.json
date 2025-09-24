@@ -1,11 +1,11 @@
 {
   "name": "vizlychart",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "Commercial high-performance visualization library with GPU acceleration, VR/AR support, and zero dependencies",
   "author": "Infinidatum Corporation",
   "license": "Commercial License - Contact durai@infinidatum.net",
   "home_page": "https://github.com/vizly/vizly",
-  "download_filename": "vizlychart-1.2.0.tar.gz",
-  "download_time": "2025-09-24T03:27:42.801049",
+  "download_filename": "vizlychart-1.2.2-py3-none-any.whl",
+  "download_time": "2025-09-24T03:50:06.585432",
   "package_url": "https://pypi.org/project/vizlychart/"
 }

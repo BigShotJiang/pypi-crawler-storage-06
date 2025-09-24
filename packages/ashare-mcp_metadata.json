@@ -1,0 +1,11 @@
+{
+  "name": "ashare-mcp",
+  "version": "0.3.0",
+  "summary": "A股市场数据分析 MCP 服务器 - 基于 Model Context Protocol 的 A 股市场数据分析工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ashare_mcp-0.3.0-py3-none-any.whl",
+  "download_time": "2025-09-24T03:50:00.767857",
+  "package_url": "https://pypi.org/project/ashare-mcp/"
+}

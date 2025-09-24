@@ -1,11 +1,11 @@
 {
   "name": "mcgt-core",
-  "version": "0.1.5",
-  "summary": "MCGT core package",
-  "author": "Jean-Philip Lalumiere",
-  "license": "MIT License",
+  "version": "0.2.6",
+  "summary": null,
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "mcgt_core-0.1.5.tar.gz",
-  "download_time": "2025-09-23T20:23:16.436527",
+  "download_filename": "mcgt_core-0.2.6.tar.gz",
+  "download_time": "2025-09-24T03:50:06.068840",
   "package_url": "https://pypi.org/project/mcgt-core/"
 }

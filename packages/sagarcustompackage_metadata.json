@@ -1,0 +1,11 @@
+{
+  "name": "sagarcustompackage",
+  "version": "0.1.1",
+  "summary": "Reusable helpers for OTP, JWT authentication, and JSON serialization and Global patch for Python requests to allow TLSv1.2 with lower SECLEVEL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sagarcustompackage-0.1.1.tar.gz",
+  "download_time": "2025-09-24T03:50:07.115810",
+  "package_url": "https://pypi.org/project/sagarcustompackage/"
+}

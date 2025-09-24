@@ -1,11 +1,11 @@
 {
   "name": "praasper",
-  "version": "0.1.2",
-  "summary": "VAD-Enhanced ASR with Word- and Phoneme-Level Timestamps",
+  "version": "0.2.1",
+  "summary": "VAD-Enhanced ASR with Word-Level Timestamps",
   "author": "Tony Liu",
   "license": "MIT",
   "home_page": "https://github.com/ParadeLuxe/Praasper",
-  "download_filename": "praasper-0.1.2.tar.gz",
-  "download_time": "2025-09-17T12:38:34.866735",
+  "download_filename": "praasper-0.2.1.tar.gz",
+  "download_time": "2025-09-24T03:50:16.030135",
   "package_url": "https://pypi.org/project/praasper/"
 }
