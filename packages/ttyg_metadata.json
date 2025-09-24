@@ -1,11 +1,11 @@
 {
   "name": "ttyg",
-  "version": "1.7.1",
+  "version": "1.8.0",
   "summary": "Natural language querying for GraphDB using LangGraph agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/Ontotext-AD/ttyg-langgraph",
-  "download_filename": "ttyg-1.7.1.tar.gz",
-  "download_time": "2025-09-24T06:53:27.847061",
+  "download_filename": "ttyg-1.8.0.tar.gz",
+  "download_time": "2025-09-24T14:20:11.253101",
   "package_url": "https://pypi.org/project/ttyg/"
 }

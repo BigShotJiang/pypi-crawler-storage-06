@@ -1,11 +1,11 @@
 {
   "name": "mcp4hal",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "summary": "MCP(Model Context Protocol) Hardware Abstract Layer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp4hal-0.0.9.tar.gz",
-  "download_time": "2025-09-19T09:21:53.406860",
+  "download_filename": "mcp4hal-0.0.10.tar.gz",
+  "download_time": "2025-09-24T14:20:06.867579",
   "package_url": "https://pypi.org/project/mcp4hal/"
 }

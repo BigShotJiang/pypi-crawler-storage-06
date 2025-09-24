@@ -1,0 +1,11 @@
+{
+  "name": "simodin",
+  "version": "0.0.5",
+  "summary": "Interface between simulation models and brightway25",
+  "author": "Hannes Schneider",
+  "license": "MIT",
+  "home_page": "https://github.com/HaSchneider/SiModIn",
+  "download_filename": "simodin-0.0.5.tar.gz",
+  "download_time": "2025-09-24T14:20:38.389841",
+  "package_url": "https://pypi.org/project/simodin/"
+}
