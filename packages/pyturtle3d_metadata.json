@@ -1,0 +1,11 @@
+{
+  "name": "pyturtle3d",
+  "version": "1.0.0",
+  "summary": "A 3D engine built with Python's turtle graphics",
+  "author": "PyTurtle3D Team",
+  "license": "MIT",
+  "home_page": "https://github.com/pyturtle3d/pyturtle3d",
+  "download_filename": "pyturtle3d-1.0.0.tar.gz",
+  "download_time": "2025-09-24T14:56:29.060455",
+  "package_url": "https://pypi.org/project/pyturtle3d/"
+}

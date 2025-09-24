@@ -1,0 +1,11 @@
+{
+  "name": "hatchet-sdk",
+  "version": "1.19.0",
+  "summary": null,
+  "author": "Alexander Belanger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hatchet_sdk-1.19.0.tar.gz",
+  "download_time": "2025-09-24T14:56:13.700365",
+  "package_url": "https://pypi.org/project/hatchet-sdk/"
+}

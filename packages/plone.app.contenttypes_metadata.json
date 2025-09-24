@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.contenttypes",
+  "version": "4.0.8",
+  "summary": "Default content types for Plone based on Dexterity",
+  "author": "Plone Foundation",
+  "license": "GPL",
+  "home_page": "https://github.com/plone/plone.app.contenttypes",
+  "download_filename": "plone_app_contenttypes-4.0.8.tar.gz",
+  "download_time": "2025-09-24T14:56:25.248340",
+  "package_url": "https://pypi.org/project/plone.app.contenttypes/"
+}
