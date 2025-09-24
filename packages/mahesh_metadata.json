@@ -1,11 +1,11 @@
 {
   "name": "mahesh",
-  "version": "0.0.2",
-  "summary": "A simple package to express love ❤️",
+  "version": "0.3.0",
+  "summary": "Convert YOLO .pt models to ONNX and TensorRT engines easily 🚀",
   "author": "Mahi",
   "license": null,
-  "home_page": "https://github.com/yourusername/express-love",
-  "download_filename": "mahesh-0.0.2.tar.gz",
-  "download_time": "2025-09-23T13:20:24.398171",
+  "home_page": "https://github.com/yourusername/yolo2trt",
+  "download_filename": "mahesh-0.3.0.tar.gz",
+  "download_time": "2025-09-24T07:41:59.979261",
   "package_url": "https://pypi.org/project/mahesh/"
 }

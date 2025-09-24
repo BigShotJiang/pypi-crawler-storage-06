@@ -1,0 +1,11 @@
+{
+  "name": "alehundred-depot-en",
+  "version": "8.7",
+  "summary": "A TUI tool to install and manage a Perforce server on a Raspberry Pi.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "alehundred_depot_en-8.7.tar.gz",
+  "download_time": "2025-09-24T07:42:05.654592",
+  "package_url": "https://pypi.org/project/alehundred-depot-en/"
+}

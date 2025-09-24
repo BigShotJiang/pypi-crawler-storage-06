@@ -1,11 +1,11 @@
 {
   "name": "seven-framework",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "seven framework",
   "author": "seven",
   "license": "MIT",
   "home_page": "http://gitlab.tdtech.gao7.com/python/seven_framework",
-  "download_filename": "seven_framework-1.4.1.tar.gz",
-  "download_time": "2025-09-18T08:25:18.552066",
+  "download_filename": "seven_framework-1.4.2.tar.gz",
+  "download_time": "2025-09-24T07:42:11.813781",
   "package_url": "https://pypi.org/project/seven-framework/"
 }
