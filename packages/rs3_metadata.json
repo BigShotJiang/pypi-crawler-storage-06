@@ -1,0 +1,11 @@
+{
+  "name": "rs3",
+  "version": "0.0.18",
+  "summary": "Predict the activity of CRISPR sgRNAs",
+  "author": "Peter Deweirdt",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/gpp-rnd/rs3/tree/master/",
+  "download_filename": "rs3-0.0.18-py3-none-any.whl",
+  "download_time": "2025-09-24T01:25:16.752460",
+  "package_url": "https://pypi.org/project/rs3/"
+}

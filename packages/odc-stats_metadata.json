@@ -1,0 +1,11 @@
+{
+  "name": "odc-stats",
+  "version": "1.9.5",
+  "summary": "Statistical Product Generation Framework",
+  "author": "Open Data Cube",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/opendatacube/odc-stats/",
+  "download_filename": "odc_stats-1.9.5.tar.gz",
+  "download_time": "2025-09-24T01:25:29.348467",
+  "package_url": "https://pypi.org/project/odc-stats/"
+}

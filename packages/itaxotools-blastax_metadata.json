@@ -1,0 +1,11 @@
+{
+  "name": "itaxotools-blastax",
+  "version": "0.1.0",
+  "summary": "Run BLAST, parse hits and more",
+  "author": "Nikita Kulikov, Anja Schulz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "itaxotools_blastax-0.1.0.tar.gz",
+  "download_time": "2025-09-24T01:25:52.763265",
+  "package_url": "https://pypi.org/project/itaxotools-blastax/"
+}

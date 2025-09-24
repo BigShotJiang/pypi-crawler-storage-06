@@ -1,11 +1,11 @@
 {
   "name": "dattos-data-engine-common",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Common classes and methods for data engine projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dattos_data_engine_common-1.1.0.tar.gz",
-  "download_time": "2025-09-23T13:47:57.520134",
+  "download_filename": "dattos_data_engine_common-1.1.1.tar.gz",
+  "download_time": "2025-09-24T01:26:04.682393",
   "package_url": "https://pypi.org/project/dattos-data-engine-common/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "finlab-guard",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A lightweight package for managing local finlab data cache with versioning and time-context features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finlab_guard-0.2.0.tar.gz",
-  "download_time": "2025-09-23T11:43:06.523433",
+  "download_filename": "finlab_guard-0.3.0.tar.gz",
+  "download_time": "2025-09-24T01:25:50.551007",
   "package_url": "https://pypi.org/project/finlab-guard/"
 }

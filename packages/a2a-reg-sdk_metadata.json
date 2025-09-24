@@ -1,0 +1,11 @@
+{
+  "name": "a2a-reg-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for the A2A Agent Registry",
+  "author": "A2A Registry Team",
+  "license": null,
+  "home_page": "https://github.com/a2areg/a2a-registry",
+  "download_filename": "a2a_reg_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-24T01:25:21.178426",
+  "package_url": "https://pypi.org/project/a2a-reg-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diagram-renderer",
+  "version": "2025.9.24.103",
+  "summary": "A comprehensive diagram rendering service supporting Mermaid, PlantUML, and Graphviz diagrams with interactive zoom/pan controls and PNG export",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diagram_renderer-2025.9.24.103.tar.gz",
+  "download_time": "2025-09-24T01:25:33.220621",
+  "package_url": "https://pypi.org/project/diagram-renderer/"
+}

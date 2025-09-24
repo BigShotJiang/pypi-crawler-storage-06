@@ -1,0 +1,11 @@
+{
+  "name": "roma-analysis",
+  "version": "0.2.0",
+  "summary": "Representation and Quantification of Module Activity for bulk and single cell transcriptomics in python",
+  "author": "Altynbek Zhubanchaliyev",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/altyn-bulmers",
+  "download_filename": "roma_analysis-0.2.0.tar.gz",
+  "download_time": "2025-09-24T01:25:27.073809",
+  "package_url": "https://pypi.org/project/roma-analysis/"
+}

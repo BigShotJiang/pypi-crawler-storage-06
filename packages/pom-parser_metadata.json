@@ -1,0 +1,11 @@
+{
+  "name": "pom-parser",
+  "version": "0.0.2",
+  "summary": "A parser for the POM configuration language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pom_parser-0.0.2.tar.gz",
+  "download_time": "2025-09-24T01:25:44.598406",
+  "package_url": "https://pypi.org/project/pom-parser/"
+}
