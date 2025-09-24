@@ -1,0 +1,11 @@
+{
+  "name": "iLibrary",
+  "version": "0.0.1",
+  "summary": "iLibrary - Tools for IBM i",
+  "author": "Andreas Legner",
+  "license": null,
+  "home_page": "https://legner.beer",
+  "download_filename": "ilibrary-0.0.1.tar.gz",
+  "download_time": "2025-09-24T19:40:51.536904",
+  "package_url": "https://pypi.org/project/iLibrary/"
+}

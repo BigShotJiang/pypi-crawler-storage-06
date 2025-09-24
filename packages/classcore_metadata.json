@@ -1,0 +1,11 @@
+{
+  "name": "classcore",
+  "version": "1.9",
+  "summary": "Foundational class factories and decorators.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "classcore-1.9.tar.gz",
+  "download_time": "2025-09-24T19:40:53.707971",
+  "package_url": "https://pypi.org/project/classcore/"
+}
