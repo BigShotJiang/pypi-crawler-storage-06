@@ -1,11 +1,11 @@
 {
   "name": "maleo-managers",
-  "version": "0.0.32",
+  "version": "0.0.34",
   "summary": "Managers package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_managers-0.0.32.tar.gz",
-  "download_time": "2025-09-24T04:46:05.224726",
+  "download_filename": "maleo_managers-0.0.34.tar.gz",
+  "download_time": "2025-09-24T04:55:16.400299",
   "package_url": "https://pypi.org/project/maleo-managers/"
 }

@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T04:46:47.910626
+- **Download Time**: 2025-09-24T04:55:59.812508
 - **Total Packages**: 82
-- **Total Size**: 6.32 MB
+- **Total Size**: 3.11 MB
 
 ## Packages List
+- maleo-managers
+- openplaces
+- whurl
+- Python-fontconfig
+- zscaler-sdk-python
+- pulumi-oci
+- mcp-mysql-ops
+- profilis
+- authentik-client
+- effect-edc
+- fast-mu-builder
+- maleo-middlewares
+- pyam-iamc
+- clinicedc
+- iamdata
+- rxlm
+- edtrace
 - pyqmc-rust
 - coiled
 - finbourne-horizon-sdk
@@ -14,11 +31,8 @@
 - techbureau-symbol-sdk-python
 - merlin-pyfunc-server
 - merlin-batch-predictor
-- mtdump
 - merlin-sdk
 - faster-app
-- maleo-managers
-- authentik-client
 - zvtk
 - fosslight-source
 - sagarcustompackage
@@ -33,7 +47,6 @@
 - graphiant-sdk
 - ultrasphere
 - unichat
-- effect-edc
 - lazy-mysql
 - methodnetworkscan
 - codex-client
@@ -41,10 +54,8 @@
 - MaMAI
 - pymolfold
 - fylex
-- maleo-middlewares
 - ubox-py-sdk
 - palabra-ai
-- edtrace
 - bbot
 - hgraph
 - djaodjin-deployutils
@@ -77,14 +88,3 @@
 - maleo-infra
 - ashare-mcp
 - truss
-- odoo-addon-stock-weighing
-- aerospike
-- karellen-llvm-toolchain-tools
-- karellen-llvm-lldb
-- odoo-addon-stock-picking-invoice-link
-- muse-lang
-- photo-metadata
-- mohe-mcp-server
-- odoo-addon-stock-secondary-unit
-- docutranslate
-- iglu-python
