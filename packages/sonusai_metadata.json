@@ -1,0 +1,11 @@
+{
+  "name": "sonusai",
+  "version": "1.1.0",
+  "summary": "Framework for building deep neural network models for sound, speech, and voice AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sonusai-1.1.0-cp311-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-09-24T22:40:29.248411",
+  "package_url": "https://pypi.org/project/sonusai/"
+}

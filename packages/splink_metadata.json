@@ -1,0 +1,11 @@
+{
+  "name": "splink",
+  "version": "4.0.9",
+  "summary": "Fast probabilistic data linkage at scale",
+  "author": "Robin Linacre",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "splink-4.0.9.tar.gz",
+  "download_time": "2025-09-24T22:40:34.612297",
+  "package_url": "https://pypi.org/project/splink/"
+}
