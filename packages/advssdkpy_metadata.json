@@ -1,11 +1,11 @@
 {
   "name": "advssdkpy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python SDK for AdvaScope devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "advssdkpy-1.0.1-cp310-cp310-manylinux_2_38_x86_64.whl",
-  "download_time": "2025-09-24T09:23:40.057074",
+  "download_filename": "advssdkpy-1.0.2-cp310-cp310-manylinux_2_38_x86_64.whl",
+  "download_time": "2025-09-24T14:44:01.539776",
   "package_url": "https://pypi.org/project/advssdkpy/"
 }

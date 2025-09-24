@@ -1,11 +1,11 @@
 {
   "name": "fineio",
-  "version": "0.0.1a1",
-  "summary": "Async foundation for finesql and fynor.",
+  "version": "0.0.1a2",
+  "summary": "FineIO: User-friendly sync/async Python execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fineio-0.0.1a1.tar.gz",
-  "download_time": "2025-09-24T12:42:18.276354",
+  "download_filename": "fineio-0.0.1a2.tar.gz",
+  "download_time": "2025-09-24T14:43:39.839564",
   "package_url": "https://pypi.org/project/fineio/"
 }

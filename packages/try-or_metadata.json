@@ -1,0 +1,11 @@
+{
+  "name": "try-or",
+  "version": "1.0.0",
+  "summary": "A Python micro-library that returns try value or default.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "try_or-1.0.0.tar.gz",
+  "download_time": "2025-09-24T14:43:49.672845",
+  "package_url": "https://pypi.org/project/try-or/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "precommend",
-  "version": "0.3.13",
+  "version": "0.4.0",
   "summary": "Opinionated initialization of pre-commit configurations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "precommend-0.3.13.tar.gz",
-  "download_time": "2025-09-24T14:20:16.795305",
+  "download_filename": "precommend-0.4.0.tar.gz",
+  "download_time": "2025-09-24T14:43:24.150152",
   "package_url": "https://pypi.org/project/precommend/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pynfact",
+  "version": "1.3.4",
+  "summary": "Blog-oriented static website generator using Markdown or reStructuredText.",
+  "author": "J. A. Corbal",
+  "license": null,
+  "home_page": "https://github.com/jacorbal/pynfact/wiki",
+  "download_filename": "pynfact-1.3.4.tar.gz",
+  "download_time": "2025-09-24T14:43:25.751277",
+  "package_url": "https://pypi.org/project/pynfact/"
+}
