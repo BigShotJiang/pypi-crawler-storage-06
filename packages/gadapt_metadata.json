@@ -1,11 +1,11 @@
 {
   "name": "gadapt",
-  "version": "0.4.25",
+  "version": "0.4.26",
   "summary": "GAdapt: A Python Library for        Self-Adaptive Genetic Algorithm.",
   "author": "Zoran Jankovic",
   "license": null,
   "home_page": "https://github.com/bpzoran/gadapt",
-  "download_filename": "gadapt-0.4.25.tar.gz",
-  "download_time": "2025-09-22T17:17:35.159048",
+  "download_filename": "gadapt-0.4.26.tar.gz",
+  "download_time": "2025-09-24T05:20:29.846285",
   "package_url": "https://pypi.org/project/gadapt/"
 }

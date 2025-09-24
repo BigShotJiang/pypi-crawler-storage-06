@@ -1,0 +1,11 @@
+{
+  "name": "openelectricity",
+  "version": "0.9.2",
+  "summary": "OpenElectricity Python Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openelectricity-0.9.2.tar.gz",
+  "download_time": "2025-09-24T05:20:48.901861",
+  "package_url": "https://pypi.org/project/openelectricity/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clickable-ut",
+  "version": "8.5.0",
+  "summary": "Compile, build, and deploy Ubuntu Touch click packages all from the command line.",
+  "author": "Brian Douglass",
+  "license": "GPL3",
+  "home_page": "https://clickable-ut.dev/",
+  "download_filename": "clickable_ut-8.5.0.tar.gz",
+  "download_time": "2025-09-24T05:20:50.948675",
+  "package_url": "https://pypi.org/project/clickable-ut/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "barocert",
+  "version": "1.7.0",
+  "summary": "barocert API SDK Library",
+  "author": "linkhub dev",
+  "license": "MIT",
+  "home_page": "https://github.com/barocert/barocert.py",
+  "download_filename": "barocert-1.7.0.tar.gz",
+  "download_time": "2025-09-24T05:20:36.021825",
+  "package_url": "https://pypi.org/project/barocert/"
+}
