@@ -1,0 +1,11 @@
+{
+  "name": "logftz",
+  "version": "3.0.1",
+  "summary": "A timezone-configurable logging package based on loguru with Shanghai timezone as default",
+  "author": "stdeson",
+  "license": null,
+  "home_page": "https://github.com/stdeson/logftz",
+  "download_filename": "logftz-3.0.1.tar.gz",
+  "download_time": "2025-09-24T08:29:25.404428",
+  "package_url": "https://pypi.org/project/logftz/"
+}

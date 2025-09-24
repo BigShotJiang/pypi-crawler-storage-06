@@ -1,0 +1,11 @@
+{
+  "name": "cp-pyflink-libraries",
+  "version": "0.0.0",
+  "summary": "Flink libraries for PyFlink on Confluent Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cp_pyflink_libraries-0.0.0.tar.gz",
+  "download_time": "2025-09-24T08:29:42.805274",
+  "package_url": "https://pypi.org/project/cp-pyflink-libraries/"
+}

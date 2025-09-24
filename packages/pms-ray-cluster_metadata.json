@@ -1,0 +1,11 @@
+{
+  "name": "pms-ray-cluster",
+  "version": "1.4.0",
+  "summary": "repos for pms ray cluster",
+  "author": "HyeongSeok Kim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pms_ray_cluster-1.4.0.tar.gz",
+  "download_time": "2025-09-24T08:29:07.815084",
+  "package_url": "https://pypi.org/project/pms-ray-cluster/"
+}

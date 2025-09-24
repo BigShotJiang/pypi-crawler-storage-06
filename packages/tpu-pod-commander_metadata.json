@@ -1,0 +1,11 @@
+{
+  "name": "tpu-pod-commander",
+  "version": "0.1.7",
+  "summary": "TPU pod commander is a command line tool to manage cloud TPU pods.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/young-geng/tpu_pod_commander",
+  "download_filename": "tpu_pod_commander-0.1.7.tar.gz",
+  "download_time": "2025-09-24T08:29:03.120136",
+  "package_url": "https://pypi.org/project/tpu-pod-commander/"
+}

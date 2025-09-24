@@ -1,0 +1,11 @@
+{
+  "name": "matrix-sdk",
+  "version": "1.0.2",
+  "summary": "A module to handle projects and connections to the Matrix repo server",
+  "author": "Matrix-AI Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matrix_sdk-1.0.2.tar.gz",
+  "download_time": "2025-09-24T08:29:40.475619",
+  "package_url": "https://pypi.org/project/matrix-sdk/"
+}

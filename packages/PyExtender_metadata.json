@@ -1,11 +1,11 @@
 {
   "name": "PyExtender",
-  "version": "1.0.1a1",
+  "version": "1.1.0a1",
   "summary": "A simple Python extension toolkit.",
   "author": "cnong",
   "license": "MIT",
   "home_page": "https://github.com/bzjsmdl/PyExtender",
-  "download_filename": "pyextender-1.0.1a1.tar.gz",
-  "download_time": "2025-09-21T05:19:15.595118",
+  "download_filename": "pyextender-1.1.0a1.tar.gz",
+  "download_time": "2025-09-24T08:29:02.548124",
   "package_url": "https://pypi.org/project/PyExtender/"
 }

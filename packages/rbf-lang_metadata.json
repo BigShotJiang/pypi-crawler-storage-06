@@ -1,0 +1,11 @@
+{
+  "name": "rbf-lang",
+  "version": "0.2.2",
+  "summary": "Reversible BitFuck (RBF) interpreter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rbf_lang-0.2.2.tar.gz",
+  "download_time": "2025-09-24T08:29:10.155868",
+  "package_url": "https://pypi.org/project/rbf-lang/"
+}

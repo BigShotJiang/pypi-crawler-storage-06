@@ -1,0 +1,11 @@
+{
+  "name": "invenio-logging",
+  "version": "4.1.1",
+  "summary": "\"Module providing logging capabilities.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-logging",
+  "download_filename": "invenio_logging-4.1.1.tar.gz",
+  "download_time": "2025-09-24T08:29:42.197919",
+  "package_url": "https://pypi.org/project/invenio-logging/"
+}

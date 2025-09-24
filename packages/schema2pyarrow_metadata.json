@@ -1,0 +1,11 @@
+{
+  "name": "schema2pyarrow",
+  "version": "1.1.6",
+  "summary": "A schema converter for asyncapi to pyarrow and jsonschema to pyarrow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schema2pyarrow-1.1.6.tar.gz",
+  "download_time": "2025-09-24T08:29:34.706307",
+  "package_url": "https://pypi.org/project/schema2pyarrow/"
+}
