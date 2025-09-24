@@ -1,11 +1,11 @@
 {
   "name": "moduvent",
-  "version": "2.2",
+  "version": "3.1",
   "summary": "A lightweight, modular event system for Python applications with plugin architecture support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moduvent-2.2.tar.gz",
-  "download_time": "2025-09-23T11:53:40.341301",
+  "download_filename": "moduvent-3.1.tar.gz",
+  "download_time": "2025-09-24T06:53:07.633517",
   "package_url": "https://pypi.org/project/moduvent/"
 }

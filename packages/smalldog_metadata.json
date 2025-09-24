@@ -1,11 +1,11 @@
 {
   "name": "smalldog",
-  "version": "0.2539.1",
+  "version": "0.2539.3",
   "summary": "Testing field of evaluation for pre-release package (alpha)",
   "author": null,
   "license": "Other/Proprietary License",
   "home_page": null,
-  "download_filename": "smalldog-0.2539.1.tar.gz",
-  "download_time": "2025-09-23T03:48:56.210567",
+  "download_filename": "smalldog-0.2539.3.tar.gz",
+  "download_time": "2025-09-24T06:53:49.520423",
   "package_url": "https://pypi.org/project/smalldog/"
 }

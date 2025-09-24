@@ -1,0 +1,11 @@
+{
+  "name": "temporal-boost",
+  "version": "2.0.2",
+  "summary": "Small framework for Temporal development",
+  "author": "northpowered",
+  "license": "MIT",
+  "home_page": "https://github.com/northpowered/temporal-boost",
+  "download_filename": "temporal_boost-2.0.2.tar.gz",
+  "download_time": "2025-09-24T06:53:46.578419",
+  "package_url": "https://pypi.org/project/temporal-boost/"
+}

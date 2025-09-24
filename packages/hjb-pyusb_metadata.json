@@ -1,0 +1,11 @@
+{
+  "name": "hjb-pyusb",
+  "version": "1.1.1",
+  "summary": "Custom build of hjb_pyusb for linux_armv7l",
+  "author": "Wecon",
+  "license": null,
+  "home_page": "https://github.com/wecon/custom_packages",
+  "download_filename": "hjb_pyusb-1.1.1-cp313-cp313t-linux_armv7l.whl",
+  "download_time": "2025-09-24T06:53:31.480406",
+  "package_url": "https://pypi.org/project/hjb-pyusb/"
+}

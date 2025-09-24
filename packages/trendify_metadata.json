@@ -1,11 +1,11 @@
 {
   "name": "trendify",
-  "version": "1.2.7",
+  "version": "1.2.11",
   "summary": "Tools for generating data products, storing, and interacting with them",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trendify-1.2.7.tar.gz",
-  "download_time": "2025-09-23T08:49:10.442911",
+  "download_filename": "trendify-1.2.11.tar.gz",
+  "download_time": "2025-09-24T06:53:30.915695",
   "package_url": "https://pypi.org/project/trendify/"
 }

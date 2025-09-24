@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-whateat-pic",
+  "version": "1.5.7",
+  "summary": "基于Nonebot2的今天吃什么（离线版）",
+  "author": "Cvandia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_whateat_pic-1.5.7.tar.gz",
+  "download_time": "2025-09-24T06:53:47.186816",
+  "package_url": "https://pypi.org/project/nonebot-plugin-whateat-pic/"
+}

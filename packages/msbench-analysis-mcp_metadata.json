@@ -1,0 +1,11 @@
+{
+  "name": "msbench-analysis-mcp",
+  "version": "0.2.0",
+  "summary": "This tool is designed to analyze MSBench log zip file, automatically extract error information from nested logs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msbench_analysis_mcp-0.2.0.tar.gz",
+  "download_time": "2025-09-24T06:53:22.137000",
+  "package_url": "https://pypi.org/project/msbench-analysis-mcp/"
+}

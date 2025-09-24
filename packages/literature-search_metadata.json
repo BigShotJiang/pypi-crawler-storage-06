@@ -1,11 +1,11 @@
 {
   "name": "literature-search",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "This package search for literature on multiple databases and allow uses to filter them using PRISMA method",
   "author": null,
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "literature_search-0.0.2.tar.gz",
-  "download_time": "2025-09-22T04:57:52.850379",
+  "download_filename": "literature_search-0.0.3.tar.gz",
+  "download_time": "2025-09-24T06:53:40.539279",
   "package_url": "https://pypi.org/project/literature-search/"
 }

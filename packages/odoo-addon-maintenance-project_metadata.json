@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-maintenance-project",
+  "version": "18.0.1.1.0.2",
+  "summary": "Adds projects to maintenance equipments and requests",
+  "author": "Odoo Community Association (OCA), Solvos",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/maintenance",
+  "download_filename": "odoo_addon_maintenance_project-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-09-24T06:53:16.619310",
+  "package_url": "https://pypi.org/project/odoo-addon-maintenance-project/"
+}
