@@ -1,11 +1,11 @@
 {
   "name": "KeyisBTools",
-  "version": "0.0.0.0.13",
+  "version": "0.0.0.0.14",
   "summary": "KeyisBTools",
   "author": "KeyisB",
   "license": "MMB License v1.0",
   "home_page": "https://github.com/KeyisB/libs/tree/main/KeyisBTools",
-  "download_filename": "keyisbtools-0.0.0.0.13.tar.gz",
-  "download_time": "2025-09-24T17:21:34.999180",
+  "download_filename": "keyisbtools-0.0.0.0.14.tar.gz",
+  "download_time": "2025-09-24T19:53:37.440938",
   "package_url": "https://pypi.org/project/KeyisBTools/"
 }

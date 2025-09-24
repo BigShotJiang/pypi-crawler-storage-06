@@ -1,0 +1,11 @@
+{
+  "name": "andspace-jwt-auth",
+  "version": "1.2.1",
+  "summary": "Framework-agnostic JWT token validation library",
+  "author": "And",
+  "license": "MIT",
+  "home_page": "https://github.com/andspace/jwt-auth",
+  "download_filename": "andspace_jwt_auth-1.2.1.tar.gz",
+  "download_time": "2025-09-24T19:53:36.361376",
+  "package_url": "https://pypi.org/project/andspace-jwt-auth/"
+}
