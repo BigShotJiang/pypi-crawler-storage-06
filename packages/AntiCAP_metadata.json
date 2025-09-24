@@ -1,11 +1,11 @@
 {
   "name": "AntiCAP",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "summary": "AntiCAP",
   "author": "NewArk81",
   "license": null,
   "home_page": "https://github.com/81NewArk/AntiCAP",
-  "download_filename": "anticap-3.2.1.tar.gz",
-  "download_time": "2025-09-23T10:22:09.954664",
+  "download_filename": "anticap-3.2.2.tar.gz",
+  "download_time": "2025-09-24T15:55:22.243880",
   "package_url": "https://pypi.org/project/AntiCAP/"
 }

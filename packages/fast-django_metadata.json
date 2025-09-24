@@ -1,0 +1,11 @@
+{
+  "name": "fast-django",
+  "version": "0.1.4",
+  "summary": "Django-like developer experience on ASGI powered by FastAPI, Tortoise ORM, Aerich, and FastAPI-Admin.",
+  "author": "Aakar Sharma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_django-0.1.4.tar.gz",
+  "download_time": "2025-09-24T15:55:38.208640",
+  "package_url": "https://pypi.org/project/fast-django/"
+}

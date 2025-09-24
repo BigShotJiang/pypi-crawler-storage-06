@@ -1,0 +1,11 @@
+{
+  "name": "act-atmos",
+  "version": "2.2.3",
+  "summary": "Package for working with atmospheric time series datasets",
+  "author": "Adam Theisen",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/ARM-DOE/ACT",
+  "download_filename": "act_atmos-2.2.3-py3-none-any.whl",
+  "download_time": "2025-09-24T15:55:24.849443",
+  "package_url": "https://pypi.org/project/act-atmos/"
+}
