@@ -1,12 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T09:45:00.472643
-- **Total Packages**: 84
-- **Total Size**: 30.51 MB
+- **Download Time**: 2025-09-24T09:56:02.789663
+- **Total Packages**: 83
+- **Total Size**: 12.08 MB
 
 ## Packages List
+- leaguewizard
+- nvfuser-cu129
+- picterra
+- rlooper-sim-python
+- cgmes2pgm-suite
+- fractal-feature-explorer
+- oterogeneity
+- pyrit-sqlalchemy14
+- huggingface-hub
+- binance-sdk-convert
+- tap-mambu
+- tessdb-reports
+- python-cq
+- AOT-biomaps
+- tau-community-detection
+- gfa_ml
+- auth-gateway-serverkit
+- vkbottle-vkru
+- vkbottle-types-vkru
+- tiledb-vector-search
+- authentik-client
+- pesummary
+- pyplantsim
+- uniflow
+- nvidia-nat-llama-index
+- tencent-wedata-feature-engineering
+- nvidia-nat-s3
+- nvidia-nat
 - abstract-paths
+- nvidia-nat-all
+- asmu
+- nvidia-nat-weave
+- lambdatest-sdk-utils
+- nvidia-nat-mem0ai
+- LMMH
+- nvidia-nat-zep-cloud
+- hotpp-benchmark
+- nvidia-nat-mcp
+- hcdc
+- nvidia-nat-phoenix
+- face-enhancement-service
+- data-driven-test-input-generator
+- nvidia-nat-redis
+- cs.srcset
+- nvidia-nat-crewai
+- nvidia-nat-ingestion
+- uplang
+- nvidia-nat-test
+- nvidia-nat-mysql
+- nvidia-nat-semantic-kernel
+- LibGram
+- nvidia-nat-agno
+- cgmes2pgm-converter
+- nvidia-nat-opentelemetry
+- nvidia-nat-ragaai
 - red-tidegear
 - nvidia-nat-profiling
 - neops_remote_lab
@@ -16,8 +70,6 @@
 - quantag
 - aiqtoolkit-semantic-kernel
 - aiqtoolkit-weave
-- oterogeneity
-- rlooper-sim-python
 - assistant-stream
 - cleanote
 - aiqtoolkit-mem0ai
@@ -29,7 +81,6 @@
 - aiqtoolkit-llama-index
 - scse-toolkit
 - ultra-framework
-- tau-community-detection
 - aiqtoolkit
 - python-injection
 - aiqtoolkit-langchain
@@ -38,55 +89,3 @@
 - robotframework-databaselibrary
 - aiqtoolkit-agno
 - fastapi-scaff
-- wujing
-- mxcubecore
-- argo-metadata-validator
-- authentik-client
-- deepbridge
-- py4dgeo
-- TypeDAL
-- vital
-- django-oauth2-authcodeflow
-- karellen-llvm-toolchain-tools
-- tiscope
-- karellen-llvm-lldb
-- hhfactor
-- magic-api-mcp-server
-- rapida-python
-- ai-ebash
-- linkedin-spider
-- tencent-wedata-feature-engineering
-- zx-rpa
-- check-requirements-txt
-- xarray-eopf
-- sekoia-automation-sdk
-- tidy3d-mcp
-- pytest-mergify
-- trismik
-- connectonion
-- AbstractMemory
-- txt2stix
-- word-count-mcp
-- autotwin_gmglib
-- tiffeditor
-- GreenLight
-- finbourne-identity-sdk
-- seshatdatasetanalysis
-- blitzdb5
-- ostorlab
-- zeptomail-python-api
-- icat-plus-client
-- blog-uploader
-- process-gpt-agent-sdk
-- tessdb-reports
-- aoti
-- pygeogrids
-- harry-test-sdk-mamotion
-- deltalake2db
-- lima2-client
-- torchcnnbuilder
-- obi-notebook
-- snanpy
-- kabukit
-- v-magic-code-review
-- ssl-rsa-secure

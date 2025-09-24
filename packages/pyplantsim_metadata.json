@@ -1,11 +1,11 @@
 {
   "name": "pyplantsim",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "A Python wrapper for Siemens Tecnomatix Plant Simulation COM Interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyplantsim-0.4.2.tar.gz",
-  "download_time": "2025-09-24T07:54:04.973371",
+  "download_filename": "pyplantsim-0.4.3.tar.gz",
+  "download_time": "2025-09-24T09:55:30.905089",
   "package_url": "https://pypi.org/project/pyplantsim/"
 }

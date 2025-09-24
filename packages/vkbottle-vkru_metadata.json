@@ -1,11 +1,11 @@
 {
   "name": "vkbottle-vkru",
-  "version": "4.3.12.1",
+  "version": "4.3.12.2",
   "summary": "Homogenic! Customizable asynchronous VK API framework implementing comfort and speed",
   "author": "timoniq",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vkbottle_vkru-4.3.12.1.tar.gz",
-  "download_time": "2025-09-24T07:21:30.098598",
+  "download_filename": "vkbottle_vkru-4.3.12.2.tar.gz",
+  "download_time": "2025-09-24T09:55:27.418659",
   "package_url": "https://pypi.org/project/vkbottle-vkru/"
 }

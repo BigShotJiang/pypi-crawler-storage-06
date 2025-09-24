@@ -1,11 +1,11 @@
 {
   "name": "python-cq",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Lightweight CQRS library for async Python projects.",
   "author": "remimd",
   "license": null,
   "home_page": null,
-  "download_filename": "python_cq-0.7.3.tar.gz",
-  "download_time": "2025-09-23T11:43:21.091453",
+  "download_filename": "python_cq-0.7.4.tar.gz",
+  "download_time": "2025-09-24T09:55:24.526531",
   "package_url": "https://pypi.org/project/python-cq/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fractal-feature-explorer",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A Dashboard for exploring features in OME-Zarr datasets.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "fractal_feature_explorer-0.1.11.tar.gz",
-  "download_time": "2025-09-23T07:53:05.749438",
+  "download_filename": "fractal_feature_explorer-0.1.12.tar.gz",
+  "download_time": "2025-09-24T09:55:20.035700",
   "package_url": "https://pypi.org/project/fractal-feature-explorer/"
 }

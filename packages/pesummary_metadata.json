@@ -1,0 +1,11 @@
+{
+  "name": "pesummary",
+  "version": "1.5.3",
+  "summary": "Python package to produce summary pages for Parameter estimation codes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pesummary-1.5.3.tar.gz",
+  "download_time": "2025-09-24T09:55:30.333294",
+  "package_url": "https://pypi.org/project/pesummary/"
+}
