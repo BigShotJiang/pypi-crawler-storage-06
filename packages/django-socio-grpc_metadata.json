@@ -1,0 +1,11 @@
+{
+  "name": "django-socio-grpc",
+  "version": "0.25.0",
+  "summary": "Fork of django-grpc-framework with more feature maintained by the socio team. Make GRPC with django easy.",
+  "author": "Adrien Montagu ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_socio_grpc-0.25.0.tar.gz",
+  "download_time": "2025-09-24T19:33:45.328051",
+  "package_url": "https://pypi.org/project/django-socio-grpc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "umrx-app-v3",
+  "version": "1.8.0",
+  "summary": "Communication with COINES firmware for humans",
+  "author": "Konstantin Selyunin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umrx_app_v3-1.8.0.tar.gz",
+  "download_time": "2025-09-24T19:33:29.819916",
+  "package_url": "https://pypi.org/project/umrx-app-v3/"
+}

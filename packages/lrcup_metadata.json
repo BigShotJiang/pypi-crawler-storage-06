@@ -1,0 +1,11 @@
+{
+  "name": "lrcup",
+  "version": "0.10.2",
+  "summary": "Python module and CLI for the LRCLIB API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lrcup-0.10.2.tar.gz",
+  "download_time": "2025-09-24T19:33:49.995405",
+  "package_url": "https://pypi.org/project/lrcup/"
+}

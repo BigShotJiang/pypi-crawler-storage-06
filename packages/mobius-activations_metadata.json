@@ -1,0 +1,11 @@
+{
+  "name": "mobius-activations",
+  "version": "0.3.0",
+  "summary": "A  3D activation function for PyTorch and TensorFlow with geometric and quantum-like properties.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mobius_activations-0.3.0.tar.gz",
+  "download_time": "2025-09-24T19:33:03.262418",
+  "package_url": "https://pypi.org/project/mobius-activations/"
+}

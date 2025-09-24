@@ -1,11 +1,11 @@
 {
   "name": "dococtopy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A language-agnostic docstyle compliance & remediation tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dococtopy-0.2.0.tar.gz",
-  "download_time": "2025-09-24T17:44:02.874320",
+  "download_filename": "dococtopy-0.2.1.tar.gz",
+  "download_time": "2025-09-24T19:33:38.131345",
   "package_url": "https://pypi.org/project/dococtopy/"
 }
