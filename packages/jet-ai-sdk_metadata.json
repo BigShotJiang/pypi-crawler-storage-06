@@ -1,11 +1,11 @@
 {
   "name": "jet-ai-sdk",
-  "version": "0.1.0",
-  "summary": "Jet: Production fine-tuning SDK with Unsloth/HF engines and vLLM serving",
+  "version": "0.2.0",
+  "summary": "Jet: Production fine-tuning SDK with Unsloth/HF engines, vLLM serving, and REST API",
   "author": "Jet Team",
   "license": null,
   "home_page": null,
-  "download_filename": "jet_ai_sdk-0.1.0.tar.gz",
-  "download_time": "2025-09-22T05:20:57.730142",
+  "download_filename": "jet_ai_sdk-0.2.0.tar.gz",
+  "download_time": "2025-09-24T23:54:10.951349",
   "package_url": "https://pypi.org/project/jet-ai-sdk/"
 }

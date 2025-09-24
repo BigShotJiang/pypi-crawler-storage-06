@@ -1,0 +1,11 @@
+{
+  "name": "dsf-label-sdk",
+  "version": "1.0.0",
+  "summary": "Accelerate AI development with programmatic data labeling and weak supervision.",
+  "author": "Jaime Jimenez",
+  "license": "MIT",
+  "home_page": "https://github.com/jaimeajl/dsf_label",
+  "download_filename": "dsf_label_sdk-1.0.0-py3-none-any.whl",
+  "download_time": "2025-09-24T23:54:08.233431",
+  "package_url": "https://pypi.org/project/dsf-label-sdk/"
+}

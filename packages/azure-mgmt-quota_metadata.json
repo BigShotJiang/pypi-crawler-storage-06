@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-quota",
+  "version": "3.0.0",
+  "summary": "Microsoft Azure Quota Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_quota-3.0.0.tar.gz",
+  "download_time": "2025-09-24T23:54:19.969177",
+  "package_url": "https://pypi.org/project/azure-mgmt-quota/"
+}

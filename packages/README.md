@@ -1,14 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T23:40:37.203418
-- **Total Packages**: 77
-- **Total Size**: 5.05 MB
+- **Download Time**: 2025-09-24T23:54:51.357262
+- **Total Packages**: 81
+- **Total Size**: 18.64 MB
 
 ## Packages List
+- cogames
+- robotframework-dashboard
+- dsf-label-sdk
+- minimcp
+- bsbt
+- sleipnirgroup-jormungandr
+- Qmorse
+- jet-ai-sdk
+- pydevhelper
+- reflex-agent
+- helios-ml
+- pyvex
+- cle
+- claripy
+- archinfo
+- angr-management
+- angr
+- nexios
+- biomechzoo
+- ag2-persona
+- openai_stt
+- aicodetools
+- lazyimp
+- tts-webui-extension.vox-cpm
+- azure-mgmt-quota
+- dea-intertidal
+- parallm
 - tob
 - argos3
-- bsbt
 - fairchem-core
 - stac-mcp
 - chord-progression-network
@@ -61,25 +87,3 @@
 - cdxcore
 - grafi
 - opik-optimizer
-- chaturbate-events
-- pywr
-- perplexityai
-- torram
-- metrics-computation-engine
-- directive
-- dj-apis-allauth
-- PCILeechFWGenerator
-- pybedlite
-- tracapp
-- dttlib
-- figpack
-- MAVez
-- lazyimp
-- OctopuSV
-- ntmemoryapi
-- authentik-client
-- aioesphomeapi
-- airbyte
-- supertable
-- teds
-- testcontainers

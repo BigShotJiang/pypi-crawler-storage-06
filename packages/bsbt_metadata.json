@@ -1,11 +1,11 @@
 {
   "name": "bsbt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "BSBT: Binding Sequence Benchmarking Tool - A Python package for benchmarking protein language models and predicting antibody-antigen binding.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bsbt-0.1.1.tar.gz",
-  "download_time": "2025-09-24T23:39:55.314161",
+  "download_filename": "bsbt-0.1.2.tar.gz",
+  "download_time": "2025-09-24T23:54:09.283065",
   "package_url": "https://pypi.org/project/bsbt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openai_stt",
+  "version": "0.1.5",
+  "summary": "Speech-to-Text tool using Whisper, PyAudio, and VAD.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openai_stt-0.1.5.tar.gz",
+  "download_time": "2025-09-24T23:54:17.882028",
+  "package_url": "https://pypi.org/project/openai_stt/"
+}

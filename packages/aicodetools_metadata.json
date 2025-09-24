@@ -1,11 +1,11 @@
 {
   "name": "aicodetools",
-  "version": "2.0.31",
+  "version": "2.0.33",
   "summary": "Simple, lightweight AI code tools with Docker-only support - no complex dependencies",
   "author": "balajidinesh",
   "license": "MIT",
   "home_page": "https://github.com/balajidinesh/aicodetools",
-  "download_filename": "aicodetools-2.0.31.tar.gz",
-  "download_time": "2025-09-24T11:54:00.055082",
+  "download_filename": "aicodetools-2.0.33.tar.gz",
+  "download_time": "2025-09-24T23:54:18.404855",
   "package_url": "https://pypi.org/project/aicodetools/"
 }
