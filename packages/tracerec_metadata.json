@@ -1,11 +1,11 @@
 {
   "name": "tracerec",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Python package for the creation of recommendation systems based on user traces.",
   "author": "Alex Martínez",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tracerec-0.4.2.tar.gz",
-  "download_time": "2025-09-23T09:22:21.264732",
+  "download_filename": "tracerec-0.4.4.tar.gz",
+  "download_time": "2025-09-24T06:33:42.668192",
   "package_url": "https://pypi.org/project/tracerec/"
 }

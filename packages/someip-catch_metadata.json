@@ -1,0 +1,11 @@
+{
+  "name": "someip-catch",
+  "version": "1.0.0",
+  "summary": "SOME/IP协议捕获和分析工具包",
+  "author": "SOME/IP Catch Framework",
+  "license": null,
+  "home_page": "https://github.com/yourusername/someip-catch",
+  "download_filename": "someip_catch-1.0.0.tar.gz",
+  "download_time": "2025-09-24T06:34:02.551144",
+  "package_url": "https://pypi.org/project/someip-catch/"
+}

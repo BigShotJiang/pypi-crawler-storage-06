@@ -1,11 +1,11 @@
 {
   "name": "passagemath-polyhedra",
-  "version": "10.6.26",
+  "version": "10.6.28",
   "summary": "passagemath: Convex polyhedra in arbitrary dimension, mixed integer linear optimization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_polyhedra-10.6.26-cp310-cp310-macosx_14_0_arm64.whl",
-  "download_time": "2025-09-21T11:15:06.077369",
+  "download_filename": "passagemath_polyhedra-10.6.28.tar.gz",
+  "download_time": "2025-09-24T06:33:51.389157",
   "package_url": "https://pypi.org/project/passagemath-polyhedra/"
 }

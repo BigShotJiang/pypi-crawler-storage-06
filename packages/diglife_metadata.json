@@ -1,11 +1,11 @@
 {
   "name": "diglife",
-  "version": "0.1.12",
+  "version": "0.1.14",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diglife-0.1.12.tar.gz",
-  "download_time": "2025-09-23T10:22:00.518020",
+  "download_filename": "diglife-0.1.14.tar.gz",
+  "download_time": "2025-09-24T06:33:21.121557",
   "package_url": "https://pypi.org/project/diglife/"
 }
