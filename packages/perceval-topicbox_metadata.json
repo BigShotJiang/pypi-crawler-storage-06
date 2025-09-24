@@ -1,11 +1,11 @@
 {
   "name": "perceval-topicbox",
-  "version": "0.1.24",
+  "version": "0.2.0",
   "summary": "Perceval backend for Topicbox",
   "author": "Bitergia Developers",
   "license": "GPL-3.0+",
   "home_page": "https://chaoss.github.io/grimoirelab/",
-  "download_filename": "perceval_topicbox-0.1.24.tar.gz",
-  "download_time": "2025-09-19T11:17:34.950211",
+  "download_filename": "perceval_topicbox-0.2.0.tar.gz",
+  "download_time": "2025-09-24T13:47:45.659140",
   "package_url": "https://pypi.org/project/perceval-topicbox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "astrapy",
+  "version": "2.1.0",
+  "summary": "A Python client for the Data API on DataStax Astra DB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrapy-2.1.0.tar.gz",
+  "download_time": "2025-09-24T13:47:54.015080",
+  "package_url": "https://pypi.org/project/astrapy/"
+}

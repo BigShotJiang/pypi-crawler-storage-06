@@ -1,11 +1,11 @@
 {
   "name": "standard-agent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A simple, modular library for building AI agents—with a composable core and plug‑in components.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "standard_agent-0.1.4.tar.gz",
-  "download_time": "2025-09-18T13:44:27.863662",
+  "download_filename": "standard_agent-0.1.5.tar.gz",
+  "download_time": "2025-09-24T13:47:41.734275",
   "package_url": "https://pypi.org/project/standard-agent/"
 }

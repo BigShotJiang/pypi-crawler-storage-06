@@ -1,0 +1,11 @@
+{
+  "name": "gluesql",
+  "version": "0.18.0",
+  "summary": "GlueSQL is quite sticky. It attaches to anywhere.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gluesql-0.18.0.tar.gz",
+  "download_time": "2025-09-24T13:48:13.475779",
+  "package_url": "https://pypi.org/project/gluesql/"
+}

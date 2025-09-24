@@ -1,0 +1,11 @@
+{
+  "name": "exasol-transformers-extension",
+  "version": "2.3.0",
+  "summary": "An Exasol extension for using state-of-the-art pretrained machine learning models via the Hugging Face Transformers API.",
+  "author": "Umit Buyuksahin",
+  "license": null,
+  "home_page": "https://github.com/exasol/transformers-extension",
+  "download_filename": "exasol_transformers_extension-2.3.0.tar.gz",
+  "download_time": "2025-09-24T13:48:14.021284",
+  "package_url": "https://pypi.org/project/exasol-transformers-extension/"
+}

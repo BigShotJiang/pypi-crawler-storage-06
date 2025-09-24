@@ -1,0 +1,11 @@
+{
+  "name": "kizamu-manga",
+  "version": "1.0.1",
+  "summary": "CLI to search and download manga chapters -> exported to CBZ.",
+  "author": null,
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 CoceraCia\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction, including without limitation the rights \r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell \r\n        copies of the Software, and to permit persons to whom the Software is \r\n        furnished to do so, subject to the following conditions:\r\n        \r\n        The above copyright notice and this permission notice shall be included in all \r\n        copies or substantial portions of the Software.\r\n        \r\n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR \r\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, \r\n        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE \r\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER \r\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, \r\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE \r\n        SOFTWARE.\r\n        \r\n        ----------------------------------------\r\n        DISCLAIMER:\r\n        This project has been created for educational and learning purposes only.\r\n        The author is not responsible for the use that third parties may make of this software.\r\n        It does not encourage or promote the download or distribution of copyrighted material.\r\n        ",
+  "home_page": null,
+  "download_filename": "kizamu_manga-1.0.1.tar.gz",
+  "download_time": "2025-09-24T13:48:15.765889",
+  "package_url": "https://pypi.org/project/kizamu-manga/"
+}
