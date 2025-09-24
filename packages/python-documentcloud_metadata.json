@@ -1,0 +1,11 @@
+{
+  "name": "python-documentcloud",
+  "version": "4.5.0",
+  "summary": "A simple Python wrapper for the DocumentCloud API",
+  "author": "Mitchell Kotler",
+  "license": "MIT",
+  "home_page": "https://github.com/muckrock/python-documentcloud",
+  "download_filename": "python_documentcloud-4.5.0.tar.gz",
+  "download_time": "2025-09-24T16:29:12.024137",
+  "package_url": "https://pypi.org/project/python-documentcloud/"
+}

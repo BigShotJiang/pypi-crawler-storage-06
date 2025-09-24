@@ -1,0 +1,11 @@
+{
+  "name": "pfagd",
+  "version": "0.1.0",
+  "summary": "Python for Android Game Development - Cross-platform game framework",
+  "author": "PFAGD Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/pfagd/pfagd",
+  "download_filename": "pfagd-0.1.0.tar.gz",
+  "download_time": "2025-09-24T16:29:06.959564",
+  "package_url": "https://pypi.org/project/pfagd/"
+}

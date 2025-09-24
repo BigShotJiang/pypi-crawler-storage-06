@@ -1,0 +1,11 @@
+{
+  "name": "nomenclature-iamc",
+  "version": "0.27.0",
+  "summary": "Package for managing codelists & attributes for IAMC-format datasets",
+  "author": "Scenario Services team, ECE program, IIASA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomenclature_iamc-0.27.0.tar.gz",
+  "download_time": "2025-09-24T16:29:52.677140",
+  "package_url": "https://pypi.org/project/nomenclature-iamc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mediaComp",
-  "version": "0.3.7",
+  "version": "0.4.1",
   "summary": "A multimedia processing library for Python 3.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mediacomp-0.3.7.tar.gz",
-  "download_time": "2025-09-24T14:20:13.016842",
+  "download_filename": "mediacomp-0.4.1.tar.gz",
+  "download_time": "2025-09-24T16:29:18.916294",
   "package_url": "https://pypi.org/project/mediaComp/"
 }

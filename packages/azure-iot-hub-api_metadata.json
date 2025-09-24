@@ -1,0 +1,11 @@
+{
+  "name": "azure-iot-hub-api",
+  "version": "0.2.2",
+  "summary": "Azure iot hub api with azure cli backend",
+  "author": "R.E",
+  "license": "GNU",
+  "home_page": "https://github.com/birddevelper/azure-iot-hub-api",
+  "download_filename": "azure_iot_hub_api-0.2.2.tar.gz",
+  "download_time": "2025-09-24T16:29:49.124609",
+  "package_url": "https://pypi.org/project/azure-iot-hub-api/"
+}

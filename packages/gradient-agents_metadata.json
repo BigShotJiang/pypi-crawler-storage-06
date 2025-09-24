@@ -1,11 +1,11 @@
 {
   "name": "gradient-agents",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Unified Gradient Agent SDK + CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradient_agents-0.1.4.tar.gz",
-  "download_time": "2025-09-24T13:58:18.894453",
+  "download_filename": "gradient_agents-0.1.8.tar.gz",
+  "download_time": "2025-09-24T16:29:32.199498",
   "package_url": "https://pypi.org/project/gradient-agents/"
 }
