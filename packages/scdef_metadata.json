@@ -1,11 +1,11 @@
 {
   "name": "scdef",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Extract hierarchical signatures of cell state from single-cell data.",
   "author": "pedrofale",
   "license": "MIT",
   "home_page": "https://github.com/cbg-ethz/scdef",
-  "download_filename": "scdef-0.3.1.tar.gz",
-  "download_time": "2025-09-19T14:19:14.101861",
+  "download_filename": "scdef-0.3.2.tar.gz",
+  "download_time": "2025-09-24T10:23:05.794896",
   "package_url": "https://pypi.org/project/scdef/"
 }

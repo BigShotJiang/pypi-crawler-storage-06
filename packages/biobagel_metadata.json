@@ -1,11 +1,11 @@
 {
   "name": "biobagel",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Protein Engineering via Exploration of an Energy Landscape",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "biobagel-0.1.6-py3-none-any.whl",
-  "download_time": "2025-09-22T13:20:21.233875",
+  "download_filename": "biobagel-0.1.7-py3-none-any.whl",
+  "download_time": "2025-09-24T10:23:20.431025",
   "package_url": "https://pypi.org/project/biobagel/"
 }

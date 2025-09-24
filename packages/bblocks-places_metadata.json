@@ -1,0 +1,11 @@
+{
+  "name": "bblocks-places",
+  "version": "0.0.4",
+  "summary": "Resolve and standardize places and work with political and geographic groupings",
+  "author": "ONE Campaign",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bblocks_places-0.0.4.tar.gz",
+  "download_time": "2025-09-24T10:23:00.609122",
+  "package_url": "https://pypi.org/project/bblocks-places/"
+}

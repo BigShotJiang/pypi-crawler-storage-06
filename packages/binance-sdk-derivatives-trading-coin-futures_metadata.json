@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-derivatives-trading-coin-futures",
+  "version": "2.4.0",
+  "summary": "Official Binance Derivatives Trading Coin Futures SDK - A lightweight library that provides a convenient interface to Binance's DerivativesTradingCoinFutures REST API, WebSocket API and WebSocket Streams.",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_derivatives_trading_coin_futures-2.4.0.tar.gz",
+  "download_time": "2025-09-24T10:22:59.050179",
+  "package_url": "https://pypi.org/project/binance-sdk-derivatives-trading-coin-futures/"
+}

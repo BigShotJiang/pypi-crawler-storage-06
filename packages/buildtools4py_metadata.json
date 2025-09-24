@@ -1,11 +1,11 @@
 {
   "name": "buildtools4py",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "python wrapper for (some) Android build-tools",
   "author": "Michael Pöhn",
   "license": "Apache-2.0",
   "home_page": "https://codeberg.org/uniqx/buildtools4py",
-  "download_filename": "buildtools4py-0.1.5.tar.gz",
-  "download_time": "2025-09-18T21:18:37.917196",
+  "download_filename": "buildtools4py-0.1.6.tar.gz",
+  "download_time": "2025-09-24T10:23:22.508426",
   "package_url": "https://pypi.org/project/buildtools4py/"
 }
