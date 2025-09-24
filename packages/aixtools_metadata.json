@@ -1,11 +1,11 @@
 {
   "name": "aixtools",
-  "version": "0.1.8.post1",
+  "version": "0.1.9",
   "summary": "Tools for AI exploration and debugging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aixtools-0.1.8.post1.tar.gz",
-  "download_time": "2025-09-23T11:30:53.722813",
+  "download_filename": "aixtools-0.1.9.tar.gz",
+  "download_time": "2025-09-24T12:42:12.983786",
   "package_url": "https://pypi.org/project/aixtools/"
 }

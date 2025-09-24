@@ -1,0 +1,11 @@
+{
+  "name": "aspect-sdk",
+  "version": "0.0.2",
+  "summary": "Python SDK for Aspect Media Engine API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aspect_sdk-0.0.2.tar.gz",
+  "download_time": "2025-09-24T12:42:22.460272",
+  "package_url": "https://pypi.org/project/aspect-sdk/"
+}

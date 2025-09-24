@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloude",
+  "version": "2.13.37",
+  "summary": "阿里云Python SDK v2",
+  "author": "Alibaba Cloud",
+  "license": null,
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk-v2",
+  "download_filename": "alibabacloude-2.13.37.tar.gz",
+  "download_time": "2025-09-24T12:42:01.328792",
+  "package_url": "https://pypi.org/project/alibabacloude/"
+}

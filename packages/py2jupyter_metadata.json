@@ -1,11 +1,11 @@
 {
   "name": "py2jupyter",
-  "version": "0.3",
+  "version": "0.4",
   "summary": "Конвертер Python ↔ Jupyter Notebook",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py2jupyter-0.3.tar.gz",
-  "download_time": "2025-09-24T11:40:49.478379",
+  "download_filename": "py2jupyter-0.4.tar.gz",
+  "download_time": "2025-09-24T12:42:01.848501",
   "package_url": "https://pypi.org/project/py2jupyter/"
 }

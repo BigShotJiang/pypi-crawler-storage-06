@@ -1,11 +1,11 @@
 {
   "name": "bhumi",
-  "version": "0.4.21",
+  "version": "0.4.81",
   "summary": "High performance LLM client",
-  "author": "Your Name <your.email@example.com>",
-  "license": "MIT OR Apache-2.0",
-  "home_page": "https://github.com/yourusername/bhumi",
-  "download_filename": "bhumi-0.4.21.tar.gz",
-  "download_time": "2025-09-23T02:44:56.781394",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/justrach/bhumi",
+  "download_filename": "bhumi-0.4.81.tar.gz",
+  "download_time": "2025-09-24T12:42:28.159806",
   "package_url": "https://pypi.org/project/bhumi/"
 }

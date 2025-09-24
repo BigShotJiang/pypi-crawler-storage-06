@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-assistant",
+  "version": "0.1.5",
+  "summary": "An MLflow plugin that enables natural language conversations with your MLflow server using LLM providers like OpenAI and Ollama.",
+  "author": "Hugo Carvalho",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mlflow_assistant-0.1.5.tar.gz",
+  "download_time": "2025-09-24T12:42:21.937152",
+  "package_url": "https://pypi.org/project/mlflow-assistant/"
+}

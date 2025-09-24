@@ -1,0 +1,11 @@
+{
+  "name": "ogstools",
+  "version": "0.7.1",
+  "summary": "A collection of Python tools aimed at evolving into a modeling toolchain around OpenGeoSys.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ogstools-0.7.1.tar.gz",
+  "download_time": "2025-09-24T12:41:53.947084",
+  "package_url": "https://pypi.org/project/ogstools/"
+}

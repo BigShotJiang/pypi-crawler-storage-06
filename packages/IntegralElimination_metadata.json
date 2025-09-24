@@ -1,0 +1,11 @@
+{
+  "name": "IntegralElimination",
+  "version": "0.2.7",
+  "summary": "Algorithm for performing integral elimination for nonlinear integral equations",
+  "author": "Louis ROUSSEL",
+  "license": null,
+  "home_page": "https://codeberg.org/louis-roussel/IntegralElimination",
+  "download_filename": "integralelimination-0.2.7.tar.gz",
+  "download_time": "2025-09-24T12:41:59.706521",
+  "package_url": "https://pypi.org/project/IntegralElimination/"
+}

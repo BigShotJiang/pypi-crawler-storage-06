@@ -1,11 +1,11 @@
 {
   "name": "synthetic-face-masks",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "summary": "A Python library for generating synthetic face mask datasets by mixing facial regions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "synthetic_face_masks-0.0.2.tar.gz",
-  "download_time": "2025-09-24T02:48:21.073143",
+  "download_filename": "synthetic_face_masks-1.0.0.tar.gz",
+  "download_time": "2025-09-24T12:41:59.188395",
   "package_url": "https://pypi.org/project/synthetic-face-masks/"
 }

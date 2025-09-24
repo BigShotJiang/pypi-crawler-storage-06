@@ -1,0 +1,11 @@
+{
+  "name": "nseekfs",
+  "version": "1.0.4",
+  "summary": "High-performance exact vector similarity search with Rust backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nseekfs-1.0.4.tar.gz",
+  "download_time": "2025-09-24T12:41:51.696908",
+  "package_url": "https://pypi.org/project/nseekfs/"
+}

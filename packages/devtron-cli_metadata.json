@@ -1,11 +1,11 @@
 {
   "name": "devtron-cli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Automated infrastructure and application management tool for Devtron",
   "author": "Devtron Devops",
   "license": null,
   "home_page": "https://github.com/devtron-labs/tron-cli",
-  "download_filename": "devtron_cli-0.1.5.tar.gz",
-  "download_time": "2025-09-19T10:43:20.720887",
+  "download_filename": "devtron_cli-0.1.6.tar.gz",
+  "download_time": "2025-09-24T12:42:24.538584",
   "package_url": "https://pypi.org/project/devtron-cli/"
 }
