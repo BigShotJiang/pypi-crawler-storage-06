@@ -1,0 +1,11 @@
+{
+  "name": "sonusai-asr-faster-whisper",
+  "version": "0.2.0",
+  "summary": "Faster-whisper ASR tools for SonusAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sonusai_asr_faster_whisper-0.2.0-py3-none-any.whl",
+  "download_time": "2025-09-24T18:49:18.115119",
+  "package_url": "https://pypi.org/project/sonusai-asr-faster-whisper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "meenpy",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "meenpy is a library of utilities for mechanical engineering problem solving.",
   "author": "Caleb Fowler",
   "license": null,
   "home_page": null,
-  "download_filename": "meenpy-0.1.0.tar.gz",
-  "download_time": "2025-09-23T03:24:08.887837",
+  "download_filename": "meenpy-0.1.2.tar.gz",
+  "download_time": "2025-09-24T18:49:47.433767",
   "package_url": "https://pypi.org/project/meenpy/"
 }

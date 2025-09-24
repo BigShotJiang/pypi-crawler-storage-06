@@ -1,0 +1,11 @@
+{
+  "name": "lovelang",
+  "version": "0.1.0",
+  "summary": "LoveLang - A Hinglish-based programming language",
+  "author": "Gourahari",
+  "license": "MIT",
+  "home_page": "https://github.com/CodeGoura/lovelang",
+  "download_filename": "lovelang-0.1.0.tar.gz",
+  "download_time": "2025-09-24T18:49:08.121032",
+  "package_url": "https://pypi.org/project/lovelang/"
+}

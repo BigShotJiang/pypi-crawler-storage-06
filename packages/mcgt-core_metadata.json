@@ -1,11 +1,11 @@
 {
   "name": "mcgt-core",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcgt_core-0.2.11.tar.gz",
-  "download_time": "2025-09-24T17:43:43.990484",
+  "download_filename": "mcgt_core-0.2.13.tar.gz",
+  "download_time": "2025-09-24T18:49:35.624883",
   "package_url": "https://pypi.org/project/mcgt-core/"
 }

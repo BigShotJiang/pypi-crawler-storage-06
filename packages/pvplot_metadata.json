@@ -1,0 +1,11 @@
+{
+  "name": "pvplot",
+  "version": "1.6.4",
+  "summary": "Plotting tool for EPICS PVs, ADO and LITE parameters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pvplot-1.6.4.tar.gz",
+  "download_time": "2025-09-24T18:49:49.061688",
+  "package_url": "https://pypi.org/project/pvplot/"
+}

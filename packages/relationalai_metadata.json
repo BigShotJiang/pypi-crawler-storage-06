@@ -1,11 +1,11 @@
 {
   "name": "relationalai",
-  "version": "0.9.17",
+  "version": "0.9.18",
   "summary": "RelationalAI Library and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "relationalai-0.9.17.tar.gz",
-  "download_time": "2025-09-23T09:22:36.872500",
+  "download_filename": "relationalai-0.9.18.tar.gz",
+  "download_time": "2025-09-24T18:49:29.277752",
   "package_url": "https://pypi.org/project/relationalai/"
 }

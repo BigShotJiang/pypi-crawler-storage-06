@@ -1,0 +1,11 @@
+{
+  "name": "naif-pds4-bundler",
+  "version": "1.7.0",
+  "summary": "NAIF PDS4 Bundler (naif-pds4-bundler) is a software package that generates a PDS4 SPICE archives.",
+  "author": "Marc Costa Sitja, Alyssa M Bailey (NAIF/JPL)",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/NASA-PDS/naif-pds4-bundler",
+  "download_filename": "naif_pds4_bundler-1.7.0-py3-none-any.whl",
+  "download_time": "2025-09-24T18:49:26.122039",
+  "package_url": "https://pypi.org/project/naif-pds4-bundler/"
+}

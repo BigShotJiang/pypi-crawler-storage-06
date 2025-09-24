@@ -1,11 +1,11 @@
 {
   "name": "arcade-microsoft-teams",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Arcade.dev LLM tools for Microsoft Teams",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arcade_microsoft_teams-0.3.1-py3-none-any.whl",
-  "download_time": "2025-09-22T18:27:56.806821",
+  "download_filename": "arcade_microsoft_teams-0.4.0-py3-none-any.whl",
+  "download_time": "2025-09-24T18:49:05.509209",
   "package_url": "https://pypi.org/project/arcade-microsoft-teams/"
 }

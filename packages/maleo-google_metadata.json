@@ -1,11 +1,11 @@
 {
   "name": "maleo-google",
-  "version": "0.0.38",
+  "version": "0.0.41",
   "summary": "Google package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_google-0.0.38.tar.gz",
-  "download_time": "2025-09-24T08:51:37.433139",
+  "download_filename": "maleo_google-0.0.41.tar.gz",
+  "download_time": "2025-09-24T18:49:33.999055",
   "package_url": "https://pypi.org/project/maleo-google/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "HamoodSquareRoot",
+  "version": "0.1.0",
+  "summary": "Calculate the square root of a number",
+  "author": "Hamood Ali Albukhaiti",
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Hamood Ali Albukhaiti\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction, including without limitation the rights\r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\n        copies of the Software, and to permit persons to whom the Software is\r\n        furnished to do so, subject to the following conditions:\r\n        \r\n        [...]\r\n        ",
+  "home_page": null,
+  "download_filename": "hamoodsquareroot-0.1.0.tar.gz",
+  "download_time": "2025-09-24T18:49:43.145740",
+  "package_url": "https://pypi.org/project/HamoodSquareRoot/"
+}

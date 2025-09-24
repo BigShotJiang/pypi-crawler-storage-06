@@ -1,11 +1,11 @@
 {
   "name": "neofin-toolbox",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "summary": "Pacote utilitário do Neofin",
   "author": "Neofin",
   "license": null,
   "home_page": null,
-  "download_filename": "neofin_toolbox-1.0.7.tar.gz",
-  "download_time": "2025-09-24T17:55:40.159681",
+  "download_filename": "neofin_toolbox-1.0.10.tar.gz",
+  "download_time": "2025-09-24T18:49:26.654463",
   "package_url": "https://pypi.org/project/neofin-toolbox/"
 }
