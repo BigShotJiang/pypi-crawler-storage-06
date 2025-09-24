@@ -1,11 +1,11 @@
 {
   "name": "quick-pp",
-  "version": "0.2.51",
+  "version": "0.2.53",
   "summary": "Python package to assist in providing quick-look/ preliminary petrophysical estimation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quick_pp-0.2.51.tar.gz",
-  "download_time": "2025-09-21T10:40:36.797225",
+  "download_filename": "quick_pp-0.2.53.tar.gz",
+  "download_time": "2025-09-24T10:45:32.529742",
   "package_url": "https://pypi.org/project/quick-pp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "video-representations-extractor",
+  "version": "1.14.0",
+  "summary": "Video Representations Extractor (VRE) for computing algorithmic or neural representations of each frame.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://gitlab.com/video-representations-extractor/video-representations-extractor",
+  "download_filename": "video_representations_extractor-1.14.0.tar.gz",
+  "download_time": "2025-09-24T10:45:45.659697",
+  "package_url": "https://pypi.org/project/video-representations-extractor/"
+}

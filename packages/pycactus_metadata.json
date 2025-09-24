@@ -1,0 +1,11 @@
+{
+  "name": "pycactus",
+  "version": "0.3.0",
+  "summary": "Adapter to run an Azure Function Application with a WSGI Web Server.",
+  "author": "Claudjos",
+  "license": null,
+  "home_page": "https://github.com/Claudjos/cactus",
+  "download_filename": "pycactus-0.3.0.tar.gz",
+  "download_time": "2025-09-24T10:45:52.475497",
+  "package_url": "https://pypi.org/project/pycactus/"
+}

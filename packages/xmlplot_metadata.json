@@ -1,0 +1,11 @@
+{
+  "name": "xmlplot",
+  "version": "0.9.30",
+  "summary": "Python package for coordinate-aware data reading and plotting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmlplot-0.9.30.tar.gz",
+  "download_time": "2025-09-24T10:45:36.781980",
+  "package_url": "https://pypi.org/project/xmlplot/"
+}

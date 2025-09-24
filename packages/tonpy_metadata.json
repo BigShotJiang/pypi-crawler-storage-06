@@ -1,0 +1,11 @@
+{
+  "name": "tonpy",
+  "version": "0.0.0.1.4rc0",
+  "summary": "Types / API for TON blockchain",
+  "author": "Disintar LLP",
+  "license": null,
+  "home_page": "https://github.com/disintar/tonpy",
+  "download_filename": "tonpy-0.0.0.1.4rc0-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-09-24T10:45:36.262980",
+  "package_url": "https://pypi.org/project/tonpy/"
+}

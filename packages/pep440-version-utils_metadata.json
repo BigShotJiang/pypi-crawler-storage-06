@@ -1,0 +1,11 @@
+{
+  "name": "pep440-version-utils",
+  "version": "1.2.0",
+  "summary": "Utilities to deal with pep440 versioning",
+  "author": "Maxime Verger",
+  "license": "MIT",
+  "home_page": "https://github.com/m-vdb/pep440-version-utils",
+  "download_filename": "pep440_version_utils-1.2.0.tar.gz",
+  "download_time": "2025-09-24T10:45:46.712615",
+  "package_url": "https://pypi.org/project/pep440-version-utils/"
+}
