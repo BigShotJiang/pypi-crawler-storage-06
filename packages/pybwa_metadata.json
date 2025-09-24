@@ -1,0 +1,11 @@
+{
+  "name": "pybwa",
+  "version": "2.2.0",
+  "summary": "Python bindings for BWA",
+  "author": "Nils Homer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybwa-2.2.0.tar.gz",
+  "download_time": "2025-09-24T22:54:04.882567",
+  "package_url": "https://pypi.org/project/pybwa/"
+}

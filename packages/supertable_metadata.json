@@ -1,11 +1,11 @@
 {
   "name": "supertable",
-  "version": "1.2.23",
+  "version": "1.2.25",
   "summary": "SuperTable revolutionizes data management by integrating multiple basic tables into a single, cohesive framework.",
   "author": "Levente Kupas",
   "license": "Super Table Public Use License (STPUL) v1.0",
   "home_page": null,
-  "download_filename": "supertable-1.2.23.tar.gz",
-  "download_time": "2025-09-24T22:40:20.228597",
+  "download_filename": "supertable-1.2.25.tar.gz",
+  "download_time": "2025-09-24T22:54:02.754294",
   "package_url": "https://pypi.org/project/supertable/"
 }

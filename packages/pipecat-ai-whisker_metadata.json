@@ -1,11 +1,11 @@
 {
   "name": "pipecat-ai-whisker",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "A real-time debugger for Pipecat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipecat_ai_whisker-0.0.8.tar.gz",
-  "download_time": "2025-09-18T19:17:15.885904",
+  "download_filename": "pipecat_ai_whisker-0.0.9.tar.gz",
+  "download_time": "2025-09-24T22:54:38.623460",
   "package_url": "https://pypi.org/project/pipecat-ai-whisker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "msfastpbkdf2",
+  "version": "0.6.0",
+  "summary": "A faster implementation of PBKDF2 with Python 3.12+ support",
+  "author": "Terry Chia",
+  "license": "BSD or Apache License, Version 2.0",
+  "home_page": "https://github.com/Ayrx/python-fastpbkdf2",
+  "download_filename": "msfastpbkdf2-0.6.0.tar.gz",
+  "download_time": "2025-09-24T22:54:13.840571",
+  "package_url": "https://pypi.org/project/msfastpbkdf2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "testcontainers",
+  "version": "4.13.1",
+  "summary": "Python library for throwaway instances of anything that can run in a Docker container",
+  "author": "Sergey Pirogov",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "testcontainers-4.13.1.tar.gz",
+  "download_time": "2025-09-24T22:54:04.310074",
+  "package_url": "https://pypi.org/project/testcontainers/"
+}
