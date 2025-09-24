@@ -1,11 +1,11 @@
 {
   "name": "moneyball",
-  "version": "0.0.234",
+  "version": "0.0.237",
   "summary": "A library for determining what bets to make.",
   "author": "Will Sackfield",
   "license": "MIT",
   "home_page": "https://github.com/8W9aG/moneyball",
-  "download_filename": "moneyball-0.0.234.tar.gz",
-  "download_time": "2025-09-18T20:52:16.146499",
+  "download_filename": "moneyball-0.0.237.tar.gz",
+  "download_time": "2025-09-24T11:54:01.260908",
   "package_url": "https://pypi.org/project/moneyball/"
 }

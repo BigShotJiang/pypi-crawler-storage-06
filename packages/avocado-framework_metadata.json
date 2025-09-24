@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework",
+  "version": "112.0",
+  "summary": "Avocado Test Framework",
+  "author": "Avocado Developers",
+  "license": "GPLv2+",
+  "home_page": "https://avocado-framework.github.io/",
+  "download_filename": "avocado_framework-112.0.tar.gz",
+  "download_time": "2025-09-24T11:54:10.658316",
+  "package_url": "https://pypi.org/project/avocado-framework/"
+}

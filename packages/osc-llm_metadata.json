@@ -1,0 +1,11 @@
+{
+  "name": "osc-llm",
+  "version": "0.1.8",
+  "summary": "轻量级大模型推理工具,专注于模型推理延迟,注重框架易用性和可拓展性。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osc_llm-0.1.8.tar.gz",
+  "download_time": "2025-09-24T11:54:07.572078",
+  "package_url": "https://pypi.org/project/osc-llm/"
+}

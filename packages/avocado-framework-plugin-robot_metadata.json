@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-robot",
+  "version": "112.0",
+  "summary": "Avocado Plugin for Execution of Robot Framework tests",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_robot-112.0.tar.gz",
+  "download_time": "2025-09-24T11:54:05.108397",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-robot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avocado-framework-plugin-varianter-cit",
+  "version": "112.0",
+  "summary": "Varianter with combinatorial capabilities",
+  "author": "Avocado Developers",
+  "license": null,
+  "home_page": "http://avocado-framework.github.io/",
+  "download_filename": "avocado_framework_plugin_varianter_cit-112.0.tar.gz",
+  "download_time": "2025-09-24T11:54:03.914438",
+  "package_url": "https://pypi.org/project/avocado-framework-plugin-varianter-cit/"
+}

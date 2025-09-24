@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-24T11:41:17.197162
-- **Total Packages**: 86
-- **Total Size**: 19.44 MB
+- **Download Time**: 2025-09-24T11:54:49.172068
+- **Total Packages**: 83
+- **Total Size**: 7.22 MB
 
 ## Packages List
+- pionsdk
+- aicodetools
+- cleanote
+- moneyball
+- hgraph
+- avocado-framework-plugin-varianter-yaml-to-mux
+- avocado-framework-plugin-varianter-pict
+- avocado-framework-plugin-varianter-cit
+- avocado-framework-plugin-spawner-remote
+- avocado-framework-plugin-robot
+- avocado-framework-plugin-resultsdb
+- avocado-framework-plugin-result-upload
+- jua
+- osc-llm
+- avocado-framework-plugin-result-mail
+- avocado-framework-plugin-result-html
+- avocado-framework-plugin-golang
+- avocado-framework-plugin-ansible
+- avocado-framework
+- openmetadata-managed-apis
+- oarepo-model
+- aioworldline
+- halerium-utilities
+- sportsfeatures
+- evol-aiq
+- entari-plugin-browser
+- abstract-webtools
+- fabricks
+- mcp-postgresql-ops
+- extralo
+- entari-plugin-server
+- snappi-ixnetwork
+- digimat.mbio
+- supervisely
 - mcp-airflow-api
 - fromager
 - elody
@@ -22,9 +56,6 @@
 - auth-gateway-serverkit
 - ezRay
 - authentik-client
-- cleanote
-- evol-aiq
-- digimat.mbio
 - fractal-task-tools
 - pyiron-base
 - mttf
@@ -58,37 +89,3 @@
 - data-driven-test-input-generator
 - utilskit
 - ride-the-duck
-- myldapsync
-- SICdb-MEDS
-- AIEmailAutomationUtility
-- tai-chat
-- pyinstaller-hooks-contrib
-- zx-rpa
-- unicorn-eval
-- supertable
-- AbstractMemory
-- fabricatio-capabilities
-- fabricatio-core
-- fabricatio
-- fabricatio-typst
-- fabricatio-novel
-- fabricatio-actions
-- fabricatio-tool
-- fabricatio-character
-- Legacy-TL-New
-- satori-python-adapter-onebot11
-- satori-python-adapter-satori
-- satori-python-adapter-console
-- libinephany
-- posttroll
-- hdn-research-environment
-- satori-python-server
-- lifesimmc
-- satori-python-client
-- satori-python-core
-- tb-nightly
-- satori-python
-- harry-test-sdk-mamotion
-- pypaimon-beta
-- apis-acdhch-default-settings
-- simplematchcalc
