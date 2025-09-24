@@ -1,0 +1,11 @@
+{
+  "name": "PyReliMRI",
+  "version": "2.2.3",
+  "summary": "A package for computing reliability of MRI/fMRI images",
+  "author": "Michael Demidenko",
+  "license": "MIT",
+  "home_page": "https://github.com/demidenm/PyReliMRI",
+  "download_filename": "pyrelimri-2.2.3.tar.gz",
+  "download_time": "2025-09-24T17:21:25.130951",
+  "package_url": "https://pypi.org/project/PyReliMRI/"
+}

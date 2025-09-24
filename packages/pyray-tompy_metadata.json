@@ -1,11 +1,11 @@
 {
   "name": "pyray-tompy",
-  "version": "2025.9.17.12.39",
+  "version": "2025.9.24.19.5",
   "summary": "Pyray wrappers for tompy projects",
   "author": "tompy",
   "license": null,
   "home_page": null,
-  "download_filename": "pyray_tompy-2025.9.17.12.39.tar.gz",
-  "download_time": "2025-09-17T10:42:05.070719",
+  "download_filename": "pyray_tompy-2025.9.24.19.5.tar.gz",
+  "download_time": "2025-09-24T17:21:05.818451",
   "package_url": "https://pypi.org/project/pyray-tompy/"
 }

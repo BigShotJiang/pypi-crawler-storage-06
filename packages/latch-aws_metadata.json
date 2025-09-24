@@ -1,0 +1,11 @@
+{
+  "name": "latch-aws",
+  "version": "0.2.8",
+  "summary": "Traced and managed aws resources",
+  "author": null,
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "latch_aws-0.2.8.tar.gz",
+  "download_time": "2025-09-24T17:20:56.341237",
+  "package_url": "https://pypi.org/project/latch-aws/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inkaterm",
+  "version": "1.2.1",
+  "summary": "Convert PNG images to ASCII colored art",
+  "author": "redstar1228",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inkaterm-1.2.1.tar.gz",
+  "download_time": "2025-09-24T17:21:28.070217",
+  "package_url": "https://pypi.org/project/inkaterm/"
+}

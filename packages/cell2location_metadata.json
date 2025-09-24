@@ -1,0 +1,11 @@
+{
+  "name": "cell2location",
+  "version": "0.1.5",
+  "summary": "cell2location: High-throughput spatial mapping of cell types",
+  "author": "Vitalii Kleshchevnikov, Artem Shmatko, Emma Dann, Artem Lomakin, Alexander Aivazidis",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/BayraktarLab/cell2location",
+  "download_filename": "cell2location-0.1.5.tar.gz",
+  "download_time": "2025-09-24T17:21:39.057242",
+  "package_url": "https://pypi.org/project/cell2location/"
+}

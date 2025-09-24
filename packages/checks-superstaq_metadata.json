@@ -1,11 +1,11 @@
 {
   "name": "checks-superstaq",
-  "version": "0.5.50",
+  "version": "0.5.51",
   "summary": "Check script tools for Superstaq.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "checks_superstaq-0.5.50.tar.gz",
-  "download_time": "2025-09-18T20:21:21.942618",
+  "download_filename": "checks_superstaq-0.5.51.tar.gz",
+  "download_time": "2025-09-24T17:21:23.407533",
   "package_url": "https://pypi.org/project/checks-superstaq/"
 }
