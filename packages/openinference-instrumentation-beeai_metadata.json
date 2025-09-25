@@ -1,0 +1,11 @@
+{
+  "name": "openinference-instrumentation-beeai",
+  "version": "0.1.11",
+  "summary": "OpenInference BeeAI Instrumentation",
+  "author": "IBM Corp.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinference_instrumentation_beeai-0.1.11.tar.gz",
+  "download_time": "2025-09-25T03:37:47.404269",
+  "package_url": "https://pypi.org/project/openinference-instrumentation-beeai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adalflow",
+  "version": "1.1.3",
+  "summary": "The Library to Build and Auto-optimize LLM Applications",
+  "author": "Li Yin",
+  "license": "MIT",
+  "home_page": "https://github.com/SylphAI-Inc/AdalFlow",
+  "download_filename": "adalflow-1.1.3.tar.gz",
+  "download_time": "2025-09-25T03:37:44.453129",
+  "package_url": "https://pypi.org/project/adalflow/"
+}

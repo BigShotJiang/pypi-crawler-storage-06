@@ -1,11 +1,11 @@
 {
   "name": "wcommon",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "summary": "常用工具类方法集合",
   "author": "WangJunbo",
   "license": null,
   "home_page": "http://www.hohode.com",
-  "download_filename": "wcommon-2.6.1.tar.gz",
-  "download_time": "2025-09-19T03:33:55.154366",
+  "download_filename": "wcommon-2.6.2.tar.gz",
+  "download_time": "2025-09-25T03:38:04.196508",
   "package_url": "https://pypi.org/project/wcommon/"
 }
