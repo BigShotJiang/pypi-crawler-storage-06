@@ -1,9 +1,8 @@
 {
-  "download_time": "2025-09-25T04:56:48.603345",
+  "download_time": "2025-09-25T05:21:57.967143",
   "total_packages_downloaded": 75,
-  "total_size_mb": 2.09,
+  "total_size_mb": 7.19,
   "packages": [
-    "graph-sitter",
     "nonebot-plugin-fupan",
     "zenx",
     "basitcrypto",
@@ -77,6 +76,7 @@
     "keras-nightly",
     "xync-client",
     "odoo-addon-stock-storage-type",
-    "odoo-addon-product-multi-barcode"
+    "odoo-addon-product-multi-barcode",
+    "moduvent"
   ]
 }
