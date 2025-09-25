@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-tools-agentql",
+  "version": "1.2.0",
+  "summary": "llama-index tools agentql integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_tools_agentql-1.2.0.tar.gz",
+  "download_time": "2025-09-25T15:56:27.729858",
+  "package_url": "https://pypi.org/project/llama-index-tools-agentql/"
+}

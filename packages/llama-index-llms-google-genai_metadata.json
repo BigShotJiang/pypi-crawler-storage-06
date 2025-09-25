@@ -1,11 +1,11 @@
 {
   "name": "llama-index-llms-google-genai",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "llama-index llms google genai integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_index_llms_google_genai-0.6.0.tar.gz",
-  "download_time": "2025-09-24T15:55:43.892825",
+  "download_filename": "llama_index_llms_google_genai-0.6.1.tar.gz",
+  "download_time": "2025-09-25T15:56:36.110129",
   "package_url": "https://pypi.org/project/llama-index-llms-google-genai/"
 }

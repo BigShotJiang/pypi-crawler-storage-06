@@ -1,11 +1,11 @@
 {
   "name": "cybrid-api-organization-python",
-  "version": "0.125.17",
+  "version": "0.125.19",
   "summary": "Cybrid Organization API",
   "author": "Cybrid Support",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Cybrid-app/cybrid-api-organization-python/",
-  "download_filename": "cybrid_api_organization_python-0.125.17.tar.gz",
-  "download_time": "2025-09-24T20:41:52.240895",
+  "download_filename": "cybrid_api_organization_python-0.125.19.tar.gz",
+  "download_time": "2025-09-25T15:56:12.234402",
   "package_url": "https://pypi.org/project/cybrid-api-organization-python/"
 }
