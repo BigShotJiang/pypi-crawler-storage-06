@@ -1,0 +1,11 @@
+{
+  "name": "annif-client",
+  "version": "0.5.0",
+  "summary": "Python client library for accessing Annif REST API",
+  "author": "Osma Suominen",
+  "license": null,
+  "home_page": "https://github.com/NatLibFi/Annif-client",
+  "download_filename": "annif_client-0.5.0.tar.gz",
+  "download_time": "2025-09-25T12:44:53.170089",
+  "package_url": "https://pypi.org/project/annif-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optimpv",
+  "version": "1.4",
+  "summary": "optimPV: Optimization & Modeling tools for PV research",
+  "author": "Vincent M. Le Corre",
+  "license": "GPLv3",
+  "home_page": "https://github.com/openPV-lab/optimPV",
+  "download_filename": "optimpv-1.4.tar.gz",
+  "download_time": "2025-09-25T12:44:18.291041",
+  "package_url": "https://pypi.org/project/optimpv/"
+}

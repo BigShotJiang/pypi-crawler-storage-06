@@ -1,0 +1,11 @@
+{
+  "name": "takucyrpt",
+  "version": "1.0.0",
+  "summary": "A simple and comprehensive text encryption/decryption library",
+  "author": "Tarun Kumar",
+  "license": "MIT",
+  "home_page": "https://github.com/tarun922/takucyrpt",
+  "download_filename": "takucyrpt-1.0.0.tar.gz",
+  "download_time": "2025-09-25T12:44:56.545664",
+  "package_url": "https://pypi.org/project/takucyrpt/"
+}

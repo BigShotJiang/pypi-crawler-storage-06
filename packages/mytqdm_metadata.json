@@ -1,11 +1,11 @@
 {
   "name": "mytqdm",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "summary": "mytqdm is a wrapper around tqdm that allows to see and share your progress on https://mytqdm.app",
   "author": "Jonas Freiknecht",
   "license": "MIT",
   "home_page": "https://github.com/padmalcom/mytqdm",
-  "download_filename": "mytqdm-1.0.6.tar.gz",
-  "download_time": "2025-09-24T23:20:28.644590",
+  "download_filename": "mytqdm-1.0.8.tar.gz",
+  "download_time": "2025-09-25T12:44:29.172550",
   "package_url": "https://pypi.org/project/mytqdm/"
 }

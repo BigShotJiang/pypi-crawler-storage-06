@@ -1,0 +1,11 @@
+{
+  "name": "mymlcore",
+  "version": "1.1.2",
+  "summary": "A high-performance, extensible machine learning library for Python. fastmlcore provides a rich suite of algorithms, preprocessing tools, metrics, and utilities for rapid prototyping and production-grade ML workflows. Designed for clarity, speed, and flexibility, it empowers researchers, engineers, and data scientists to build, evaluate, and deploy models with ease.",
+  "author": "Arnav Barway AKA arnxv",
+  "license": null,
+  "home_page": "https://github.com/arnxv-coder/mymlcore",
+  "download_filename": "mymlcore-1.1.2.tar.gz",
+  "download_time": "2025-09-25T12:44:53.732787",
+  "package_url": "https://pypi.org/project/mymlcore/"
+}

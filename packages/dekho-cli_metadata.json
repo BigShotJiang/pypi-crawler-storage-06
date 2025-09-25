@@ -1,11 +1,11 @@
 {
   "name": "dekho-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "CLI tool to fetch and play sports channels via mpv.",
   "author": "dev1abhi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dekho_cli-1.0.0.tar.gz",
-  "download_time": "2025-09-25T11:42:48.494485",
+  "download_filename": "dekho_cli-1.0.2.tar.gz",
+  "download_time": "2025-09-25T12:44:26.893425",
   "package_url": "https://pypi.org/project/dekho-cli/"
 }

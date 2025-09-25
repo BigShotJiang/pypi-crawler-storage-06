@@ -1,0 +1,11 @@
+{
+  "name": "julep",
+  "version": "2.20.0",
+  "summary": "The official Python library for the julep API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "julep-2.20.0.tar.gz",
+  "download_time": "2025-09-25T12:44:28.035619",
+  "package_url": "https://pypi.org/project/julep/"
+}

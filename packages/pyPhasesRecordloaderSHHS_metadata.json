@@ -1,0 +1,11 @@
+{
+  "name": "pyPhasesRecordloaderSHHS",
+  "version": "0.7.0",
+  "summary": "Adds a record loaders to the pyPhases package",
+  "author": "Franz Ehrlich",
+  "license": null,
+  "home_page": "https://gitlab.com/tud.ibmt.public/pyphases/pyphasesrecordloader/",
+  "download_filename": "pyPhasesRecordloaderSHHS-0.7.0.tar.gz",
+  "download_time": "2025-09-25T12:44:23.437636",
+  "package_url": "https://pypi.org/project/pyPhasesRecordloaderSHHS/"
+}
