@@ -1,11 +1,11 @@
 {
   "name": "gerrit-clone",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A multi-threaded CLI tool for bulk cloning repositories from Gerrit servers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gerrit_clone-0.1.3.tar.gz",
-  "download_time": "2025-09-23T11:18:52.208509",
+  "download_filename": "gerrit_clone-0.1.4.tar.gz",
+  "download_time": "2025-09-25T10:56:55.643065",
   "package_url": "https://pypi.org/project/gerrit-clone/"
 }

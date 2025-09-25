@@ -1,11 +1,11 @@
 {
   "name": "llm-apm",
-  "version": "1.0.1",
+  "version": "1.1.2",
   "summary": "LLM Application Performance Monitoring - Real-time monitoring for LLM-powered applications",
-  "author": "Your Name",
+  "author": "Suhas O",
   "license": null,
   "home_page": "https://github.com/yourusername/llm-apm",
-  "download_filename": "llm_apm-1.0.1.tar.gz",
-  "download_time": "2025-09-25T06:32:50.337750",
+  "download_filename": "llm_apm-1.1.2.tar.gz",
+  "download_time": "2025-09-25T10:56:57.690256",
   "package_url": "https://pypi.org/project/llm-apm/"
 }
