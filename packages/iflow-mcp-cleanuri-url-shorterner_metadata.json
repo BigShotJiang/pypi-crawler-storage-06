@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-cleanuri-url-shorterner",
+  "version": "0.1.1",
+  "summary": "A URL shortener MCP server using CleanURI API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cleanuri_url_shorterner-0.1.1.tar.gz",
+  "download_time": "2025-09-25T06:55:08.539963",
+  "package_url": "https://pypi.org/project/iflow-mcp-cleanuri-url-shorterner/"
+}

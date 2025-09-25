@@ -1,11 +1,11 @@
 {
   "name": "jaf-py",
-  "version": "2.4.6",
+  "version": "2.4.7",
   "summary": "A purely functional agent framework with immutable state and composable tools - Python implementation",
   "author": "JAF Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "jaf_py-2.4.6.tar.gz",
-  "download_time": "2025-09-22T11:40:00.048607",
+  "download_filename": "jaf_py-2.4.7.tar.gz",
+  "download_time": "2025-09-25T06:54:33.306413",
   "package_url": "https://pypi.org/project/jaf-py/"
 }

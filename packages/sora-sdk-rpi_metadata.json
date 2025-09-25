@@ -1,11 +1,11 @@
 {
   "name": "sora-sdk-rpi",
-  "version": "2025.5.0.dev1",
+  "version": "2025.5.0.dev2",
   "summary": "WebRTC SFU Sora Python SDK",
   "author": null,
   "license": null,
   "home_page": "https://github.com/shiguredo/sora-python-sdk",
-  "download_filename": "sora_sdk_rpi-2025.5.0.dev1-cp311-cp311-manylinux_2_35_aarch64.whl",
-  "download_time": "2025-09-25T06:33:07.685160",
+  "download_filename": "sora_sdk_rpi-2025.5.0.dev2-cp311-cp311-manylinux_2_35_aarch64.whl",
+  "download_time": "2025-09-25T06:54:57.881638",
   "package_url": "https://pypi.org/project/sora-sdk-rpi/"
 }

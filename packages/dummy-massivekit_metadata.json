@@ -1,11 +1,11 @@
 {
   "name": "dummy-massivekit",
-  "version": "0.5.1",
+  "version": "0.6.1",
   "summary": "MassiveKit: Declarative framework for APIs, ETL and Microservices with Clean Code and SOLID principles",
   "author": "MassiveDataScope",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dummy_massivekit-0.5.1.tar.gz",
-  "download_time": "2025-09-24T21:41:16.142679",
+  "download_filename": "dummy_massivekit-0.6.1.tar.gz",
+  "download_time": "2025-09-25T06:54:37.064552",
   "package_url": "https://pypi.org/project/dummy-massivekit/"
 }

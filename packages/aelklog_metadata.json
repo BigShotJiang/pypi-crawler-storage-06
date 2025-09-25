@@ -1,0 +1,11 @@
+{
+  "name": "aelklog",
+  "version": "0.1.1",
+  "summary": "A simple logging package that sends logs asynchronously to ELK with customizable fields.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aelklog-0.1.1-py3-none-any.whl",
+  "download_time": "2025-09-25T06:54:58.957878",
+  "package_url": "https://pypi.org/project/aelklog/"
+}
