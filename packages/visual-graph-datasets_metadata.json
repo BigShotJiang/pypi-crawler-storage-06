@@ -1,0 +1,11 @@
+{
+  "name": "visual-graph-datasets",
+  "version": "0.17.0",
+  "summary": "Datasets for the training of graph neural networks (GNNs) and subsequent visualization of attributional explanations of XAI methods",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "visual_graph_datasets-0.17.0.tar.gz",
+  "download_time": "2025-09-25T11:56:06.045542",
+  "package_url": "https://pypi.org/project/visual-graph-datasets/"
+}

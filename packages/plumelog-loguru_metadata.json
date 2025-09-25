@@ -1,0 +1,11 @@
+{
+  "name": "plumelog-loguru",
+  "version": "0.2.0",
+  "summary": "Plumelog集成库，为Loguru提供Redis日志传输功能",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "plumelog_loguru-0.2.0.tar.gz",
+  "download_time": "2025-09-25T11:55:52.855391",
+  "package_url": "https://pypi.org/project/plumelog-loguru/"
+}

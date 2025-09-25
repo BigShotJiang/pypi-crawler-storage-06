@@ -1,11 +1,11 @@
 {
   "name": "xmlstore",
-  "version": "0.9.15",
+  "version": "0.9.16",
   "summary": "Python package for storing typed data in xml",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xmlstore-0.9.15.tar.gz",
-  "download_time": "2025-09-24T10:45:44.043693",
+  "download_filename": "xmlstore-0.9.16.tar.gz",
+  "download_time": "2025-09-25T11:56:04.542866",
   "package_url": "https://pypi.org/project/xmlstore/"
 }

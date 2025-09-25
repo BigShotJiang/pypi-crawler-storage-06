@@ -1,11 +1,11 @@
 {
   "name": "neptune-scale",
-  "version": "0.25.1",
+  "version": "0.27.0",
   "summary": "A minimal client library",
   "author": "neptune.ai",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "neptune_scale-0.25.1.tar.gz",
-  "download_time": "2025-09-24T13:58:22.489015",
+  "download_filename": "neptune_scale-0.27.0.tar.gz",
+  "download_time": "2025-09-25T11:55:56.405486",
   "package_url": "https://pypi.org/project/neptune-scale/"
 }

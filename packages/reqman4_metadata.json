@@ -1,11 +1,11 @@
 {
   "name": "reqman4",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "reqman4 (prototype), command 'rq' ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reqman4-0.4.1.tar.gz",
-  "download_time": "2025-09-23T18:53:04.404208",
+  "download_filename": "reqman4-0.5.0.tar.gz",
+  "download_time": "2025-09-25T11:55:54.687514",
   "package_url": "https://pypi.org/project/reqman4/"
 }

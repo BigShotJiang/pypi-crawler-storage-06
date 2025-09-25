@@ -1,11 +1,11 @@
 {
   "name": "odd-kernel",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Some wrappers for python utilities that are commonly used.",
   "author": "OddKernel",
   "license": null,
   "home_page": "https://github.com/pereradrian/odd-kernel",
-  "download_filename": "odd_kernel-0.1.9.tar.gz",
-  "download_time": "2025-09-19T09:21:55.054368",
+  "download_filename": "odd_kernel-0.1.10.tar.gz",
+  "download_time": "2025-09-25T11:56:20.069189",
   "package_url": "https://pypi.org/project/odd-kernel/"
 }

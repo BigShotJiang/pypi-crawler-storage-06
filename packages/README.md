@@ -1,17 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-25T11:43:24.430220
-- **Total Packages**: 85
-- **Total Size**: 44.29 MB
+- **Download Time**: 2025-09-25T11:56:40.754568
+- **Total Packages**: 84
+- **Total Size**: 29.37 MB
 
 ## Packages List
+- plumelog-loguru
+- orch_serv
+- markdown-flow
+- reqman4
+- qnvip-mcp
+- matrix-synapse
+- neptune-scale
+- nrl-test-data-generator
+- xai-review
+- ExpertOp4Grid
+- djangorestframework-jwt-treet
+- hx-machine-learning-tools
+- withworld
+- cleanote
+- fgo-api-types
+- uipath
+- ethology
+- authentik-client
+- gempy-viewer
+- fdc-shared-kernel
+- xmlstore
+- visual-graph-datasets
+- bookwyrm
+- fhir-cda
+- composio-client
+- respark
+- PySILLS
+- superagent-ai
+- django-jaeger-middleware-plus
+- authentikate
+- django-valkey
+- pytest-bec-e2e
+- bec-server
+- bec-lib
+- bec-ipython-client
+- PiscesORM
+- optifik
+- qrs32lib
+- mathInterval
+- xsuite
+- bd-scan-yocto-via-sbom
+- pdfmcp-tools
+- spec-dev
+- kante
+- dv-pipecat-ai
+- odd-kernel
+- aurora-cycler-manager
 - mxcubeweb
 - etos-test-runner
 - zopyx.ssl-cert-check
 - core-for-ai
 - synthik-client
-- withworld
 - next-gen-ui-testing
 - next-gen-ui-rhds-renderer
 - next-gen-ui-mcp
@@ -26,9 +72,7 @@
 - catch-cap
 - solveig
 - selenium-behave
-- cleanote
 - clanguru
-- authentik-client
 - dekho-cli
 - AnoPrimer
 - langfuse
@@ -46,48 +90,3 @@
 - firewheel
 - dzbanek-langflow
 - matchbox-db
-- idegym-testing
-- OASYS1-Elettra-Extensions
-- torchx-nightly
-- nive
-- polars-genson
-- timetracking
-- mcp-protocol-bridge
-- orchestrator-core
-- beeai-cli
-- beeai-sdk
-- argo-metadata-validator
-- py-consistent-formatter
-- katonic
-- torchft-nightly
-- odoo-addon-delivery-multi-destination
-- pyplaycricket
-- vkbottle
-- oc-validator
-- nvidia-dali-nightly-cuda130
-- ardupilot-methodic-configurator
-- ul-py-tool
-- panel-material-ui
-- xtrack
-- trytoncommunity-edocument-es-facturae
-- odoo-addon-pos-early-receipt-printing
-- finbourne-access-sdk
-- agenticle
-- ComicGUISpider
-- Bible9000
-- blockdevice
-- cloudoll
-- DatabaseCatlogUtility
-- port-ocean
-- deckz
-- pyrox-client
-- groupdocs-parser-cloud
-- pyluaredis
-- apk-patchx
-- cognite-neat
-- javascript
-- cfdp-py
-- odataormpy
-- symmetria
-- ezRay
-- PiscesORM

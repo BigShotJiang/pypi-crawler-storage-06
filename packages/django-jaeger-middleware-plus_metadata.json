@@ -1,11 +1,11 @@
 {
   "name": "django-jaeger-middleware-plus",
-  "version": "0.2.3",
+  "version": "1.0.0",
   "summary": "A Django middleware for distributed tracing with Jaeger",
   "author": "zhaishuaishuai",
   "license": null,
   "home_page": "https://github.com/lcoolcool/django-jaeger-middleware-plus",
-  "download_filename": "django_jaeger_middleware_plus-0.2.3.tar.gz",
-  "download_time": "2025-09-24T10:45:35.707757",
+  "download_filename": "django_jaeger_middleware_plus-1.0.0.tar.gz",
+  "download_time": "2025-09-25T11:56:10.178272",
   "package_url": "https://pypi.org/project/django-jaeger-middleware-plus/"
 }
