@@ -1,11 +1,11 @@
 {
   "name": "basitcrypto",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Simple encryption library (XOR, Caesar)",
   "author": "Al-Junaid",
   "license": null,
   "home_page": "https://github.com/yourusername/basitcrypto",
-  "download_filename": "basitcrypto-0.1.0.tar.gz",
-  "download_time": "2025-09-25T04:46:40.630793",
+  "download_filename": "basitcrypto-0.2.0.tar.gz",
+  "download_time": "2025-09-25T04:56:10.019830",
   "package_url": "https://pypi.org/project/basitcrypto/"
 }
