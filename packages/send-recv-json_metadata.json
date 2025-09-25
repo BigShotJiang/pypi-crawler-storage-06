@@ -1,0 +1,11 @@
+{
+  "name": "send-recv-json",
+  "version": "0.1.0a0",
+  "summary": "Send and receive JSONs over byte streams - sockets, pipes, files, and more - using a universal, length-prefixed binary framing scheme.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "send_recv_json-0.1.0a0.tar.gz",
+  "download_time": "2025-09-25T07:23:47.900139",
+  "package_url": "https://pypi.org/project/send-recv-json/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-ml",
+  "version": "0.1.1",
+  "summary": "A collection of adaptive machine learning algorithms for clustering.",
+  "author": "Andreotti Stefano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_ml-0.1.1.tar.gz",
+  "download_time": "2025-09-25T07:23:51.533031",
+  "package_url": "https://pypi.org/project/adaptive-ml/"
+}

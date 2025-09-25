@@ -1,11 +1,11 @@
 {
   "name": "decorator-framework",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A Python decorator framework for event-driven programming",
-  "author": "Your Name",
+  "author": "YGXB",
   "license": null,
   "home_page": "https://github.com/yourusername/decorator-framework",
-  "download_filename": "decorator_framework-1.0.1-py3-none-any.whl",
-  "download_time": "2025-09-25T06:54:47.107683",
+  "download_filename": "decorator_framework-1.0.3.tar.gz",
+  "download_time": "2025-09-25T07:23:39.030364",
   "package_url": "https://pypi.org/project/decorator-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "qinsilk-scm-openapi-sdk-py",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "summary": "Qinsilk SCM OpenAPI SDK for Python",
   "author": "Qinsilk",
   "license": null,
   "home_page": "https://github.com/qinsilk/qinsilk-starter",
-  "download_filename": "qinsilk_scm_openapi_sdk_py-1.1.4.tar.gz",
-  "download_time": "2025-09-22T08:28:37.699717",
+  "download_filename": "qinsilk_scm_openapi_sdk_py-1.1.6.tar.gz",
+  "download_time": "2025-09-25T07:23:15.178924",
   "package_url": "https://pypi.org/project/qinsilk-scm-openapi-sdk-py/"
 }

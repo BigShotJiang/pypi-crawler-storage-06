@@ -1,11 +1,11 @@
 {
   "name": "protein-turnover",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "protein turnover pipeline",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "protein_turnover-0.6.6.tar.gz",
-  "download_time": "2025-09-25T03:57:24.635294",
+  "download_filename": "protein_turnover-0.6.7.tar.gz",
+  "download_time": "2025-09-25T07:23:43.648365",
   "package_url": "https://pypi.org/project/protein-turnover/"
 }
