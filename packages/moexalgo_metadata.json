@@ -1,0 +1,11 @@
+{
+  "name": "moexalgo",
+  "version": "2.4.1",
+  "summary": "Python lib for MOEX AlgoPack data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moexalgo-2.4.1.tar.gz",
+  "download_time": "2025-09-25T10:23:54.277602",
+  "package_url": "https://pypi.org/project/moexalgo/"
+}

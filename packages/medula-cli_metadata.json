@@ -1,0 +1,11 @@
+{
+  "name": "medula-cli",
+  "version": "1.0.2",
+  "summary": "Command-line interface for Medula AI Agent Platform",
+  "author": "Medula Team",
+  "license": null,
+  "home_page": "https://github.com/Subomi-olagoke/studious-rotary-phone",
+  "download_filename": "medula_cli-1.0.2.tar.gz",
+  "download_time": "2025-09-25T10:23:31.469247",
+  "package_url": "https://pypi.org/project/medula-cli/"
+}

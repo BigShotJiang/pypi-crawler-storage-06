@@ -1,11 +1,11 @@
 {
   "name": "markuplift",
-  "version": "2.1.1",
+  "version": "3.0.0",
   "summary": "A configurable XML and HTML formatter.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markuplift-2.1.1-py3-none-any.whl",
-  "download_time": "2025-09-25T09:23:39.615115",
+  "download_filename": "markuplift-3.0.0-py3-none-any.whl",
+  "download_time": "2025-09-25T10:23:23.412613",
   "package_url": "https://pypi.org/project/markuplift/"
 }

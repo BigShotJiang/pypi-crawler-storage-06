@@ -1,11 +1,11 @@
 {
   "name": "lgtm-ai",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Your AI-powered code review companion",
   "author": "Sergio Castillo Lara",
   "license": null,
   "home_page": null,
-  "download_filename": "lgtm_ai-1.0.1.tar.gz",
-  "download_time": "2025-09-19T09:52:27.153954",
+  "download_filename": "lgtm_ai-1.1.0.tar.gz",
+  "download_time": "2025-09-25T10:23:18.998158",
   "package_url": "https://pypi.org/project/lgtm-ai/"
 }

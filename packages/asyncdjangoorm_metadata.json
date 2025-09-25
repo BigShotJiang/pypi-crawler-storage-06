@@ -1,11 +1,11 @@
 {
   "name": "asyncdjangoorm",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "An asynchronous ORM inspired by Django's ORM, built on top of SQLAlchemy.",
   "author": "Shohruhmirzo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asyncdjangoorm-0.1.4.tar.gz",
-  "download_time": "2025-09-23T10:21:55.928805",
+  "download_filename": "asyncdjangoorm-0.1.5.tar.gz",
+  "download_time": "2025-09-25T10:23:11.903278",
   "package_url": "https://pypi.org/project/asyncdjangoorm/"
 }
