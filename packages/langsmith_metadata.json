@@ -1,11 +1,11 @@
 {
   "name": "langsmith",
-  "version": "0.4.30",
+  "version": "0.4.31",
   "summary": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langsmith-0.4.30.tar.gz",
-  "download_time": "2025-09-22T19:17:39.872731",
+  "download_filename": "langsmith-0.4.31.tar.gz",
+  "download_time": "2025-09-25T04:25:43.139873",
   "package_url": "https://pypi.org/project/langsmith/"
 }

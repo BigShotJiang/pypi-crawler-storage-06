@@ -1,0 +1,11 @@
+{
+  "name": "MySQLX",
+  "version": "2.3.0",
+  "summary": "A thread safe sql executor for MySQL like MyBatis with connection pool. It helps you automatically manage database connections and transactions.",
+  "author": "summy",
+  "license": null,
+  "home_page": "https://gitee.com/summry/mysqlx",
+  "download_filename": "MySQLX-2.3.0.tar.gz",
+  "download_time": "2025-09-25T04:25:50.181440",
+  "package_url": "https://pypi.org/project/MySQLX/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "henosis-cli",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "henosis-cli: Chat client for Henosis server (ships client-executed tool support)",
   "author": "Henosis",
-  "license": "Proprietary",
+  "license": null,
   "home_page": null,
-  "download_filename": "henosis_cli-0.1.0.tar.gz",
-  "download_time": "2025-09-24T20:56:10.965548",
+  "download_filename": "henosis_cli-0.2.1.tar.gz",
+  "download_time": "2025-09-25T04:25:37.548339",
   "package_url": "https://pypi.org/project/henosis-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "qgemm",
+  "version": "0.0.2",
+  "summary": "INT4 quantization tooling and CUDA extension",
+  "author": "qgemm",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "qgemm-0.0.2.tar.gz",
+  "download_time": "2025-09-25T04:25:54.206622",
+  "package_url": "https://pypi.org/project/qgemm/"
+}

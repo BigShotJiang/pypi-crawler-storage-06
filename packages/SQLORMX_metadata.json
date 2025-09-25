@@ -1,0 +1,11 @@
+{
+  "name": "SQLORMX",
+  "version": "0.6.1",
+  "summary": "A easy，single table ORM framework for python. Support MySQL, PostgreSQL, SQLite etc.",
+  "author": "summy",
+  "license": null,
+  "home_page": "https://gitee.com/summry/sqlormx",
+  "download_filename": "SQLORMX-0.6.1.tar.gz",
+  "download_time": "2025-09-25T04:26:00.269098",
+  "package_url": "https://pypi.org/project/SQLORMX/"
+}
