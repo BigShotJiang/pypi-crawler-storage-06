@@ -1,0 +1,11 @@
+{
+  "name": "eztv.py",
+  "version": "2025.9.25",
+  "summary": "Query the EZTV site programmatically",
+  "author": "Jens",
+  "license": "MIT License",
+  "home_page": "https://github.com/jenss1997/eztv-py",
+  "download_filename": "eztv.py-2025.9.25.tar.gz",
+  "download_time": "2025-09-25T06:32:40.599220",
+  "package_url": "https://pypi.org/project/eztv.py/"
+}

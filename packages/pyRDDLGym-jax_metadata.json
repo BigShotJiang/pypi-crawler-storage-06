@@ -1,0 +1,11 @@
+{
+  "name": "pyRDDLGym-jax",
+  "version": "2.8",
+  "summary": "pyRDDLGym-jax: automatic differentiation for solving sequential planning problems in JAX.",
+  "author": "Michael Gimelfarb, Ayal Taitler, Scott Sanner",
+  "license": "MIT License",
+  "home_page": "https://github.com/pyrddlgym-project/pyRDDLGym-jax",
+  "download_filename": "pyrddlgym_jax-2.8.tar.gz",
+  "download_time": "2025-09-25T06:32:32.994867",
+  "package_url": "https://pypi.org/project/pyRDDLGym-jax/"
+}

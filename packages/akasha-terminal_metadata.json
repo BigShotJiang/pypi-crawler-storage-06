@@ -1,0 +1,11 @@
+{
+  "name": "akasha-terminal",
+  "version": "0.9.12",
+  "summary": "document QA(RAG) package using langchain and chromadb",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "akasha_terminal-0.9.12.tar.gz",
+  "download_time": "2025-09-25T06:32:52.430816",
+  "package_url": "https://pypi.org/project/akasha-terminal/"
+}

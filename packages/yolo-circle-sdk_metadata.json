@@ -1,0 +1,11 @@
+{
+  "name": "yolo-circle-sdk",
+  "version": "1.0.0",
+  "summary": "专业的YOLO圆形检测SDK，结合YOLO物体检测和霍夫圆检测",
+  "author": "YOLO Circle SDK Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/yolo-circle-sdk",
+  "download_filename": "yolo_circle_sdk-1.0.0.tar.gz",
+  "download_time": "2025-09-25T06:32:42.762593",
+  "package_url": "https://pypi.org/project/yolo-circle-sdk/"
+}

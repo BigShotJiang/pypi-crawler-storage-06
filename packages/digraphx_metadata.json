@@ -1,0 +1,11 @@
+{
+  "name": "digraphx",
+  "version": "0.2",
+  "summary": "Network Optimization Python Code",
+  "author": "Wai-Shing Luk",
+  "license": "MIT",
+  "home_page": "https://github.com/luk036/digraphx",
+  "download_filename": "digraphx-0.2.tar.gz",
+  "download_time": "2025-09-25T06:32:36.189315",
+  "package_url": "https://pypi.org/project/digraphx/"
+}

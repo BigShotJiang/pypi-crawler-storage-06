@@ -1,0 +1,11 @@
+{
+  "name": "pyRDDLGym",
+  "version": "2.5",
+  "summary": "pyRDDLGym: RDDL automatic generation tool for OpenAI Gym",
+  "author": "Ayal Taitler, Michael Gimelfarb, Scott Sanner, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Jack Liu",
+  "license": "MIT License",
+  "home_page": "https://github.com/pyrddlgym-project/pyRDDLGym",
+  "download_filename": "pyrddlgym-2.5.tar.gz",
+  "download_time": "2025-09-25T06:33:00.344515",
+  "package_url": "https://pypi.org/project/pyRDDLGym/"
+}

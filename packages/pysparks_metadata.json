@@ -1,11 +1,11 @@
 {
   "name": "pysparks",
-  "version": "0.1.0a9",
+  "version": "0.1.1",
   "summary": "Software for Polymerization and Reaction Kinetics Simulations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysparks-0.1.0a9.tar.gz",
-  "download_time": "2025-09-23T22:53:14.116438",
+  "download_filename": "pysparks-0.1.1.tar.gz",
+  "download_time": "2025-09-25T06:32:28.108276",
   "package_url": "https://pypi.org/project/pysparks/"
 }
