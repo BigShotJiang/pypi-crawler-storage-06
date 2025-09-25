@@ -1,0 +1,11 @@
+{
+  "name": "lihil",
+  "version": "0.2.27",
+  "summary": "async python framework offering high level development, low level performance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lihil-0.2.27.tar.gz",
+  "download_time": "2025-09-25T08:50:56.548417",
+  "package_url": "https://pypi.org/project/lihil/"
+}
