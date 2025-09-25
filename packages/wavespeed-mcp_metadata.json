@@ -1,11 +1,11 @@
 {
   "name": "wavespeed-mcp",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "WaveSpeed MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wavespeed_mcp-0.1.26.tar.gz",
-  "download_time": "2025-09-25T03:37:36.390443",
+  "download_filename": "wavespeed_mcp-0.1.27.tar.gz",
+  "download_time": "2025-09-25T03:57:21.853158",
   "package_url": "https://pypi.org/project/wavespeed-mcp/"
 }

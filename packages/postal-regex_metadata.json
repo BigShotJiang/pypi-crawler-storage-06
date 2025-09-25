@@ -1,0 +1,11 @@
+{
+  "name": "postal-regex",
+  "version": "1.0.0",
+  "summary": "Postal code regex validator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "postal_regex-1.0.0.tar.gz",
+  "download_time": "2025-09-25T03:57:05.719825",
+  "package_url": "https://pypi.org/project/postal-regex/"
+}

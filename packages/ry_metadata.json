@@ -1,11 +1,11 @@
 {
   "name": "ry",
-  "version": "0.0.58",
+  "version": "0.0.59",
   "summary": "ry = rust + python",
   "author": null,
   "license": null,
   "home_page": "https://github.com/jessekrubin/ry",
-  "download_filename": "ry-0.0.58.tar.gz",
-  "download_time": "2025-09-19T01:24:28.675062",
+  "download_filename": "ry-0.0.59.tar.gz",
+  "download_time": "2025-09-25T03:57:17.402872",
   "package_url": "https://pypi.org/project/ry/"
 }

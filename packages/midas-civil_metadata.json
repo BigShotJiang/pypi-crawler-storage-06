@@ -1,11 +1,11 @@
 {
   "name": "midas-civil",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "summary": "Python library for MIDAS Civil NX",
   "author": "Sumit Shekhar",
   "license": "MIT",
   "home_page": "https://github.com/MIDASIT-Co-Ltd/midas-civil-python",
-  "download_filename": "midas_civil-1.0.9.tar.gz",
-  "download_time": "2025-09-18T08:25:07.488519",
+  "download_filename": "midas_civil-1.1.0.tar.gz",
+  "download_time": "2025-09-25T03:57:22.392306",
   "package_url": "https://pypi.org/project/midas-civil/"
 }

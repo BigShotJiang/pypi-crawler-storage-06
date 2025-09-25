@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-html-text",
+  "version": "18.0.1.0.0.3",
+  "summary": "Generate excerpts from any HTML field",
+  "author": "=?utf-8?q?Grupo_ESOC_Ingenier=C3=ADa_de_Servicios=2C_Tecnativa=2C_Onestein=2C_Odoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_html_text-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-09-25T03:57:09.032966",
+  "package_url": "https://pypi.org/project/odoo-addon-html-text/"
+}
