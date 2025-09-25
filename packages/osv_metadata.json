@@ -1,11 +1,11 @@
 {
   "name": "osv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Open Source Vulnerabilities library",
   "author": "OSV Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "osv-0.1.1.tar.gz",
-  "download_time": "2025-09-19T05:18:44.888992",
+  "download_filename": "osv-0.1.2.tar.gz",
+  "download_time": "2025-09-25T01:27:35.989797",
   "package_url": "https://pypi.org/project/osv/"
 }

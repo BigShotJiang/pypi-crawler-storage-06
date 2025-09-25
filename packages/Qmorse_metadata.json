@@ -1,11 +1,11 @@
 {
   "name": "Qmorse",
-  "version": "1.1.18",
-  "summary": "A lightweight Morse-like encoder/decoder library for Python",
+  "version": "1.1.19",
+  "summary": "A lightweight Morse-like library for Python",
   "author": "Hobab",
   "license": null,
   "home_page": "https://github.com/amiralihabibzadeh/Qmorse",
-  "download_filename": "qmorse-1.1.18.tar.gz",
-  "download_time": "2025-09-24T23:54:10.422048",
+  "download_filename": "qmorse-1.1.19.tar.gz",
+  "download_time": "2025-09-25T01:27:38.398080",
   "package_url": "https://pypi.org/project/Qmorse/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "labdata",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "summary": "Package to manage data in experimental neuroscience labs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "labdata-0.0.14.tar.gz",
-  "download_time": "2025-09-19T23:52:10.562760",
+  "download_filename": "labdata-0.0.15.tar.gz",
+  "download_time": "2025-09-25T01:27:48.874236",
   "package_url": "https://pypi.org/project/labdata/"
 }

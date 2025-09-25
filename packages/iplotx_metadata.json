@@ -1,11 +1,11 @@
 {
   "name": "iplotx",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "summary": "Plot networkx from igraph and networkx.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iplotx-0.7.0.tar.gz",
-  "download_time": "2025-09-24T07:21:56.749036",
+  "download_filename": "iplotx-0.9.0.tar.gz",
+  "download_time": "2025-09-25T01:28:06.379602",
   "package_url": "https://pypi.org/project/iplotx/"
 }

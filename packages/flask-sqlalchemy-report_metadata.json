@@ -1,0 +1,11 @@
+{
+  "name": "flask-sqlalchemy-report",
+  "version": "0.2.4",
+  "summary": "A useful simple to use tool to turn your sql query into a beautiful report html table",
+  "author": "R.E",
+  "license": "GNU",
+  "home_page": "https://github.com/birddevelper/Flask_SqlAlchemy_Report",
+  "download_filename": "flask_sqlalchemy_report-0.2.4.tar.gz",
+  "download_time": "2025-09-25T01:28:21.558387",
+  "package_url": "https://pypi.org/project/flask-sqlalchemy-report/"
+}

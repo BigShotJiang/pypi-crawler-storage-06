@@ -1,0 +1,11 @@
+{
+  "name": "akris",
+  "version": "1.0.3",
+  "summary": "A pest implementation",
+  "author": "Adam Thorsen",
+  "license": "VPL",
+  "home_page": "http://alethepedia.com/akris",
+  "download_filename": "akris-1.0.3.tar.gz",
+  "download_time": "2025-09-25T01:27:58.230342",
+  "package_url": "https://pypi.org/project/akris/"
+}

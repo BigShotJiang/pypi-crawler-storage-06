@@ -1,0 +1,11 @@
+{
+  "name": "django-query-to-table",
+  "version": "1.1.1",
+  "summary": "A simple to use Django package to turn your queryset and sql query into a beautiful reporting html table",
+  "author": "R.E",
+  "license": "GNU",
+  "home_page": "https://github.com/birddevelper/django-query-to-table",
+  "download_filename": "django_query_to_table-1.1.1.tar.gz",
+  "download_time": "2025-09-25T01:28:05.213081",
+  "package_url": "https://pypi.org/project/django-query-to-table/"
+}

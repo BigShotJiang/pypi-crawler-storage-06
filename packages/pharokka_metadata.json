@@ -1,0 +1,11 @@
+{
+  "name": "pharokka",
+  "version": "1.8.1",
+  "summary": "Fast phage annotation tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pharokka-1.8.1.tar.gz",
+  "download_time": "2025-09-25T01:27:49.554139",
+  "package_url": "https://pypi.org/project/pharokka/"
+}

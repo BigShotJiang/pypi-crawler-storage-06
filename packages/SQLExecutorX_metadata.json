@@ -1,0 +1,11 @@
+{
+  "name": "SQLExecutorX",
+  "version": "1.8.6",
+  "summary": "A easy、simple thread safe sql executor for Python with connection pool. Support MySQL, PostgreSQL, SQLite etc.",
+  "author": "summy",
+  "license": null,
+  "home_page": "https://gitee.com/summry/sqlexecutorx",
+  "download_filename": "SQLExecutorX-1.8.6.tar.gz",
+  "download_time": "2025-09-25T01:27:30.781922",
+  "package_url": "https://pypi.org/project/SQLExecutorX/"
+}

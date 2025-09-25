@@ -1,0 +1,11 @@
+{
+  "name": "alecci",
+  "version": "1.0.0",
+  "summary": "A compiler for the Alecci programming language",
+  "author": "Bryan Ulate",
+  "license": null,
+  "home_page": "https://github.com/citic/alecci",
+  "download_filename": "alecci-1.0.0.tar.gz",
+  "download_time": "2025-09-25T01:27:33.312135",
+  "package_url": "https://pypi.org/project/alecci/"
+}
