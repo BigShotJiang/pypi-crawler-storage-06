@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-25T05:44:41.028848
-- **Total Packages**: 82
-- **Total Size**: 43.46 MB
+- **Download Time**: 2025-09-25T05:55:01.152346
+- **Total Packages**: 84
+- **Total Size**: 15.48 MB
 
 ## Packages List
+- pywasm
+- clusterscope
+- alibabacloude
+- ssscoring
+- authentik-client
+- bdarpack
+- commondao
+- spatialrna
+- datajax
+- maleo-database
+- nextmv
+- akool-streaming-avatar
+- muko
+- pulumi-cloudngfwaws
+- mirage-api
 - pytest-api-framework-alpha
 - prpy
 - pulumi-alicloud
@@ -14,12 +29,10 @@
 - pulumi-azuredevops
 - pulumi-azuread
 - abstract-webtools
-- authentik-client
 - cyclonedx-editor-validator
 - pulumi-cloudamqp
 - abstract-hugpy
 - cobrawap
-- bdarpack
 - logsentinelai
 - rst-previewer
 - maleo-schemas
@@ -77,14 +90,3 @@
 - func-validator
 - renfield
 - microbots
-- open-dataflow-adp
-- avachain
-- mdl-toolkit
-- fastdup
-- clifpy
-- docling-hierarchical-pdf
-- graph-sitter
-- nonebot-plugin-fupan
-- basitcrypto
-- xarm7-ik
-- matridge

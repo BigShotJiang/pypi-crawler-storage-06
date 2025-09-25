@@ -1,0 +1,11 @@
+{
+  "name": "spatialrna",
+  "version": "0.2.0",
+  "summary": "A package for spatial RNA graph data processing and analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spatialrna-0.2.0.tar.gz",
+  "download_time": "2025-09-25T05:54:17.370151",
+  "package_url": "https://pypi.org/project/spatialrna/"
+}

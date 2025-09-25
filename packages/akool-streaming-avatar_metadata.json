@@ -1,0 +1,11 @@
+{
+  "name": "akool-streaming-avatar",
+  "version": "0.1.6",
+  "summary": "Python SDK for Akool Streaming Avatar WebSocket API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "akool_streaming_avatar-0.1.6.tar.gz",
+  "download_time": "2025-09-25T05:54:19.683683",
+  "package_url": "https://pypi.org/project/akool-streaming-avatar/"
+}
