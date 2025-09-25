@@ -1,0 +1,11 @@
+{
+  "name": "contactsoftware-functions",
+  "version": "0.15.0",
+  "summary": "Library for creating Functions for CIM Database Cloud.",
+  "author": "Julian Alberts",
+  "license": "MIT",
+  "home_page": "https://github.com/cslab/functions-sdk-python",
+  "download_filename": "contactsoftware_functions-0.15.0.tar.gz",
+  "download_time": "2025-09-25T09:45:51.342750",
+  "package_url": "https://pypi.org/project/contactsoftware-functions/"
+}

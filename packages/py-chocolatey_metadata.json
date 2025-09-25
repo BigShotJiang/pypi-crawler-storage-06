@@ -1,0 +1,11 @@
+{
+  "name": "py-chocolatey",
+  "version": "0.9.0",
+  "summary": "API for Chocolatey, the Package Manager for Windows.",
+  "author": "Adam Karpierz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_chocolatey-0.9.0.tar.gz",
+  "download_time": "2025-09-25T09:45:49.800054",
+  "package_url": "https://pypi.org/project/py-chocolatey/"
+}

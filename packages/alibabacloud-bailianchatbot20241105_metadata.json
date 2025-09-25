@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-bailianchatbot20241105",
+  "version": "1.0.2",
+  "summary": "Alibaba Cloud BailianChatBot (20241105) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_bailianchatbot20241105-1.0.2.tar.gz",
+  "download_time": "2025-09-25T09:45:46.100142",
+  "package_url": "https://pypi.org/project/alibabacloud-bailianchatbot20241105/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ScraperSage",
+  "version": "1.0.0",
+  "summary": "A comprehensive web scraping and content summarization library with AI-powered features",
+  "author": "Akil",
+  "license": "MIT",
+  "home_page": "https://github.com/akillabs/ScraperSage",
+  "download_filename": "scrapersage-1.0.0.tar.gz",
+  "download_time": "2025-09-25T09:45:35.227652",
+  "package_url": "https://pypi.org/project/ScraperSage/"
+}

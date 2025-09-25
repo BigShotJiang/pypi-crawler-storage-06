@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-bailianchatbot",
+  "version": "1.0.1",
+  "summary": "The bailianchatbot module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-bailianchatbot-1.0.1.tar.gz",
+  "download_time": "2025-09-25T09:45:33.687958",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-bailianchatbot/"
+}
