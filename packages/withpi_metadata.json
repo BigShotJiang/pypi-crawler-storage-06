@@ -1,11 +1,11 @@
 {
   "name": "withpi",
-  "version": "1.75.0",
+  "version": "1.76.1",
   "summary": "The official Python library for the Pi Client API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "withpi-1.75.0.tar.gz",
-  "download_time": "2025-09-19T19:27:05.588674",
+  "download_filename": "withpi-1.76.1.tar.gz",
+  "download_time": "2025-09-25T02:51:08.004530",
   "package_url": "https://pypi.org/project/withpi/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "line-planner",
-  "version": "1.1.3",
-  "summary": "通用航线拐点规划器",
+  "version": "1.1.6",
+  "summary": "SIF航线规划器 - 基于v1.1.0简化版本，专注稳定性和性能",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "line_planner-1.1.3.tar.gz",
-  "download_time": "2025-09-24T03:49:59.730456",
+  "download_filename": "line_planner-1.1.6.tar.gz",
+  "download_time": "2025-09-25T02:51:02.025093",
   "package_url": "https://pypi.org/project/line-planner/"
 }

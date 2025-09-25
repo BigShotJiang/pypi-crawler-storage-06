@@ -1,11 +1,11 @@
 {
   "name": "mcp-framework",
-  "version": "0.1.32",
+  "version": "0.1.34",
   "summary": "一个强大且易用的 MCP (Model Context Protocol) 服务器开发框架",
   "author": "MCP Framework Team",
   "license": "MIT",
   "home_page": "https://github.com/mcpframework/mcp_framework",
-  "download_filename": "mcp_framework-0.1.32.tar.gz",
-  "download_time": "2025-09-24T07:41:47.611989",
+  "download_filename": "mcp_framework-0.1.34.tar.gz",
+  "download_time": "2025-09-25T02:50:41.693284",
   "package_url": "https://pypi.org/project/mcp-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lora-pro-adamw",
+  "version": "0.2.1",
+  "summary": "LoRA-Pro gradient-corrected AdamW optimizer for PyTorch and PEFT",
+  "author": "Daisuke Yamamoto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lora_pro_adamw-0.2.1.tar.gz",
+  "download_time": "2025-09-25T02:50:43.827132",
+  "package_url": "https://pypi.org/project/lora-pro-adamw/"
+}
