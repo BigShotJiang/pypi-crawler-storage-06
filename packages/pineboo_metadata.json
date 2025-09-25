@@ -1,0 +1,11 @@
+{
+  "name": "pineboo",
+  "version": "0.99.94.1",
+  "summary": "ERP replacement for Eneboo written in Python",
+  "author": "David Martínez Martí, José A. Fernández Fernández",
+  "license": null,
+  "home_page": "https://github.com/deavid/pineboo",
+  "download_filename": "pineboo-0.99.94.1.tar.gz",
+  "download_time": "2025-09-25T07:43:39.074570",
+  "package_url": "https://pypi.org/project/pineboo/"
+}

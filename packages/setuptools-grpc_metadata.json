@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-grpc",
+  "version": "1.0.0",
+  "summary": "Plugin for setuptools and grpc / protobuf python module build",
+  "author": "Jan Musílek",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/CZ-NIC/setuptools-grpc",
+  "download_filename": "setuptools_grpc-1.0.0.tar.gz",
+  "download_time": "2025-09-25T07:43:57.097290",
+  "package_url": "https://pypi.org/project/setuptools-grpc/"
+}

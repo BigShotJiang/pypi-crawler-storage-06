@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-xisoul",
+  "version": "0.1.0",
+  "summary": "NoneBot 插件：提供农历黄历信息和实时新闻图片功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_xisoul-0.1.0.tar.gz",
+  "download_time": "2025-09-25T07:43:29.650439",
+  "package_url": "https://pypi.org/project/nonebot-plugin-xisoul/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cf-pve",
+  "version": "0.1.0",
+  "summary": "Cloudflare + Proxmox VE Integration Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cf_pve-0.1.0.tar.gz",
+  "download_time": "2025-09-25T07:43:37.460184",
+  "package_url": "https://pypi.org/project/cf-pve/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stellar-sdk",
+  "version": "13.1.0",
+  "summary": "The Python Stellar SDK library provides APIs to build transactions and connect to Horizon and Stellar RPC server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stellar_sdk-13.1.0.tar.gz",
+  "download_time": "2025-09-25T07:43:44.949521",
+  "package_url": "https://pypi.org/project/stellar-sdk/"
+}
