@@ -1,11 +1,11 @@
 {
   "name": "renfield",
-  "version": "25.9.23",
+  "version": "25.9.24",
   "summary": "Hapless and flawed servant of the not1mm contest logger.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "renfield-25.9.23.tar.gz",
-  "download_time": "2025-09-23T23:53:57.403423",
+  "download_filename": "renfield-25.9.24.tar.gz",
+  "download_time": "2025-09-25T05:44:33.575761",
   "package_url": "https://pypi.org/project/renfield/"
 }

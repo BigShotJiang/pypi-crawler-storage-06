@@ -1,11 +1,11 @@
 {
   "name": "vizlychart",
-  "version": "2.1.1",
-  "summary": "Ultra-high performance visualization library with 4000x speed improvement, GPU acceleration, and professional-quality output",
+  "version": "2.2.0",
+  "summary": "Professional data visualization library with advanced features: 3D plotting, animations, scientific charts, and matplotlib-level control",
   "author": "Infinidatum Corporation",
   "license": "MIT",
   "home_page": "https://github.com/vizly/vizly",
-  "download_filename": "vizlychart-2.1.1.tar.gz",
-  "download_time": "2025-09-25T04:25:46.220083",
+  "download_filename": "vizlychart-2.2.0.tar.gz",
+  "download_time": "2025-09-25T05:44:03.821629",
   "package_url": "https://pypi.org/project/vizlychart/"
 }

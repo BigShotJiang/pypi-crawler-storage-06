@@ -1,0 +1,11 @@
+{
+  "name": "bdarpack",
+  "version": "0.1.8",
+  "summary": "A Python package for tabular synthetic data",
+  "author": "MZ Tan",
+  "license": "MIT",
+  "home_page": "https://biomeddar.github.io/copula-tabular/",
+  "download_filename": "bdarpack-0.1.8.tar.gz",
+  "download_time": "2025-09-25T05:44:00.863938",
+  "package_url": "https://pypi.org/project/bdarpack/"
+}
