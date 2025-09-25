@@ -1,12 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-09-25T04:26:21.403560
-- **Total Packages**: 78
-- **Total Size**: 18.65 MB
+- **Download Time**: 2025-09-25T04:47:13.762496
+- **Total Packages**: 75
+- **Total Size**: 9.55 MB
 
 ## Packages List
 - henosis-cli
+- aiq-platform-api
+- django-nativemojo
+- antsibull-fileutils
+- xero-python
+- deltalake2db
+- func-validator
+- iam-python-sdk
+- cidpaf
+- authentik-client
+- zbWidgetLib
+- finbourne-horizon-sdk
+- when-lang
+- xarm7-ik
+- basitcrypto
+- sapiens-transformers
+- pydzn
+- diglife
+- true-lies-validator
+- wsapto
+- mcp-agent-graph
+- crawlo
+- anc-data
+- autogit
 - robhan-cdk-lib.aws-aps
 - robhan-cdk-lib.aws-grafana
 - chalkpy
@@ -14,20 +37,17 @@
 - litellm-proxy-extras
 - vectorvein
 - roundtable-ai
-- wsapto
 - argorator
 - langsmith
 - smb2-gym
 - pyairports
 - umbi
-- autogit
 - vizlychart
 - snowflake-connector-python-nightly
 - profinder
 - qaip
 - DECIMAL-VAL2
 - MySQLX
-- authentik-client
 - rusty-req
 - greeum
 - lance-ray
@@ -61,26 +81,3 @@
 - odoo-addon-base-sequence-option
 - odoo-addon-auditlog
 - odoo-addon-fetchmail-attach-from-folder
-- odoo-addon-html-text
-- odoo-addon-base-model-restrict-update
-- nothing-less
-- odoo-addon-server-action-logging
-- odoo-addon-fetchmail-notify-error-to-sender
-- odoo-addon-auto-backup
-- odoo-addon-upgrade-analysis
-- odoo-addon-attachment-queue
-- odoo-addon-module-analysis
-- id-recognizer
-- data-intelligence-mcp-server
-- wool
-- mcgt-core
-- ry
-- vtt-builder
-- strands-research-agent
-- aind-analysis-arch-result-access
-- odoo-addons-oca-sale-workflow
-- django-nativemojo
-- neuro-simulator
-- wavespeed-mcp
-- midas-civil
-- arpakitlib
