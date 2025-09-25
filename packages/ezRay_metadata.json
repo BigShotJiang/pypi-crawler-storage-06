@@ -1,11 +1,11 @@
 {
   "name": "ezRay",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "A simple implementation of the ray framework for method agnostic task paralellization.",
   "author": "Bela Vogler",
   "license": "GNU GPLv3",
   "home_page": null,
-  "download_filename": "ezray-1.1.5.tar.gz",
-  "download_time": "2025-09-24T11:40:37.819045",
+  "download_filename": "ezray-1.1.6.tar.gz",
+  "download_time": "2025-09-25T10:47:40.575835",
   "package_url": "https://pypi.org/project/ezRay/"
 }

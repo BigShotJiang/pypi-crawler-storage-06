@@ -1,0 +1,11 @@
+{
+  "name": "tifuun-sensitivity",
+  "version": "0.1.7",
+  "summary": "Sensitivity calculator for TIFUUN",
+  "author": "Arend Moerman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tifuun_sensitivity-0.1.7.tar.gz",
+  "download_time": "2025-09-25T10:47:37.358847",
+  "package_url": "https://pypi.org/project/tifuun-sensitivity/"
+}

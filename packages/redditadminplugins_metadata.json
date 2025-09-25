@@ -1,11 +1,11 @@
 {
   "name": "redditadminplugins",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Miscellaneous custom plugins for redditadmin bot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "redditadminplugins-0.0.2.tar.gz",
-  "download_time": "2025-09-25T10:23:38.273935",
+  "download_filename": "redditadminplugins-0.0.3.tar.gz",
+  "download_time": "2025-09-25T10:47:31.215606",
   "package_url": "https://pypi.org/project/redditadminplugins/"
 }
