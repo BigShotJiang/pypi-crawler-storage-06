@@ -1,0 +1,11 @@
+{
+  "name": "nive",
+  "version": "1.6.8",
+  "summary": "Nive 3 base package",
+  "author": "Nive GmbH",
+  "license": "GPL 3",
+  "home_page": null,
+  "download_filename": "nive-1.6.8.tar.gz",
+  "download_time": "2025-09-25T11:43:00.722528",
+  "package_url": "https://pypi.org/project/nive/"
+}

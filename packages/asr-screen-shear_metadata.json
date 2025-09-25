@@ -1,0 +1,11 @@
+{
+  "name": "asr-screen-shear",
+  "version": "1.1.0",
+  "summary": "Screen sharing package with automatic dependencies",
+  "author": "Aser",
+  "license": "MIT",
+  "home_page": "https://asrbuntu.neocities.org",
+  "download_filename": "asr_screen_shear-1.1.0.tar.gz",
+  "download_time": "2025-09-25T11:42:44.851914",
+  "package_url": "https://pypi.org/project/asr-screen-shear/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deckz",
+  "version": "24.1.2",
+  "summary": "Tool to handle multiple beamer decks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deckz-24.1.2.tar.gz",
+  "download_time": "2025-09-25T11:43:18.164729",
+  "package_url": "https://pypi.org/project/deckz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dzbanek-lfx",
+  "version": "0.1.12",
+  "summary": "Langflow Executor - A lightweight CLI tool for executing and serving Langflow AI flows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dzbanek_lfx-0.1.12-py3-none-any.whl",
+  "download_time": "2025-09-25T11:42:53.615007",
+  "package_url": "https://pypi.org/project/dzbanek-lfx/"
+}

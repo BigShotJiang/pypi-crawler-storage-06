@@ -1,11 +1,11 @@
 {
   "name": "agenticle",
-  "version": "0.1.0",
-  "summary": "A lightweight, event-driven Python framework for building and orchestrating multi-agent systems.",
+  "version": "0.1.1",
+  "summary": "A lightweight, extensible Python framework for building and orchestrating single or multi-agent AI systems. | 一个轻量、可扩展的 Python 框架，用于构建和编排单智能体或多智能体 AI 系统。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agenticle-0.1.0.tar.gz",
-  "download_time": "2025-09-22T14:57:11.748935",
+  "download_filename": "agenticle-0.1.1.tar.gz",
+  "download_time": "2025-09-25T11:43:14.522323",
   "package_url": "https://pypi.org/project/agenticle/"
 }

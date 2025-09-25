@@ -1,0 +1,11 @@
+{
+  "name": "katonic",
+  "version": "6.2.0",
+  "summary": "A Python SDK to seamlessly interact with the Katonic platform, enabling developers to access language and vision models, generate completions, and log requests directly from code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "katonic-6.2.0.tar.gz",
+  "download_time": "2025-09-25T11:43:06.248469",
+  "package_url": "https://pypi.org/project/katonic/"
+}

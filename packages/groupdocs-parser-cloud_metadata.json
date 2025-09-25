@@ -1,0 +1,11 @@
+{
+  "name": "groupdocs-parser-cloud",
+  "version": "25.9",
+  "summary": "GroupDocs.Parser Cloud Python SDK",
+  "author": "GroupDocs",
+  "license": null,
+  "home_page": "http://github.com/groupdocs-parser-cloud/groupdocs-parser-cloud-python",
+  "download_filename": "groupdocs_parser_cloud-25.9.tar.gz",
+  "download_time": "2025-09-25T11:43:19.184770",
+  "package_url": "https://pypi.org/project/groupdocs-parser-cloud/"
+}

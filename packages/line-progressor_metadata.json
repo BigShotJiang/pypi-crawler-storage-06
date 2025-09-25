@@ -1,0 +1,11 @@
+{
+  "name": "line-progressor",
+  "version": "0.1.2",
+  "summary": "Colored one-line progress bar with stdout interception",
+  "author": "František Dvořák",
+  "license": null,
+  "home_page": null,
+  "download_filename": "line_progressor-0.1.2.tar.gz",
+  "download_time": "2025-09-25T11:42:54.189948",
+  "package_url": "https://pypi.org/project/line-progressor/"
+}

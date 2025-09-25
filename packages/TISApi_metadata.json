@@ -1,0 +1,11 @@
+{
+  "name": "TISApi",
+  "version": "0.0.7",
+  "summary": "A library for TIS Control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tisapi-0.0.7.tar.gz",
+  "download_time": "2025-09-25T11:42:55.345013",
+  "package_url": "https://pypi.org/project/TISApi/"
+}

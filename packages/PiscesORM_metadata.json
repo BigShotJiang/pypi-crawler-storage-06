@@ -1,11 +1,11 @@
 {
   "name": "PiscesORM",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A lightweight, easy-used ORM for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piscesorm-0.0.3.tar.gz",
-  "download_time": "2025-09-19T07:19:36.001510",
+  "download_filename": "piscesorm-0.0.4.tar.gz",
+  "download_time": "2025-09-25T11:43:23.929263",
   "package_url": "https://pypi.org/project/PiscesORM/"
 }

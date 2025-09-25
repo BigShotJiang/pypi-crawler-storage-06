@@ -1,0 +1,11 @@
+{
+  "name": "AnoPrimer",
+  "version": "2.0.8",
+  "summary": "A package to design primers in Anopheles gambiae whilst considering genetic variation with malariagen_data",
+  "author": "Sanjay Nagi",
+  "license": "MIT",
+  "home_page": "https://github.com/sanjaynagi/anoprimer",
+  "download_filename": "anoprimer-2.0.8.tar.gz",
+  "download_time": "2025-09-25T11:42:49.007838",
+  "package_url": "https://pypi.org/project/AnoPrimer/"
+}
