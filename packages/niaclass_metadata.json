@@ -1,0 +1,11 @@
+{
+  "name": "niaclass",
+  "version": "0.2.4",
+  "summary": "Python framework for building classifiers using nature-inspired algorithms",
+  "author": "Luka Pečnik",
+  "license": "MIT",
+  "home_page": "https://github.com/firefly-cpp/NiaClass",
+  "download_filename": "niaclass-0.2.4.tar.gz",
+  "download_time": "2025-09-25T11:20:07.531071",
+  "package_url": "https://pypi.org/project/niaclass/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eis-insurance",
-  "version": "1.79.0",
+  "version": "1.80.0",
   "summary": "EMIL InsuranceService",
   "author": "Contact us",
   "license": null,
   "home_page": null,
-  "download_filename": "eis_insurance-1.79.0.tar.gz",
-  "download_time": "2025-09-23T19:18:23.245791",
+  "download_filename": "eis_insurance-1.80.0.tar.gz",
+  "download_time": "2025-09-25T11:19:56.525363",
   "package_url": "https://pypi.org/project/eis-insurance/"
 }

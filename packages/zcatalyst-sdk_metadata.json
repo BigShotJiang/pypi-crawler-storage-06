@@ -1,0 +1,11 @@
+{
+  "name": "zcatalyst-sdk",
+  "version": "1.0.2",
+  "summary": "Zoho Catalyst SDK for Python",
+  "author": "Catalyst by Zoho",
+  "license": "Apache License 2.0",
+  "home_page": "https://catalyst.zoho.com/",
+  "download_filename": "zcatalyst_sdk-1.0.2.tar.gz",
+  "download_time": "2025-09-25T11:19:59.665559",
+  "package_url": "https://pypi.org/project/zcatalyst-sdk/"
+}
