@@ -1,0 +1,11 @@
+{
+  "name": "mqt-ionshuttler",
+  "version": "0.2.0",
+  "summary": "A solver for the shuttling problem in QCCD quantum computers",
+  "author": "Daniel Schoenberger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqt_ionshuttler-0.2.0.tar.gz",
+  "download_time": "2025-09-25T07:55:59.027922",
+  "package_url": "https://pypi.org/project/mqt-ionshuttler/"
+}

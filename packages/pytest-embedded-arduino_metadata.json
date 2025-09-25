@@ -1,11 +1,11 @@
 {
   "name": "pytest-embedded-arduino",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Make pytest-embedded plugin work with Arduino.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_embedded_arduino-2.0.0.tar.gz",
-  "download_time": "2025-09-23T07:42:33.200047",
+  "download_filename": "pytest_embedded_arduino-2.1.0.tar.gz",
+  "download_time": "2025-09-25T07:55:53.865169",
   "package_url": "https://pypi.org/project/pytest-embedded-arduino/"
 }

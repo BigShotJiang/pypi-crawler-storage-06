@@ -1,11 +1,11 @@
 {
   "name": "pyhamsys",
-  "version": "0.71",
+  "version": "0.73",
   "summary": "Some tools for Hamiltonian systems",
   "author": null,
   "license": "BSD-2-Clause",
   "home_page": null,
-  "download_filename": "pyhamsys-0.71.tar.gz",
-  "download_time": "2025-09-17T13:54:11.738877",
+  "download_filename": "pyhamsys-0.73.tar.gz",
+  "download_time": "2025-09-25T07:56:00.253560",
   "package_url": "https://pypi.org/project/pyhamsys/"
 }

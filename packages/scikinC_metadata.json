@@ -1,0 +1,11 @@
+{
+  "name": "scikinC",
+  "version": "0.2.8",
+  "summary": "A converter for scikit learn and keras to hardcoded C function",
+  "author": "Lucio Anderlini",
+  "license": null,
+  "home_page": "https://github.com/landerlini/scikinC",
+  "download_filename": "scikinc-0.2.8.tar.gz",
+  "download_time": "2025-09-25T07:56:10.991720",
+  "package_url": "https://pypi.org/project/scikinC/"
+}
