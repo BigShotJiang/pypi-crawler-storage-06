@@ -1,11 +1,11 @@
 {
   "name": "lace-client",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Lace SDS generator (EU AI Act Article 53 public summary) — online-only CLI",
   "author": "Matthew Hansen",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "lace_client-0.7.2.tar.gz",
-  "download_time": "2025-09-25T07:23:19.255957",
+  "download_filename": "lace_client-0.7.3.tar.gz",
+  "download_time": "2025-09-25T08:29:13.826754",
   "package_url": "https://pypi.org/project/lace-client/"
 }

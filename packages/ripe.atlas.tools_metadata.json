@@ -1,0 +1,11 @@
+{
+  "name": "ripe.atlas.tools",
+  "version": "3.2.0",
+  "summary": "The official command line client for RIPE Atlas",
+  "author": "The RIPE Atlas team",
+  "license": "GPLv3",
+  "home_page": "https://github.com/RIPE-NCC/ripe-atlas-tools",
+  "download_filename": "ripe_atlas_tools-3.2.0-py3-none-any.whl",
+  "download_time": "2025-09-25T08:28:38.047647",
+  "package_url": "https://pypi.org/project/ripe.atlas.tools/"
+}

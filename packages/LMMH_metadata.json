@@ -1,11 +1,11 @@
 {
   "name": "LMMH",
-  "version": "0.1.0",
-  "summary": "👽 LMMH Library - Text Model Training setup dashboard",
-  "author": "LaithALhaware",
+  "version": "0.1.1",
+  "summary": "👽 LMMH - Comprehensive Library of AI",
+  "author": "Laith Madhat M. AL-Haware",
   "license": null,
-  "home_page": "https://github.com/LaithALhaware/LMMH-AI",
-  "download_filename": "lmmh-0.1.0.tar.gz",
-  "download_time": "2025-09-24T09:55:37.374734",
+  "home_page": "https://github.com/LaithALhaware",
+  "download_filename": "lmmh-0.1.1.tar.gz",
+  "download_time": "2025-09-25T08:29:14.351055",
   "package_url": "https://pypi.org/project/LMMH/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dragdrag",
+  "version": "0.1.1",
+  "summary": "局域网文件拖拽上传/下载/删除的Web应用",
+  "author": "你的名字",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dragdrag-0.1.1.tar.gz",
+  "download_time": "2025-09-25T08:29:00.925304",
+  "package_url": "https://pypi.org/project/dragdrag/"
+}

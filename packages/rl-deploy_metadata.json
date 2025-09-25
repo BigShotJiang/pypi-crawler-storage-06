@@ -1,0 +1,11 @@
+{
+  "name": "rl-deploy",
+  "version": "2.4.5.0",
+  "summary": "Deployment tool for ReversingLabs rl-secure project.",
+  "author": "ReversingLabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rl_deploy-2.4.5.0-py2.py3-none-manylinux1_x86_64.whl",
+  "download_time": "2025-09-25T08:28:49.635432",
+  "package_url": "https://pypi.org/project/rl-deploy/"
+}

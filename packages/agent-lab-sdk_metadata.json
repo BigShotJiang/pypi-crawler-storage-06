@@ -1,11 +1,11 @@
 {
   "name": "agent-lab-sdk",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "summary": "SDK для работы с Agent Lab",
   "author": null,
   "license": "Proprietary and Confidential — All Rights Reserved",
   "home_page": null,
-  "download_filename": "agent_lab_sdk-0.1.39.tar.gz",
-  "download_time": "2025-09-22T22:53:05.438325",
+  "download_filename": "agent_lab_sdk-0.1.40.tar.gz",
+  "download_time": "2025-09-25T08:29:20.430590",
   "package_url": "https://pypi.org/project/agent-lab-sdk/"
 }

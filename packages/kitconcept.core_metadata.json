@@ -1,11 +1,11 @@
 {
   "name": "kitconcept.core",
-  "version": "1.0.0a31",
+  "version": "1.0.0b0",
   "summary": "Core setup for kitconcept GmbH distributions built on top of Plone",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kitconcept_core-1.0.0a31.tar.gz",
-  "download_time": "2025-09-25T03:38:03.581781",
+  "download_filename": "kitconcept_core-1.0.0b0.tar.gz",
+  "download_time": "2025-09-25T08:28:31.523392",
   "package_url": "https://pypi.org/project/kitconcept.core/"
 }

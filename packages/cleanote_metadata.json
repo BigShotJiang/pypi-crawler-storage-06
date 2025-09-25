@@ -1,11 +1,11 @@
 {
   "name": "cleanote",
-  "version": "0.0.24",
+  "version": "0.0.26",
   "summary": "CleanNote: preprocessing and harmonization of medical notes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cleanote-0.0.24.tar.gz",
-  "download_time": "2025-09-24T14:20:41.922288",
+  "download_filename": "cleanote-0.0.26.tar.gz",
+  "download_time": "2025-09-25T08:29:11.119798",
   "package_url": "https://pypi.org/project/cleanote/"
 }

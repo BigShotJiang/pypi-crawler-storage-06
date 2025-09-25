@@ -1,0 +1,11 @@
+{
+  "name": "tddr",
+  "version": "0.1.0",
+  "summary": "Deep Learning Practicals as callable functions (cell-wise access)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tddr",
+  "download_filename": "tddr-0.1.0.tar.gz",
+  "download_time": "2025-09-25T08:29:15.611967",
+  "package_url": "https://pypi.org/project/tddr/"
+}

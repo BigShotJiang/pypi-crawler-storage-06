@@ -1,0 +1,11 @@
+{
+  "name": "RosettaPy",
+  "version": "0.2.15",
+  "summary": "A Python utility for wrapping Rosetta command line tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosettapy-0.2.15.tar.gz",
+  "download_time": "2025-09-25T08:29:02.567846",
+  "package_url": "https://pypi.org/project/RosettaPy/"
+}

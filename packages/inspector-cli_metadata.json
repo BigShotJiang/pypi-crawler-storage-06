@@ -1,0 +1,11 @@
+{
+  "name": "inspector-cli",
+  "version": "1.1.0",
+  "summary": "A modular cybersecurity CLI tool for scanning, recon, and malware analysis.",
+  "author": "Aegis Martin",
+  "license": null,
+  "home_page": "https://github.com/bmp-43/INSPECTOR-CLI.git",
+  "download_filename": "inspector_cli-1.1.0.tar.gz",
+  "download_time": "2025-09-25T08:28:45.825714",
+  "package_url": "https://pypi.org/project/inspector-cli/"
+}

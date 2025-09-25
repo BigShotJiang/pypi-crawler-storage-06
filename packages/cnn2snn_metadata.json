@@ -1,0 +1,11 @@
+{
+  "name": "cnn2snn",
+  "version": "2.16.1",
+  "summary": "Keras to Akida CNN Converter",
+  "author": "Johan Mejia",
+  "license": "Apache 2.0",
+  "home_page": "https://doc.brainchipinc.com",
+  "download_filename": "cnn2snn-2.16.1.tar.gz",
+  "download_time": "2025-09-25T08:29:21.467713",
+  "package_url": "https://pypi.org/project/cnn2snn/"
+}

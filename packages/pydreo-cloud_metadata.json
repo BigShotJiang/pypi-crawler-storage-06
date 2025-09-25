@@ -1,0 +1,11 @@
+{
+  "name": "pydreo-cloud",
+  "version": "1.0.0",
+  "summary": "Library to login to Dreo cloud, get device list and device status information.",
+  "author": "Brooke Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/dreo-team/pydreo-cloud",
+  "download_filename": "pydreo_cloud-1.0.0.tar.gz",
+  "download_time": "2025-09-25T08:28:36.421388",
+  "package_url": "https://pypi.org/project/pydreo-cloud/"
+}
