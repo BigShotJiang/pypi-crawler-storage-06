@@ -1,0 +1,11 @@
+{
+  "name": "myqlm-interop",
+  "version": "2.0.0",
+  "summary": "myQLM-interop package",
+  "author": "Atos Quantum Lab",
+  "license": "Atos myQLM EULA",
+  "home_page": null,
+  "download_filename": "myqlm_interop-2.0.0-py3-none-any.whl",
+  "download_time": "2025-09-25T09:23:57.126812",
+  "package_url": "https://pypi.org/project/myqlm-interop/"
+}

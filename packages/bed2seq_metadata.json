@@ -1,0 +1,11 @@
+{
+  "name": "bed2seq",
+  "version": "0.4.0",
+  "summary": "From a BED file, return the sequences according to the genome supplied",
+  "author": "Benoit Guibert",
+  "license": "GPLv3",
+  "home_page": "https://github.com/bio2m/bed2seq",
+  "download_filename": "bed2seq-0.4.0.tar.gz",
+  "download_time": "2025-09-25T09:24:08.572487",
+  "package_url": "https://pypi.org/project/bed2seq/"
+}

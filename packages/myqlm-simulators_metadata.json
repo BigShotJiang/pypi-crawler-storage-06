@@ -1,0 +1,11 @@
+{
+  "name": "myqlm-simulators",
+  "version": "1.10.2",
+  "summary": "myQLM-simulators package",
+  "author": "Atos Quantum Lab",
+  "license": "Atos myQLM EULA",
+  "home_page": "https://atos.net/en/lp/myqlm",
+  "download_filename": "myqlm_simulators-1.10.2-py3-none-any.whl",
+  "download_time": "2025-09-25T09:23:53.552393",
+  "package_url": "https://pypi.org/project/myqlm-simulators/"
+}

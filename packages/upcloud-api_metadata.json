@@ -1,0 +1,11 @@
+{
+  "name": "upcloud-api",
+  "version": "2.9.0",
+  "summary": "UpCloud API Client",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/UpCloudLtd/upcloud-python-api",
+  "download_filename": "upcloud_api-2.9.0.tar.gz",
+  "download_time": "2025-09-25T09:23:32.441298",
+  "package_url": "https://pypi.org/project/upcloud-api/"
+}

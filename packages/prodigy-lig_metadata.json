@@ -1,0 +1,11 @@
+{
+  "name": "prodigy-lig",
+  "version": "1.1.4",
+  "summary": "Calculate protein-small molecule binding affinities.",
+  "author": "BonvinLab",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prodigy_lig-1.1.4.tar.gz",
+  "download_time": "2025-09-25T09:23:57.637760",
+  "package_url": "https://pypi.org/project/prodigy-lig/"
+}

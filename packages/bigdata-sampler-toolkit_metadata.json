@@ -1,0 +1,11 @@
+{
+  "name": "bigdata-sampler-toolkit",
+  "version": "0.1.2",
+  "summary": "A Python package for sampling large datasets like CSV, JSON, Parquet, ORC, and Avro",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bigdata_sampler_toolkit-0.1.2.tar.gz",
+  "download_time": "2025-09-25T09:23:49.412355",
+  "package_url": "https://pypi.org/project/bigdata-sampler-toolkit/"
+}

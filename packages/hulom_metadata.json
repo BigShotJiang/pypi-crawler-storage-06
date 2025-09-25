@@ -1,11 +1,11 @@
 {
   "name": "hulom",
-  "version": "2.1",
+  "version": "3.0",
   "summary": "лол взломай сайт",
   "author": "vova",
   "license": null,
   "home_page": "https://github.com/vova2f/hulom",
-  "download_filename": "hulom-2.1.tar.gz",
-  "download_time": "2025-09-25T08:50:56.025651",
+  "download_filename": "hulom-3.0.tar.gz",
+  "download_time": "2025-09-25T09:23:43.766655",
   "package_url": "https://pypi.org/project/hulom/"
 }

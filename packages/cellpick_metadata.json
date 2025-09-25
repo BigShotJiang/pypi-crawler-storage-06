@@ -1,0 +1,11 @@
+{
+  "name": "cellpick",
+  "version": "0.1.4",
+  "summary": "An interactive cell selection tool for spatial omics",
+  "author": "Lucas Miranda, Paolo Pellizzoni",
+  "license": "BSD3",
+  "home_page": null,
+  "download_filename": "cellpick-0.1.4.tar.gz",
+  "download_time": "2025-09-25T09:23:54.574446",
+  "package_url": "https://pypi.org/project/cellpick/"
+}

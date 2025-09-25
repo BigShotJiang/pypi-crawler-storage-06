@@ -1,11 +1,11 @@
 {
   "name": "cognite-sdk",
-  "version": "7.84.0",
+  "version": "7.85.0",
   "summary": "Cognite Python SDK",
   "author": "Erlend Vollset",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cognite_sdk-7.84.0.tar.gz",
-  "download_time": "2025-09-18T11:15:38.982653",
+  "download_filename": "cognite_sdk-7.85.0.tar.gz",
+  "download_time": "2025-09-25T09:24:06.478166",
   "package_url": "https://pypi.org/project/cognite-sdk/"
 }

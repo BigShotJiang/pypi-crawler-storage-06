@@ -1,11 +1,11 @@
 {
   "name": "GPALexp",
-  "version": "0.1.7",
+  "version": "0.1.8.3",
   "summary": "A package for incorporating Gaussian Process Active Learning (GPAL) in psychology experiments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gpalexp-0.1.7.tar.gz",
-  "download_time": "2025-09-24T03:27:10.448283",
+  "download_filename": "gpalexp-0.1.8.3.tar.gz",
+  "download_time": "2025-09-25T09:23:33.972418",
   "package_url": "https://pypi.org/project/GPALexp/"
 }

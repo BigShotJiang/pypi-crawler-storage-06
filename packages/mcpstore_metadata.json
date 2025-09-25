@@ -1,11 +1,11 @@
 {
   "name": "mcpstore",
-  "version": "1.4.2973",
+  "version": "1.4.2975",
   "summary": "A composable, ready-to-use MCP toolkit for agents and rapid integration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpstore-1.4.2973.tar.gz",
-  "download_time": "2025-09-18T07:38:47.313086",
+  "download_filename": "mcpstore-1.4.2975.tar.gz",
+  "download_time": "2025-09-25T09:23:40.135887",
   "package_url": "https://pypi.org/project/mcpstore/"
 }

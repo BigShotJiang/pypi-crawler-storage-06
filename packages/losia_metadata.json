@@ -1,0 +1,11 @@
+{
+  "name": "losia",
+  "version": "0.1.2",
+  "summary": "An resource-efficient fine-tuning toolkit that tunes model via subnet-structured optimization, localization, and integration.",
+  "author": "Xujia Wang",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/KlozeWang/LoSiA",
+  "download_filename": "losia-0.1.2.tar.gz",
+  "download_time": "2025-09-25T09:23:37.056451",
+  "package_url": "https://pypi.org/project/losia/"
+}

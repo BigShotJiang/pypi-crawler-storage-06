@@ -1,0 +1,11 @@
+{
+  "name": "django-easy-email",
+  "version": "1.0.0",
+  "summary": "A Django extension designed to streamline email management with powerful templates, scheduling, storage, and more.",
+  "author": "Farhad Hossain",
+  "license": "MIT",
+  "home_page": "https://github.com/farhad0085/django-easy-email",
+  "download_filename": "django_easy_email-1.0.0.tar.gz",
+  "download_time": "2025-09-25T09:23:46.332140",
+  "package_url": "https://pypi.org/project/django-easy-email/"
+}
